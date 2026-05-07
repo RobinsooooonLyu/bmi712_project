@@ -1,0 +1,40 @@
+TCGA Pathology Reports
+     Gross       Microscop Diagnosis                      Comme Formatted Path
+     Description ic        Details                        nts   Report
+                 Descripti
+  ID             on
+    Labeled right    Sections       LUNG CARCINOMA               LUNG TISSUE CHECKLIST
+    lower lobe.      show lung in CHECKLIST
+    Received fresh which there 1. Tumor Type:                    Specimen type: Wedge
+    for              is a discrete Adenocarcinoma.               resection, lobectomy
+    intraoperative tumor mass 2. Tumor grade:                    Tumor site: Lung
+    consultation     consisting of Moderately                    Tumor size: 2.6 x 1.8 x
+    is a 7.0 x 3.2 x closely        differentiated.              1.5 cm
+    2.3 cm stapled packed           3. Tumor location:           Histologic type:
+    wedge of lung. malignant        Right lower lobe.            Adenocarcinoma
+    The pleural      neoplastic     4. Tumor size: 2.6           Histologic grade:
+    surface is       glandular      cm.                          Moderately differentiated
+    gray-tan and     structures, 5. Angiolymphatic               Tumor extent: Not
+    smooth with a some of           invasion: No.                specified
+    previous         which          6. Bronchial                 Other tumor nodules: Not
+    incision that    have a         margin: Free of              specified
+    reveals a 2.6 x papillary       tumor.                       Lymph nodes: 0/9 positive
+    1.8 x 1.5        configuratio 7. Pleural                     for metastasis (Subcarinal
+    cm tan           n with         involvement:                 lymph node, right hilar
+    subpleural       overall        Subpleural.                  lymph node, sub 0/9)
+    mass. A portion features of 8. Lymph nodes:                  Lymphatic invasion:
+    is sampled for invasive         0 positive out of 9          Absent
+    frozen section. moderately found, including                  Venous invasion: Absent
+    The              differentiate subpleural lymph              Margins: Uninvolved
+    remaining cut d                 nodes.                       Evidence of neo-adjuvant
+    surfaces are     adenocarcin 9. Size of largest              treatment: Not specified
+    tan to red and oma. No          metastatic deposit:          Additional pathologic
+    spongy with no squamous         Not applicable.              findings: Not specified
+    other lesions    component 10. TNM: T1 N0                    Comments: None
+    noted.           is identified. MX.
+OpenCli Excision Laterali
+nica ID date     ty
+
+
+                 Left-
+                 lower

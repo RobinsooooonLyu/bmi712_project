@@ -1,0 +1,125 @@
+Criteria                                                Y
+                                                                           UUID: 04511030 - B6E2 -46F1- 9389 - 033878257F1F
+Diagnosis Discrepancy
+Primary i nmur Site Discrepancy                                                  TCGA-MP-A4TF-01A-PR
+                                                                                                                        Redacted
+HIPAA Discrepancy
+Prior Malignancy Hstory
+                          _
+                                                                        I I I I I 11111111111111111101111111111111111I I I 1111111111111I I
+Dual/Synchronous P rim
+Case Is Icircle):
+                              Veto.__
+                        k!_ UAUFIED            DiSQUAI IFIED            11111 I I ! Il l l 111 I I I I I I I 111111111 I I I I I I I I 1111111111 I I
+Reviewer Initials                 Date Reviewed:
+                                                                        III IIIIIIl Il iI IIIIIIIIIIIII11I II IIIIIIIIIII11111I11111I11111111
+                                      ;urgical Pathology             Jeb-o =-3
+       Requested By:                                                                                  Nos 8" 4613
+                                                                3,         JUN                       (ab^- e, 34-
+       SLIDE DISPOSITION:
+
+
+       DIAGNOSIS:                                                                                                     /a1,)i.gfl s-
+       G. Lung right upper lobe, lobectomy: Invasive grade 4 (of 4)
+       non-small cell carcinoma most consistent with adenocarcinoma,
+       forming a well-circumscribed, solid 6.2 x 6.0 x 5.7 cm mass.
+       visceral pleural invasion is present. The portion of parietal pleura
+       is not involved. Angiolymphatic invasion is absent. The bronchial
+       margin is negative for tumor (by 3.2 cm). Multiple (8)
+       intrapulmonary peribronchial lymph nodes are negative for tumor.
+       A. Lymph nodes, station 4R set #1, biopsy: Multiple (4) fragments of
+       lymph nodes are negative for tumor.
+       B. Lymph nodes , station 4R set #2, biopsy : Multiple (7) fragments of
+       lymph nodes are negative for tumor.
+       C. Lymph nodes, station 4L, biopsy: A single (1) lymph node is
+       negative for tumor.
+       D. Lymph nodes, station 2R, biopsy: Multiple (14) fragments of lymph
+       nodes are negative for tumor.
+        E. Lymph nodes, station 7 set #1, biopsy: Multiple (8) fragments of
+        lymph nodes are negative for tumor.
+        F. Lymph nodes, station 9R, biopsy' A single (1) lymph node is
+        negative for tumor.
+       H. Lymph nodes, station 7 set #2, biopsy: Multiple (7) fragments of
+       lymph nodes are negative for tumor.
+           [with available surgical material, AJCCpT2bN0 7th edition,
+       This final pathology report is based on the gross/macroscopic
+       examination and frozen section histologic evaluation of the
+       specimen(s). Hematoxylin and Eosin (H&E) permanent sections are
+       reviewed to confirm these findings.. Any substantive changes
+       identified on permanent section review will be reflected in a
+       revised report.
+
+
+
+
+           GROSS DESCRIPTION:
+        A. Received fresh labeled "station 4 right 1 mph node" is a 1.1 x
+        0.9 x 0.4 cm aggregate of lymphatic tissue which is all submitted.
+        Grossed by
+           B. Received fresh labeled "station 4 right lymph node (set 2)" is a
+           0.2 x 0.2 x 0.1 cm aggregate of lymphatic tissue which is all
+           submitted. Grossed by
+           C. Received fresh labeled "station 4 left lymph node" is a 0.6 x 0.4
+           x 0.3 cm aggregate of lymphatic tissue which is all submitted.
+           Grossed by
+           D. Received fresh labeled "station 2 right 1 mph node" is a 0.3 x
+           0.3 x 0.2 cm aggregate of lymphatic tissue which is all submitted.
+Grossed by
+E. Received fresh labeled " station 7 l ymph node " is a 0.3 x 0.2 x
+0.1 cm aggregate of lymphatic tissue which is all submitted.
+Grossed by
+F. Received fresh labeled " station 9 right 1 mph node " is a 0.4 x
+03. x 02. cm aggregate of lymphatic tissue which is all submitted.
+Grossed by
+G. Received fresh labeled "right upper lobe lung" is a 265.0 gram
+lobectomy with a 2.2 x 1.7 x 0.4 cm portion of adhered parietal
+pleura. There is a 6.2 x 6.0 x 5.7 cm well-circumscribed, solid,
+necrotic mass located peripherally, 3.2 cm from the shaved bronchial
+margin . The mass extends to the parietal pleura and umbilicates the
+visceral pleura which is inked and submitted perpencidularly.
+Multiple intrapulmonary peribronchial lymph nodes are identified.
+Representative sections are submitted . Grossed by
+H. Received fresh labeled "station 7 l ymph nodes " is a 0 . 3 x 0.3 x
+0.2 cmaggregate
+      d         of lymphatic tissue which is all submitted.
+Grosse by
+BLOCK SUMMARY:
+Part A: station 4 right lymph node
+   1 Rt lower paratracheal Ln
+Part B: Station 4 right lymph node set 2
+   1 Rt lower paratracheal set 2
+Part C: station 4 left lymph node
+   1 Lt lower paratracheal LN
+Part D: Station 2 right lymph node
+   1 Rt upper paratracheal LN(D1)
+Part E: station 7 lym h node
+   1 Subcarinal LN (El)
+
+Part F: station 9 right lymph node
+   1 Pulmonary ligament LN
+
+Part G: Right upper lobe lung
+   1 Rt bronchial margin
+   2 Peribronchial LN 1(G1)
+   3 Peribronchial LN 3(G2)
+   4 Peribronchial LN1o 3(G3)
+   5 Peribronchial LN2of3(G3)
+   6 Peribronchial LN3of3(G3)
+   7 Rt upper lobe mass 1
+   8 Rt upper lobe mass 1
+   9 Rt upper lobe mass 2
+   10 Rt upper lobe mass 3
+   11 Peribronchial LN 2 (G4)
+   12 Peribronchial LN 2 (G5)
+   13 Rt upper lobe mass 4
+                 nn ra _Inz
+
+   15 Rt upper lobe mass 6
+   16 Rt upper lobe mass 7
+   17 Rt upper lobe mass 8
+   18 Normal Rt lung
+Part H: station 7 lymph nodes
+   1 Subcarinal LN 1(H1)
+   2 Subcarinal LN 4(H2)
+   3 subcarinal LN 1(H3)
+   4 subcarinal LN 1(H4)

@@ -1,0 +1,201 @@
+SURGICAL PATHOLOGY:
+
+PROCEDURE DATE:          RECEIVED DATE:          REPORT DATE:
+
+
+
+COPY TO:
+
+
+
+10 Consultation
+                                                                   low                    ower
+FS DIAGNOSIS:
+#1: "No neoplasm consistent with organizing neumoniar" reported to                           1-12-r2
+Dr.            positive patient 10, by Dr.
+Campus.
+#2: "Adenocarcinoma" reported to Dr.            positive patient
+ID, by Dr.,4,
+
+Pre-Op Diagnosis
+Right lower and upper lobe mass
+Post-Op Diagnosis
+Same as above
+Clinical History
+Nothing indicated
+Gross Description:
+Five parts
+
+Container labeled '                     I - right lower lobe wedge #1"
+is a previously sectioned wedge shaped portion of recognizable
+pulmonary parenchyma with a closed staple line as the margin of
+resection. The specimen as received weighs 4.3 grams and on
+reconstruction measures approximately 4.5 x 1,6 x 1.4 cm. The
+pleura is wrinkled gray red. The cut surface is rubbery to spongy
+and pink red without discrete gross mass lesion . The portion
+submitted for frozen section is reported as "nn neoplasm consistent
+with organizing pneumonia[` reported to       ____.__. positive
+patient ID, by       IS The frozen residue is submitted labeled
+A. The remaining tissue is sectioned and submitted labeled B-D.
+
+Container labeled '                     2 - right lower lobe wedge #2"
+is a previously sectioned partially fragmented wedge shaped portion
+of recognizable pulmonary parenchyma weighing as received 22 grams
+and on reconstruction measures approximately 5.7 x 4.2 x 3.0 cm.
+the closed staple line is the margin of resection. The pleura is
+
+
+
+
+                                                                               :rfteriu
+                                                                               )iignosis Discrepancy
+                                                                                                                                 ` Yes.   I   I No   1
+
+                                                                               3ritnar y Tuinor Site Disc.epancy
+                                                                               IIPSA Discrepancy
+                                                                               'rioi Maiignar ry i.,tory
+                                                                               )uat/Synchronous prmary N,
+                                                                               :tse 6                               /   GlSQUAI TIED
+                                                                               ievie                               sewed:   /7
+
+
+
+
+                                                                           UUID: 25E84F93-E9AF-4A09 - 83A9-86C5AC80BD4A
+                                                                                 TCGA-55-A4DF-01A-PR                Redacted
+
+                                                                         III IIIIIIIIIIIIIIIILIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                                                                         III 1111111 II 11111111111lllllllIIIIIIII I^IIIIIIIIIIIIIIIIIIIII
+                                                                         III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIII
+wrinkled gray pink with an eccentric 2.5 x 2.5 cm plaque like area
+of tan gray discoloration and urnbilication noted 0.8 cm from the
+nearest staple line margin . This is sectioned to reveal a well
+defined lobulated gritty gray tan fibrotic lesion with focally
+anthracotic gritty gray tan fibrotic cut surface measuring 2.7 x 2.5
+x 2.0 cm. This grossly extends to but not through the pleura. The
+remaining parenchyma is spongy and pink red. The portion submitted
+for frozen section is reported as "adenocarcinoma " reported to Dr.
+              ositive patient ID, by Dr.J        In addition, there
+are three tissue cassettes within the specimen container labeled
+                        The frozen residue is submitted labeled A. The
+ remaining lesion and surrounding tissue is submitted labeled B-H.
+ Representative remaining parenchyma is submitted labeled I-J.
+
+ Container labeled'                        3 - right upper lobe wedge"
+ has a 15 gram wedge shaped portion of recognizable pulmonary
+ parenchyma with a closed staple line as the margin of resection.
+ The specimen is 6.0 x 3.0 x 2.1 cm. The pleura is slightly wrinkled
+ pink red with marked anthracotic streaking and a few areas of
+ apparent plaque like thickening up to 0.8 cm which are poorly
+ defined. On sectioning in the central portion of the specimen there
+ is an intraparenchymal 1.0 x 0.9 x 0.7 cm lobulated gray tan
+ fibrotic nodular lesion noted 0 . 4 cm from the nearest staple line
+ margin. This has a gritty gray tan fibrotic cut surface. The
+ remaining parenchyma is spongy congested and markedly anthracotic
+ streaked with moderate honeycombing. The specimen is step sectioned
+ and entirely submitted in 10 cassettes.
+
+ Container labeled'4 - level 4 lymph node" are
+ 1.6 x 1.0 x 0.3 cm of gray brown to black fleshy tissue fragments
+ which are entirely submitted in a single cassette.
+
+  Container labeled '                      5 - level 7 lymph node" are
+  4.0 x 2.2 x 1.1 cm partially fragmented lobulated portion of fleshy
+  gray black tissue with a slightly mottled fleshy gray black cut
+  surface. This is received along with 1.2 x 0.9 x 0.4 cm of similar
+  irregular tissue fragments . The largest portion is sectioned and
+  submitted labeled A-E while the smaller portion is entirely
+  submitted labeled F.
+
+  IM
+  Microscopic Description:
+  Sections of specimen #2 show a large cell malignant neoplasm that in
+  areas shows prominent gland formation. These glandular area blend
+  into more solid nests of neoplastic cells. These are supported by a
+  dense fibrous stroma and alternate with areas of necrosis. The
+  neoplasm extends into the pleural but not onto the pleural surface.
+
+
+  Sections of the neoplasm within the right upper lobe specimen #3
+  show a large cell malignant neoplasm with a distinctly different
+  growth pattern. In this neoplasm the cells form sheets that have
+  irregular borders. The cells have a moderate amount of eosinophilic
+  cytoplasm and enlarged pleomorphic nuclei.
+
+   Sections of the lymph node specimens show no areas of metastatic
+   carcinoma.
+
+   lmmunohistochemical stains are performed on the neoplasm in the
+   right lower lobe specimen and right upper lobe specimen. The right
+  lower lobe specimen shows the neoplasm to be positive for CK7 and
+  negative for CK20 . Some of the cells are strongly positive for
+  TTF1. These are in the more glandular areas . The more solid areas
+  are negative for this marker. The more solid areas do express
+  positivity for CDX-2 where the glandular areas tend to be negative
+  for this marker. The cells are negative for p63 . This staining
+  pattern would support this being an adenocarcinoma of pulmonary
+  origin. It is unclear why some of the cells mark with the
+  colorectal marker CDX-2. This same panel performed on the right
+  upper lobe specimen show the neoplastic cells to be negative for
+  both CK7 and CK20. The cells are negative for CDX-2 and TTF1. The
+  cells are strongly positive for p63 . This staining pattern would
+  support this being a squamous carcinoma that is very poorly
+  differentiated . The immunohistochemical control slides stain
+  appropriately.
+
+ Final Diagnosis
+ Right lung lower lobe wedge biopsy #1 with frozen section:
+  Negative for carcinoma.
+ Alveolar changes focally with pneumocyte hyperplasia consistent
+ with organizing pneumonia
+  and atelectasis.
+ Frozen section diagnosis is confirmed.
+ Lung , right lower lobe wedge biopsy #2 with frozen section:
+ Tumor characteristics:
+  Histologic type : Adenocarcinoma.
+  Histologic grade : Poorly differentiated.
+  Tumor size: 2 . 7 x 2.5 x 2.0 cm.
+  Tumor focality: Single focus of right lower lobe.
+  Visceral pleural invasion : Yes (PLI).
+  Lymphovascular space invasion : Not identified,
+  Tumor extension : Not identified.
+   Treatment effect Not identified.
+  Surgical margin status:
+   Tumor distance from bronchial margin : Not applicable.
+  Tumor distance from stapled margin : 0.8 cm.
+  Lymph node status:
+  See specimens four and five.
+ Lung , right upper lobe, wedge biopsy:
+  Histologic type: Poorly differentiated squamous carcinoma (see
+ above comments).
+  Histologic grade : Poorly differentiated.
+  Tumor site: Right upper lobe.
+  Tumor focality : Right upper lobe, single focus
+  Tumor size: 1 . 0 x 0.9 x 0.7 cm.
+  Visceral pleural invasion : Not identified.
+  Lymphovascular space invasion: No.
+  Tumor extension: No.
+  Treatment effect : Not identified.
+ Surgical margin status:
+  Tumor distance from bronchial margin: Not applicable.
+  Tumor distance from parenchymal stapled margin : 0.4 cm.
+  Tumor distance from pleural surface : 0.8 cm ( as measured on
+histologic sections).
+ Lymph node status:
+  See specimens four and five.
+Lymph node level 4 , excisional biopsy:
+ Negative for tumor (0/1).
+Lymph node level 7 , excisional biopsy:
+ Negative for tumor (O/1).
+Pathology stage:
+Comments
+The tumor morphology present in specimen three shows focal areas
+with morphology compatible with a poorly differentiated
+adenocarcinoma. The possibility of focal squamous differentiation
+cannot be completely excluded.
+
+This report has been finalized at the
+
+
+
+<Sign out Or. Signatures

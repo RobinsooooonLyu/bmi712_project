@@ -1,0 +1,99 @@
+UUID: 3F92B4C0 - ED5F-486D -A751-
+                           TCGA-44-A47A-01A-PR
+                                                                        730136B1D9A8
+                                                                                        Redacted          C D-o-3
+              III II IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIll                       Gt c..r-c.rl tx-a r c i noo- ,1JCi
+              I I I I I I I I I I I I I I I I I I I I I f i li l I I I I I I I t I I I l Ii i 1 1111111
+              I I 11111 I I I I I I I I I I I 1111111 11111 I 11111 111111 11111111 I I                                    vqOJ3
+ Procedure:
+                               Final Surgical Pathology Report
+                                                                                                              -,
+                                                                                                          5 i4<
+
+ Diagnosis
+                                                                                                                   i
+ A. Lung, right upper lobe, resection: Moderately differentiated
+ adenocarcinoma
+
+ B. Lymph nodes, R4, biopsy: There is no evidence of malignancy in any
+ of 4 lymph nodes.
+ C. Lymph nodes, level X, biopsy: There is no evidence of malignancy in
+ either of 2 lymph nodes.
+ D. Lymph nodes, level VII, biopsy: There is no evidence of malignancy
+ in any of 6 lymph nodes.
+
+ Microscopic Description:
+ A.
+Histologic type: Adenocarcinoma
+Histologic grade:    2 of 3
+Mitotic index: 4 Mitoses/10 HPFs (1 HPF = 0.23 sq. mm)
+Tumor size: 3.7 cm
+Bronchial resection margin:     Negative for malignancy
+Pulmonary margin of resection: Negative for malignancy
+Pleura:   Negative for malignancy
+Vascular invasion:    Absent
+Attached lymph nodes:    Two lymph nodes, negative for malignancy
+pTNM stage:   T2a NO
+Non-tumorous lung:    Emphysema
+
+There is a portion of the tumor with a more solid appearance (A6), but
+the immunohistochemical staining pattern is compatible with
+adenocarcinoma.
+
+   Antibody... Results... Comment
+         -------------------------------------------------------
+   TTF-l ...Positive
+   CK5/6 ...Negative
+   .p63 ...Weakly positive
+   ------------------------------------------------------------
+   Paraffin sections; 10% neutral buffered formalin; Controls-stain
+appropriately.
+
+   (A few of the antibodies used in our laboratory may be classified as
+analyte specific reagents.
+   These antibodies are monitored and controlled in our laboratory and
+their performance for
+    in vitro diagnosis is well described in the medical literature.
+They have not been cleared
+   or approved by the FDA.]
+
+Specimen
+A. Right upper lobe
+B. R4 lymph node
+C. Level X node
+D. Level VII lymph node
+
+
+Clinical Information
+Lung cancer
+Gross Description
+A. The specimen is received unfixed labeled right upper lobe and
+consists of a 174 g lung lobe measuring 13.5 by 10 by 4 cm. There is a
+stapled margin on one side of the specimen. There is a palpable mass at
+one pole the specimen.On cut section the mass measures 3.7 by 3.5 cm in
+greatest cross sectional dimension. A portion of the specimen is taken
+for research purposes. Sections after fixation. RS11
+
+B. The specimen is received unfixed labeled R4 lymph node and consists
+of 3 pieces of black soft tissue measuring 1.5, 0.6 and 0.5 cm in
+greatest dimension. AS-1
+
+Specimen C. is received unfixed labeled level 10 node and consists of 5
+pieces of tan and black soft tissue occupying approximately 1.5 mL in
+volume. AS-1
+
+Specimen D. is received unfixed labeled level 7 lymph node and consists
+of 4 pieces of black soft tissue measuring 1.4 cm in greatest aggregate
+dimension. AS-1
+
+
+
+
+                                                                     rite6a.
+                                                                          osis Discrepancy
+                                                                     rimary    urnor Site Discrepancy
+                                                                    !IPAA Discrepancy
+                                                                     nor Malignancy History
+                                                                    ",al/Synchronous
+                                                                    ase is (circle):
+                                                                    reviewer Initia

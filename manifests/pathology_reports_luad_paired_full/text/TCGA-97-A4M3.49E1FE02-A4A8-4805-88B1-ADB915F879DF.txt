@@ -1,0 +1,435 @@
+UUID: 49E1FE02 - A4A8 - 4805-SSBI - ADB915F879DF
+                                                                          TCGA-97-A4M3-01A-PR                    Redacted
+                                                                 III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIiit111111111l111
+                                                                 III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII 111111
+                                                                 III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHhIIIII
+
+
+
+
+                                                        /CA- 0-3
+
+
+SURGICAL PATHOLOGY REPORT                       5'i -f4 -- iL/Nj, 14ppod     lA.'- &3 L,/
+COLLECTION DATE:
+
+SPECIMENS:
+1. F/S APICAL BIOPSY
+2. F/S APICAL SEGMENT OF RIGHT UPPER LOBE
+3. 5TH RIB, RIGHT
+4. RIGHT LEVEL 10 LYMPH NODE
+5. RIGHT LEVEL 4 LYMPH NODE
+6. RIGHT LEVEL 7 LYMPH NODE
+SEE ADDENDUM
+
+
+Reason For Addendum # 1: Molecular Studies
+Reason For Addendum #2: Molecular Studies
+Reason For Addendum #3: Molecular Studies
+Reason For Addendum #4: Biomarker Report
+
+DIAGNOSIS:
+
+1. LUNG, RIGHT UPPER LOBE, APEX: BIOPSY
+- ADENOCARCINOMA WITH PAPILLARY AND MICROPAPILLARY PATTERNS.
+
+2. LUNG, RIGHT UPPER LOBE , APICAL SEGMENT : SEGMENTECTOMY
+- ADENOCARCINOMA, LEPIDIC PREDOMINANT (2.9 CM ), SEE NOTE.
+- THE BRONCHIAL AND VASCULAR MARGINS ARE FREE OF TUMOR.
+- SUBPLEURAL FIBROELASTOTIC SCAR, CONSISTENT WITH APICAL CAP.
+
+Note : The tumor consists of lepidic (40%), acinar (30%), papillary
+(20%) and micropapillary ( 10%) components and measures 2.9 cm in
+greatest dimension microscopically . Results of molecular studies
+will be reported in addenda.
+
+3. RIB, RIGHT 5TH: EXCISION
+- BONE AND BONE MARROW WITH TRILINEAGE HEMATOPOESIS.
+4. LYMPH NODE, RIGHT LEVEL 10: BIOPSY
+- THREE BENIGN LYMPH NODES (0/3).
+
+5. LYMPH NODE , RIGHT LEVEL 4: BIOPSY
+- FOUR BENIGN LYMPH NODES (0/4).
+6. LYMPH NODE, RIGHT LEVEL 7: BIOPSY
+- FIVE BENIGN LYMPH NODES (0/5).
+
+
+Specimens : 1: F/S APICAL BIOPSY
+2: F/S APICAL SEGMENT OF RIGHT UPPER LOBE
+3:5TH RIB, RIGHT
+4: RIGHT LEVEL 10 LYMPH NODE
+5: RIGHT LEVEL 4 LYMPH NODE
+6: RIGHT LEVEL 7 LYMPH NODE
+
+LUNG: Resection
+SPECIMEN
+Specimen : Lobe(s) of lung (specify)
+right upper
+Procedure: Segmentectomy
+Specimen Laterality: Right
+Tumor Site : Upper lobe
+Tumor Focality: Unifocal
+TUMOR
+Histologic Type: Adenocarcinoma, mixed subtype
+Histologic Grade : Gi: Well differentiated
+EXTENT
+Tumor Size: Greatest dimension (cm)
+2.9cm
+Visceral Pleura Invasion: Not identified
+MARGINS
+Bronchial Margin
+Bronchial Margin Involvement by Invasive Carcinoma : Uninvolved by
+invasive carcinoma
+Vascular Margin : Uninvolved by invasive carcinoma
+ACCESSORY FINDINGS
+Lymph-Vascular Invasion : Not identified
+STAGE (pTNM)
+Primary Tumor (pT):
+pTlb: Tumor greater than 2 cm, but 3 cm or less in greatest
+dimension, surrounded by lung or visceral pleura , without
+bronchoscopic evidence of invasion more proximal than the lobar
+bronchus (i.e., not in the main bronchus)
+Regional Lymph Nodes (pN)
+pNO: No regional lymph node metastasis
+Distant Metastases (pM): Not applicable
+
+
+Pathologist
+
+CLINICAL HISTORY AND PRE - OPERATIVE DIAGNOSIS:
+   F ex-smoker (35-40 pack -years) with a LUL adenocarcinoma, a 2.3 cm
+RUL mixed solid and ground-glass nodule and multiple additional
+bilateral lung nodules.
+
+MACROSCOPIC DESCRIPTION:
+The specimen is received in six parts, each labeled with the
+patient's name.
+
+1. Part one is received fresh, labeled 'apical biopsy'. It consists
+of one piece of tan-pink soft tissue measuring 0.7 x 0.4 x 0.3 cm.
+Entirely submitted in one cassette.
+
+2. Part two is received in saline, labeled ' apical segment of right
+upper lobe (stitch on bronchial margin)'. It consists of a 48 grams
+segmentectomy specimen measuring 9 x 5.5 x 1.5 cm. The specimen has
+a stapled margin which spans the length of the specimen. The
+bronchial margin has a suture and it measures 0.5 cm in length. The
+specimen is serially sectioned to reveal a tan-yellow nodule
+measuring 1.2 x 1 x 0.4 cm. The pleural surface overlying the
+nodule is inked black. The stapled line is inked blue. The
+remaining lung parenchyma has a tan-red appearance. There is also a
+0.4 cm firm area seen away from the main tumor. Representative
+sections submitted.
+
+3. Part three is received in formalin , labeled '5th rib, right '.
+It consists of one segment of rib measuring 1.4 x 1.3 x 0.6 cm. A
+representative section is placed in decalcifying solution and then
+submitted.
+
+4. Part four is received in saline, labeled ' right level 10 lymph
+node'. It consists of multiple pieces of tan soft tissue measuring
+1.1 x 1 x 0.5 cm in aggregate. The specimen is submitted entirely.
+
+5. Part five is received in saline, labeled 'right level 4 lymph
+node'. It consists of multiple pieces of yellow fatty tissue
+measuring 1.7 x 1.6 x 0.7 cm. Multiple possible lymph nodes are
+identified, largest of which measures 0.7 cm in greatest dimension.
+The specimen is submitted entirely.
+6. Part six is received in saline, labeled 'right level 7 lymph node
+'. It consists of multiple pieces of tan soft tissue measuring 1.2
+x 0.7 x 0.5 cm in aggregate. The specimen is submitted entirely.
+
+
+
+
+SUMMARY OF SECTIONS:
+1 A entirely submitted
+2A froze section control, bronchial margin
+2B vascular margin
+2C tumor to pleura
+2D-2E sections of tumor
+2F tumor to stapled blue margin
+2G-2H lung parenchyma adjacent to tumor
+21 firm area grossly away from tumor
+3A representative
+4A in toto
+5A lymph node, bisected
+5B remainder of specimen
+6A in toto
+
+SPECIAL PROCEDURES:
+
+
+INTRA - OPERATIVE CONSULTATION:
+
+1. Lung, right apex: biopsy (FS)
+- Invasive adenocarcinoma.
+
+
+
+
+2. Lung, right upper lobe, apical segment: segmentectomy (FS)
+- No tumor is seen at the bronchial margin.
+
+
+
+
+Intra-Operative Consultation #1 performed by
+Final Diagnosis performed by
+
+
+
+
+ADDENDUM #1 FOR MOLECULAR TESTS:
+
+KRAS, EGFR and ALK FISH were sent on
+The test is to be performed on
+The case report, slides, and blocks for the cited
+accession number were retrieved from archives . The pathologist whose
+signature appears below reviewed the original pathology report,
+examined candidate H&E slides, and selected block 2C appropriate to
+the specifications of the ordered molecular analysis. x 1 H&E and x9
+unstained slides were prepared and forwarded tc -                    '
+             There the subject molecular test will be performed. An
+addenaum report will be issued when the results of this molecular
+test are available.
+
+
+Addendum #1 performed by
+
+
+
+ADDENDUM #2:
+
+
+EGFR Mutation Analysis
+
+
+Referring Physician:
+
+Body Site : Right upper lobe of lung
+
+Clinical Data: Adenocarcinoma
+
+RESULTS : No mutation detected.
+
+INTERPRETATION: No mutations were identified in the sample provided
+for analysis. Fewer than 5% of non -small cell lung carcinoma
+patients without identifiable mutations are reported to be
+responsive to EGFR tyrosine kinase inhibitor therapies.
+
+
+COMMENT: Forty percent (40%) or more tumor cellularity is optimal
+for this mutation analysis. The sample submitted showed 90% tumor
+cellularity upon pathologist review.
+
+A frequently occurring sequence change 2361>GA (Q787Q) was
+identified. This polymorphism is known not to have clinical
+significance.
+
+Mutations in the tyrosine kinase domain of the epidermal growth
+factor receptor (EGFR) gene are reported to be associated with
+differential responsiveness or resistance to EGFR tyrosine kinase
+inhibitor (TKI) therapies. The objective response rate among
+patients with a sensitizing mutation ranges from 55 to 82%.
+
+This assay analyzes exons 18-21 of the EGFR tyrosine kinase domain;
+based on the current literature , most mutations in non-small-cell
+lung carcinoma (NSCLC) are expected to occur in these exons.
+Mutations present in less than 10-20% of extracted DNA may not be
+detected by this method. Mutation status in a sample may change
+during tumor progression or the course of therapy; therefore, this
+result cannot be used to infer the presence or absence of a mutation
+in another sample or sub-sample obtained from this tumor.
+
+This test is validated for non-small cell lung carcinoma. The
+clinical significance and utility of this test in other tumor types
+is unknown.
+
+METHOD:
+Tissue sections are reviewed by a pathologist and relevant tumor is
+selected for analysis. DNA is isolated from the sample, quantified
+and amplified by polymerase chain reaction (PCR) using primers to
+exons 18-21 of the EGFR gene. PCR products are analyzed by
+bi-directional direct DNA sequencing using capillary gel
+electrophoresis and fluorescence detection. False positive or
+negative results may occur for reasons that include genetic variants
+or somatic heterogeneity of the tissue sample.
+
+REFERENCES:
+1. Azzoli CG, et al. J Clin Oncol. 20095; 27:6251-6266.
+2. Jackman DM et al. Clin Carcinoma Res. 2009; 15:5267-5273
+3. Mok IS, et al. N Engl J Med. 1009; 361;947-957
+4. Sharma SV, et al. Nat Rev Carcinoma, 2007; 7:169-181.
+
+DISCLAIMER:
+This test was developed and its performance characteristics
+determined by                                      The laboratory is
+regulated under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical
+testing. This particular test is not considered a stand alone test
+and should be used only in the context of other diagnostic tests or
+clinical work-up related to treatment decisions.
+
+
+
+
+Addendum #2 performed by
+
+
+
+
+ADDENDUM 3:
+
+Integrated Oncology
+
+MOLECULAR ONCOLOGY
+KRAS MUTATION ANALYSIS
+
+Clinical Data: Adenocarcinoma
+
+RESULTS: Wild type gene.
+
+INTERPRETATION: No mutations were identified at codons 12 and 13 of
+the KRAS gene.
+
+COMMENT:
+Mutations in the KRAS gene are reported to be associated with poor
+prognosis, and resistance to targeted tyrosine kinase inhibitor
+therapies in patients with non-small-cell lung cancer (NSCLC). KRAS
+mutations occur in 15-30% of NSCLC patients and are strongly
+associated with adenocarcinoma and smoking history.
+
+This assay analyzes codons 12 and 13 in exon 2 of the KRAS gene;
+based on the current literature, approximately 98% of mutations are
+expected to occur in these codons. The analytical sensitivity of
+the assay is approximately 10%; thus mutations present in a low
+percentage of cells may not be detected. This test is validated for
+use in identifying KRAS codon 12 and codon 13 mutations in fresh,
+frozen, or formalin-fixed paraffin embedded tissue. In particular
+the test performance has been established in samples of colorectal
+cancer and non-small cell lung carcinoma which harbor these
+mutations, although several other tissues are also known to harbor
+KRAS mutations (e.g. tumors of pancreas, bile duct, ovary, appendix,
+etc.).
+
+Analysis of EGFR mutation or gene amplification status may provide
+additional information regarding this patient's probability of
+response to targeted tyrosine kinase inhibitor therapies, if
+clinically indicated. See references.
+
+METHOD/LIMITATION:
+Tissue sections are reviewed by a pathologist and relevant tumor is
+selected for analysis . DNA is isolated from the sample, quantified
+and amplified by polymerase chain reaction (PCR) using primers to
+exon 2 of the KRAS gene. PCR products are subjected to single
+nucleotide primer extension to detect mutations at codons 12 and 13;
+primer extension products are analyzed using capillary gel
+electrophoresis and fluorescence detection . False positive or
+negative results may occur for reasons that include genetic variants
+or somatic heterogeneity of the tissue sample.
+
+REFERENCES:
+NSCLC
+Mascaux C. lannino N, et al. British Journal of Cancer, 2005;
+92:11-139
+Pao W, Wang TY, et al. PLoS Medicine, 205; 2(l):57-61
+Eberhard DA, Johnson BE, et al. J Clin Oncol, 2005; 23:5900-5909
+Han SW, Kim TY, et al. Clin Cancer Res. 2006; 12(8):253888888-2544
+CRC
+DiFiore C, Blanchard F, et al. Br J Cancer, 20007; 96:1166-1169
+Lievre A, Bachet J-B, et al. Cancer Res, 2006; 66:3992-3995,
+
+This test was developed and its performance characteristics
+determined by                                         laboratory is
+regulated under the Clinical Laboratory improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical
+testing. This particular test is not considered a stand alone test
+and should be only used in the context of other diagnostic tests or
+clinical work- up related to treatment decisions.
+
+
+
+
+Addendum #3 performed by
+
+
+
+
+ADDENDUM 4:
+
+
+
+Fluorescence In-Situ Hybridization (FISH)
+
+Referring Physician
+Body Site: Right upper lobe of lung
+Clinical Data: Adenocarcinoma.
+
+
+INTERPRETATION:
+Negative for a rearrangement involving the ALK gene.
+
+Probe #Nuclei Examined % Positive Nuclei %
+Control values
+2p23(ALK)V 50 0 <15.0
+A total of 50 cells were scored.
+
+FINDINGS: FISH was performed on paraffin embedded tissue sections
+using dual color break- apart probe (          , to the ALK
+gene at 2p23. This probe flanks the entire gene. If a rearrangement
+involving ALK is present, inversion or translocation , one of the two
+probe signals separates as one red (orange ) and one green signal. In
+this specimen, separated signals were present in 0.5% of the nuclei
+scored. Based on laboratory validation data, these results are
+within the normal limits.
+
+COMMENTS : Three copies of ALK were observed in 32 .0% of cells. This
+gain of intact ALK fusion hybridization signals represents an
+aneuploid population with extra copies of chromosomes 2/2p ALK
+region. Additional copies of ALK are not uncommon in NSCLCs,
+although the significance of extra copies of the ALK gene in lung
+carcinoma is unclear at this time (Salido M. et al . J Thorac Oncol.
+2011;6:21-27)
+
+ISCN RESULTS: nuc ish(ALKx3 4)[38/50]
+
+
+
+
+This Vysis ALK Break Apart Probe FISH test (.                   , is FDA
+approved for use in the detection of rearrangements involving the
+ALK gene via fluorescence in situ hybridization (FISH) in
+formalin-fixed paraffin-embedded (FFPE ) non-small cell lung cancer
+(NSCLC) tissue specimens.
+
+
+
+
+Addendum #4 performed by
+
+
+The electronic signature attests that the named Attending
+Pathologist has evaluated the specimen referred to in the signed
+section of the report and formulated the diagnosis therein.
+
+This report may include one or more immunohistochemical stain
+results that use analyte specific reagents.
+The tests were developed and their performance characteristics
+determined by          Department of Pathology.
+They have not been cleared or approved by the US Food and Drug
+Administration.
+The FDA has determined that such clearance or approval is not
+necessary.
+
+
+
+
+                                                                 s-
+                                                                 I'iagn,t_is D! screp.ncy
+                                                                 PYmary Tumor Site Di>crepancy
+                                                                 HIPAA Dis rc^ep cy H
+                                                                 Fi:or At.f,;nancy H im,, ^C5 3^
+                                                                  aaf,Synchrr. you.Primary "r
+                                                                 Casc is fcircle ):     w I(ZUAUFI^U
+                                                                 Re:ier.^er IniJais

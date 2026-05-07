@@ -1,0 +1,265 @@
+UUID:3F2359D8- 9958 - 4858 - B00F -BD$ADD34FB1E
+                                                         TCGA-MN-A4N5-01A-PR                    Redacted
+                                                 I I 1111111111111111111111111111111111I I I I I111111111111111111111
+PATHOLOGY REPORT
+                                                 III IIII1111111111111111I11111111111111IIIIIIIIIIIIIIIIIIIIII1III
+                        -           -       -    III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+GROSS DESCRIPTION:
+     A. The specimen consists of a 193 gm, 18.2 x 11.5 x 2.5 cm lobe of
+     lung displaying a 5.5 cm in length linear staple line superior to the
+     bronchus.  The bronchial resection margin is removed en face and
+     submitted for frozen section diagnosis and subsequent routine
+     histology in cassette FsA. The remaining pleural surface is tan-pink
+     and smooth with a 1.0 x 1.0 cm area of induration and puckering along
+     the lateral aspect. The area of pleural puckering is inked blue. The
+     linear staple line is removed, and the underlying parenchyma is inked
+     black.
+
+     Sectioning reveals a 1.6 x 1.6 x 0.8 cm, tan-yellow to white,
+     granular, poorly demarcated mass underlying the aforementioned area of
+     pleural puckering and induration.   The mass approaches the pleural
+     surface.  The mass is 4.3 cm from the bronchial resection margin, and
+     3.6 cm from the closest vascular resection margin. The mass is 4.6 cm
+     from the closest staple line surface.
+
+     The remaining lung parenchyma is tan-pink to red and unremarkable. No
+     areas of congestion, consolidation, or emphysematous change are
+     grossly appreciated.  Sectioning through the peribronchial region
+     reveals multiple dark black, rubbery, anthracotic lymph nodes.
+
+     Representative sections are submitted as follows: Al- vascular
+     resection margin; A2-A3- entire staple line resection margin en face;
+     A4-A5- entire mass with overlying pleura and adjacent uninvolved
+     parenchyma; A6- uninvolved lung parenchyma; A7- peribronchial lymph
+     nodes.
+
+     FROZEN SECTION DIAGNOSIS:
+
+     FsA. Lam, left upper lobe, lob
+                                  e ctomv:
+        - BRONCHIAL MARGIN NEGATIVE FOR MALIGNANCY
+
+     B. The specimen consists of a 1.6 x 1.0 x 0.8 cm, tan-pink to yellow,
+     rubbery lymph node that is serially sectioned to reveal a tan-pink to
+     black, unremarkable cut surface. The lymph node is submitted in its                                                W
+     entirety in cassette B.
+
+     C. The specimen consists of a 0.5 x 0.5 x 0.5 cm, tan-yellow to black,
+     rubbery soft tissue which is submitted in total in cassette C.
+
+     D. The specimen consists of a 0.8 x 0.8 x 0.4 cm, tan-brown to black,
+     rubbery soft tissue which is submitted in total in cassette D.
+
+     E. The specimen consists of two, tan-pink to black, rubbery lymph
+     nodes averaging 1.2 x 0.6 x 0.4 cm. The lymph nodes are submitted in
+     their entirety in cassette E.
+
+     F.   The specimen consists of a 1.3 x 1.0 x 0.8 cm aggregate of
+     tan-brown, rubbery soft tissue which is submitted in total in cassette
+     F.
+
+
+     G. The specimen consists of a 0.6 x 0.4 x 0.4 cm, tan-brown to black,
+     rubbery lymph node that is bisected to reveal a dark black anthracotic
+     cut surface.  The lymph node is submitted in its entirety in cassette
+     G.
+
+     H. The specimen consists of a 2.3 x 2.0 x 0.8 cm aggregate of tan-pink
+     to black, rubbery anthracotic lymph nodes which are submitted in total
+     in cassettes Hl and H2.
+
+     I. The specimen consists of a 2.6 x 2.0 x 0.8 cm aggregate of tan-pink
+     to black, rubbery anthracotic lymph nodes. The largest lymph node is
+     bisected to reveal a dark black anthracotic cut surface. Lymph nodes
+     are submitted in their entirety as follows: 11- multiple whole lymph
+     nodes; 12- one bisected lymph node. (
+MICROSCOPIC EXAM
+     DIAGNOSIS:
+
+     A.     Lung, left upp er lobe,e. tome:
+           - ZVASIVE POORLY DIFFERENTIATED ADENOCARCINOMA
+
+               SYNOPTIC REPORT (INCLUDING SPECIMENS A-I):
+
+               SPECIMEN
+               - Lung
+               - Lobe of lung: Left upper
+               PROCEDURE
+               - Lobectom
+               SPA MEN INTEGRITY
+               - Intact
+               SPECIMEN LATERALITY
+               - Left
+               TUMOR SITE
+                 U      obe
+               TU OR SIZE
+               - Greatest dimension: 1.6 cm
+               TUMOR FOCALITY
+               - Unifocal
+               HISTOLOGIC TYPE
+               - Aden onarni oma
+                            n
+                          ,..,
+               HISTOLOGIC GRADE
+               - G3: Poorly differentiated (high grade)
+               VISCERAL PLEURA INVASION
+                - Not identified
+                TUMOR EXTENSION
+                - Not identified
+                MARGINS
+                - BRONCHIAL MARGIN
+                  Uninvolved by invasive carcinoma
+                - VASCULAR MARGIN
+                  Uninvolved by invasive   carcinoma
+                - PARENCHYMAL MARGIN
+                  Not applicable
+                - PARIETAL PLEURAL MARGIN
+                  Not applicable
+                - CHEST WALL MARGIN
+                   Not applicable
+                - OTHER ATTACHED TISSUE MARGIN
+                   Not applicable
+                - Distance of invasive carcinoma from closest margin: 3.6 cm
+                   Specify margin: vascular margin
+                TREATMENT EFFECT
+                - Not applicable
+                LYMPH-VASCULAR INVASION
+                - Not identified
+                PERINEURAL INVASION
+                - Not identified
+                PATHOLOGIC STAGING (PTNM)
+                - Primary Tumor (pT)
+                   pT l a
+                - Regional Lymph Nodes (pN)
+                   pNO (including specimens A-I)
+                      Number examined: 31
+                      Number involved: 0
+                - Distant Metastasis (pM)
+                   Not applicable
+                ADDITIONAL PATHOLOGIC FINDINGS:
+                 - Non-neoplastic lung with interstitial fibrosis
+                 - Lymph node with granuloma
+
+      B.        Lymph nodes, station AP window, excision:
+               - 4 LYMPH NODES, NEGATIVE FOR MALIGNANCY
+
+          C.    lymph node, station 9, excision:
+               - 1 LYMPH NODE, NEGATIVE FOR MALIGNANCY
+          - GRANULOMA SEEN
+
+     D.    Lymph node, station 8, excision:
+          - 1 LYMPH NODE, NEGATIVE FOR MALIGNANCY
+          - GRANULOMA SEEN
+
+     E.    Lymph nodes, station 7, excision:
+          - 5 LYMPH NODES, NEGATIVE FOR MALIGNANCY
+
+     F.    Lymph nodes, station 6, excision:
+          - 4 LYMPH NODES, NEGATIVE FOR MALIGNANCY
+          - GRANULOMA SEEN
+
+     G.    Lymph node, station 10, excision:
+          - 1 LYMPH NODE, NEGATIVE FOR MALIGNANCY
+          - GRANULOMA SEEN
+
+     H.    Lymph nodes, station 11, excision:
+          - 6 LYMPH NODES, NEGATIVE FOR MALIGNANCY
+          - GRANULOMA SEEN
+
+
+     I.   Lymph nodes, station 12, excision:
+          - 6 LYMPH NODES, NEGATIVE FOR MALIGNANCY
+          - CALCIFIED NODULE AND GRANULOMA SEEN
+
+
+     COMMENT: Immunostains show that the tumor cells are positive for CK7,
+     TTF-1, focally positive for P63 and negativ efor CK20. These findings
+     are consistent with adenocarcinoma.
+
+     The AFB and GMS stains are negative for mycobacteria or fungal
+     organsms on representative lymph node with granuloma (A7).
+
+                 concurs with the malignancy diagnosis in this case.
+
+    Immunostain for ALK and molecular studies for EGFR and ALK gene will
+    be performed.  The results will be issued as an addendum report after
+    completion.
+
+    "This test was developed and its performance characteristics
+    determined by t
+                                      It has not been cleared or approved
+    by the u.s. eooa and Drug Administration. The FDA has determined that
+    such clearance or approval is not necessary. This test is used for
+    clinical purposes. It should not be regarded as investigational or for
+    research. This Laboratory is certified under the Clinical Laboratory
+    Improvement Amendments of 1988 (CLIA-88) as qualified to perform high
+    complexity clinical laboratory testing."
+
+
+
+
+SUPPLEMENTARY REPORT(S):
+
+                *4.*   Ct7D0T .T.'ML'r7m1DV   DL+nnnm r+nn ---r++ .-...,+..   .b ^.t
+
+
+
+    ADDENDUM REPORT:
+
+    The addendum report is issued to give immunostain and molecular study
+    i
+
+     Immunostaining for ALK protein is negative in the tumor cells.
+
+    There are rare nests of monotonous epithelial cells present on a
+    section of staple line margin after removal of staples (A2). These
+    cells are positive for chromogranin and syneptophysin by
+    immunostaining, consistent with small "tumorlet", microscopic.   Dr.
+                                                                                                                             I
+
+
+
+
+          *+* SUPPLEMENTARY REPORT STAG APPN AnnP.fl/MnnTPTPfl *+*
+
+
+ADDENDUM REPORT:
+
+Molecular studies in left upper lung tumor                  is performed at
+
+
+
+MOLECULAR ANALYSIS REPORT:
+
+TEST PERFORMED: EGFR Paraffin PCR, Lung Cancer
+
+SPECIMEN TYPE:     Slides, Lung, Left Upper lobe
+
+RESULT:   No mutations were detected within the analyzed
+          region of the EGFR gene.
+
+
+
+
+FLUORESCENCE IN SITU HYBRIDIZATION ANALYSIS REPORT:
+
+                            FISH ALK FISH SPECIMEN TYPE: Slides FISH
+Result: NEGATIVE: NO ALK GENE REARRANGEMENT
+
+Interpretation: NO ALK GENE REARRANGEMENT; ADDITIONAL COPIES OF INTACT
+ALK GENE HYBRIDIZATION SIGNALS
+   nuc ish 2p23(ALKx3-5)[13/50]
+
+
+
+
+                                                               criteria
+                                                               Wagnosk Discrepancy
+                                                               Primary Turnor Site Discrepancy
+                                                               r IPTA Di;crepanc.
+                                                               Prior Malignancy History
+                                                               Dual/Synchronous Pnmary
+                                                              _Cue is ( tircle):
+                                                                                                              DISQUALIFICO
+                                                               Rtvitwer Initial.
+                                                                                    _            e Reviewed

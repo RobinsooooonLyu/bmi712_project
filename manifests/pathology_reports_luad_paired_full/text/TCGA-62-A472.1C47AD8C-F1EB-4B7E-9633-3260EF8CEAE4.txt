@@ -1,0 +1,38 @@
+UUID: 1C47AD8C - F1EB - 4B7E - 9633 - 3260EF8CEAE4
+         TCGA- 62-A472 - 01A-PR                   Redacted
+I I I H I l1111111111111111111111111111111111111111111111111 I I Il I I
+I I 11111011111111111111111111111111111I l il l l I l l 11 iHI Il
+11 111111111 H I I I l i i l l 1111111111111111111111111111111111111111111
+       Pathology Report-Summary:
+
+       Material:
+
+       lung, right, lower lobe: 14.0 x 4.0 x 2.8 cm
+
+       tumor 1: 2.5 x 2.2 x 2.1 cm
+       tumor 2: 1.5.0 x 1.4 x 1.3 cm
+                                                                             5i A. 1U'j 3, I                 avw 1O4 Lay-3
+       Diagnosis:
+
+       Both tumors Adenocarcinoma (NOS)
+
+       Tumor 1 infiltrates and breaks pleura visceralis
+
+       pT3, pNO (0/2), pMx, G3
+
+
+
+
+       Pathologist:
+
+
+
+
+                                                                                  Crkerta
+                                                                                  Di
+                                                                                  _egnosis Discrepancy
+                                                                                  Primary Tumor Sit Discrepancy
+                                                                                  NIP.4A Discrepancy
+                                                                                  P iar Malignancy Hisrory
+                                                                                  Dp. i/Synchronous Prima
+                                                                                  Use jpircie):

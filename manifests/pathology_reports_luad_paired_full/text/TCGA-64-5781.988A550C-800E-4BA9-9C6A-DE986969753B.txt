@@ -1,0 +1,138 @@
+Clinical History/Diagnosis: Lung CA
+                                                                  TCGA-64-5781
+ Source of Specimen(s):
+ 1: Pmtion of 6th Rib
+ 2: 10 R Lymph Node
+ 3: 11 R Lymph Node
+ 4: Right upper lobe
+ 5: Level 7 Lymph Node
+ 6: Level4R Lymph Node
+
+ Gross Description:
+ Received in six parts.
+ Source of Tissue: 1. Labeled #1, "portion of 6th rib"
+
+Gross Description: Received fresh labeled,
+portion of 6th rib". It consists of a portion of rib measuring 1.7 x 1.5 x
+0.5 em. Representative sections submitted in lA, following
+decalcification.
+************************************************************************
+Source of Tissue: 2. Labeled #2, "lOR lymph nodes"
+
+Gross Description: Received fresh labeled
+lOR lymph nodes". It consists of two soft brown lymph nodes measming from
+1 em up to 1.2 em in greatest dimension. Each lymph node is bisected and
+entirely submitted in 2A-2B.
+************************************************************************
+Source of Tissue: 3. Labeled #3, "llR lymph nodes"
+
+Gross Description: Received fresh labeled,
+llR lymph nodes". It consists of multiple black-brown soft anthracotic
+lymph nodes measuring from 0.2 em up to 2 em in greatest dimension. The
+lymph nodes are entirely submitted in 3A-3C.
+
+Designation of Sections: 3A-largest lymph node bisected, 3B- one bisected
+lymph node, 3C- multiple additional lymph nodes
+************************************************************************
+Source of Tissue: 4. Labeled #4, "right upper lobe"
+
+  •   *I   ~   •   I~·   •   ~    llr,1. TUMOR SEEN AT THE BRONCBIAL MARGIN
+
+
+Gross Desctiption: Received fresh labeled,
+right upper lobe". It consists of a lobe of lung weighing 223 grams and
+measuring 13.5 x 11.5 x 5 em. The pleura is gray-tan and smooth except
+for a 2 em gray induration noted at approximately 7 em from the bronchial
+margin. The specimen is serially sectioned to reveal a 6.5 x 3.7 x 2.5 em
+ill-defined firm brown mass at approximately 4.5 em from the bronchial
+margin. The mass grossly corresponds to the previously described pleural
+induration and also comes within 0.1 em of the closest pleura. The
+ bronchial and vascular margins are grossly unremarkable. There is a
+ stapled margin at approximately 1.5 em of the bronchial margin measming
+ 10 em in greatest
+ dimension. The bronchial margin is frozen in 4FS. Representative sections
+ of the remainder of the specimen are submitted in 4A-4G.
+
+ Designation of Sections: 4FS- frozen section, 4A- vascular margin, 4B-4D-
+ tumor with closest pleura, 4E- tumor with adjacent normal lung, 4F-
+ stapled margin, 4G- peribronchial lymph nodes
+ ************************************************************************
+ Source of Tissue: 5. Labeled #5, "level 7 lymph nodes"
+                                                                          TCGA-64-5781
+ Gross Description: Received fresh labeled ",
+ level 7 lymph nodes". It consists of three firm brown anthracotic lymph
+ nodes measuring from 0.7 em up to 1.4 em in greatest dimension. Each lymph
+ node is bisected and entirely submitted in 5A-5C.
+ ************************************************************************
+ Source of Tissue: 6. Labeled #6, "leve14R lymph nodes"
+
+Gross Description: Received fresh labeled,
+level4R lymph nodes". It consists of a firm tan-pink lymph node measuring
+1 x 1 x 0.5 em. Also received in the same container is an additional soft
+yellow-tan irregular fibrofatty tissue fragment measuring 2.5 x 1 x 0.2
+em. The specimen is entirely submitted in 6A-6B.
+
+Designation of Sections: 6A- bisected lymph node, 6B- remaining fibrofatty
+tissue, entirely submitted
+************************************************************************
+Final Diagnosis:
+1. Portion of 6th rib:
+No tumor seen.
+
+2. lOR lymph nodes:
+Nine lymph nodes with no tumor seen (0/9).
+
+3. llR lymph nodes:
+Eleven lymph nodefith no tumor seen (0/11).
+
+4. Right lung, u~:,_l,obe:
+Adenocarcinoma, WHO mixed subtype.
+-The 6.5 em poorly differentiated carcinoma does not involve the pleura
+smface.
+- Angiolymphatic invasion is not identified.
+- Surgical resection margins are free of carcinoma.
+Seven peribronchial lymph nodes with no tumor seen (017).
+
+5. Level ?lymph nodes:
+Seventeen lymph nodes with no tumor seen (0/17).
+
+6. Level4R lymph nodes:
+Eight lymph nodes with no tumor seen (0/8).
+LUNG TEMPLATE
+
+Specimen Type
+Lobectomy
+                                             TGGA-64-5781
+Laterality
+Right
+
+Tumor Site
+Upper lobe
+
+Tumor Size
+Greatest dimension: 6.5 em
+
+Histologic Type
+Invasive adenocarcinoma with
+Acinar      Solid morphologies
+
+Histologic Grade
+Poorly differentiated
+
+Extension of Tumor
+Carcinoma does not involve visceral pleura
+
+Venous (Large Vessel) Invasion
+Absent
+
+Arterial (Large Vessel) Invasion
+Absent
+
+Margins
+Margins uninvolved by invasive carcinoma
+
+Regional Lymph Nodes
+52 regional lymph nodes examined
+No regional lymph node metastasis
+
+pTNM: T2 NO Mx

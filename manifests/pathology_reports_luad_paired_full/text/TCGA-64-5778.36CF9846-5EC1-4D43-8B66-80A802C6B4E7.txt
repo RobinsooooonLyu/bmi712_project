@@ -1,0 +1,140 @@
+Clinical History/Diagnosis: Right Lung Cancer
+
+Source of Specimen(s):
+1: llR Lymph Nodes
+2: Right Upper Lobe Bronchial Margins
+3: lOR Lymph Nodes
+4: 4R Lymph Nodes
+5: 2R Lymph Nodes
+6: 2R Highest Lymph Nodes
+7: Level 7 Lymph Nodes
+
+Gross Description:                                                      TCGA- 64- 5778
+Received in seven parts.
+Source of Tissue: 1. Labeled#!, "llR lymph nodes"
+
+Gross Description: Received fresh labeled, llR
+lymph nodes". It consists offour soft black-brown anthracotic lymph
+nodes measuring from 0.3 up to 0.5 em in greatest dimension. The lymph
+nodes are entirely submitted in lA.
+************************************************************************
+Source of Tissue: 2. Labeled #2, "right upper lobe"
+
+Intraoperative Consultation: NEGATIVE MARGIN. NO TUMOR SEN PER DR.
+
+
+ Gross Description: Received fresh labeled ",tight
+ upper lobe". It consists of a lobe of lung weighing 238 grams and
+measuring 17 x 12.5 x 4.5 em in greatest dimension. A 0.7 x 0.6 em
+puckered area is identified approximately 4.5 em from the stapled and
+vascular margins. The bronchial and vascular margins are grossly
+unremarkable. Multiple petibronchiallymph nodes are identified measuring
+from 0.1 up to 0. 7 em in greatest dimension. The specimen is sectioned to
+reveal a 3.7 x 2.5 x 2.5 em ill-defined film stellate mass at
+approximately 4.5 em from the bronchial and vascular margins. The mass
+grossly conesponds to the previously described pleural pucketing. The
+remaining lung parenchyma is red-brown, congested with no other masses
+present. The mass grossly does not appear to involve the bronchus. The
+bronchial margin is entirely frozen in 2FS. Additional random sections of
+the remainder of the specimen are submitted in 2A-2I.
+
+Designation of Sections: 2FS- frozen section, 2A- vascular margins, 2B-2E-
+tumor with closest pleura inked blue, 2F- tumor with adjacent uninvolved
+parenchyma, 2G-2I- peribronchial lymph nodes
+************************************************************************
+Source of Tissue: 3. Labeled #3, "lOR lymph nodes"
+
+Gross Description: Received fresh labeled", lOR
+lymph nodes". It consists of a soft yellow-tan lymph node measuring 1.8 x
+0.7 x 0.6 em. The lymph node is serially sectioned and entirely submittedin 3A.
+************************************************************************
+ Source of Tissue: 4. Labeled #4, "4R lymph nodes"
+                                                                             CGA-64-5778
+ Gross Desctiption: Received fresh labeled, 4R
+ lymph nodes". It consists of a soft yellow-tan inegular fibrofatty tissue
+ fragment measuring 5.5 x 3.5 x 1.5 em. The specimen is serially sectioned
+ to reveal multiple soft black-brown anthracotic lymph nodes measuring from
+ 0.1 up to 0.7 em in greatest dimension. The lymph nodes are entirely
+ submitted in 4A-4E.
+ ************************************************************************
+ Source of Tissue: 5. Labeled #5, "2R lymph nodes"
+
+ Gross Description: Received fresh labeled, 2R
+ lymph nodes". It consists of a soft yellow-tan inegular fibrofatty tissue
+ fragment measuring 2.5 x 1.5 x 0.5 em. The specimen is bisected and
+ entirely submitted in SA.
+ ************************************************************************
+ Source of Tissue: 6. Labeled #6, "2R highest lymph nodes"
+
+Gross Description: Received fresh labeled ", 2R
+highest lymph nodes". It consists of multiple soft black-brown anthracotic
+lymph nodes measuring from 0.1 up to 0.5 em in greatest dimension. The
+lymph nodes are entirely submitted in 6A.
+************************************************************************
+Source of Tissue: 7. Labeled#?, "level7lymph nodes"
+
+Gross Desctiption: Received fresh labeled ", level
+7 lymph nodes". It consists of multiple soft black-brown anthracotic lymph
+nodes measuring from 0.5 up to 0.7 em in greatest dimension. The specimen
+is entirely submitted in 7A-7B.
+************************************************************************
+Final Diagnosis:
+1. llR lymph nodes, excision:
+-Five lymph nodes with no tumor seen (0/5).
+
+2. Lung, right upper lobe, lobectomy:
+-Adenocarcinoma, 3.7 em, moderately differentiated.
+- The tumor invades into the visceral pleura.
+-Vascular invasion is identified.
+-Twenty-four peribronchial lymph nodes with no tumor seen (0/24).
+
+3. lOR lymph nodes, excision:
+-Two lymph nodes with no tumor seen (012).
+
+4. 4R lymph nodes, excision:
+-Thirty-one lymph nodes with no tumor seen (0/31).
+
+5. 2R lymph nodes, excision:
+- Six lymph nodes with no tumor seen (0/6).
+
+6. 2R highest lymph nodes, excision:
+-Two lymph nodes with no tumor seen (0/2).
+7. Level71ymph nodes, excision:
+-Fourteen lymph nodes with no tumor seen (0/14).
+
+LUNG TEMPLATE
+                                                            TCGA- 64-5778
+Specimen Type
+Lobectomy
+
+Laterality
+Right
+
+Tumor Site
+Upper lobe
+
+Tumor Size
+Greatest dimension: 3.7 em (Tl if <=3.0 em; otherwise T2)
+Histologic Type--···   7
+Adenocarcinomdon-mucinous bronchioloalveolar subtype
+
+Histologic Grade
+Moderately differentiated
+
+Extension of Tumor
+Carcinoma invades into/through visceral pleura (T2)
+
+Venous (Large Vessel) Invasion
+Absent
+
+Arterial (Large Vessel) Invasion
+Absent
+
+Margins
+Margins uninvolved by invasive carcinoma
+
+Regional Lymph Nodes
+84 regional lymph nodes examined
+No regional lymph node metastasis
+
+pTNM: T2 NO Mx

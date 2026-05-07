@@ -1,0 +1,87 @@
+TCGA-44-3398
+
+
+
+
+SPECIMEN
+    A. Lymph node level 10
+    B. Right lower lobe
+    c. Lymph node level 7
+    D. Lymph node level 3
+    E. Lymph node R4
+
+CLINICAL NOTES
+
+
+GROSS DESCRIPTION
+             A. Received in formalin, labeled "lymph node level 10"
+and
+    consists of multiple pieces of black soft tissue measuring 2 ern in
+    greatest aggregate dimension. AS-1.
+             B. The specimen is received unfixed labeled "right loNer
+             lobe" and consists of a lobe weighing 266 grams and
+    measuring 16 x 12 x 7 ern. There is a subtotal probable mass
+    measuring 2.5 x 1.5 x 2 em. There is a puckered appearance over the
+    mass. Portions of the specimen are taken for research purposes.
+    Additional sections after fixation. There is a stapled margin on
+one
+    side of the specimen measuring 5 em in length and there is a
+stapled
+    bronchial margin as well.
+             C. Received in formalin, labeled "lymph node level 7" and
+              consists of multiple pieces of black soft tissue
+measuring
+    2 em in greatest aggregate dimension. AS-1.
+             D. Received in formalin, labeled "lymph node level 3" and
+             consists of a piece of white and black and yellow soft
+    tissue measuring 2.5 x 1.5 x 0.3 em. AS-1.
+             E. Received in formalin, labeled 11 lymph node - R4" and
+             consists of multiple pieces of yellov1 and black soft
+tissue
+    measuring 3 x 3 x 0.5 em in aggregate. AS-2.
+MICROSCOPIC DESCRIPTION
+    A.  There is no evidence of malignancy in any of ten lymph node
+    pieces.
+
+    B.        Tumor type:  Non-small cell carcinoma
+              Tumor grade:   3 out of 3
+              Mitotic Index:   1 mitoses/10 HPFs (1 HPF ~ 0.19 sq mm)
+              Tumor size:  2.5 em
+              Bronchial resection margin: Negative for malignancy
+              Pulmonary margin of resection:   Negative for malignancy
+              Pleura:  Negative for malignancy
+              Vascular invasion: Absent
+              Attached lymph nodes:   There is no evidence of malignancy
+              in
+                                      any of 3 lymph nodes
+              pTNM Stage: T1b NO
+              Non-tumorous lung: Mild to moderate emphysema
+
+    C. There's no evidence of malignancy in any of multiple lymph node
+    pieces. Approximately 12 pieces are present.
+
+    D.   A single lymph node is negative for malignancy.
+
+    E.   There is no evidence of malignancy in any of 16 lymph node
+    pieces.
+
+
+DIAGNOSIS
+    A.  Lymph node, level 10, biopsy:  There is no evidence of
+    malignancy in any of ten lymph node pieces.
+
+    B.  Lung, right lower lobe 1 resection: Poorly differentiated
+    non-small cell carcinoma
+DIAGNOSIS
+     C.Lyrnph node, level 7, biopsy: There is no evidence of malignancy
+in
+     any of 12 lymph nodes pieces.
+     D. Lymph node, level 3, biopsy: A single lymph node is negative for
+     malignancy.
+     E. Lymph node, R4, biopsy: There's no evidence of malignancy in any
+     of 16 lymph nodes pieces.
+
+
+
+
+                         --- End Of Report ---

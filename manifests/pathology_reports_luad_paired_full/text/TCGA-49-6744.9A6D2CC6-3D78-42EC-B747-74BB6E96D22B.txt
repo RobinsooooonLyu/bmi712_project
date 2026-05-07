@@ -1,0 +1,88 @@
+SP-CONS
+
+SURG PATH REPORT
+COLLECTION DATE/TIME:
+
+
+ 1st Specimen collected
+,          Accessioned on
+
+                                             Pathologist:
+
+
+1.  STATION (RESECTION):  THREE LYMPH NODE AND ASSOCIATED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+2.   Lll LYMPH NODE       (RESECTION):   METASTATIC ADENOCARCIlIOi'li"\ IN ONE OF
+TviO LYMPH NODES       (1/2).
+
+3.   STATION 6 LYMPH NODE        (RESECTION):   Tt'10 LYMPH NODE }\N[i .::..: :-:OCIF.TED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+4.   LEFT UPPER LOBE LUNG {LOBECTOMYO:
+SPECH1EN TYPE:
+Lobectomy.
+
+TutvlOR SITE:
+Left.
+
+HISTOLOGIC TYPE:
+Adenocarcinoma, mixed acinar (dominant component)              &
+bronchioloalveolar types.
+
+TUMOR SIZE:
+Greatest dimension 3.5cm.
+
+LOCATION, SIZE, AND HISTOLOGIC TYPE OF
+SEPARATE TUMOR NODULES, IF ANY:
+none identified.
+
+HISTOLOGIC GRADE:
+G2-G3:  J'.1oderately to Poorly differentiated (the poorl··
+differentiated component represents less than 5~ of the tumor).
+
+LY"lPH NODES:
+Metastatic carcinoma in 3 of 18 lymph nodes.             (see part      l~')).
+DIRECT EXTENSION OF TUMOR:
+none identified
+
+EXTENT OF INVASION (7th Edition, AJCC):
+PRINARY TUMOR: pT2a: Tumor more than 3 em but 5 em or                JY:J:3.
+
+
+REGIONAL LYi"lPH NODES:
+pNl:  Metastasis in ipsilateral peribronchial lymph nod,::,s.
+
+M!\RGINS:
+marqins uninvolved by invasive carcinoma.
+
+VENOUS/ARTERIAL (LARGE VESSEL) INVASION:
+Indeterminate. There are obliterated vessels within the tumor but no
+cal-cinoma is seen in the lumina.
+
+LYMPH.~TIC   (S~JALL   VESSEL)   INVASION:
+Indeterminate.
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Emphysematous changes with subpleural bulla formation.
+
+NOTE:  EGPR & KRAS ordered on block 4E.           Results Hill       :r)(,;   n!!~)"l.-t("d   in
+an addendum.
+s.   ;::;TJI.TION 5 LYJ'.'lPH NODE   (RESECTION):   ONE LYMPH NODE .-'.IHi l'.:<:(X:Il\TED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+6.  ,STATION 7 LYMPH NODE (RESECTION): ONE LYMPH NODE ,~lIHJ ;:~~~:O(,Il'-TED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+ADDENDUtvl -------- Pathologist:
+KRAS "lUTATION ~
+BLOCI'.: TESTED: _ _ _ _
+RESULT:     POSITIVE
+
+NOTE:    The assay detected a mutation in either codon l~ ,.,1: 1_, (JT 1:11e
+                    of the complete report is available in
+                     also on file in the~IIIIII.!I!!"IIIIIIIIIIII• • • •I11111• • •
+                     Based on these results, EGFR testincr i,; ll_
+
+
+                                                              for   offici~l   Lepor~.

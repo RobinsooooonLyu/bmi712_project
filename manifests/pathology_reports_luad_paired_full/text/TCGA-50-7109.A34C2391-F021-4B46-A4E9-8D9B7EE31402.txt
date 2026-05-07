@@ -1,0 +1,54 @@
+FINAL DIAGNOSIS:
+PART 1: LUNG, RIGHT LOWER lOBE, SUPERIOR SEGMENTECTOMY
+        A. MODERATELY DIFFERENTIATED ADENOCARCINOMA, 2.0 CM.
+        B. BRONCHOVASCULAR MARGIN POSITIVE FOR ADENOCARCINOMA.
+        C. FOCAL SUGGESTION OF ANGIOLYMPHATIC INVASION.
+        D. STAPLED PARENCHYMAL MARGIN IS FREE OF CARCINOMA IN SLIDE SECTIONS.
+        E. PERINEURAL INVASION IS PRESENT.
+        F. EMPHYSEMATOUS CHANGE.
+        G. AJCC PATHOLOGIC STAGE pTI NO MX.
+
+PART 2: lYMPH NODE, lEVEL 4, BIOPSY -
+        ANTHRACOTIC lYMPH NODE, NO CARCINOMA IDENTIFIED (0/1).
+
+PART 3: lYMPH NODE, lEVEL 10, BIOPSY -
+        SCANT FRAGMENT OF ANTHRACOTIC LYMPH NODE TISSUE, NO CARCINOMA IDENTIFIED.
+
+PART 4: LYMPH NODE,lEVEl7, BIOPSY-
+        FRAGMENTS OF ANTHRACOTIC LYMPH NODE TISSUE, NO CARCINOMA IDENTIFIED.
+
+PART 5: lYMPH NODE, lEVEL 8, BIOPSY -
+        SCANT FRAGMENT OF ANTHRACOTIC LYMPH NODE TISSUE, NO CARCINOMA IDENTIFIED.
+
+PART 6: LYMPH NODE, lEVEL 11 SUMP, BIOPSY -
+        FRAGMENT OF ANTHRACOTIC lYMPH NODE TISSUE, NO CARCINOMA IDENTIFIED.
+
+
+
+COMMENT:
+Immunohistochemical stain for TTF·1 Is positive in the malignant cells, rare cells are p63 positive and carcinoma Is
+negative for cytokeratln 5/6. These results support an adenocarcinoma. The carcinoma has acinar and solid patterns.
+Select slides of carcinoma                                - '.    who agree with the diagnosis.
+CASE SYNOPSIS:
+   SYNOPTIC DATA· PRIMARY LUNG TUMORS
+   TUMOR LOCATION:               Right Lower Lobe
+   LUNG SEGMENT(S) INVOLVED:     Superior
+   PROCEDURE:                    Segmental .      '.
+   TUMOR SIZE:                   Maxi,!,um dImenSIon. 2.0 em
+   TUMOR TYPE'                   InvaSIve adenocarCinoma
+               . RACE'           G2, Moderately differentiated         .
+   ~~;~~~~gNARY ExTENSION/INVASION OF TUMOR:                 None identIfied
+   ANGlO LYMPHATIC INVASION:    Ves
+   TUMOR NECROSIS:              < or = to 50%
+   SURGICAL MARGIN INVOLVEMENT:          ves                           .
+   SURGICAL MARGIN SITE:        Bronchial margin, Vascular margin
+   INFlAMMATORY(DESMOPLASTlC) REACTION:           Moderate    lti' 0
+                 ES'            Number of N1 lymph nodes pas ve.
+   NI LYMPH NOD .               Number of N1 lymph nodes examined: 2
+                                Number of N2 lymph nodes positive: 0
+    N2 lYMPH NODES:              Number of N2 lymph nodes examined: 3
+    T STAGE, PATHOLOGIC:         pT1a
+    N STAGE, pATHOLOGIC:         pNO
+    M STAGE, PATHOLOGIC:         Not applicable
+    ANCILLARY STUDIES:                          ,
+                                 Immunohistochemical  stains

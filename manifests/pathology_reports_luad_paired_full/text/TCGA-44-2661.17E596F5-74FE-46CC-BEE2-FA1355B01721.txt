@@ -1,0 +1,83 @@
+TCGA-44-2661
+
+
+
+
+SPECIMEN
+       A.   Left upper lobe wedge
+       B.   Lymph node level 5
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:      Lung cancer/breast cancer.
+
+FROZEN SECTION DIAGNOSIS
+       Lung, left upper lobe, wedge biopsy: Adenocarcinoma.
+
+
+GROSS DESCRIPTION
+             A.   The specimen is received unfixed labeled "left upper
+             lobe wedge" and consists of a pink and red lung resection
+    specimen measuring 14.4 x 10 x 2.5 em. There is a slight area of
+    thickening in the central portion of the specimen that is about 1.5
+    em in greatest dimension by external palpation. On cut section the
+    central tumor measures 1.5 em in diameter. Portions of the tumor
+    are taken for research purposes.  The margin of resection is
+grossly
+    free of the disease. A portion of the tumor is taken for frozen
+    section diagnosis. Additional sections after fixation. RS-7
+
+                B. The specimen is received in formalin labeled "lymph
+                node level 5 11 and consists of multiple pieces of black
+soft
+       tissue measuring 1 em in greatest aggregate dimension.   AS-1.
+
+
+
+MICROSCOPIC DESCRIPTION
+             A.
+                Tumor type: Adenocarcinoma with focal lepidic growth
+                pattern.
+                Tumor grade: 1-2 out of 3
+                Mitotic Index: 0 mitoses/10 HPFs (1 HPF   0.19 sq mm)
+MICROSCOPIC DESCRIPTION
+             Tumor size:  1.5 em.
+             Pulmonary margin of resection:   Negative for malignancy
+             Pleura:  Pleural elastosis. Negative for malignancy.
+             Vascular invasion: Absent
+             pTNM Stage:  Tl NO
+             Non-tumorous lung:   Unremarkable.
+
+     Antibody                 Results        Comment
+
+
+
+     TTF-1                    Positive       Compatible with lung primary
+     BRST-2                   Negative
+     ER                       Negative
+     PR                       Negative
+
+
+
+     Paraffin sectionsi 10% neutral buffered formalin
+
+     [A few of the antibodies used in our laboratory may be classified
+as
+     analyte specific reagents.         These antibodies are monitored and
+     controlled in our laboratory and their performance for in vitro
+     diagnosis is well described in the medical literature.          They have
+     not been cleared or approved by the FDA.]
+
+                B.   Portions of the lymph node are negative for
+                malignancy.
+
+     4, 3, 14, 20x4
+
+
+     IHC stains added, as shown                                 th     .
+
+
+
+
+DIAGNOSIS
+    A.  Lung, left upper lobe, excisional biopsy:
+          Well to moderately differentiated adenocarcinoma.

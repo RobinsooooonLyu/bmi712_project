@@ -1,0 +1,123 @@
+PATIENT HISTORY:
+PRE-OP DIAGNOSIS:   Lung cancer,
+POST-OP DIAGNOSIS: Not given,
+PROCEDURE: Not qiven,
+ADDENDA:
+Addendum
+Molecular Anatomic Pathology Testing:
+
+Block 4C:
+        A. KRAS codon 12/13 mutation NOT identified,
+        B, EGFR Exon 19 mutation NOT identified.
+        C. EGFR Exon 21 mutation NOT identified.
+        D, EGFR amplification IDENTIFIED (see In Situ Procedure).
+        E, EML41ALK rearrangement NOT Identified (see In Situ Pra,ceclu
+Note:
+KRAS<:odon 12/13 mutations are found in approximately 10-30% lung adenocarcinomas and associated with history of
+smoking (1), EGFR exon 19 and 21 mutations are present in about 10% of non-Asians and up to 40% in the Asian
+population, common in non-smokers and associated with the tumor response to treatment with EGFR inhibitors (2),
+These mutations are mutually exclusive and their presence may have prognostic andlor therapeutic implications (3,4).
+Clinical studies show high EGFR gene copy number by FISH analysis (amplification) to be associated with favorable
+clinical benefit (clinical response, stable disease, time to progression, and survival) in patients with advanced non-small
+cell lung cancer treated with EGFR tyrosine kinase inhibitors.
+
+Approximately 3% of lung adenocarcinomas within the Asian population have an interstitial deletion and inversion in
+chromosome 2p resulting in the EML4IALK fusion gene (ALK+) which is sensitive to ALK inhibitors (5,6), The prevalence
+of this abnormality in the Western population is still unknown. Detection of this abnormality is critical for identifying
+patients eligible for therapies that target ALK en~ymalic activity, EML41ALK rearrangements are mutually exclusive with
+KRAS and EGFR mutations.
+Addendum
+Sections of the Part 2 "portion of fifth rib" show normal bone and bone marrow with trilineage representalion and maturation,
+FINAL DIAGNOSIS:
+SUMMARY STATEMENT:                                                                       "           .'               '
+The right upper lobectomy demonstrates a poorly differentiated adenocarcinoma, 1,3 em on diameter, With anglOlym~hatlc
+invasion, unassociated with visceral pleural invasion, with involvement of both N1 and N2 lymph nodes and all margins
+free. Pathologic stage; T1 N2 Mx.
+
+
+PART 1: LYMPH NODE, ANTERIOR HILAR LYMPH NODE, BIOPSY-
+       TWO (2) FRAGMENTS OF LYMPH NODE WITH REACTIVE CHANGE, NO EVIDENCE OF MALIGNANCY,
+
+                                   TH
+ PART 2' BONE "PORTION OF 5 RIB", RESECTION-
+       'SPECIMEN UNDERGOING DECALCIFICATION, AN ADDENDUM REPORT TO FOLLOW.
+
+ PART 3: LYMPH NODE, "LYMPH NODE NEAR ANTERIOR MAJOR FISSURE", BIOPSY-
+         SOLITARY LYMPH NODE WITH REACTIVE CHANGE, NO EVIDENCE OF MALIGNANCY.
+
+ PART 4' LUNG RIGHT UPPER LOBE, LOBECTOMY -
+       'A POORLY DIFFERENTIATED ADENOCARCINOMA, MIXED SOLID AND ACINAR TYPE, 1.3 CM IN DIAMETER
+          , WITH ANGIOLYMPHATIC INVASION, NO EVIDENCE OF VISCERAL PLEURAL INVASION, ALL MARGINS
+            FREE, MILD HOST LYMPHOCYTIC RESPONSE, PATHOLOGIC STAGE T1 N2 MX,
+         B, FIVE OF SIX HILAR LYMPH NODES POSITIVE FOR METASTATIC ';.~~~~c::g~~~~tLl~~~)·
+         c, LUNG WITH MARKED EMPHYSEMATOUS CHANGE WITH RESPIR •                         '
+
+ PART 5: BRONCHUS, "RIGHT UPPER LOBE BRONCHIAL MARGIN, RESECTION -
+              SEE COMMENT.
+
+ PART 6: LYMPH NODE. HILAR LYMPH NODE, BIOPSY
+         ONE OF ONE LYMPH NODE WITH METASTATIC ADENOCARCINOMA (1/1).
+
+ PART 7: LYMPH NODE. BRONCHUS INTERMEDIUS, BIOPSY -
+         FOUR (4) FRAGMENTS OF LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF METASTATIC
+         CARCINOMA.
+
+ PART 8: LYMPH NODE, PARAESOPHAGEAL LYMPH NODE, BIOPSY-
+         FOUR (4) FRAGMENTS OF LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF METASTATIC
+         CARCINOMA.
+
+ i'ART 9: LYMPH NODE. SUBCARINAL LYMPH NODE, BIOPSY -
+          FIVE (5) FRAGMENTS OF LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF METASTATIC
+         CARCINOMA.
+
+ PART 10: LYMPH NODE, RIGHT PARATRACHEAL LYMPH NODE, BIOPSY-
+        TWO OF TWO LYMPH NODES WITH METASTATIC ADENOCARCINOMA (2/2).
+
+ PART 11 : LYMPH NODE, RIGHT TRACHEOBRONCHIAL ANGLE, BIOPSY -
+         BENIGN FRAGMENTS OF FIBROADIPOSE TISSUE WITH CHRONIC INFLAMMATION AND EXTENSIVE CRUSH
+        ARTIFACT.
+
+ PART 12: LYMPH NODE, SUB-INNOMINATE LYMPH NODE, BIOPSY-
+        TWO (2) FRAGMENTS OF LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF METASTATIC
+        CARCINOMA.
+
+ PART 13: LYMPH NODE, PARATRACHEAL LYMPH NODE, BIOPSY-
+%       SOLITARY LYMPH NODE WITH REACTIVE CHANGE. NO EVIDENCE OF METASTATIC CARCINOMA.
+-':,;$11
+     .,. II             .
+''I   III 5t
+ COMMENT:
+ Frozen sections performed on Part 5 "bronchial margin" shows that this margin is free of carcinoma, although marked
+ crush change is present. Permanent sections of this bronchial margin do show adenocarcinoma within the adventitial
+ cuff of the bronchus. While present in these permanent sections, the margin of resection is interpreted as negative but it
+ should be noted that carcinoma extends within 1-2 mm of this final margin.
+  CASE SYNOPSIS:
+        SYNOPTIC DATA - PRIMARY LUNG TUMORS
+        TUMOR LOCATION:                Right Upper Lobe
+        PROCEDURE:                    Lobectomy
+        TUMOR SIZE:                   Maximum dimension: 1.3 em
+                                      Minor dimension: 1.0 em
+        GROSS SATELLITES:              Number of gross satellite lesions: 0
+        TUMOR TYPE:                   Invasive adenocarcinoma
+        HISTOLOGIC GRADE:             G3. Poorly differentiated
+        MICROSCOPIC SATELLITES:        Number of microscopic satellite lesions: 0
+        EXTRAPULMONARYPARENCHYMAL
+        EXTENSiON/INVASION OF TUMOR: None identified
+        ANGIOLYMPHATIC INVASION:       Yes
+        TUMOR NECROSIS:                < or" to 50%
+        SURGICAL MARGIN INVOLVEMENT: No
+        SURGICAL MARGIN SITE:        Distance of invasive tumor 10 closest margin: 12 mm. Bronchial margin
+        INFLAMMATORY(OESMOPLASTIC) REACTION:           Mild
+        N1 LYMPH NODES:              Number of N1 lymph nodes positive: 6
+                                     Number of N1 lymph nOdes examined: 13
+        EXTRACAPSULAR SPREAD OF N1 METASTASES:         No
+        N2 LYMPH NODES:              Number of N2 lymph nodes positive: 2
+                                     Number of N2 lymph nodes examined: 14
+        EXTRACAPSULAR SPREAD OF N2 METASTASES:         No
+        UNDERLYING DISEASE(S):       Emphysema
+        T STAGE, PATHOLOGIC:         pT1
+        N STAGE, PATHOLOGIC:         pN2
+        M STAGE, PATHOLOGIC:         pMX
+        ANCILLARY STUDIES:           Histochemical stains, FISH studies. Molecular studies
+        Comment:                     PAS and PAS-D and mucicarmine stains are positive. Elastic tissue stains
+                                     demonstrates vascular invaSion.

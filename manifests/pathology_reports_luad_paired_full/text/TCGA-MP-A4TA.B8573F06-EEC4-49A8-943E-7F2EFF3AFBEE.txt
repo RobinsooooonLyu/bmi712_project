@@ -1,0 +1,57 @@
+U iteria '
+ Diagnosis Discrepancy
+Primary Tumor Site Discrepancy
+HIPAA Discrepan                                               UUID: B9573F06 - EEC4 - 49A8 - 943E - 7F2EFF3AFBEE
+P rior
+    erMah
+       gg`ancy History                                              TCGA-MP-A4TA-01A-PR                      Redacted
+Duai1 S in, hronou
+Case is (circlyj:                                          I I I I I I I ^ I I I I I I 111111I I I 1111 I I 111111111101111111111111 I I
+NeViewer Inrti.ils
+                                                           I I I I 1111111 111111 I I I I I I I I I I I I I I I I I I I I 11111111 I I
+                                                           III IIIIIIIIIIIIIIIII111111IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII11
+                           surgical Pathology
+
+Requested By:
+
+TISSUE DESCRIPTION:
+           Al ]1 K1 L1 M1 M2 M3 M4 MS M6 N1 N2 N3 N4 01 P1 Q1 B1 C1
+D1 El F1 G1 H1 I1
+Right upper lobe lung ( 205 grams, 2 .0 x 2.0 x 0. 9 cm), station 2R
+(two sets ), 4R (six sets ), L, 7 (three sets ), 9, 10R, 11 (two sets)
+ DIAGNOSIS:
+Lung , right upper lobe, lobectomy: Grade 3 (of 4 ) adenocarcinoma,
+forming a 2.0 x 2 . 0 x 0.9 cm subpleural mass that puckers but does
+not involve the overlying visceral pleura . The tumor is located 4.2
+cm from the bronchial margin .   The margins of resection are negative
+for neoplasm.
+
+Lymph nodes , mediastinal , excision:
+             NO tumor is identified in multiple ( 6) right upper
+paratracheal ( station 2R) lymph nodes.
+             No tumor is identified in multiple ( 24) right lower
+paratracheal ( station 4R) lymph nodes.
+             NO tumor is identified in multiple ( 5) left lower
+paratracheal ( station 4L ) lymph nodes.
+             No tumor is identified in multiple (14) subcarinal
+( station 7 ) lymph nodes.
+             No tumor is identified in a single ( 1) pulmonary ligament
+( station 9) lymph node.
+Lymph nodes, intrapulmonary / hilar, excision:
+      -     No tumor is identified in multiple ( 8) intrapulmonary
+peribronchial lymph nodes.
+            No tumor is identified in multiple ( 2) right hilar
+( station 10R) lymph nodes.
+            No tumor is i dentified in multiple ( 2) interlobar (2)
+lymph nodes.
+
+
+
+
+                                                    -3
+                                                              pies                      aJ
+
+
+
+
+                                                                                     oR9/1-

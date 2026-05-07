@@ -1,0 +1,203 @@
+TCGA-64-1678
+
+
+
+                   agnosis: Lung CA
+
+Source of Specimen(s):
+I: 4R lymph nodes
+2: Additional 4R lymph nodes
+3: Additional 4R lymph nodes
+4: Level ?lymph nodes
+5: 4L lymph nodes
+6: 4R lymph node
+7: 2R lymph nodes
+8: Level II lymph nodes
+9: I OR lymph node
+10: right middle lobe
+II: IIR lymph nodes
+
+Gross Description:
+Received in eleven parts.
+
+Source of Tissue: I. Labeled # I, "4R lymph nodes"
+
+Frozen Section Diagnosis: IFS- NO TUMOR SEEN.
+
+Gross Desciiption: Received fi·esh for frozen section evaluation labeled
+"patient name and medical number, 4R lymph nodes" are 1.5 x 1.0 x 0.4 em of
+gray-black anthracotic stained lymph node fi·agments. They are submitted
+in toto for frozen section evaluation and the fi·ozen itself was submitted
+in one block.
+
+Designation of Sections: I FS
+
+Summary of Sections: FS-multiple
+*************************************************************************
+Source of Tissue: 2. Labeled# 2, "additional 4R nodes"
+
+Frozen Section Diagnosis: 2FS- NO TUMOR SEEN.
+
+Gross Description: Received fi·esh for frozen section evaluation labeled
+" patient name and medical number, additional 4R nodes" are 1.5 x 1.0 x 0.4
+em of gray-black anthracotic stained lymph node fragments. They are
+submitted in toto for fi·ozen section evaluation and the fi·ozen itself was
+submitted in one block.
+ Designation of Sections: 2FS
+
+ Summary of Sections: FS-multiple
+ *************************************************************************
+ Source of Tissue: 3. Labeled# 3, "additional 4R lymph nodes"
+
+                                         ..
+Frozen Section Diagnosis: 3FS- NO TUMOR SEEN .
+
+Gross Description: Received fresh for frozen section evaluation labeled
+"patient name and medical number, additional4R lymph nodes" are 1.0 x 0.8 x
+0.4 em of gray-black anthracotic stained lymph node fragments. They are
+submitted in toto for fi-ozen section evaluation and the fi-ozen itself was
+submitted in one block.
+
+Designation of Sections: 3FS
+
+Summary of Sections: FS-multiple
+*************************************************************************
+Source of Tissue: 4. Labeled# 4, "level 7 lymph nodes"
+
+Frozen Section Diagnosis: 4FS- NO TUMOR SEEN.
+
+Gross Description: Received fi·esh for frozen section evaluation labeled
+"patient name and medical number, level 7 lymph nodes" are 1.5 x 1.5 x 0.4
+em of gray-black anthracotic stained lymph node fragments. They are
+submitted in toto for frozen section evalu'ation and the fi·ozen itself was
+submitted in one block.
+
+Designation of Sections: 4FS
+
+Summary of Sections: FS-multiple
+*************************************************************************
+Source of Tissue: 5. Labeled# 5, "4L lymph nodes"
+
+Frozen Section Diagnosis: 5FS- NO TUMOR SEEN.
+
+Gross Descdption: Received fresh for fi·ozen section evaluation labeled
+"patient name and medical number, 4L lymph nodes" are 0.6 x 0.5 x 0.3 em of
+gray-black anthracotic stained tissue fi·agments. They are submitted in
+toto for fi·ozen section evaluation and the fi·ozen itself was submitted in
+one block.
+
+Designation of Sections: 5FS
+Summary of Sections: FS-multiple
+ *************************************************************************
+
+Source of Tissue: 6. Labeled# 6, "4R lymph node"
+
+Gross Description: Received fi·esh labeled " patient name and medical number,
+4R lymph node" is a 0.5 em gray-black anthracotic stained tissue fiagrnent
+which is submitted in toto in one block.
+
+Designation of Sections: block 6
+
+Summary of Sections: undesignated-1
+*************************************************************************
+
+Source of Tissue: 7. Labeled# 7, "2R lymph nodes"
+
+Frozen Section Diagnosis: 7FS- NO TUMOR SEEN.
+
+Gross Description: Received fi·esh for frozen section evaluation labeled
+"patient name and medical number, 2R lymph nodes" are 1.5 x 1.0 x 0.4 em of
+gray-black anthracotic stained lymph node fi·agrnents. They are submitted
+in toto for frozen section evaluation and the frozen itself was submitted
+in one block.
+
+Designation of Sections: 7FS
+
+Summary of Sections: FS-multiple
+*************************************************************************
+Source of Tissue: 8. Labeled# 8, "level II lymph nodes"
+
+Gross Description: Received fresh labeled "patient name and medical number,
+level 11 lymph nodes" are 1.0 x 0.8 x 0.3 em of red-purple to gray-black
+anthracotic stained tissue fi·agrnents. They are submitted in toto in one
+block.                                      '
+                                       ,, ;
+Designation of Sections: block 8
+
+Summary of Sections: undesignated-multiple
+**************************************************************************
+Source of Tissue: 9. Labeled# 9, "1 OR lymph node"
+
+Gross Description: Received fi·esh labeled "patient name and medical number,
+I OR lymph node" is a 1.4 em in greatest dimension gray-black anthracotic
+ stained lymph node which is entirely submitted in one block.
+
+ Designation of Sections: block 9
+
+ Summmy of Sections: undesignated-2
+ **************************************************************************
+ Source of Tissue: I 0. Labeled #I 0, "right middle lobe"
+
+ Frozen Section Diagnosis: I OFS- BRONCHIAL MARGIN IS NEGATIVE FOR TUMOR.
+
+Gross Description: Received fresh for frozen section consultation labeled
+"patient name and medical number, right middle lobe". It consists of a 120
+gram right middle lobe of lung measuring 10.5 x 8.5 x 5.5 em. The
+bronchial margin is procured for fi·ozen section and the residue is in
+ I OFS. Elsewhere the pleura has a Im·ge smooth indurated area with a few
+dark red adhesions and large palpable mass in the specimen. The vascular
+margins are grossly unremarkable. Opening of the bronchial tree discloses
+tumor coming to within 1.0 em from the margin and a few dark black hilar
+nodes measuring up to 0.8 em. There is!! large light middle lobe lung
+tumor measming 6.0 X 6.0 X 4.5 em OCCUpying approximately 30% of the
+middle lobe. Representative sections are submitted lOA-G.
+
+Designation of Sections: lOA- vascular margins, JOB- peribronchial lymph
+nodes, 1OC-1 OD- tumor in relationship to bronchial tree, 1.0 em from
+hilum, 1OE- tumor in relationship to adjacent parenchyma, 1OF- tumor in
+relationship to pleura, JOG- uninvolved lung
+**************************************************************************
+Source ofTissue: 11. Labeled# 11, "JIR lymph node"
+
+Gross Description: Received fi·esh labeled "patient name and medical number,
+liR lymph node" are 1.0 x 0.8 x 0.4 em of gray-black anthmcotic stained
+tissue fragments. They are submitted in toto in one block.
+
+Designation of Sections: block 11
+
+Summary of Sections: undesignated-multiple
+**************************************************************************
+Final Diagnosis:
+I. 4R lymph nodes, biopsy:
+- No tumor seen in four lymph nodes (0/4.).
+
+2. Lymph nodes, additional4R, biopsy:
+-No tumor seen in four lymph nodes (014).
+3. Lymph nodes, additional4R, biopsy:
+- No tumor seen in two lymph nodes (0/2).
+
+4. Lymph nodes, level 7, biopsy:
+No tumor seen in six lymph nodes (0/6).
+
+5. Lymph nodes, 4L, biopsy:
+-No tumor seen in two lymph nodes (0/2)..
+
+6. L)~nph node, 4R, biopsy:
+- One l~nph node, no tumor seen (0/1 ).
+
+7. Lymph nodes, 2R, biopsy:
+- No tumor seen in four lymph nodes (0/4).
+
+8. Lymph nodes, level 11, biopsy:
+-No tumor seen in four lymph nodes (0/4).
+
+9. L)mph node lOR, biopsy:
+- No tumor seen in four l~nph nodes (0/4).
+
+10. Lung, right middle lobe, lobectomy:
+-Poorly differentiated adenocarcinoma (6 em); no visceral pleural
+invasion seen; lymphovascular space invasion is not seen.
+- Bronchial and vascular margins are fi·ee of tumor.
+-Three peribronchial lymph nodes with no tumor seen (0/3).
+
+(pT2NoMx)

@@ -1,0 +1,39 @@
+UUID: FC6490C8 - 996A- 4FD9 - B0B5 - 65ED9EOAE6C7
+           TCGA- 62-A46V- G1A-PR                   Redacted
+III UIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+III IIIIII11111 IIIIII111IIIIIIIIIIIIIIIIIIIIIIIIII I III I IIII III III
+II       1111111111111111111111111111 IT 1111111111111111 HIM 11111
+          Pathology Report -Summary:
+
+          Material:
+
+          lung, left, lower lobe: 17.0 x 12.0 x 10.0 cm
+
+          tumor: 3.3 x 3.2 x 2.9 cm
+
+          Diagnosis:
+
+          Adenocarcinoma mixed subtype (partially papillary, micropapillary, acinar, solid)
+
+           Infiltration of pleura visceralis
+
+          pT2, pNO (0/11), pMx, G3                                               IC4_^ --0 -3
+
+                                                                           t^   rW GRti    1 \L           Wt           rv` +k   S-    +y-
+
+                                                                                                                                 S 15,3
+
+
+
+
+          Pathologist:
+                                                                                                                                     ^12'vl >-
+
+
+                                                                                          )iagnosis Discrepanty
+                                                                                          >rimary Tumor Site Discrepancy
+                                                                                          41PAf^ Discrepancy
+                                                                                          prior Mal^gr a.:cy Histor;
+                                                                                          )u,al/Synrhronous Pri
+                                                                                          -ase is
+                                                                                          levie w

@@ -1,0 +1,22 @@
+A description for each data field can be found in the 'Data description’ worksheet (yellow tab).
+Sample Collection Details
+
+Histology and staging
+
+Sample Sample Sample Site of Tissue Year of Age at Sample (Sample Days to Days to Type of Site of Tumour | Histology
+Number Type Preparation Sample Collection (yrs) |Comments /Procedure /|Diagnosis Procedure |Primary Size (cm)
+Collection Date (Histology)
+Eee =36TUMOUR 6FF Y Y | | Y | RESECT |RLNOS 3.10 03
+BUFFY FF Y | a m RESECT RLNOS 3.10 03
+
+Grade/ Pathological T |Pathological N Clinical M |\VALCSG Stage Histology Comments Slide URL
+
+Differentiation
+
+lll T2,NOS N2 Mo Tumour involves both upper [i 777 as
+and middle right lobes.
+
+HI T2,NOS N2 Mo Tumour involves both upper
+
+and middle right lobes.
+

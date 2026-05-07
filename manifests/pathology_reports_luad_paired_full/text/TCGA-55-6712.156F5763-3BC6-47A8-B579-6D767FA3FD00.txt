@@ -1,0 +1,116 @@
+Acctl Reg
+
+
+                                                       SURGICAL PATHOLOGY REPORT
+
+ DIAGNOSIS:
+ A. Lymph node, level 9l, excision:
+           Total number of lymph nodes received: One (1).
+           Total number of lymph nodes containing metastatic carcinoma: Zero (0).
+
+ B. Lymph node, level 5, excision:
+           Total number of lymph nodes received: One (1).
+           Total number of lymph nodes containing metastatic carcinoma: Zero (0).
+           Frozen section diagnosis confirmed.                          .
+
+ C. Lymph node, level 7, excision:
+           Total number of lymph nodes received: Two (2).
+           Total number of lymph nodes containing metastatic carcinoma: Zero (0).
+           Frozen section diagnosis confirmed.
+
+D. Lymph node, level 5, #2, excision:
+         Total number of lymph nodes received: One (1).
+           Total number of lymph nodes containing metastatic carcinoma: Zero (0).
+           Frozen section diagnosis confirmed.
+
+ E. Lung, left. pneumonectomy
+           Tumor Characteristics:
+ 1. Histologic type: Adenocarcinoma.
+2. Histologic grade: Poorly differentiated.
+3. Tumor site: Left upper lobe.
+4. Tumor focality: Unifocal.
+5. Tumor size: 4.5 em.
+6. Visceral pleural invasion: Present.
+7. Lymphovascular space invasion: Present.
+8. Tumor extension: Tumor confined to the lung.
+9. Treatment effect: Not identified.
+           Surgical Margin Status:
+1. Tumor distance from bronchial margin: 4.5 em.
+2. Tumor distance from parenchymal (stapled) margin: Not applicable.
+3. Tumor distance from pleural surface: Tumor present at pleural surface.
+           Lymph Node Status (from Parts A-E):
+1. Total number of lymph nodes received: Six (6).
+2. Total number of lymph nodes containing metastatic carcinoma: One (1).
+3. Extracapsular extension: Present, with invasion of the adjacent artery wall.
+           Other:
+1. Other significant findings: None.
+2. Frozen section diagnosis confirmed.
+3. pTNM stage: pT2aN1MX.
+ - - - - - - - - -----
+       Current NCCN practice guidelines recommend determination of EGFR and KRAS mutation status in adenocarcinoma of lung to help select patients for
+       Tyrosine·Kinas8 Inhibitor (TKI) therapy. EGFR-activating mutations have been shown to be significantly associated vlith response to TKls and KRAS
+       mutations are associated with TKI resistance. They are mutually exclusive in NSClC. Additionally. recent data show that ALK (Anaplastic Lymphoma
+       Kinase) gene rearrangements in adenocarcinoma of lung are associated with resistance to TKls and have favorable response rates to Crizotinib. the ALK
+       inhibitor agent currently in clinical trials, Mutation analysis for KRAS and EGFR-TK domain and ALK gene rearrangement by FISH is available as the
+       Lung Cancer Mutation Panel. Testing may be performed on paraffin-embedded tissue from the primary or metastatic tumor or pleural fluid cell block.
+       These tests are available on request as a panel or as individual assays.
+
+
+
+       CLINICAL HISTORY:
+       Preoperative Diagnosis: Malignant neoplasm bronch/lung.
+       Postoperative Diagnosis:
+       Symptoms/Radiologic Findings:
+
+       SPECIMENS:
+       A. Level 9L left lung.
+       B. Level 5 lymph node left lung.
+       C. Level 7 left lung.
+       O. Level 5 LN #2.
+       E. Left lung.
+
+
+
+
+       GROSS DEScpIPTlnM.
+       A. Container A                   ~19L left received is a 1.2 x 1.0 x 0.3 CIll. portion of shaggy, focally anthracotic tissue. The specimen is trisected and
+       submi~ted in ca~se!l~ _A1 labeled
+
+      B. Conla                    ~" :'evel5 LN left lung received is a 2.2 CIll. in greatest dimensions portion of fatly to focally anthracotic tissue. A portion of the
+      tissue is huullm~lCd Tor Trozen section. The frozen section remnant L<:. rA-suhmiUed for permanent in cassette 81 labeled                            The
+      remaining tissue is submitted in cassette 82 labeled ~"""--">(':I ••
+
+      C. Containe            ~ . Level? received are two up to 1.0 cm. in greatest dimensions anthracotic lymph nodes. Both lymph nodes are submitted for
+      frozen section. Frozen section remnant is resubmitted for permanent in cassette C1 labeled
+
+      D. Containe                   vel 5 LN #2 received is a 0.3 CIll. in greatest dimensions anthracotic lymph node witlt attached fatty tissue. The lymph
+      node is subr.m~t::u lunrozen section. Frozen section remnant is re-submitted for permanent in cassette 01 labele(
+
+      E. Container                      lung received is a 706.3 gram left pneumonectomy consisting of a 24.0 x 12.4 x 4.2 CIll. upper lobe and 19.5 x 8.7 x 3.9
+      em. lower lobe. I ne pleura is predominantly smooth, tan to slightly violaceous, focally puckered near the mid aspect of the superior upper lobe; the
+      pleura at this area is inked black. The lung parenchyma deep to the puckered pleura reveals a 4.5 x 2.7 x 2.0 em. indurated, fairly circumscribed, tan-
+      white tumor which extends to the pleura and is 4.5 em. from the bronchial resection margin. The bronchial and vascular resection margins are free of
+      tumor. At the hilum, there is a 3.8 em. in greatest dimensions indurated, anthracotic, lymph node vs. questionable tumor nodule. The lung parenchyma
+      of the upper lobe is diffusely spongy, tan-brown, with focal emphysematous change. The parenchyma of the lower lobe is homogeneously spongy. tan-
+      brown with no nodules or mass lesions. The bronchial resection margin is submitted for frozen section.
+
+      Representative sections are submitted for Genomics studies in two cassettes l a b e l e _
+
+      The frozen section rp.mnont ;~     "I..-:"~,.,I '"')r permanent in cassette E1 labeled 77539. Representative sections of the remaining tissue are submitted
+                                      r .........
+
+      in cassettes labeled                              lows: E2--vascular resection margins; E3 - E5 tumor to inked pleura; E6 - E7 representative nodule at
+      hilllm' E8--representative remaining upper lobe; E9--representative lower lobe.
+
+
+
+
+      INTRA-OPERATIVE CONSULTATION:
+      FSA: Negative for 'tumor. no lymphoid tissue present
+
+      FSC: Negative for tumor (0/2).
+
+      FSO: Negalive for tumor (0/1)~
+
+_,--",=,-""Sronchial margin - negative for tumor.
+                                                     -~-~-~.-~

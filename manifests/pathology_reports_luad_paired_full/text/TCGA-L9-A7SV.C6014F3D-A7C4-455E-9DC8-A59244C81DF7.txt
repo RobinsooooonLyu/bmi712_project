@@ -1,0 +1,269 @@
+UUID : C6014F3D -A7C4- 455E - 90C8 - A59244C81DF7
+                                           TCGA-L9-A7SV- 01A-PR                  Redacted
+RUN DATE:                         I I 1101111 01 IIII IIIIIIIII II IIIIII III IIIIII111111I IIIIII I I I 1111                                  PAGE 1
+RUN TIME: _                       I I I 111111111 I IIIII I I I I I I II II 1 IIII 1 II I II II I I IIII IIIIII II II III
+RUN USER:                         I I IIIIIIIIII 111111 110IIIII II111IIIIIII111111IIIIII IIIIII1 11III
+PATIENT:                                                      ACCT # MINOMM LOC:
+                                                              AGE/SX: -      ROOM:
+REG DR:                                                       DOB:           BED :
+                                                              STATUS:
+
+
+SPEC   #:                 RECD:                                        iTATUS:
+                          COLL.                                        TIME IN FORMALIN:                                          hrs.
+                                                                      COLD ISCHEMA TIME:                                          mins.
+
+CLINICAL INFORMATION:
+ Pre-Op Diagnosis : Lung CA
+          Remarks:
+      Specimen (s): A.  Level 7                                                                                       H.    Level 10 lymph node
+                     B. Level R4                                                                                      I.    New bronchial margins
+                     C. Chest wall lymph node                                                                         J.    Level 11
+                     D.     Left upper lobe lesion                                                                    K.    Level 5
+                     E.     Level 5 lymph node                                                                        L.    Level 6
+                     F.     Level 10 lymph nodes                                                                      M.    Level 4
+                     G.     Left lower lobe bronchial margin                                                          N.    Level 10
+
+
+
+
+                                                                                                                 J iD-b-L3
+A,   LEVEL 7:
+      -    REACTIVE LYMPH NODE
+                                                                                                                                          t,1&5 pi qo14
+B.   LEVEL R4:
+      -    REACTIVE LYMPH NODE
+                                                                                                                                                        q   3
+C.   CHEST WALL LYMPH NODE:
+      -    REACTIVE LYMPH NODE                                                                               ^ J^^ioli3
+D.   LEFT UPPER LOBE LESION:
+      -    APICAL SCAR WITH CALCIFICATIONS
+
+E.   LEVEL 5 LYMPH NODE:
+      -    REACTIVE LYMPH NODE
+
+F.   LEVEL 10 LYMPH NODES:
+      -    REACTIVE LYMPH NODE
+
+G.   LEFT LOWER LOBE BRONCHIAL MARGIN:
+      -    ADENOCARCINOMA
+           SEE COMMENT FOR DETAILS
+
+H.   LEVEL 10 LYMPH NODE:
+           REACTIVE LYMPH NODE
+
+I.   NEW BRONCHIAL MARGINS:
+           REACTIVE LYMPH NODE
+
+J.   LEVEL 11:
+
+                                        ** CONTINUED ON NEXT PAGE **
+RUN DATE:                                                                                PAGE 2
+RUN TIME:
+RUN USER:
+
+SPEC    a:                   PATIENT:                                                  (Continued)
+
+
+                                        (Continued)
+
+             REACTIVE LYMPH NODE
+
+K.     LEVEL 5:
+             REACTIVE LYMPH NODE
+
+L.     LEVEL 6:
+             REACTIVE LYMPH NODE
+
+M.   LEVEL 4:
+      -    REACTIVE LYMPH NODE
+
+N.   LEVEL 10:
+           NON-NEOPLASTIC LUNG TISSUE
+           LYMPH NODE NOT IDENTIFIED
+
+
+
+
+COMMENT(S)
+
+COLLEGE OF AMERICAN PATHOLOGISTS' PROTOCOL FOR EXAMINATION OF SPECIMENS WITH PRIMARY NON
+SMALL-CELL CARCINOMA OF THE LUNG. BASED ON AJCC/UICC TNM. 7TH EDITION
+The following classification should be adjusted based on additional clinical information,
+
+SPECIMEN:                               Lung
+PROCEDURE:                              Lobectomy
+SPECIMEN INTEGRITY:                     Intact
+SPECIMEN LATERALITY:                    Loft
+TUMOR SITE:                             Lower lobe
+TUMOR SIZE:                             Greatest dimension;   3.7 cm
+TUMOR FOCALITY:                         Unifocal
+HISTOLOGIC TYPE:                        Adenocarcinoma
+HISTOLOGIC GRADE:                       G2
+VISCERAL PLEURA INVASION:               Not identified
+TUMOR EXTENSION:                        Not applicable
+MARGINS:                                All margins uninvolved by invasive carcinoma
+                                             Distance of invasive carcinoma from closest
+                                             margin:   3 mm, bronchial vascular
+TREATMENT EFFECT:                       Not applicable
+LYMPH-VASCULAR INVASION:                Present
+PATHOLOGIC STAGING:                     Primary tumor:   pT2a
+                                        Regional lymph nodes:   pN1
+                                           Number of lymph nodes examined: 15
+                                           Number of lymph nodes involved:    1
+                                             (peribronchial attached to lobectomy specimen)
+                                        Distant metastasis:   not applicable
+ADDITIONAL PATHOLOGIC FINDINGS:         Emphysematous changes
+
+
+                                   ** CONTINUED ON NEXT PAGE **
+RUN DATE:                                                                            PAGE 3
+RUN TIME:
+RUN USER:
+
+SPEC U:                     PATIENT:                                               (Continued)
+
+
+GROSS DESCRIPTION:
+A is labeled "level 7", is received in the unfixed state and consists of two pieces of
+gauze from which the surface is scraped tan-black fragments of lymph node aggregating to 1
+cm, entirely frozen in block Al.
+
+B is received in the unfixed state in the operating room labeled "level R4". Multinta
+black-tan pieces of lymph node aggregate to 1.2 cm. entirely frozen in block Bi.
+
+C is received in formalin labeled with the patient's name and "chest wall lymph node" are
+two anthracotic lvmnhnid tissue fragments which are 0.3 and 0.4 cm, submitted in toto in
+cassette Cl.
+
+D is received in the unfixed state in the operating room labeled "left wedge upper lobe".
+The single wedge of lung measures 5 x 1 x 1 cm. The staple line is removed. The
+parenchyma is blackish-red.   There is an ill-defined 0.6 mm firm area in this area
+beneath the pleura.   This lesion is entirely frozen in block Dl. Additional lung is
+submitted in cassette 2.
+
+E.  Received in formalin labeled with the patient's name and "level 5 lymph node" is a 1.5
+x 0.8 x 0.3 cm gray-black, focally disrupted anthracotic lymph node. The node is submitted
+in toto in cassette El.
+
+F.  Received in formalin labeled with the patient' s name and "level 10 lymph node" are two
+blackened, delicate linear anthracotic lymph nodes.   The nodes average 1.0 x 0.7 x 0,3 cm,
+submitted in toto in cassette Fl,
+
+G.   Received fresh for frozen section diagnosis and for tissue banking labeled "left lower
+lobe" is a 230 gram, 14.0 x 13.0 x 4.5 cm lobe of lung. The pleural surface is pink-tan to
+red and congested with diffuse anthracotic marbling.    The staples are removed, and the
+bronchial margin is sampled for frozen section diagnosis. The pleural surface is puckered
+in the region of the hilum. This region is inked blue and a section is placed
+perpendicular down the length of the bronchus. There is a 3.7 x 3.3 x 3.0 cm tumor mass
+present.   The tumor is at the hilum and involves the bronchus. The tumor comes to within
+1.6 cm of the bronchial margin at the bronchus, and adjacent to the bronchus is 0.3 cm to
+the stapled bronchial margin.   The tumor focally abuts and puckers the pleura and surrounds
+the hilar vessels.   The remainder of the parenchyma is congested predominantly in the
+central aspect of the specimen. The parenchyma appears spongy superiorly and becomes
+consolidated surrounding the hilum.   The basilar parenchyma has a more normal, unremarkable
+appearance.   No additional lesions or tumor-like masses are identified.   Tumor is selected
+and sampled for tissue banking, and the bronchial margin is submitted for frozen section
+diagnosis.   The specimen is sampled as labeled:
+      G1        -    bronchial margin frozen section residue
+      G2        -    vascular margins and hilar lymph nodes
+     G3        -     sections showing tumor to puckered pleura and bronchus
+     G4-G5     -     additional perpendicular 'section of tumor extending up bronchus
+     G6-G7     -     additional sections of tumor to pleura and bronchus
+     G8-G9     -     sections of tumor to additional hilar structures to include vessels
+     G10       -     sections from superior lower lobe
+     Gil       -     sections of mid lower lobe (adjacent to tumor)
+     G12       --    inferior, basilar aspect of lower lobe sampled
+
+
+                                ** CONTINUED ON NEXT PAGE **
+                                                                                         PAGE 4
+RUN DATE:
+RUN TIME:
+RUN USER:
+
+                            PATIENT:                                                   ( Continued)
+SPEC
+
+
+GROSS DESCRIPTION :   ( Continued)
+H. Received in formalin labeled with the patient ' s name and " level 10 lymph node" is a 1.0
+x 0.7 x 0 . 3 cm anthracotic lymph node , submitted in toto in cassette Hi.
+
+I.  Labeled " new bronchial margin " are two tissue fragments with numerous embedded staples.
+The tissue fragments include a 0.6 x 0 . 3 x 0.1 cm portion of focally anthracotic to
+                                                    x 0.5 x 0.4 cm anthracotic lymph node. The
+pink - tan soft tissue and a nodular , linear 1 . 0
+staples are removed , and the tissues are submitted in toto for frozen section diagnosis
+with the frozen section residue in cassette Ii.
+
+J.  Labeled " level 11 lymph nodes ".     Two black lymph nodes measure 0.5 and 0 . 8 cm. entirely
+submitted in cassette J.
+
+K.  Labeled " level 5 lymph node ". One irregular shaped black lymph node with some tannish
+tissue measures 1.5 cm , entirely submitted in cassette K.
+
+L.  Labeled " level 6 lymph nodes ".     Two black nodes measure 0.6 cm, entirely submitted in
+cassette L.
+
+M.  Labeled " level 4 lymph node ".    A single floating 1.1 cm soft tan piece of tissue is
+entirely submitted , cassette M.
+
+N.  Labeled " level 10 lymph node ". A single 1,4 cm lymph node , has some staples removed
+from the outer surface . The staple line is removed. The specimen measures 9 mm, entirely
+submitted in cassette N.
+
+
+INTRAOPERATIVE CONSULTATION:
+FROZEN SECTIONS:
+
+A.     LEVEL 7 LYMPH NODE:
+             REACTIVE LYMPH NODE FRAGMENTS
+
+B.     LEVEL R4 LYMPH NODE:
+             REACTIVE LYMPH NODE FRAGMENTS
+
+D.     LEFT UPPER LOBE WEDGE RESECTION:
+        -    APICAL SCAR WITH CALCIFICATIONS
+             NO EVIDENCE OF MALIGNANCY
+
+G.     LEFT LOWER LOBE BRONCHUS WITH MARGIN:
+             MARGIN NEGATIVE
+
+ I.    NEW BRONCHIAL MARGIN:
+             REACTIVE LYMPH NODE
+
+
+
+
+                                     ** CONTINUED ON NEXT PAGE **
+RUN DATE:                                                                                     PAGE 5
+RUN TIME:
+RUN USER:
+
+SPEC i#!^J                   PATIENT ;                                                ^^• (Continued)
+
+
+
+
+         PHOTO I)OCUMENTATION-1
+Image                      Picture Copy Error
+
+Signed       ( signature on file)
+
+
+
+
+                                         END OF REPORT
+
+
+                                                         Criteria
+                                                                                          J    es      No
+                                                         Diagnosis Discrepancy
+                                                         Piimarv_Tumo. Site Discrepancy
+                                                         4,; i'AA Discrepancy
+                                                           for Melignv.cy History
+                                                         Duul,rSrnchro-'ous Prim.ry
+
+
+                                                         R2VIe

@@ -1,0 +1,129 @@
+SPECIMEN
+   A. LUNG - 1. Needle biopsy left uper lung lobe mass -
+   B. LUNG - 2. Left upper lung lobe - FS for Margen's
+   C. LYMPH NODE(S) - 3. Level 10 lymph node
+   D. LYMPH NODE(S) - 4. Level 7 lymph node
+   E. LYMPH NODE(S) - 5. Level 8 nodes
+   F. LYMPH NODE(S) - 6. Level 9 nodes
+
+CLINICAL INFORMATION
+Left lung mass.
+
+
+
+GROSS DESCRIPTION
+The specimens are received in six containers, each labeled with the patient's na
+
+Part A is received fresh for frozen section diagnosis labeled "needle biopsy left upper lung lobe" and
+consists of seven cylindrical portions of tan-white tissue ranging from 0.1 x 0.1 cm up to 0.5 x 0.1 cm.
+The specimen is submitted in toto for frozen section diagnosis as (FSA 1). The frozen section residue is
+submitted as (A 1).
+
+Frozen section diagnosis:
+FSA 1 - Needle biopsy left upper lobe - "positive for non-small-cell carcinoma."
+
+
+Part B is received fresh for frozen section diagnosis labeled "left upper lobe" and consists of a 125 gm, 12
+x 8 x 4 cm lobe of lung including a 0.5 cm length of exposed bronchus. The mildly anthracotic pleura has
+a 1 cm retracted area over a palpable mass near the hilum. The bronchial margin is taken en face and
+submitted for frozen section diagnosis as (FSB1). Sections show a well-defined 2.5 x 2.5 x 2 cm firm tan-
+white subpleural mass, which corresponds to the pleural retraction and is located approximately 1 cm
+from the bronchial margin. The mass grossly communicates with the bronchus. The remainder of the
+specimen consists of spongy light-grey parenchyma without additional nodules or areas of consolidation.
+A 0.5 cm peribronchial lymph node is dissected from the specimen. The frozen section residue and
+representative sections are submitted as (B1 )-(B7).
+
+SLIDE KEY
+B1 - Bronchial margin en face for frozen section
+B2 - Vascular margin en face
+B3 - Tumor with inked pleura
+B5-B5 - Tumor
+B6 - Uninvolved parenchyma
+B7 - One lymph node bisected
+
+
+              .. - .. - ..
+Frozen section diagnosis:
+FS81 - Left
+Examined by
+                          nchial margin - "Negative for carcinoma."
+
+
+Part C is received fresh labeled "level 10 lymph nodes" are four anthracotic tan tissue fragments ranging
+from 0.3 cm-0.8 cm. The specimen is submitted in toto as (C1).
+
+Part 0 is received fresh labeled "level 7 lymph nodes" and consists of two 0.8 cm and 1.9 cm portions of
+tan tissue. The specimen contains two 1.7 cm and 0.6 cm anthracotic lymph nodes. Poles were bisected
+and the specimen is submitted in its entirety with one lymph node per cassette as (01) and (02).
+
+Part E is received fresh labeled "level 8 lymph nodes" and consists of a 1.5 cm portion of adipose tissue,
+which contains a 1 cm anthracotic lymph node. The lymph node is bisected and submitted in its entirety
+as (E1).
+
+Part F is received fresh labeled "level 9 lymph nodes" and consists of a 1.4 cm portion of adipose tissue,
+which contains a 0.7 cm anthracotic lymph node. The lymph node is bisected and submitted in its entirety
+as (F1).
+MICROSCOPIC DESCRIPTION
+                     SURGICAL PATHOLOGY CANCER CASE SUMMARY, LUNG
+
+LUNG: Resection.
+SPECIMEN TYPE: Left upper lobe lobectomy.
+TUMOR SITE: Left upper lobe.
+TUMOR SIZE: 2.5 x 2.5 x 2 cm.
+HISTOLOGIC TYPE: Adenocarcinoma.
+HISTOLOGIC GRADE: The tumor shows solid nests of cells as well as areas where the tumor lines
+glandular spaces. The majority of the tumor is solid. There is a focally marked pleomorphism in the
+tumor cells with large high irregular and lobated nuclei. Mitotic figures are fairly abundant. The tumor is
+situated within desmoplastic stroma, which is moderately inflamed.
+EXTENT OF INVASION: The tumor comes close to the visceral epithelial cell surface and, therefore, and
+elastin stain was performed with an appropriate control. The tumor comes close to, but does not invade
+through the elastin fibers.
+
+        T1, tumor 3 cm or less in greatest dimension, surrounded by lung and visceral pleura.
+MARGINS: Margins uninvolved by tumor.
+Distance of tumor from closest margin: 1 cm.
+ATERIAL, VENOUS/LYMPHATIC VESSEL INVASION: Absent.
+REGIONAL LYMPH NODES: NO, no regional lymph node metastasis.
+A total of 9 lymph nodes are examined, none of which are positive (0/9).
+LOBECTOMY LYMPH NODES:
+Number examined: 1.
+Number positive: O.
+LEVEL 10 LYMPH NODES:
+Number examined: 4.
+Number positive: O.
+LEVEL 7 LYMPH NODES:
+Number examined: 2.
+Number positive: O.
+LEVEL 8 LYMPH NODE:
+Number examined: 1
+Number positive: O.
+LEVEL 9 LYMPH NODE:
+Number examined: 1
+Number positive: O.
+DISTANT METASTASIS: MX, cannot be assessed.
+_ A G E : IA (T1 NO MX).
+
+
+ FINAL DIAGNOSIS
+LUNG, LEFT UPPER LOBE, BIOPSY
+         Moderately differentiated invasive adenocarcinoma.
+
+LUNG, LEFT UPPER LOBE, LOBECTOMY
+         Invasive, moderately differentiated adenocarcinoma.
+         Tumor measures 2.5 cm in greatest dimension.
+         No evidence of vascular invasion.
+         1 lymph node negative for metastatic carcinoma (0/1).
+
+LEVEL 10 LYMPH NODES, DISECTION
+          4 lymph nodes negative for metastatic carcinoma (0/4).
+
+LEVEL 7 LYMPH NODES, DISECTION
+          2 lymph nodes negative for metastatic carcinoma (0/2).
+
+LEVEL 8 LYMPH NODE, BIOPSY
+          1 lymph node negative for metastatic carcinoma (0/1).
+
+LEVEL 9 LYMPH NODES, BIOPSY
+          1 lymph node negative for metastatic carcinoma (0/1).
+
+CPT CODE(S): 88309X1, 88307X2, 88305X3, 88331X2, 88313

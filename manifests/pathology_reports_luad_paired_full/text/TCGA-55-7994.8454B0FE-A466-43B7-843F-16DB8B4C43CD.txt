@@ -1,0 +1,178 @@
+SURGICAL PATHOLOGY:
+
+P ROCEDU R E   DAiT.E.:••R.E.CEIVE D DATE:      REPORT DATE: _ _
+
+
+
+COPY TO:
+
+
+
+10 Consultation
+FS DIAGNOSI
+patient ID)" by
+                  ':-.-··-1· ed to
+                             ampus
+                                                 _POSitiVe
+
+
+Pre-Op Diagnosis
+Right lung mass
+Post-Op Diagnosis
+Same as above
+Clinical History
+Nothing indicated
+Gross Description :
+Four parts
+
+Container labeled                                    node" has 1 .6 x
+1.0 x 0.5 cm of g                                  with multiple
+staples. The tissue away from the staples is submitted in a single
+cassette.
+
+Container l a b e l e d _ y m P h node" has 2 .0 x
+1 .6 x 0.9 cm of lobu a e 0 s aggy an- gray 0 yellow fibroadipose
+tissue fragments which are entirely submitted in a single cassette.
+
+Container labele~ right upper lobe lung" has a
+231 gram previo~ed portion of recognizable
+pulmonary parenchyma received after tissue harvest for genomic
+study . The specimen appears grossly consistent with right upper lobe
+of lung measuring on reconstruction 18.2 x 13.4 x 5 .7 cm. The margin
+of resection is the bifurcation of the tertiary bronchi. Adjacent to
+the bronchial margin is 1 .6 cm gray-black fleshy nodule with a
+fleshy gray-black cut surface . The pleura is wrinkled mottled
+gray-tan to pink with moderate anthracotic streaking . Noted on the
+posterior aspect at a point 3 .5 cm from the apex there is a 4 .6 x
+3.5 cm area of indurated pleural umbilication . The specimen is
+sectioned within this region to reveal a well defined 7 .8 x 6 .2 x
+4.6 cm lobulated tan-gray gritty fibrotic nodule with a gritty
+gray-tan necrotic fibrotic cut surface. This is seen at its nearest
+point 3 .5 cm from the nearest bronchial margin. An apparent
+bronchial connection is identified. The bronch ial margin is shaved
+and submitted for frozen section which is reportedlill"      0 neoplasm
+(reported to                    positive patient 10)" by          On
+sectioning, the lesion grossly extends to but not th               leura
+on the posterior aspect. On sectioning , the remaining parenchyma
+reveals crepitant gray-tan to pink moderately anthracotic streaked
+parenchyma without additional gross lesions. Noted on the lateral
+pleura is a 0 .5 x 0.4 x 0 . 1 cm deep brown to black plaque. Also
+                                    are three tissue cassettes each
+                                     Representative sections are submitted
+labeled as                        section residue; B - peribronchial
+nodule bisected; C-G - lesion and surrounding tissue; H - pleural
+with lateral plaque ; I - remaining uninvolved parenchyma.
+
+Container labeled                                  lymph node" has a 2.4
+x 1 .7 x 0 .6 cm irregular portion of gray-tan to yellow
+
+
+
+
+-
+fibroadipose-appearing tissue which is bisected and entirely
+submitted in a single cassette.
+
+
+
+Microscopic Description:
+Sections of the first specimen identified as a level 10 Ivmoh
+~her identified as specimen #1 from the patient
+                                                               Wille
+~re examined . These show portions of lymph node and fibrous
+tissue . The lymph node shows focal germinal center formation .
+There are h istiocytes present within the sinusoids focally.
+Immunohistochemical stains are performed to verify that these are
+histiocytes. The cells in question are positive for CD68 and
+negative for AE1/AE3 . The control slides stain appropriately.
+Additionally , special stains for acid fast bacilli and fungi are
+perfonmed on this material. No organisms are seen in these
+preparations. The control slides stain appropriately.
+
+Sections of the second specimen identified as level 7 lymph node
+show fragments of lymph node and fibroadipose tissue. The lymph node
+tissue shows germinal center formation. No areas of metastatic
+carcinoma are seen .
+
+Sections of the third specimen from the right upper lobe of the lung
+show the bronchial margin to be histologically unremarkable.
+Sections of a peribronchial lymph node show portions of a lymph node
+with small germinal center formation and numerous pigment containing
+histiocytes. No areas of metastatic carcinoma are seen. An
+additional peribronchial lymph node is seen in one of the tissue
+sections of the lung. No areas of carcinoma are seen in this lymph
+node as well . The large neoplasm is composed of sheets of cells
+that have abundant slightly granular cytoplasm and enlarged ,
+markedly pleomorphic irregular nuclei with ' prominent nucleoli.
+Focal areas of necrosis are seen. The neoplasm e x tends to the
+pleura in one area . The pleura has been marked with India ink and
+in this one particular area, the neoplasm is covered by ink. There
+is no extension beyond the pleura seen in this area. Sections of
+uninvolved lung show dilated air spaces from broken alveolar walls.
+The broken alveolar walls show some fibrous clubbing .
+
+Sections of the four specimen identified as the level 4 right lymph
+node show portions of an unremarkable lymph node with no areas of
+metastatic carcinoma.
+
+Final Diagnosis
+Lymph node, level 10, excision:
+ No metastatic carcinoma present.
+ Reactive hyperplasia with chronic inflammation .
+ No organisms seen on special stains, diagnosis confirmed by
+immunohistochemical stains.
+Lymph node, level 7, excision:
+ No metastatic carcinoma present .
+ Mild reactive hyperplasia.
+Lymph node, level 4 right, excision:
+ No metastatic carcinoma present.
+ Mild reactive hyperplasia.
+Lung, right upper lobe, lobectomy:
+ Tumor characteristics:
+ Histologic type: Poorly differentiated adenocarcinoma.
+ Grade: 3
+ Tumor site: Right upper lobe.
+ Specimen integrity: Specimen intact.
+ Tumor focality: Unifocal.
+ Tumor size: 7.8 x 6.2 x 4.6 cm.
+ Visceral pleural invasion: Present, no extension beyond pleura
+    identified histologically.
+ Lymphovascular space invasion: No.
+ Treatment effect: Not applicable.
+ Surgical margin status :
+  Tumor distance from closest bronchial margin : 3.5 cm .
+  Tumor d istance from pleural space: Neoplasm involves visceral
+    peritoneum.
+ Lymph node status:
+  Total number of lymph nodes received: 5 (three as stated above
+    and two peribronchial lymph nodes within the specimen).
+  Total number of lymph nodes containing metastatic carcinoma: 0
+ Other:
+  Moderate pulmonary emphysema.
+
+
+
+
+                                                X2_
+  Diagnosis of adenocarcinoma confirmed by immunohistochemical
+    stains. PAS 9
+
+Stage: pT3NO
+
+CPT: 88331,88305 x3 , 88309, 88342 x6, 88313
+
+Comments
+The permanent section diagnosis confirms the frozen section
+diagnosis.
+
+This report has been finalized at the
+
+This test was _ o r m a n c e characteristics
+determined by                          aboratory. It has not been
+cleared or approve      y    e . . ood and ·Drug Administration. The
+FDA has determined that such clearance or approval is not necessary.
+ This test is used for clinical purposes. It should not be regarded
+as investigational or for research. This laboratory is certified
+under the Clinical Laboratory Improvement Amendments o f _
+~~~~~as qualified to perform high complexity clinical
+laboratory testing .

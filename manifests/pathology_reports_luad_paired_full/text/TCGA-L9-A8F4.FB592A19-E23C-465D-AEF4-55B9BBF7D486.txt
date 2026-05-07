@@ -1,0 +1,164 @@
+UUID : FB592A19 - E23C - 465D-AEF4 - 55B9BBF7D486
+                       TOGA - L9-A8F4 - 01A-PR               Redacted
+
+              III II II I I 11 1111I I IIIIIIIIII I IIII I IIIIIIIIIIIIIII I IIIIIII111111 111
+RUN DATE:     III IIII I II IIIIII11 11 T HI N 111 111 11 11 IIISIIIIIIII111111 III III             OMMMMMMEW                 PAGE 1
+RUN TIME:
+RUN USER:
+              I II IIIIII III I III I II IIIIIIII1 I II IIII II II III IIIIIIIIIIIII IIII III       Lab Database:
+
+PATIENT:                                                                          ACCT 9: -                    LOC: -
+                                                                                  AGE/SX:                      ROOM:
+REG DR:                                                                           DOB:    {                    BED:
+                                                                                  STATUS:t           aw
+
+
+
+SPEC                                   RECD :                                              STATUS:       PER FORMED AZT
+                                       COLL:                                               TIME IN FORMALIN:         hrs.
+                                                                                          COLD ISCHEMA TIME: 0:00    mins.
+
+CLINICAL INFORMATION:
+ Pre-Op Diagnosis:   Adenocarcinoma
+          Remarks: 'Tissue banking
+      Specimen(s):   A. Left upper wedge
+                     B. Left pleural biopsy
+                     C. Level 5 lymph node
+
+                                                                                                (      C^z^c        xt0a
+
+
+                                                                                                                     W&IP't
+A.   LUNG. LEFT UPPER LOBE. WEDGE RESECTION:
+       -    INVASIVE POORLY DIFFERENTIATED ADENOCARCINOMA
+       -    TUMOR MEASURES 2.7 CM IN GREATEST DIMENSION AND INVADES VISCERAL PLEURA (pT2)
+       -    INTRATUMORAL LARGE VESSEL INVASION IDENTIFIED
+       -    PARENCHYMAL MARGIN NEGATIVE AND MEASURES 8 MM
+
+B. TISSUE SUBMITTED AS LEFT PLEURAL BIOPSY:
+     -    CAUTERIZED CHEST MUSCULAR WALL AND PLEURAL TISSUE WITH CHRONIC INFLAMMATION
+     -    NEGATIVE FOR CARCINOMA
+
+C. LEVEL V LYMPH NODE, RESECTION:
+     -    TWO (2) ANTHRACOTIC LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA
+
+
+
+
+COMMENT(S)
+
+The mass is an invasive poorly differentiated adenocarcinoma. The visceral pleura is
+extensively involved by the tumor with ink present on tumor at the surface. Within the mid
+portion of the tumor is an area of necrosis with venous invasion noted.
+
+CAP PROTOCOL FOR THE EXAMINATION OF SPECIMENS WITH PRIMARY NON-SMALL CELL CARCINOMA, SMALL
+CELL CARCINOMA OR CARCINOID TUMOR OF THE LUNG
+BASED ON AJCC/UICC TNM 7TH EDITION
+
+SPECIMEN:                                                                 Lung
+PROCEDURE:                                                                Wedge resection
+SPECIMEN INTEGRITY:                                                       Intact
+SPECIMEN LATERALITY:                                                      Left
+TUMOR SITE:                                                               Upper lobe
+TUMOR SIZE:                                                               Greatest dimension: 2.7 cm
+TUMOR FOCALITY:                                                           Unifocal
+
+                                                                 - CONTINUED ON NEXT PAGE "r"
+RUN DATE:                                                                              PAGE 2
+RUN TIME:                                     Specimen Inquiry
+RUN USER:                                             Lab Database:
+
+SPEC tt:                    PATIENT:                                                 (Continued)
+
+
+
+COMMENT ( S)                               (Continued)
+
+HISTOLOGIC TYPE:                       Adenocarcinoma
+HISTOLOGIC GRADE:                      G3: poorly differentiated
+VISCERAL PLEURA INVASION:              Present
+MARGINS:                               If all margins uninvolved by invasive carcinoma:
+                                            Distance of invasive carcinoma from closest margin:
+                                            8 mm parenchymal
+TREATMENT EFFECT:                      Not applicable
+LYMPH-VASCULAR INVASION:               Present
+PATHOLOGIC STAGING:                    Primary tumor: pT2a
+                                       Regional lymph nodes: pNO
+                                       Number of lymph nodes examined: 2
+                                       Number of lymph nodes involved: 0
+                                       Distant metastasis: Not applicable
+
+
+
+GROSS DESCRIPTION:
+The specimen is received in three parts. Each part is labeled with the patient's name
+
+A.  Received fresh for tissue banking with tissue collected at 9 a .m. for tissue banking
+and designated "left upper wedge" is a 31 gram, 14.0 x 3.5 x 2.0 cm wedge of lung tissue.
+The pleura is mottled and pink-tan with a focally puckered lesion. The area of puckering
+corresponds to an indurated tumor mass. The puckered area is 2.5 cm. Staples are removed
+with the staple margin inked black.   The pleural surface is inked blue. The wedge is
+sectioned to have a 2.7 x 2.0 x 2.0 cm indurated tumor mass. The tumor diffusely involves
+the pleural surface in the region of puckering and comes to within 1.0 cm of the black
+inked staple margin .  The tumor has a tan -white to mottled gray-black and anthracotic
+appearance.  The lung parenchyma adjacent to the tumor has a spongy, loose consistency with
+dilated air spaces consistent with possible emphysemic changes. Sections of the tumor are
+sampled for tissue banking with the tissue collected at                    The remainder of
+the lung wedge biopsy is sectioned to have a spongy, focally golden-yellow to tan-brown
+appearing cut surface.   No additional lesions are identified.   Representative sections are
+sampled to include the tumor to the nearest inked staple margin and puckered pleura in
+cassettes Al-A5 with AS being a random representative section of the parenchyma at the
+opposite pole of the wedge sampled.
+
+B.  Labeled "left pleural biopsy" is a 1.5 x 0.9 x 0.7 cm indurated fibroconnective tissue
+biopsy.  The biopsy has focal adherent clotted blood. The specimen is bisected and
+entirely submitted in cassette B1.
+
+C.  Labeled "level 5 lymph nodes" are two anthracotic, red-brown, nodular lymphoid tissue
+fragments.  The nodes are 6.0 x 0.3 x 0.3 cm and 0.8 x 0.3 x 0,2 cm. The tissues are
+submitted in toto in cassette C1.
+
+
+INTRAOPERATIVE CONSULTATION:
+A. LEFT UPPER LOBE WEDGE:
+     -    TUMOR PRESENT , ADEQUATE FOR TISSUE BANKING WITH TISSUE PROVIDED TO TISSUE BANK
+          COORDINATOR
+
+                                       CONTINUED ON NEXT PAGE **
+RUN DATE:                                                                                        PAGE 3
+RUN TIME:                                       Specimen Inquiry
+RUN USER:                                               Lab Database:
+
+SPEC #:q,"- -                  PATIENT:        WAIM                                        (Continued)
+
+
+
+INTRAOPERATIVE CONSULTATION: (Continued)
+
+
+
+
+Image                         Picture Copy Error
+Image                         Picture Copy Error
+
+Signed          (signature on file)
+
+
+
+
+                                          ** END OF REPORT **
+
+
+                                                                                                 SS ;
+                                                                                                   _^ Yes   _
+
+
+                                                                        _   nor
+                                                                        I
+
+
+
+
+                                                                                  VIA-711j, isuu:.i:-
+                                                                                  I
+                                                                                      TFxre 1-          A 1 1 1 I r I I.

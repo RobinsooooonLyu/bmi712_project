@@ -1,0 +1,110 @@
+TCGA- 38- 4627
+
+
+  .agnosis:
+ A: Lung, right upper lobe, lobectomy.
+ -Adenocarcinoma, moderately differentiated, 2.7 em diameter, without angiolymphatic invasion, without pleural
+ involvement, bronchial margin not involved.
+ -Lymph nodes, peribronchial -Metastatic adenocarcinoma (1/4}, without extracapsular extension.
+
+ B: Lymph node, R4, removal.
+ - No metastatic carcinoma identified (0/1).
+
+ C: Lymph node, station 11, removal.
+ - No metastatic carcinoma identified (0/1) ,
+
+
+Comment:
+None.
+
+Clinical History:
+The patient is with right NSCJ,C, in for right thoracotomy.
+
+Gross Description:
+Received are three appropriately labeled containers.
+
+Container A is additionally labeled "RUL."
+
+Specimen fixation: formalin
+
+Type of specimen/parts of lung received: right upper lobectomy
+
+Size of specimen: 13.8 x 9.2 x 3.0 em
+
+Weight of specimen: 215 grams
+
+Other attached structures: n/a
+
+  Jmor location: central
+
+Tumor size and description: The tumor mass is a 2.7 x 2.0 x 1.6 ern firm, tan mass with stellate borders and
+focal areas of gray discoloration scattered across the cut surface.
+
+
+Relationship of tumor to bronchus: does not grossly involve
+
+Distance of tumor to bronchial margin: approximately 2.9 em
+
+Relationship/distance of tumor to pleura: the tumor nodule is grossly abutting the overlying blue inked pleura
+
+Distance of tumor to other surgical margins: There is a complex staple line running across the specimen, and the
+tumor nodule is at least 0.6 em from the staple line.
+
+Presence/absence of satellite tumor nodules: absent
+
+Involvement of attached structures by tumor: n/a
+
+Description of nontumorous lung: Dark, red/tan, soft, spongy and aerated lung parenchyma with no other lesions
+or abnormalities identified.
+
+Comment: The following is submitted to Tissue Procurement: the bronchial margin was removed and the next cross
+section of bronchus was given to Tissue Procurement, representative tumor and representative normal
+lung were also given to Tissue procurement.
+
+Block Surrunary:
+
+Al    bronchial margin and vascular margins
+A2 - one peribronchial lymph node candidate, bisected
+A3 - one peribronchial lymph node candidate
+A4,A5 - tumor overlying pleura
+A6 - tumor and adjacent parenchyma
+ ·1 - uninvolved lung
+
+
+Container B is additionally labeled 11 R4." It holds a 0.8 x 0.5 x 0.3 em fragment of dark purple/gray tissue
+which is bisected and submitted in block Bl, NTR.
+
+Container Cis additionally labeled "station 11." It holds a 0.6 x 0.5 x 0.3 em fragment of dark gray/red soft
+tissue, which is submitted in block Cl,
+
+
+Light Hicroscopy:
+ i_ght microscopic examination is performed by
+
+(Specimen A)
+
+Tumor histologic type (WHO classification) : adenocarcinoma
+
+Tumor histologic grade {WHO classification) : moderately differentiated
+
+Tumor size {greatest dimension): 2.7 em diameter
+
+Histologic assessment of surgical margins: negative
+
+Pleural involvement: not identified
+
+In situ carcinoma: not identified
+Invasion:
+angiolymphatic - not identified
+perineural - not identified
+
+Lymph nodes (by node group): peribronchial 1/4, R4 0/1, station 11 0/1
+
+Extracapsular extension of tumor in lymph nodes: not identified
+
+Findings in nontumorous lung: anthracotic pigment
+
+
+
+
+                                                      •

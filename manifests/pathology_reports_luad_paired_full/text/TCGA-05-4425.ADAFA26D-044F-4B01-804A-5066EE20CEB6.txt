@@ -1,0 +1,29 @@
+Main diagnosis/diagnoses:
+Peripheral bronchopulmonary, histologically mixed adenocarcinoma of the middle with
+pleural invasion and a second small focus or satellite nodule of a tubular adenocarcinoma
+with a small bronchiooalveolar growth component and likewise pleural infiltration (sample
+2.)). TNM classification on the basis of this material pT2 pN0 pM1 (PUL) V1 RX, stage IV.
+C34.2 M8255/3.
+
+Comment/supplementary remark:
+The tumor classification as adenocarcinoma of the lung showing a predominantly
+tubulopapillary structural pattern still requires confirmation by appropriate
+immunohistochemical analysis. The classification of the second small tumor focus as a
+(hematogenous) metastasis that – despite a certain difference in histoarchitecture and cell
+morphology in places – is based on the structure of the focus, which is lacking the fibrous
+remodeling or cicatricial zone here that is characteristic of a primary peripheral
+bronchopulmonary carcinoma. Vascular invasion can be seen in the intratumoral, thick-walled
+pulmonary vessels of the larger tumor, where there is tumor spread with endobronchial
+occlusion in a subsegmental branch of the bronchus. The R1 classification is explained by the
+observation that the tumor glands invading the pleura extend as far as the outer surface of the
+pleura in places and the tumor cells thus remain in the pleural space.
+
+
+Result of immunohistochemical analysis (both tumor foci)
+CK7 positive throughout, CK20 negative. TTF1.positive (in the smaller focus more than in
+the larger one), only isolated tumor cells with delicate cell membrane staining for surfactant
+protein B.
+
+This not only confirms that it is an adenocarcinoma of the lung and, but also supports the
+view that the smaller focus represents the metastasis of the larger focus
+seen in 1.) and classified as primary tumor.

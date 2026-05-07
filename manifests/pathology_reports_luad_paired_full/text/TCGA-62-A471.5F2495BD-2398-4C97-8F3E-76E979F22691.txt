@@ -1,0 +1,45 @@
+UUID: 5F2495BD - 2398 -4097- BF3E -76E979F22691
+         TCGA-62-A471-e1A-PR                   Redacted
+I I 111111111111 I I I I I I I I I I I I I I I111111111111111111111111111 I I
+I I IN 11111111111 111111111111111111111111111111111111111111111111111111
+      111111111111111 11111111HIMI I I 1111111111111111111111
+       Pathology Report-Summary:
+
+       Material:
+
+       lung, left, upper lobe : 23.0 x 16 . 0 x 8.0 cm
+
+       tumor: 6.5x6 .5x5.Ocm
+
+       Diagnosis :
+                                                                                                                       oL-e-                   G34 • I
+       Adenocarcinoma (NOS)
+
+       No Infiltration of pleura visceralis                                                                                         J""
+
+       pT2b, pN1 (6/28), pMx, G3
+
+       Supplementary examinations:
+
+       IHC:
+       tumor cells positive for CK7
+       tumor cells negative for: CK5/6, CK14 , SP-A, TTF1
+       tumor cells negative for: CD56 , Chromogranin A, Synaptophysin
+       Ki-67: 40%
+
+
+
+
+        Pathologist:
+
+
+
+
+                                                                                :rlterist:                                              yes        No
+                                                                                iiagnosis Discrepancy
+                                                                                rimary Tumor Site Discrepancy
+                                                                                tIPAA Discrepancy
+                                                                                rlor M.{iinanty History
+                                                                                iual/Synchronous Prima
+                                                                                use is ( rde):            QUALIFIED      /      DISQUALIFIED
+                                                                                reviewer                              eviewed

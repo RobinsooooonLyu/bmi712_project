@@ -1,0 +1,160 @@
+UUID:5767A419-6873-4FC8-BC3E- 930044E24943
+                                                                                     TCGA-91-A4BD-61A-PR               Redacted
+4
+                                                                             III IIIIIIIIIII IIIIIIIIIIIIII IIIIIII II I IIIIIIIIIIIIIIIIIIII1111 IN
+                                                                             IIIIIII Ih u HIHIIIIIIIIUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIN
+                                                                             I I I I I I I 11111 I 11111111111111111 I 11111111111 11111111 I I
+
+    Operative Procedure: Left lower lobectomy
+
+    Specimen Received:
+    A: Left lower lobe (FS)                                                           r NUS                     frI'-/Q/3
+    B: Left inferior pulmonary ligament
+    C: Left lower lobe #2
+                                                              £ FF.   UjVA
+    D: Sub carinal lymph node
+    E: AP window
+    F: Level 10 lymph node
+
+    Final Pathologic Diagnosis:
+    A. Lung, left lower lobe, excision:
+       Adenocarcinoma with lepidic pattern
+       Frozen section diagnosis confirmed.
+
+    B. Soft tissue, left inferior pulmonary ligament, excision:
+       Three lymph nodes, negative for malignancy (0/3).
+
+    C. Lung, left lower lobe #2 , excision:
+       Minimally invasive , non-mucinous adenocarcinoma , well-differentiated.
+       Surgical margins are negative.
+       See synoptic report.
+
+    Lung cancer synoptic report
+       Specimen:      Lobe of lung (left lower lobe)
+    Procedure:      Lobectomy
+    Specimen laterality:     Left
+    Tumor site:     Left lower lobe
+    Specimen integrity:      Intact
+    Tumor size:     2.8 cm (greatest dimension)
+    Tumor focality:     Unifocal
+    Tumor histologic type: Adenocarcinoma, minimally invasive and non-mucinous,
+    See Note.
+    Tumor grade: Well differentiated, G1
+    Visceral pleura invasion:       Not identified
+    Tumor extension:        Not identified
+    Margins:
+          Bronchial margin:        Uninvolved by invasive carcinoma
+       Vascular margin:        Uninvolved by invasive carcinoma
+          Parenchymal margin:           Uninvolved by invasive carcinoma
+       Parietal pleural margin:      Not applicable
+       Chest wall margin:      N/A
+              Other attached tissue margins:       N/A
+
+          If all margins uninvolved by invasive carcinoma:
+       Distance of invasive carcinoma from closest margin:        20 mm
+                                                                                            riterta.
+                                                                                           liagnosis Gsrtepancy
+                                                                                            rimary Tuner Site Discrepancy
+                                                                                            IIPAA Discrepancy
+                                                                                            rior Malignancy History
+                                                                                            lual;Synchronous Primar No
+                                                                                                                      QUAUFIE       /
+                                                                                                                            ate Reviewe
+Specify margin:     Bronchial margin
+
+  Treatment effect:   N/A
+Lymph-vascular invasion:  Not identified
+
+Pathologic Staging (pTNM):
+   TNM Descriptors:       No descriptors
+   Primary tumor (pT):      pTl b
+   Regional lymph nodes ( pN): pN1
+       Total number involved /examined :       1/17 (parts B, C, D, E, F)
+          Left inferior pulmonary ligament 0/3 (part B)
+                                             :
+          Peribronchial, left lower lobe: 1 /8 (part C)
+          Subcarinal : 0/3 (part D)
+          AP window: 0/2 (part E)
+          Level 10: 0/1 ( part F)
+    Distant metastasis (pM):      pMX
+
+    Additional pathologic findings: None
+
+ D. Lymph node , subcarinal , excision:
+    Three lymph nodes, negative for malignancy (0/3)
+
+ E. Lymph node, AP window, excision:
+    Two lymph nodes, negative for malignancy (0/2)
+
+ F. Lymph node, level 10 , excision:
+     One lymph node , negative for malignancy (0/1)
+
+ The examination of this case material and the preparation of this report were
+ performed by the staff pathologist.
+
+
+ Note:
+ The tumor consist of primarily adenocarcinoma in situ with multiple minute foci
+ of invasion none of which is greater than 5 mm. The tumor abuts the visceral
+ pleura but does not show invasion.
+
+ lntraoperative Consult Diagnosis:
+ FSA: Left lower lobe:
+     Adenocarcinoma.
+
+
+  Gross Description:
+  Received are six specimen containers, all labeled with the patient name,
+
+  Part A is received fresh for frozen section evaluation additionally labeled,
+  "left lower lobe (FSA)" and consists of a 1.6 x 1.5 x 0.3 cm portion of pink-tan
+  nodular soft tissue which is submitted for frozen section evaluation (FSA) with
+  residual frozen section tissue submitted in cassette A.
+Part B is received in formalin and additionally labeled, "left inferior
+pulmonary ligament" and consists of two nodular portions of tan-yellow
+fibrofatty tissue not otherwise designated and having greatest dimensions of 1.2
+and 1.8 cm, submitted in toto in cassette B.
+
+Part C is received in formalin and additionally labeled, "left lower lobe #2"
+and consists of the product of a left lower lobectomy having overall dimensions
+of 19.5 x 11 by up to 4 cm. This specimen features essentially intact visceral
+pleura with the exception of an umbilicated subpleural mass which has been
+previously incised, the latter of which has dimensions of 2.8 x 2.2 x 1 cm and
+which approaches to within 2 cm of the closest bronchial margin of resection.
+This mass appears to remain in a sub visceral pleural location without extension
+beyond the pleura. This mass arises within the central aspect of the left lower
+lobe. Sectioning of the remaining lung parenchyma reveals no grossly
+identifiable lesions. Significant emphysematous change is not grossly identified
+and there are multiple peribronchial lymph nodes, none of which appear involved
+by tumor, however exhibit anthracotic pigment. Sections are submitted as
+follows:
+    C1    bronchial and vascular margins of surgical resection left lower lobe
+of the lung;
+    C2-4 representative sections of mass central to left lower lobe;
+    C5,6 random unremarkable left lower lobe of lung;
+    C7 three whole peribronchial lymph nodes;
+    C8 three whole peribronchial lymph nodes;
+    C9 largest peribronchial lymph node bisected.
+
+Part D is received in formalin additionally labeled, "subcarinal lymph node" and
+consists of a single nodular portion of yellow lobulated fibrofatty tissue 2 x
+1.8 x 1 cm. Within these tissues are at least three anthracotic laden lymph
+nodes that range from 0.3 to 0.7 cm in greatest dimension submitted in cassette
+D1 and remaining tissue submitted ini cassette D2. This portion of the case has
+been submitted in its entirety.
+
+Part E is received in formalin and additionally labeled, "AP window" and
+consists of a single nodular portion of tan-yellow to gray-tan tissue which is
+1.8 x 1 x 0.5 cm. Within this tissue there are two probable lymph nodes which
+are sectioned and submitted in        in cassette E.
+
+Part F is received in formalin and additionally labeled, "Level 10 lymph node"
+and consists of a single 1.5 cm in greatest dimension anthracotic laden lymph
+node which is bisected and submitted entirely in cassette F.
+
+Microscopic Description:
+The final diagnosis of each specimen incorporates the microscopic examination
+findings.
+
+END OF REPORT
+Taken:                 :                  Gender: M

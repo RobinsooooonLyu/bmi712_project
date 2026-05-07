@@ -1,0 +1,33 @@
+A description for each data field can be found in the 'Data description’ worksheet (yellow tab).
+
+Histology and staging
+
+Sample Collection Details
+Sample Sample Sample Site of Tissue Year of Age at Sample (Sample Days to Days to Type of Site of Tumour | Histology
+Number Type Preparation Sample Collection (yrs) |Comments /Procedure /|Diagnosis Procedure |Primary Size (cm)
+
+Collection ; | (Histology)
+— TUMOUR _ [FF LLL Y Y | | | | RESECT (LLL 3.90 03
+— | FF tz | | s | , RESECT §LLL 3.90 03
+
+Grade/
+Differentiation
+
+Pathological T
+
+Pathological N
+
+Clinical M
+
+VALCSG Stage
+
+Histology Comments
+
+Slide URL
+
+II T2,NOS N1 Mo Adenocarcinoma, ae
+micropapillary type
+Il T2,NOS N1 Mo Adenocarcinoma,
+
+micropapillary type
+

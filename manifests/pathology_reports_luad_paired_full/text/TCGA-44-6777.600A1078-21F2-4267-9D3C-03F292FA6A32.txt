@@ -1,0 +1,58 @@
+Date Recd:
+
+
+                        SURGICAL PATHOLOGY REPORT
+
+
+SPECIMEN
+    Left upper lobe wedge resection
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:   Lung cancer
+
+GROSS DESCRIPTION
+             Received fresh, subsequently fixed in formalin, labeled
+             "left upper lobe wedge resection". The specimen consists
+    of a wedge of lung which is 78 gram. The specimen is 15 x 5.5 x 4
+    cm. and has a stapled margin of 15 cm. The pleura is violaceous
+    smooth and glistening. There is a 1 x 1 cm. umbilication in the
+    pleura. This focus is inked and the specimen is sectioned to show a
+    3.5 x 2.5 x 2.4 cm. pink tan tumor which shows fibrous stippling
+    present. This is contiguous within the pleural umbilication.
+    Representative tissue was submitted for tumor procurement. The tumor
+    comes within 1.5 cm. of the sacral margin (inked black). The
+    remainder of the cut surface of the lung is pink tan and spongy
+    showing no other discrete gross lesions. Representative sections of
+    the specimen are submitted as follows:
+
+   BLOCK SUMMARY: 1-4 - Representative section of tumor including
+   pleural umbilicatio  nd surgical stapled margin; 5 - representative
+   of normal. RS-5
+
+
+
+MICROSCOPIC DESCRIPTION
+    Histologic type: Adenocarcinoma
+    Histologic grade: Poorly differentiated
+    Primary tumor (pT): The tumor measures 3.5 cm. in maximum dimension
+    and is limited to the lung parenchyma in the wedge specimen and
+      invades into the pleura, pT2.
+    Margins of resection: Negative
+    Vascular invasion: Present
+    Regional lymph nodes (pN): pNX
+    Distant metastasis (pM): pMX
+    Other findings: A small piece of tissue from the tumor and normal
+    tissue is submitted for the tumor bank.
+
+  4x1
+
+DIAGNOSIS
+    Lung, left upper lobe wedge resection -
+      Invasive poorly-differentiated adenocarcinoma (see tumor
+      characteristics in the lung template in the microscopic
+        description).
+
+
+
+
+                --- End Of Report ---

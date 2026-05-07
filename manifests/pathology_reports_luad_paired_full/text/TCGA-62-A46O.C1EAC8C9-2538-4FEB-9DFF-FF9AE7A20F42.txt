@@ -1,0 +1,38 @@
+UUID: CIEAC8C9 - 2538 - 4FEB - 9DFF - FF9AE7A20F42
+         TCGA- 62-A460 - 01A-PR                   Redacted
+III III!VIII^III^Il Il Il hlIlI111111!IIIIIIIIIlIl 11111111111111III
+Il 11111111111111111111UlI I I I I I 11111111111IHI I I1111111
+111 I I I I I1111111111111111111111111111111111111111111111111111111
+    Pathology Report-Summary:
+
+    Material:
+
+    lung, right, lower lobe: 14.0 x 11.0 x 10.0 cm
+
+    tumor: 6.0 x 5.5 x 4.5 cm                                                             0 -3
+
+    Diaqnosis:
+                                                                                                                   14 013
+    Adenocarcinoma (NOS)                                               S^ r^ l ut , Imo' Ids C
+                                                                                              - 3 9- 3
+    Infiltration of pleura visceralis
+
+    pT2, pNO (0/22), pMx, G3
+
+
+    Supplementary examinations:
+
+    IHC:
+    tumor cells positive for: CK7, CEA
+    some tumor cells positive for TTF1, Vimentin
+    tumor cells negative for: Chromogranin A, Synaptophysin, NSE, CK13, CK14, CD56
+    Ki-67: 40-50%
+
+
+
+
+                                                                                .rleria
+    Pathologist          :                                                      1_9 nosc Di>c panc
+                                                                                  rimary iumor5i    Discrepa icy
+                                                                                 II{'AA Disrrepency _
+                                                                                'riur maiii ,ancy N!s!orv

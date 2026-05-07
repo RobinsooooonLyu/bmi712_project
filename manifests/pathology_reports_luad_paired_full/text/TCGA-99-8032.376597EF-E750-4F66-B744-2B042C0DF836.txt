@@ -1,0 +1,129 @@
+ee = eee ae ieee eee ee ee RE Ea alae ee” ee eee EE lteter = —SSS cee eee == —————————
+|
+i
+
+= = a —_  —- et = ee ee 7 cee ne ae eee So eee eee =e — _=_ were eee _ _ ee GC EE —— a ———
+1
+
+Patient Name MR# Observation Date |Last Edited Date |
+
+SURGICAL PATHOLOGY CASE: —a Bunaived Date: ee
+
+Diagnosis
+A. Lymph node, level VIII, excision:
+- Benign fibroadipose tissue with no significant histopathological abnormalities. - No lymph nodes noted.
+B. Lymph node, level IX, excision:- One lymph node negative for malignancy (0/1).
+C. Lymph node, level VII, excision: - Multiple lymph nodes negative for malignancy.
+D. Lymph nodes, level Il, excision: - Multiple lymph nodes negative for malignancy.
+E. Lymph nodes, level IV-R, excision:- Multiple lymph nodes negative for malignancy.
+F. Lymph node, level XI, excision: - One lymph negative for malignancy (0/1).
+G. Bronchial margin, excision: - Negative for malignancy.
+H. Lung, right upper lobe, lobectomy: - Adenocarcinoma, moderately differentiated. - Tumor measures 2.0 cm in
+
+maximal dimension. - Pleura is not involved by tumor. - Surgical resection margin is free of tumor. - Multiple peribronchial
+lymph nodes negative for malignancy. - Subpleural bullae noted.
+
+Clinical Information
+The patient is am year old male with lung nodule.
+
+Frozen Section Diagnosis
+GFS1 - Bronchial margin, biopsy:- No tumor seen.
+HFS1 - Lung, right upper lobe, excision: - Non small cell carcinoma, consistent with adenocarcinoma. ee
+
+Gross Description
+The specimen are received in eight separate containers, each labeled with the patient's name and medical record
+number. The first container is further labeled "#1 level VIII lymph node". It consist of small pieces of lymphoid tissue that
+measure 0.5 x 0.3 x 0.2 cm in three dimension. This material will be submitted entirely.
+
+The second container is further labeled "#2 level IX lymph node". It consist of lymph nodes that measure 0.7 x 0.5 x 0.4
+cm in three dimension. This material will be submitted entirely.
+
+The third container is further labeled #3 level VII lymph node”. It consist of a piece of tan-pink, soft tissue with lymph
+nodes that measure 2.5 x 1.6 x 0.3 cm in three dimension. The specimen will be submitted entirely.
+
+The fourth container is further labeled "#4 level Il lymph node’. It consist of multiple pieces of tan and yellow, soft tissue
+with lymph nodes that measure 2.2 x 1.5 x 0.6 cm in aggregate. The lymph node will be dissected from soft tissue and will
+be submitted entirely.
+
+The fifth container Is further labeled "#5 level |V-R lymph node". It consist of multiple pieces of tan and yellow, soft tissue
+with lymph nodes that measure 2.4 x 1.3 x 0.8 cm in aggregate. The lymph node will be dissected from the tissue and will
+be submitted entirely.
+
+The sixth container is further labeled "#6 level XI lymph node". It consist of small pieces of lymph node that measure 0.4 x
+0.3 x 0.3 cm in three dimensions. The specimen will be submitted entirely.
+
+2 '
+The seventh container is further labeled "#7 bronchial margin". It consist of a cassette that is labeled "G1 | that
+contain material for previous frozen analysis. The specimen measure 0.9 x 0.4 x 0.3 cm in three dimension. This material
+will be submitted in cassette G1.
+
+The eighth container is further labeled "#8 right upper lobe". It consist of a cassette that is labeled "H1, MM". The
+cassette contain the material for previous frozen analysis that measure 2.1 x 1.2 x 0.3 cm in three dimension. This
+specimen will be resubmitted in cassette H1. The specimen measure 13.5 x 10.1 x 2.5 cm in three dimension. There Is a
+tumor nodule lesion identified that measure 2.0 cm in maximal dimension. The cut surface of the lesion is tan-white with
+focal black area. The lesion is located about 4.5 cm away from the nearest surgical resection margin. There is a second
+lesion identified that measure 4.5 cm in maximum dimension. This is a cyst-like lesion. Serial sections reveal solid lesion
+with firm and solid component. The second lesion is located about 1.0 cm away from the first lesion. Serial section
+through the rest of the lung tissue reveal no other apparent lesions. A representative section will be submitted per block
+summary.
+
+Block Summary
+
+A1- Level VIII lymph node
+
+Bi- Level IX lymph node
+
+C1- Level VII lymph node
+
+Di- Level Il lymph node
+
+E1- Level IV-R lymph node
+
+F1- Level Xl lymph node
+
+G1- Bronchial margin-frozen section
+H1- Right upper lobe-frozen section
+H2- Peribronchial lymph nodes
+
+H3- Parenchymal surgical resection margin close to the tumor
+H4- Bronchial surgical margin
+
+H5- Blood vessel surgical margin
+H6-H9-Solid nodular lung lesion
+
+H10- Cystic lung lesion
+
+Microscopic Description: A microscopic examination has been performed. re
+
+SP Synoptic Report H: Thorax Lung
+
+SPECIMEN: Lobe(s) of lung: Right upper lobe
+PROCEDURE:Lobectomy
+
+SPECIMEN INTEGRITY: Intact
+
+SPECIMEN LATERALITY: Right
+
+TUMOR SITE: Upper lobe
+
+TUMOR SIZE: Greatest dimension: 2.0 cm
+
+TUMOR FOCALITY: Unifocal
+
+HISTOLOGIC TYPE: Adenocarcinoma
+
+HISTOLOGIC GRADE: G2: Moderately differentiated
+
+VISCERAL PLEURA INVASION: Not identified
+
+TUMOR EXTENSION BRONCHIAL MARGIN: Uninvolved by invasive carcinoma
+VASCULAR MARGIN: Uninvolved by invasive carcinoma
+PARENCHYMAL MARGIN: Uninvolved by invasive carcinoma
+PARIETAL PLEURAL MARGIN: Uninvolved by invasive carcinoma
+
+LYMPH-VASCULAR INVASION: LYMPH NODES: Not identified
+
+PRIMARY TUMOR (pT): pT 1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or visceral pleura,
+without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie, not in the main bronchus); or
+
+REGIONAL LYMPH NODES (pN): pNQ: No regional lymph node metastasis

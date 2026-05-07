@@ -1,0 +1,271 @@
+ibis inl'nrmation is subject to all Federal and State laws regarding conlidentiality and privacy and to the policies and procedure.
+regarding patient information. Any unauthorized use, disclosure, or reproduction of this inlixmation is strictly prohibited.
+
+
+
+Anat Path Reports                                                                  UUID: 8892002E - D982 -47FA- 9540 - A19E4A3586C7
+                                                                                         TCGA-95-A4VP-01A-PR
+                                                                                                                                Redacted
+* Final Report *                                                                    11111111111^I111I 11I 11I IWil fil 11111111111RUN 111111111
+                                                                                                     11111 I 11(1111111(111111111 I I I 11111111
+                                                                                III MINE 111 I I I I 1 MIT 11111111111 111111111111111111111111
+Document Type:                     Anat Path Reports
+Document Date:
+Document Status:                   Auth (Verified)
+Document Title:                    Histoloqy
+Performed By:
+Verified By:
+Encounter info:
+
+
+                                                                 * Final Report                                                   -3
+                                                                                                                                              t^ ^'SSuf3
+APRPT (Verified)
+                                                                                                                                 CL)t               C111. 3
+
+
+
+
+Patient Name:                                                                                                      Acc #:
+MRN:                                                                       DOB:                                                         Pulmonary Big
+Location:                                                                  Gender:                                  Collected:
+Client:                                                                                                             Received:
+Submitting                                                                                                          Reported:
+Phys:
+
+
+
+
+                                               Final Surgical Pathology Report
+
+Final Pathologic Diagnosis
+A. LUNG, PLEURAL DIAPHRAGM , BIOPSY, Al FS:
+   PAPILLARY MESOTHELIAL HYPERPLASIA.
+   NO EVIDENCE OF ADENOCARCINOMA.
+   SEE COMMENT.
+
+B. LUNG , PLEURA, BIOPSY, BIFS:
+   PAPILLARY MESOTHELIAL HYPERPLASIA.
+   NO EVIDENCE OF ADENOCARCINOMA.
+   SEE COMMENT.
+
+C. LYMPH NODE , LEFT LEVEL 9, EXCISION, C1 FS:
+-   ONE LYMPH NODE POSITIVE FOR METASTATIC ADENOCARCINOMA (1/1).
+
+D. LYMPH NODE , LEFT LEVEL 11 , EXCISION:
+
+
+
+
+Printed by:                                                                                                                                        Page 1 of 5
+Printed on:                                                                                                                                        (Continued)
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures
+regarding patient information. Any unauthorized use, disclosure, or reproduction of this intormation is strictly prohibited.
+
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+       TWO OF FIVE LYMPH NODES POSITIVE FOR METASTATIC ADENOCARCINOMA (215).
+
+E. LUNG , LEFT LOWER LOBE, LOBECTOMY:
+- ADENOCARCINOMA , MODERATELY DIFFERENTIATED , ACINAR, 6.9 X 4.7 X 4.1 CM.
+- TUMOR EXTENDS TO VISCERAL PLEURAL SURFACE.
+- LYMPHANGITIC INVASION IDENTIFIED.
+- BRONCHIAL AND VASCULAR RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA.
+ -     FOUR OF EIGHT PERIBRONCHIAL LYMPH NODES POSITIVE FOR METASTATIC ADENOCARCINOMA (418).
+ -     SEE STAGING SUMMARY AND COMMENT.
+
+ F. LYMPH NODES , LEFT 7, EXCISION:
+ - TWO LYMPH NODES NEGATIVE FOR ADENOCARCINOMA (0/2).
+
+ G. LYMPH NODES , LEFT 5, EXCISION:
+ - THREE LYMPH NODES NEGATIVE FOR ADENOCARCINOMA (0/3).
+
+
+ Comment
+ The tumor is diffusely positive for TTF-1, and focally positive for synaptophysin, confirming the diagnosis of adenocarcinoma.
+
+ Within the hyperplastic mesothelial lesions, immunohistochemical stains for TTF- 1 are negative.
+
+
+
+
+     Syno ptic Worksheet
+     E. Left lower lobe:
+         Specimen:                                       Lobe(s) of lung: left lower
+         Procedure:                                      Lobectomy
+         Specimen Integrity:                             Intact
+         Specimen Laterality:                            Left
+         Tumor Site:                                     Lower lobe
+         Tumor Focality:                                 Unifocal
+         Histologic Type:                                Adenocarcinoma
+         Histologic Grade:                               G2: Moderately differentiated
+         Tumor Size:                                     Greatest dimension: 6.9 cm
+                                                         Additional dimension: 4.7 cm
+                                                         Additional dimension: 4.1 cm
+         Visceral Pleura Invasion:                       Present
+         Tumor Extension:                                Not applicable
+         Bronchial Margin:                               Uninvolved by invasive carcinoma
+                                                         Involvement by squamous cell carcinoma in situ (CIS) not applicable
+
+
+
+
+     Printed by:                                                                                                                     Page 2 of 5
+     Printed on:                                                                                                                     (Continued)
+ This information is subject to all Federal and state laws regarding confidentiality and privacy and to the policies and procedures
+ regarding patient information . Any unauthorized use, disclosure. or reproduction of this intbrmation
+                                                                                                         is strictly prohibited.
+
+
+
+ Anat Path Reports
+ * Final Report *
+
+
+      Vascular Margin:                   Uninvolved by invasive carcinoma
+      Parenchymal Margin:                Not applicable
+      Parietal Pleural Margin:           Not applicable
+      Chest Wall Margin:                 Not applicable
+      Other Attached Tissue Margin:      Not applicable
+      All Margins Uninvolved By Invasive Carcinoma:
+                                         Distance of invasive carcinoma from closest margin: 16 mm
+                                         Margin closest to invasive carcinoma:: bronchial
+      Treatment Effect:                  Greater than 10% residual viable tumor
+      Lymph-Vascular Invasion:           Present
+      TNM Descriptors:                                 y (post-treatment)
+      Primary Tumor (pT):                            pT2b: Tumor greater than 5 cm, but 7 cm or less in greatest dimension
+      Regional Lymph Nodes (pN):                     pN2: Metastasis in ipsilateral mediastinal and/or subcarinal lymph node(s)
+                                                     Nodes examined: 19
+                                                     Nodes involved: 7
+      Distant Metastasis (pM):                       Not applicable
+      --------------------------------------------------------
+
+
+
+Clinical History
+VATS. Lung cancer (left lower lobe). Left VATS, possible thoracotomy with left lower lobectomy.
+
+Specimen ( s) Received
+A: Pleural diaphragm biopsy
+B: Pleural biopsy
+C: Left level 9 lymph node
+D: Left level 11 lymph node
+E: Left lower lobe
+F: Left 5 lymph node
+G: Lymph node
+
+Gross Description
+Specimen A is received fresh for intraoperative consultation labeled with the patient's name, medical record number and as
+"pleura diaphragm." It consists of multiple portions of soft tissue measuring 0.7 x 0.6 x 0.2 cm in aggregate. The specimen is
+submitted entirely for frozen section diagnosis, then transferred to cassette "Al FS." (Dictated by
+
+Specimen B is received fresh for intraoperative consultation labeled with the patient's name, medical record number and as
+"pleural biopsy." It consists of a portion of soft tissue measuring 1.0 x 0.6 x 0.1 cm. The specimen is submitted entirely for
+frozen section diagnosis, then transferred to cassette "B1 FS." (Dictated by
+
+Specimen C is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and as
+"left level 9 lymph node." It consists of one lymph node measuring 2.0 x 2.0 x 0.8 cm. The specimen is bisected. Half of it is
+submitted for frozen section diagnosis, then transferred to cassette "C 1 FS." The other half is submitted for permanent section
+in cassette "C2." (Dictated by
+
+
+
+
+Printed by:
+Printed on:                                                                                                                           Page 3 of 5
+                                                                                                                                      (Continued)
+This information is subject to all federal and State laws regarding confidentiality and privacy and to the policies and procedure,
+regarding patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+
+Anat Path Reports
+* Final Report *
+
+Specimen D is received in formalin, labeled with the patient's name and medical record number and as "left level 11 lymph
+node." The specimen consists of multiple portions of fibroadipose tissue measuring 2.0 x 1.0 x 0.3 cm in aggregate. The
+specimen is submitted entirely in cassette "D1 ." (Dictated by
+ Specimen E is received fresh in a container labeled with the patient's name and medical record number and "left lower lobe."
+ The specimen consists of a portion of lung measuring 13.6 x 10.4 x 8.6 cm. The pleural surface is irregular with multiple areas
+ of puckering, the largest measuring 1.7 x 1.4 cm. The tumor is grossly identified at the pleural surface. Five lymph nodes are
+ grossly identified ranging in size from 1.0 cm to 2.1 cm. The tumor measures 6.9 x 4.7 x 4.1 cm. The cut surface of the tumor
+ is tan-white and soft with focal areas of necrosis and hemorrhage. It is 1.6 cm from the bronchial margin and 2.1 cm from the
+ vascular margin. No other lesions are noted within the lung parenchyma. The specimen is inked as follows: pleural surface,
+ black; Sections are submitted as follows. (Dictated by
+
+ Specimen F is received in formalin, labeled with the patient's name, medical record number and as "level 7 lymph node." It
+ consists of two portions of fibroadipose tissue measuring 1.4 x 1.0 x 0.3 cm in aggregate. The specimen is submitted entirely in
+ cassette "F1 ." (Dictated by -
+
+ Specimen G is received in formalin, labeled with the patient's name, medical record number and as "level 5 lymph node." It
+ consists of multiple portions of fibroadipose tissue measuring 1.5 x 1.5 x 0.5 cm in aggregate . The specimen is submitted
+ entirely in cassette "G1." (Dictated b^
+
+
+ CASSETTE SUMMARY:
+  El:                   Bronchial margin
+  E2:                   Vascular margin
+  E3:                   One lymph node, bisected
+  E4:                   One lymph node, bisected
+  E5:                   Two whole lymph nodes, one bisected (inked blue)
+  E6-8:                  Representative sections of tumor in relation to puckered pleural surface
+  E9:                    Normal lung parenchyma
+  E10:                   One lymph node, whole
+  E11-13:                Additional sections of tumor
+
+
+
+  Intraoperative Consult Diagnosis
+  Al FS:      PLEURA, DIAPHRAGM (FROZEN SECTION): PAPILLARY MESOTHELIAL PROLIFERATION.
+              Frozen section results were communicated to the surgical team and were repeated back by
+                           specimen was received at
+  BI FS:      PLEURA, BIOPSY (FROZEN SECTION): PAPILLARY MESOTHELIAL PROLIFERATION MORE COMPLEX THAN
+              PREVIOUS BIOPSY.
+              Frozen section results were communicated to the surgical team and were repeated back by
+
+                  and the specimen was received at
+   CI FS:     LEFT LEVEL 9 LYMPH NODE (FROZEN SECTION): EPITHELIAL MALIGNANCY IN LYMPH NODE, PENDING
+              FURTHER IMMUNOHISTOCHEMICAL CHARACTERIZATION.
+              Frozen section results were communicated to the surgical team and were repeated back by
+
+                     and the specimen was received at
+
+
+
+
+   Printed by:                                                                                                                       Page 4 of 5
+   Printed on:                                                                                                                       (Continued)
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures o
+regarding patient information . Any unauthorized use, disclosure , or reproduction ol'this intbrmation is strictly prohibited.
+
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+
+
+Microscopic Description
+Microscopic examination performed.
+
+
+
+
+Printed by:                                                                                                                                               Page 5 of 5
+Printed on:                                                                                                                                            (End of Report)
+
+
+                                                                                                                                  Di,ceepancy
+
+                                                                                                                                 ^:imerv                                    ✓
+                                                                                                                                           L!'.ufI'            DISO AUREP
+                                                                                                                                              fiat' Revie-&r      /
+                                                                                                                                                                                I>

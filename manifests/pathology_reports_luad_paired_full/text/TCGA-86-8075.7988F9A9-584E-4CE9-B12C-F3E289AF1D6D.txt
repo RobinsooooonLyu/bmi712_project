@@ -1,0 +1,33 @@
+TCGA Pathology Reports
+      OpenClinica ID Gross         Microscopic   Diagnosis   Comments
+                     Description   Description   Details
+Formatted Path                Laterality   Excision date
+Report
+
+LUNG TISSUE CHECKLIST         Left-upper
+
+Specimen type: Lobectomy
+Tumor site: Lung
+Tumor size: 2.6 x 1.5 x 1.5
+cm
+Histologic type:
+Adenocarcinoma
+Histologic grade:
+Moderately differentiated
+Tumor extent: Visceral
+pleura
+Other tumor nodules: Not
+specified
+Lymph nodes: 0/3 positive
+for metastasis (Regional
+0/3)
+Lymphatic invasion: Not
+specified
+Venous invasion: Not
+specified
+Margins: Not specified
+Evidence of neo-adjuvant
+treatment: Not specified
+Additional pathologic
+findings: Not specified
+Comments: None

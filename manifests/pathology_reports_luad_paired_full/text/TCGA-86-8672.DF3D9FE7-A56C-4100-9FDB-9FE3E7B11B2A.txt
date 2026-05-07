@@ -1,0 +1,29 @@
+Case ID   ID
+
+               /
+Gross               Microscopic Description            Diagnosis Details
+Description
+Lung with a tumor of Adenocarcinoma, G-3, with focal   Tumor Features: Unknown,
+7.5x6 cm in size,    necrosis. Ten examined lymph      Tumor Extent: Localized,
+with focal necrosis. nodes demonstrated hyperemia,     NOS , Venous Invasion:
+Hilus lymph nodes anthracosis, reactive follicular     Absent, Margins: Absent,
+are hyperemic.       hyperplasia.                      Treatment Effect:
+Comments                  Formatted Path Report
+
+Original records read     LUNG TISSUE CHECKLIST
+pT2, but tumor size
+7.5x6 cm is referred as   Specimen type: Pneumonectomy
+pT3, according to the     Tumor site: Lung
+7th edition of the TNM-   Tumor size: 6 x 0 x 7.5 cm
+classification.           Histologic type: Adenocarcinoma
+                          Histologic grade: Poorly differentiated
+                          Tumor extent: Not specified
+                          Other tumor nodules: Not specified
+                          Lymph nodes: 0/10 positive for metastasis (Hilus
+                          lymph nodes 0/10)
+                          Lymphatic invasion: Not specified
+                          Venous invasion: Absent
+                          Margins: Uninvolved
+                          Evidence of neo-adjuvant treatment: Not specified
+                          Additional pathologic findings: Not specified
+                          Comments: Right- upper

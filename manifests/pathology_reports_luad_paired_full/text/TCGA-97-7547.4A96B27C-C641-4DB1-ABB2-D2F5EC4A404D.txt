@@ -1,0 +1,135 @@
+SPECIMENS:
+1. F/S LUNG, RIGHT UPPER LOBE
+2. STATION 9 LYMPH NODES
+3. STATION 10 LYMPH NODES
+4. STATION 11 LYMPH NODES
+5. STATION 4 LYMPH NODES
+6. STATION 7 LYMPH NODES
+AMENDED
+
+
+Reason For Amendment #1: Typographical Error
+DIAGNOSIS:
+
+1. LUNG, RIGHT UPPER LOBE: LOBECTOMY
+- ADENOCARCINOMA OF THE LUNG WITH ACINAR, PAPILLARY AND
+BRONCHIOLOALVEOLAR PATTERN INVASIVE INTO VISCERAL PLEURA.
+PATHOLOGIC STAGE: IB (PT2 N0 MX).
+
+2. LYMPH NODES, STATION NINE: DISSECTION
+- PORTIONS OF LYMPH NODES, NEGATIVE FOR CARCINOMA.
+
+3. LYMPH NODES, STATION TEN: DISSECTION
+- PORTIONS OF LYMPH NODES, NEGATIVE FOR CARCINOMA.
+
+4. LYMPH NODES, STATION ELEVEN: DISSECTION
+- PORTIONS OF LYMPH NODES, NEGATIVE FOR CARCINOMA.
+
+5. LYMPH NODES, STATION FOUR: DISSECTION
+- PORTIONS OF LYMPH NODES, NEGATIVE FOR CARCINOMA.
+
+6. LYMPH NODES, STATION SEVEN: DISSECTION
+- PORTIONS OF LYMPH NODES, NEGATIVE FOR CARCINOMA.
+
+
+SUMMARY
+Tumor Size: 4.5 cm in greatest dimension.
+Histologic Type: Adenocarcinoma
+Histologic Grade: Well to moderately differentiated
+Margins: Bronchial margin is free of tumor
+Distance of invasive carcinoma from closest (bronchial) margin: 1
+cm
+Direct Extension of Tumor: The visceral pleura is focally positive
+for carcinoma
+Venous/ atrterial (Large Vessel) Invasion: Not observed
+Lymphatic (Small Vessel) Invasion: Not observed
+Additional Pathologic Finding: Obstructive bronchitis
+
+
+Pathologist
+
+
+CLINICAL HISTORY AND PRE - OPERATIVE DIAGNOSIS:
+Right lung mass.
+
+MACROSCOPIC DESCRIPTION:
+The specimen is received in six parts each labeled with he patient's
+name.
+
+1. Part one is received fresh for frozen section labeled 'right
+upper lobe lung lobectomy'. It consists of a lobe of lung measuring
+12 x 8 x 2.5 cm. The suture line measures 12 cm. The bronchial
+margin measures 2 cm which is stapled. The surgical margin is inked
+black. On section the tumor appears 1 cm from the surgical margin
+and does not seem to involve the bronchus. The tumor measures 4.5
+x32 cm and appears gray, solid, and circumscribed. The rest of the
+parenchyma appears normal. Two possible lymph nodes are identified,
+the largest one measuring 0.3 x 0.3 x 0.3 cm.
+
+2. Part two is received in formalin labeled 'station 9 lymph node'
+and consists of a single lymph node measuring 0.6 x 0.5 x 0.2 cm.
+The specimen is submitted in toto.
+
+3. Part three is received in formalin labeled 'station 10 lymph
+node' and consists of a single lymph node measuring 0.6 x 0.5 x 0.2
+cm. The specimen is submitted in toto.
+
+4. Part four is received in formalin labeled 'station 11 lymph node'
+and consists of multiple fragments of tissue measuring in aggregate
+2 x 1 x 1 cm. The specimen is submitted in toto.
+
+5. Part five is received in formalin labeled 'station 4 lymph node'
+and consists of multiple fragments of tissue measuring in aggregate
+2 x 1.5 x 0.5 cm. The specimen is submitted in toto.
+
+6. Part six is received in formalin labeled 'station 7 lymph node'
+and consists of multiple fragments of tissue measuring in aggregate
+1.5 x 0.5 x 0.5 cm. The specimen is submitted in toto.
+
+
+
+
+SUMMARY OF SECTIONS:
+1A frozen section, one piece
+1B section of bronchial margin and arterial margin
+1C,1D tumor to the pleura
+1E-1I tumor, one piece
+1J lymph node, two pieces
+2A in toto
+3A in toto
+4A in toto
+5A in toto
+6A in toto
+
+
+
+
+INTRA - OPERATIVE CONSULTATION:
+1. Lung, right upper lobe: excision (FS)
+- Adenocarcinoma with bronchioloalveolar features.
+Case discussed with                                  .
+
+AMENDMENT: In the summary of sections the term parietal pleura is
+corrected to visceral pleura.
+Intra-Operative Consultation #1 performed by
+
+
+Final Diagnosis performed by
+
+
+Amendment #1 performed by
+
+
+The electronic signature attests that the named Attending
+Pathologist has evaluated the specimen referred to in the signed
+section of the report and formulated the diagnosis therein.
+
+This report may include one or more immunohistochemical stain
+results that use analyte specific reagents.
+The tests were developed and their performance characteristics
+determined by
+
+They have not been cleared or approved by the US Food and Drug
+Administration.
+The FDA has determined that such clearance or approval is not
+necessary.

@@ -1,0 +1,249 @@
+Results
+Specimen Information
+
+cee een eee ee nce
+
+Component Results
+
+DIAGNOSIS
+A) LYMPH NODE, RIGHT PARATRACHEAL, RESECTION: One benign lymph node (0/1)
+
+B) LYMPH NODES, 4R, PARATRACHEAL, RESECTION: Four benign lymph nodes (0/4)
+C) LYMPH NODE, LEVEL 7 SUBCARINAL, RESECTION: One benign lymph node (0/1)
+
+D) LUNG, RIGHT UPPER LOBE, RIGHT UPPER LOBECTOMY:
+1. Moderately-differentiated adenocarcinoma characterized by:
+a. Size: 4cm
+b. Margins: Negative
+2. No evidence of malignancy in one peribronchial lymph node
+3. Background lung with no additional changes
+4. Please see staging parameters
+
+E) LYMPH NODE, LEVEL 12R, RESECTION: One benign lymph node (0/1)
+
+F) LYMPH NODES, LEVEL 9, RESECTION: Three benign lymph nodes (0/3)
+
+G) LYMPH NODES, SUBCARINAL, LEVEL 7, RESECTION: Four benign lymph nodes
+(0/4)
+
+H) LYMPH NODE, LEVEL 11R, RESECTION: One benign lymph node (0/1)
+
+“PBB ic Cancer STAGING PARAMETERS***
+Case number: Patient name:
+
+Final TNM: pT2aNOMO
+age: IB
+
+MACROSCOPIC
+SPECIMEN TYPE
+Lobectomy
+TUMOR SITE
+Right Lung-Upper Lobe
+TUMOR SIZE
+4X3.5X3cm
+TUMOR FOCALITY
+Unifocal
+
+MICROSCOPIC
+HISTOLOGIC TYPE
+Adenocarcinoma
+HISTOLOGICAL GRADE
+
+G2: (moderately differentiated) of G4
+VISCERAL PLEURAL INVASION
+Not identified
+
+LYMPHATIC VASCULAR INVASION
+Absent
+TREATMENT EFFECT
+Not applicable
+MARGINS
+Uninvolved by tumor (Bronchial, Vascular, Parenchymal)
+Distance from margins:
+1.4. cm from parenchymal staple line, 3.5 cm from bronchial margin
+
+Biomass yt
+
+PATHOLOGIC STAGING
+EXTENT OF INVASION
+pl2a. (Tumor greater than 3 cm, but 5 cm or less in greatest
+dimension surrounded by lung or visceral pleura, without bronchoscopic
+evidence of invasion more proximal than the lobar bronchus (ie, not in the
+main bronchus); or Tumor 5 cm or less in greatest dimension with any of the
+following features of extent: involves main bronchus, 2 cm or more distal
+to the carina; invades the visceral pleura; associated with atelectasis or
+obstructive pneumonitis that extends to the hilar region but does not
+involve the entire lung)
+REGIONAL LYMPH NODES
+pNO. (No regional lymph node metastasis)
+
+Total nodes: 16
+
+Total positive nodes: 0
+N1 nodes: 3
+N1 positive nodes: 0
+N2 nodes: 13
+
+N2 positive nodes: 0
+N2 sites sampled:
+Station 7: Subcarinal nodes
+Station 9: Pulmonary ligament nodes
+Station 4: Lower paratracheal nodes
+DISTANT METASTASIS
+
+pMo. (No distant metastasis)
+PATHOLOGIC STAGE Summary
+Final TNM: pT2aNOMO
+age: IB
+““ The pathologic stage presumes no distant metastasis.
+
+“LUNG ANCILLARY TESTING PROTOCOL***
+
+Case number. Patient name: iy
+
+HISTOLOGIC TYPE
+Adenocarcinoma
+
+STAGE IV STATUS
+No stage IV disease pathologically
+
+TISSUE BLOCKS AVAILABLE FOR ANCILLARY TESTING
+D 5-10
+
+COMMENT
+This patient's sample does not meet nn
+
+criteria* for reflex EGFR and ALK testing. No fresh tissue is available
+for ancillary testing. The block identified above will be stored in
+athology for 10 years aa possible future ancillary testing. Please call
+a ., any ancillary testing requests.
+
+Attending Pathologist: ey
+
+CLINICAL INFORMATION
+
+The patient has a history of adenocarcinoma of the right upper lobe of
+lung. The patient undergoes right upper lobectomy and thoracic
+lymphadenectomy.
+
+SPECIMEN/GROSS DESCRIPTION
+
+A) SOURCE: Right paratracheal lymph node
+
+The specimen is received labeled "right paratracheal lymph node" and
+consists of a 0.3 cm red-black soft lymph nodal tissue, submitted in toto
+on one block for frozen microscopy.
+
+INTRAOPERATIVE PATHOLOGY CONS FROZEN SECTION: "One lymph node,
+negative for carcinoma" is rendered by
+
+B) SOURCE: 4R paratracheal lymph node
+
+The specimen is received labeled "paratracheal lymph node, 4R" and consists
+of four soft red-black tissues, ranging 0.4-0.7 cm, submitted entirely on
+
+block for frozen microscopy.
+
+INTRAOPERATIVE PATHOLOGY CONSULTATION WITH FROZEN SECTION: "Lymph node
+tissue, negative for carcinoma" is rendered by
+
+C) SOURCE: Level 7 subcarinal lymph node
+
+The specimen is received labeled "subcarinal lymph node level 7" and
+consists of a single 0.4 cm red-black tissue, submitted in toto on one
+block for frozen microscopy.
+
+INTRAOPERATIVE PATHOLOGY CONSULTATIO FROZEN SECTION: "Lymph node
+tissue, negative for caricnoma" is rendered by
+
+D) SOURCE: Right upper lobe, bronchial margin for frozen
+
+Labeled "right upper lobe, bronchial margin for frozen" is a 195 g, 20.5 x
+
+8 x 4.cm lung lobectomy with a continuous parenchymal staple line along 18
+cm of the hilar aspect of the specimen. A visceral pleural surface is
+puckered apically (inked blue) Cut surfaces disclose a 4 x 3.5 x 3cm firm
+solid gray-tan tumor mass with irregular borders within the superior one
+
+half of the specimen, focally less than 0.1 cm from the puckered serosa and
+3.5 cm from the bronchial resection. The bronchial resection margin is
+trimmed (three lumina) en face for frozen microscopy.
+
+INTRAOPERATIVE PATHOLOGY CONSULTATION WITH FROZEN SECTION: "Bronchial
+margin negative for carcinoma” is rendered by
+
+The tumor is found 1.4 cm from the nearest parenchymal staple line (inked
+blue). The remaining cut surfaces disclose soft red-tan focally crepitant
+lung without additional discrete lesions. A single black peribronchial 1.3
+cm lymph node is identified. The pulmonary vasculature is thin-walled and
+patent.
+
+NOTE: Tumor is retained for additional possible ancillary studies.
+Representative sections are submitted in 12 cassettes as follows:
+
+1. Frozen section residue
+Pulmonary vasculature en face margins
+
+2.
+3. One peribronchial bisected.lymph node
+
+4. Parenchymal staple:line nearest tumor, perpendicular to blue ink
+9-8. Lung tumor with puckered pleura (inked black
+
+9-10. Lung tumor and adjacent lung
+11. Normal lung adjacent to tumor
+12. Normal lung inferior half of specimen
+
+Note: Specimen removed from patient at Specimen placed in
+10% neutral buffered formalin a Specimen fixed in formalin
+for a minimum of 6 hours, and not longer than 48 hours.
+
+E) SOURCE: Lymph node resection, level 12R
+The specimen is received labeled "level 12R lymph node." It consists of a 1
+cm anthracotic lymph node. The specimen is entirely submitted in one
+cassette.
+
+d —
+F) SOURCE: Lymph node resection, level 9
+The specimen is received labeled “level 9 lymph node." It consists of three
+anthracotic possible lymph nodes averaging 0.3 cm in greatest dimension.
+The specimen is submitted in toto in one cassette.
+
+G) SOURCE: Lymph node resection, subcarinal, level 7
+
+The specimen is received labeled "subcarinal lymph node, level 7." It
+consists of four anthracotic pigmented lymph nédes ranging from 0.5 to 1.4
+cm in greatest dimension. The specimen is entirely submitted in three
+cassettes labeled:
+
+G1. Three lymph nodes
+2-3. One node, sectioned
+
+H) SOURCE: Lymph node resection, level 11R
+The specimen is received labeled “level 11R lyfnph node." It.consists ofa
+cm anthracotic lymph node. The specimen is entirely submitted in one
+
+icassett
+
+MICROSCOPIC
+A-H) The microscopic appearance substantiates the diagnosis.
+
+Dictation by: Frenscrived py: aa
+
+Lab and Collection a
+
+GROSS AND MICROSCOPIC SURGICAL PANEL i ae: and Collection
+
+Information
+
+Result History
+GROSS AND MICROSCOPIC SURGICAL PANEL we: Result History
+Report.
+
+Lab Status
+Order Complete [3]
+
+Review
+
+Result information
+

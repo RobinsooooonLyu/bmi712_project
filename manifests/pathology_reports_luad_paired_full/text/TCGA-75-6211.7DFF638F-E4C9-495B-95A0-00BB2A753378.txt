@@ -1,0 +1,21 @@
+A description for each data field can be found in the 'Data description’ worksheet (yellow tab).
+Sample Collection Details
+
+Histology and staging
+
+Sample Sample Sample Site of Tissue Year of Age at Sample (Sample Days to Days to Type of Site of Tumour | Histology
+Number Type Preparation Sample Collection (yrs) |Comments /Procedure /|Diagnosis Procedure |Primary Size (cm)
+Collection Date (Histology)
+Eee =36TUMOUR 6FF Y Y | | Y | RESECT |RLNOS 5.60 03
+BUFFY  |FF | | a | RESECT RLNOS 5.60 03
+
+Grade/
+
+Pathological T Pathological N Clinical M |VALCSG Stage Histology Comments Slide URL
+Differentiation
+I T2,NOS No Mo Tumour is adjacent to hlun 777777
+and invades all three lobes.
+II T2,NOS NO MO Tumour is adjacent to hilum
+
+and invades all three lobes.
+

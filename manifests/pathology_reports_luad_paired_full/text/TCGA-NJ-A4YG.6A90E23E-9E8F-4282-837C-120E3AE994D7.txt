@@ -1,0 +1,313 @@
+UUID: 6A90E23E - 9E8F -4282-8370-120E3AE994D7
+        (TC{G{A-N]-A4YG-01A-PR               Redacted
+111 I I I I I I i l11111111I1111111111111111111111111111111111111111111
+I I 111111111111111111111111111111111111111111111111111111I I
+IIIIIIIIIIIIIUIIIIIIIIIIIIIIII11111011IIIIIIIllill111111IIIII
+
+
+
+Procedure Location:
+
+
+
+
+                                                                          PA-,:                            Nos     l'f d/3
+                                                                          6 QcF -, a afcr o CA44c 1o,.vu   w rf7^ m V.4 C
+                                                                                  s,4) lut5,               l       c3y. ^
+
+
+
+
+PATHOLOGY SURGICAL
+
+Results
+
+
+
+
+Entry Date
+Component Results
+
+
+
+
+ PATHOLOGY RESULT:
+
+
+
+
+Department of Pathology
+
+
+
+
+Final
+
+Clinical Data Repository* This report may not match the original report
+
+format
+
+
+
+
+FINAL DIAGNOSIS
+
+A. (Lymph node, level 10; biopsy): Fragments of lymph node, negative for
+
+malignancy.
+B. (Lymph node, level 11; biopsy ): Fragments of lymph node, negative for
+
+malignancy.
+
+
+
+
+C. (Lung, left upper lobe; lobectomy): Infiltrating moderately differentiated
+
+adenocarcinoma measuring 1.9 cm , with extension to the visceral pleura.
+
+Bronchial and vascular margins free of tumor . Five perihilar lymph nodes
+
+negative for malignancy . No convincing lymphovascular invasion seen. Stage
+
+pT2NOMX.
+
+
+
+
+D. (Lymph node , level 5 ; biopsy): Fragments of lymph node , negative for
+
+malignancy.
+
+
+
+
+E. (Lymph node, level 6; biopsy): Fragments of lymph node, negative for
+
+malignancy.
+
+F. (Lymph node, level 10R; biopsy): Fragments of lymph node , negative for
+
+malignancy.
+
+
+
+
+INTRAOPERATIVE CONSULTATION
+
+C. LEFT UPPER LOBE - FROZEN BRONCHIAL MARGIN : Adenocarcinoma . Bronchial
+
+margin is negative for malignancy. ( Frozen section C91, C92, touch prep and
+
+smear)
+GROSS DESCRIPTION
+
+A. The specimen is labeled level 10 lymph node. Received fresh is a 0.5 x
+
+0.4 x 0. 3 cm segment of black fibrofatty tissue . The specimen is entirely
+
+submitted in cassette Al.
+
+
+
+
+B. The specimen is labeled level 11 lymph node. Received fresh are multiple
+
+fragments of blackish-pink tissue, altogether measuring 0.5 x 0.4 x 0.3 cm.
+
+The specimen is wrapped and entirely submitted in cassette B1.
+
+
+
+
+C. The specimen is labeled left upper lobe. Received fresh for frozen
+
+section, is a 220 gram, 18.0 x 9 .0 x 3.0 cm lobectomy specimen with a 4.0 cm
+
+stapled margin . A 1.9 x 1 .8 x 0.8 cm tan , firm mass is seen in the central
+
+portion of the lobe with retraction of the pleural surface. A representative
+
+section of the mass is submitted for frozen section, and the remnant is placed
+
+in cassette C92. The bronchial margin is submitted for frozen section and
+
+the remnant is placed in cassette C91. The remainder of the lung is serially
+
+sectioned and shows patchy pale areas, but no lesions or masses. Sections are
+
+submitted as follow : C1 vascular margins, C2 perihilar lymph nodes, C3
+
+tumor and adjacent lung, C4 tumor , C5 uninvolved lung, C6 stapled margin.
+D. The specimen is labeled level 5 lymph node . Received fresh is a fragment
+
+of fibrofatty tissue, measuring 2.0 x 1 . 0 x 0.5 cm. The specimen is entirely
+
+submitted in cassette D1.
+
+
+
+
+E. The specimen is labeled level 6 lymph node . Received fresh are multiple
+
+fragments of fibrofatty tissue , altogether measuring 0.8 x 0 . 3 x 0.3 cm. The
+
+specimen is entirely submitted in cassette El.
+
+
+
+
+F. The specimen is labeled level 1OR lymph node. Received fresh is a 0.6 x
+
+0.5 x 0 . 3 cm fragment of fibrofatty tissue . The specimen is bisected and
+
+submitted in cassette Fl.
+
+
+
+
+SPECIMEN (S) RECEIVED
+
+A: LEVEL 10 LYMPH NODE
+
+B: FRESH ROUTINE LEVEL 11 LYMPH NODE
+
+C: LEFT UPPER LOBE- FROZEN BRONCHIAL MARGIN
+
+ D: LEVEL 5 LYMPH NODE- FRESH ROUTINE
+
+ E: LEVEL 6 LYMPH NODE - FRESH ROUTINE
+
+ F: FRESH ROUTINE - LEVEL 10R LYMPH NODE
+
+
+
+
+ * The above listed tests ( if any) were developed and the performance
+
+ characteristics determined                                          These tests have
+not been cleared or approved for commercial use by the U.S. Food and Drug
+
+Administration. The FDA has determined that FDA review is not required for
+
+such in-house assays.
+
+
+
+
+OPERATIVE INFORMATION
+
+DIAGNOSIS : LUNG MASS; PROCEDURE: BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+THORACOSCOPY VIDEO ASSISTED
+
+
+
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+
+ICD-9(s):.
+
+
+
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed , and actively participated in all key decisions.
+
+
+
+
+Lab and Collection
+
+
+
+
+ PATHOLOGY SURGICAL                                     - Lab and Collection Information
+Pathology
+
+
+
+
+Procedure Location:
+
+
+
+
+                      i^^cue^ancv
+12
+
+
+                                                         TCGA Pat hologic Diagnosis Discrepancy Form
+
+
+        »trr           7'h:? TCGA pathologic Dia gnosis
+        clacumeitted an the initial pathology
+                                                        Discre anc Form             p y             should be
+                                                                                         completed when the pathologic diagno sis
+                                               report for a case suhrrrittet^ for
+        rose Quality Contr of Fortis Cotrtpleted for the submitted                TCGA is inconsistent with the diagnosis provided
+                                                                   case.                                                           o r, they
+
+       Tissue source site (TSS):
+                                                                                 TSS Identifier:
+                                                                                                                          TSS Unique Patient Identifier:
+      Completed B y (in tervie wer Nome o n OpenChn1cq),               '_                                      --^_...._.^...    Cornpleted Date:
+       Diagnosis information
+                      Data dement                                         t
+                                                                                                                       Vlrctrking ipstructions
+                Path« logic: Diagnosis              In f'lly0 h s         177itiak                                     Pr ov d^ the, tlrarync ,srsi histoic7 ^ is subt
+                                                J                                           dimewil'itk4               the initia l pathology re port for^th
+                                                                                                                                                                                           ,
+                                                                                                                                                                      Yr^(.4.1 clcxasrry^.rrteci   iir:
+          #     Provided all Initial                                                                                                                            is case . I f the lristc)! c).gy fen
+                Patholo ^^r Rep ort                 ^,^cnv^t^x^t orrt^                m t x,Iwrv^in 16                 this lase is nbna d, pruvidcr all fisted subtypes,
+
+                                                                  + Lf9jgf P/earq
+                Histologic features of
+                                                                                                                      Provide the iiistulc ) gic features selected
+                the sample provided                                                                                                                                  ro n th e
+                                                                                                                      Quality Contrt)1 Poritt cc^rrrj3leic>ci lht this rase. TO GA Case
+                for TCGA, as reflected
+                on the CQCF.
+
+        iscrepancy, between Pathology Report and Case Quality Control Form
+              Provide the re^isor^ for
+            1 the discrepancy                                                                                        Provide a reason
+                                                                                                                                        describi rig why the diagnosis on]-tile initial
+                                                                                                                     pathology report fo
+              between the pathology                                                                                                       r this case is not consistent with the
+                                                                                                                     diagnosis selec
+              report and the TCGA                                                                                                    ted on the TC:G A Case Quality Control iForm.
+             Case Quality Control
+             Form.
+
+
+
+
+              Name of `I'SS Reviewing
+              Pathologist or                                                                                       Provide the name of the pathologist -------------
+                                                                                                                   for TCGA,                          who reviewed this case
+              i ir^r-epository Director
+
+                        i rrckrrowletlt,^ e that the above informat
+                                                                      ion provided by my instltrrtion
+                                                                                                        is
+                                                                                                             true and correct and has been quality controlled
+
+
+
+
+                I SS Reviewing Pathologist or Biorepository Director
+                                                                                                                                             ate
+     I acknowledge that the above infor
+                                         mation provided by my institution is true and
+                                                                                       correct and has been quality controlled
+                                      Department chairman has bee» informed or is aware of th                                  . Th e `ittr nrtirrd s
+                                                                                                e above discreiurrrcy in diagnoses                  l crtbQic)r^ist or the
+                                                                                                                                   ,
+
+
+
+
+                                                                                                                                        Date

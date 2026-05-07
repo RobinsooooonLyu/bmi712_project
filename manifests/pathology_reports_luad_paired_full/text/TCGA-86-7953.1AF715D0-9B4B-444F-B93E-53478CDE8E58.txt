@@ -1,0 +1,25 @@
+OpenClinica ID   Gross Description   Microscopic
+Case                                        Description
+  ID
+Diagnosis Details   Comments
+Formatted Path Report                                 Laterality
+
+
+
+LUNG TISSUE CHECKLIST                                 Left-upper
+
+Specimen type: Lobectomy
+Tumor site: Lung
+Tumor size: 2.5 x 1.5 x 3 cm
+Histologic type: Bronchiolo-alveolar adenocarcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Not specified
+Other tumor nodules: Not specified
+Lymph nodes: Not specified
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Excision date

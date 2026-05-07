@@ -1,0 +1,154 @@
+Patient Name MRF | —_ .
+
+Received a f=
+
+SURGICAL PATHOLOGY ~~ CASE: ee
+
+Diagnosis
+Lymph node, #5, excision:
+- One lymph node negative for malignancy (0/1).
+
+Lymph node, #6, excision:
+- One lymph node negative for malignancy (0/1).
+
+Lymph node, #/, excision:
+- Two lymph nodes negative for malignancy (0/2).
+
+Lymph node, #9, excision:
+- One lymph node negative for malignancy (0/1).
+
+Lymph node, #8, excision:
+- One lymph node negative for malignancy (0/1),
+
+Lymph node, #10, excision:
+- Fragments of lymph node negative for malignancy.
+
+Lymph node, #12, excision:
+- Fragments of lymph node negative for malignancy.
+
+Bronchial margin, excision:
+- Negative for malignancy.
+
+Lymph node, #11, excision:
+- Fragments of lymph node negative for malignancy.
+
+Lung, left upper lobe, lobectomy:
+- Adenocarcinoma, moderately differentiated (2 cm); margin of resection is negative for
+malignancy; pleural surface Is not involved. |
+- Two lymph nodes negative for malignancy (0/2).
+- Pathologic stage: pT 1a/N0O/Mx.
+
+EEE (Electronically signed by) (erie: i _
+
+Clinical Information: The patient is a MB car old female with lung cancer.
+
+Frozen Section Diagnosis
+HFS1: Bronchial margin, biopsy:
+- Negative for malignancy.
+
+JFS1: Lung, left upper lobe, lobectomy
+- Non-small cell carcinoma.
+
+Gross Description
+
+Ten specimens are received in separate containers labeled with the patient's name and medical
+record number. The first specimen is also labeled "#5 lymph node". Received is a single irregularly
+shaped fragment of tan-yellow and black tissue measuring 1.0 x 0.9 x 0.5 cm in maximum gross
+dimension. The specimen ts entirely submitted In cassette A1. The second specimen is also labeled "#6
+lymph node". Received are two irregularly shaped fragments of tan-yellow and black tissue measuring
+1.3 x 0.9 x 0.6 cm together. The specimen ts entirely submitted in cassette B1. The third specimen Is
+also labeled "#7 lymph node". Received is a single irregularly shaped fragment of tan-pink and black
+tissue measuring 1.4 x 1.0 x 0.4 cm in maximum gross dimension. The specimen is entirely submitted in
+cassette C1. The fourth specimen is also labeled "#9 lymph node”. Received are two irregularly shaped
+fragments of yellow-tan tissue measuring 1.0 x 0.6 x 0.4 cm together. The specimen is entirely submitted
+in cassette D1. The fifth specimen Is also labeled "#8 lymph node". Received is a single irregularly
+shaped fragment of tan-brown and black tissue measuring 0.8 x 0.5 x 0.3 cm in maximum gross
+dimension. The specimen is entirely submitted in cassette E1. The sixth specimen is also labeled "#10
+lymph node’. Received are two irregularly shaped fragments of tan-purple and black tissue measuring
+1./xX 1.1 x 0.6 cm together. The specimen is entirely submitted in cassette F1. The seventh specimen is
+also labeled "#12 lymph node". Received is a single irregularly shaped fragment of tan-purple and black
+tissue measuring 1.5 xX 0.7 x 0.6 cm. The specimen is entirely submitted in cassette G1.
+The eighth specimen was originally received fresh for frozen section is now resubmitted for permanent
+section. It is also labeled "bronchial margin". Received at the time of frozen section was a 1.0 x 0.4 x
+0.2 cm fragment of tan-red tissue. The specimen was entirely submitted at the time of frozen and is
+entirely resubmitted for permanent section. The ninth specimen is also labeled "#11 lymph node”.
+Received is a single irregularly shaped fragment of tan and black tissue measuring 1.2 x 0.8 x 0.6 cm in
+maximum gross dimension. The specimen is entirely submitted in cassette 11. The tenth specimen was
+originally received fresh for frozen section and is now resubmitted for permanent section. It is also
+labeled "left upper lobe". Received is a lobectomy which measures 14.5 x 9.3 x 3.38 cm in maximum
+gross dimension. The pleural surface is purple, pink-tan and mottled. There is multifocal anthracotic
+pigment. At time of frozen section a 2.0 x 2.0 x 0.6 cm previously incised tan mass was identified. The
+mass appears to grossly abut the pleural surface. The mass Is located approximately 2.5 cm to the
+nearest surgical stapled margin. The remainder of the specimen is serially sectioned to reveal a maroon-
+red parenchyma with anthracosis. No other mass lesions are noted. Representative sections are
+
+submitted. lll
+
+Block Summary
+
+A1- #5 lymph node, entirely submitted.
+B1- #6 lymph node, entirely submitted.
+C1- #/ lymph node, entirely submitted.
+D1- #9 lymph node, entirely submitted.
+E1- #8 lymph node, entirely submitted.
+
+F 1- #10 lymph node, entirely submitted.
+G1- #12 lymph node, entirely submitted.
+H1 Bronchial margin, entirely submitted.
+|1- ' #11 lymph node, entirely submitted.
+J1- Tumor, frozen section.
+
+J2- Tumor in relation to pleural surface.
+J3- Radial section at nearest surgical stapled margin.
+J4- Vascular margin.
+
+J5-J6- Additional sections of tumor.
+
+J/- Uninvolved lung parenchyma.
+
+J8- Possible lymph node.
+
+Microscopic Description
+
+i)
+SP Synoptic Report
+
+J: Thorax Lung SPECIMEN:
+Lobe(s) of lung: Left upper
+PROCEDURE: Lobectomy
+SPECIMEN INTEGRITY
+SPECIMEN LATERALITY: Left
+TUMOR SITE: Upper lobe
+
+TUMOR SIZE: Greatest dimension: 2.0 cm
+
+TUMOR FOCALITY: Unifocal
+HISTOLOGIC TYPE:
+
+Adenocarcinoma
+
+HISTOLOGIC GRADE: G2: Moderately differentiated
+
+VISCERAL PLEURA INVASION:
+BRONCHIAL MARGIN: — Uninvo
+VASCULAR MARGIN:
+LYMPH NODES
+
+PRIMARY TUMOR (pT):
+
+not in the main bronchus); or
+REGIONAL LYMPH NODES (pN):
+DISTANT METASTASIS (pM):
+
+Not identified
+lved by invasive carcinoma
+
+Uninvolved by invasive carcinoma
+
+pNO: No regional lymph node metastasis
+Not applicable
+
+pT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or
+visceral pleura, without bronchoscopic evidence of invasion more proximal than the lobar bronchus (ie,
+
+=

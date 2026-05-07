@@ -1,0 +1,95 @@
+PATIENT HISTORY:
+CHIEF COMPLAINT/PRE-OP/POST·OP DIAGNOSIS: Lung mass
+PROCEDURE: Left VATS
+SPECIFIC CLINICAL QUESTION: Not given
+OUTSIDE TISSUE DIAGNOSIS: Not given
+PRIOR MALIGNANCY: Not given
+CHEMOTHERAPY: Not given
+ORGAN TRANSPLANT: Not given
+IMMUNOSUPPRESSION: Not given
+OTHER DISEASES: Not given
+ ADDENDA:
+                                                                                   Collection
+ Addendum
+,Molecular Anatomic Pathology Testing:
+
+Block 7D:
+        A. KRAS codon 12/13 mutation NOT identified.
+        B. EGFR Exon 19 mutation NOT identified.
+        C. EGFR Exon 21 mutation NOT identified.
+        D. EGFR amplification NOT identified (see In Situ Procedure).
+        E. EML41ALK rearrangement NOT identified (see In Situ Procedure).
+Note:
+KRAS codon 12/13 mutations are found in approximately 10-30% lung adenoyarclnomas and associated with history of
+smoking, The presence of KRAS mutation leads to resistance to EGFR ~ therapies (1). EGFR exon 19 and 21
+mutations are present in about 10% of               and up to 40% in th..-,opulation, common in                        and
+associated with the clinical response to treatment with EGFR inhibitors (2). These mutations are mutually exciusive and
+their presence may have prognostic andlor therapeutic implications (3,4). Clinical studies show high EGFR gene copy
+number by FISH analysis (amplification) to be associated with favorable clinical benefit (clinical response, stable disease,
+time to progression, and survival) In patients with advanced non-small cell lung cancer treated with EGFR tyrosine kinase
+inhibitors.
+
+Approximately 3% of lung adenocarcinomas within the Asian population have an interstitial deletion and inversion in
+chromosome 2p resulting in the EML4IALK fusion gene (ALK+) which is sensitive to AlK inhibitors (5,6). The prevalence
+of this abnormality in the Western population is stili unknown, Detection of this abnormality is critical for identifying
+patients eligible for therapies that target ALK enzymatic activity. EML41ALK rearrangements are mutually exclusive with
+KRAS and EGFR mutations.
+FINAL DIAGNOSIS:
+                                                SUMMARY STATEMENT
+The posterior segmentectomy demonstrates a 2.5 cm poorly differentiated adenocarcinoma associated with
+angiolymphatic and parietal pleural invasion. Metastatic adenocarcinoma is present in posterior and apical segment
+level 11, level 10 and level 5 lymph nodes. Surgical resection margins are free of tumor. Pathologic stage is T3N2Mx.
+
+ PARTS 1
+ AND 2: PLEURA, LEFT, PlEURORECOMTY-
+        POORLY DIFFERENTIATED ADENOCARCINOMA.
+
+ PART 3: LYMPH NODE, POSTERIOR SEGMENT lEVEL 11, BIOPSY-
+        METASTATIC ADENOCARCINOMA.
+
+ PART 4: LYMPH NODE, LEVEL 10, BIOPSY-
+        METASTATIC POORLY DIFFERENTIATED ADENOCARCINOMA WITH EXTRACAPSULAR EXTENSION.
+
+ PART 5: LYMPH NODE, APICAL SEGMENT LEVEL 11, BIOPSY-
+        POORLY DIFFERENTIATED ADENOCARCINOMA.
+
+ PART 6: LYMPH NODE, LEVEL 5, BIOPSY-
+        METASTATIC POORLY DIFFERENTIATED ADENOCARCINOMA.
+
+ PART 7: LUNG, lEFT UPPER LOBE, EXTENDED POSTERIOR SEGMENTECTOMY
+        A. INVASIVE POORLY DIFFERENTIATED ADENOCARCINOMA (2.5 CM IN DIAMETER), ASSOCIATED WITH
+           ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION. MILD LYMPHOCYTIC HOST RESPONSE.
+            PATHOLOGIC STAGE: T3N2MX.
+        B. SURGICAL RESECTION MARGINS ARE FREE OF TUMOR.
+        C. BACKGROUND WITH EMPHYSEMATOUS CHANGE AND RESPIRATORY BRONCHIOLITIS.
+CASE SYNOPSIS:
+  SYNOPTIC DATA· PRIMARY LUNG TUMORS
+  TUMOR LOCATION:              Left Upper Lobe
+  LUNG SEGMENT(S) INVOLVED:     Posterior
+  PROCEDURE:                    Segmental
+  TUMOR SIZE:                   Maximum dimension: 2.5 em
+                                Minor dimension: 1.9 em
+  GROSS SATELLITES:             Number of gross satellite lesions: 0
+  TUMOR TYPE:                   Invasive adenocarcinoma
+  HISTOLOGIC GRADE:             G3, Poorly differentiated
+  MICROSCOPIC SATELLITES:       Number of microscopic satellite lesions: 0
+  EXTRAPULMONARY PARENCHYMAL
+  EXTENSIONflNVASION OF TUMOR: Visceral pleura
+                                Parietal pleura
+  ANGIOLYMPHATIC INVASION.      Yes
+  TUMOR NECROSIS:               < or ~ to 50%
+  SURGICAL MARGIN INVOLVEMENT: No
+  SURGICAL MARGIN SITE:         Distance of invasive tumor to closest margin: 40 mm. Parenchymal margin
+  INFLAMMATORY(DESMOPLASTIC) REACTION:             Mild
+  N1 LYMPH NODES:               Number of N1 lymph nodes positive: 3
+                                Number of N1 lymph nodes examined: 3
+  EXTRACAPSULAR SPREAD OF N1 METASTASES:           Yes
+  N2 LYMPH NODE GROUPS INVOLVED:          Level 5
+  N2 LYMPH NODES:               Number of N2 lymph nodes positive: 1
+                                Number of N2 lymph nodes examined: 1
+  EXTRACAPSULAR SPREAD OF N2 METASTASES:           No
+  UNDERLYING DISEASE(S):        Emphysema, Smokers bronchiolitis
+  T STAGE, PATHOLOGIC:          pT3 "
+  N STAGE, PATHOLOGIC:          pN2
+  M STAGE, PATHOLOGIC:          pMX
+  ANCILLARY STUDIES:            Histochemical stains, FISH studies, Molecular studies

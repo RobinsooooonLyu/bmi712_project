@@ -1,0 +1,175 @@
+TCGA- 73- 4675
+
+
+
+
+                            SURGICAL PATHOLOGY REPORT
+                           **********Addendum**********
+
+SPECIMEN(S):         A. 4L LYMPH NODE
+                     B. LEVEL 7 LYMPH NODE
+                     C. 2R LYMPH NODE
+                     D. LEVEL 11 LYMPH NODE
+                     E. ADDITIONAL LEVEL II LYMPH NODE
+                     F. LEFT LOWER LOBE
+                     G. RIB
+                     H. LEVEL 7 LYMPH NODE
+                     I. LEVEL 5 LYMPH NODE
+
+
+CLINICAL HISTORY:
+None given
+
+PRE-OPERATIVE DIAGNOSIS:
+Adenocarcinoma
+
+
+
+
+GROSS DESCRIPTION:
+A. 4L LYMPH NODE
+Received fresh labeled with the patient's identification and "4L" is an aggregate oflymphoid
+tissue, I. 7 x 1.2 x 0.3 em; submitted entirely for frozen section diagnosis in cassette FSA.
+B. LEVEL 7 LYMPH NODE
+
+                                             Page I f•f 6
+   Received fresh labeled with the patient's identification and "level 7" is a 1.3 x 0.9 x 0.2 em
+   lymph node; submitted entirely for frozen section diagnosis in cassette FSB.
+  C. 2R LYMPH NODE
+  Received fresh the patient's identification and "2R" is a I x 0.5 x 0.3 em lymph node; submitted
+ ,entirely for frozen section diagnosis in cassette FSC.
+
+  D. LEVEL II LYMPH NODE
+  Received, labeled with the patient's name, as "level 11 lymph node" is a 0.5 x,0.4 x 0 0.3-cm
+ piece of tan tissue. It is submitted in toto as D 1.
+ E. ADDITIONAL LEVEL II LYMPH NODE
+ Received, labeled with the patient's name, as "additional level II lymph node" is a 3.5 x 2.8 x 0.7
+ em aggregate of multiple tan lymph nodes and red-brown fragments of tissue. It is submitted in
+ toto as follows:
+ El-Five lymph nodes (one bisected, inked)
+
+
+...
+ E2-Two lymph nodes, bisected (one inked)
+ E3-E4-Remaining tissue fragments
+
+ F. LEFT LOWER LOBE
+ Received fresh labeled with the patient's identification and "left lower lobe" for intra-operative
+ bronchial margin examination. The specimen consists of a 601-g lobectomy specimen measuring
+ 17 x 14 x 6.5 em. The is indurated ~nd puckered pleura is inked black. The mass measuring I 0 x
+ 9 x 6 em is within 2 mm from the pleura and 1.2 em from the bronchial margin. The mass has a
+tan grey pmiially necrotic cut-surface. Multiple peribronchial lymph nodes measuring from 0.4 to
+ I em are recovered. The remainder of the parenchyma is pink, dark red and focally condensed.
+Photographs are taken and tissue is procured. Shave section is taken of the bronchial margin.
+Representatively submitted as follows:
+FSA - frozen shave of bronchial margin
+F2- bronchial shaved next to the frozen
+F3 to F5 - 5 possible lymph nodes each, peribronchial
+F6, F7- mass with bronchial
+F8, F9- mass to pleura (closest)
+
+
+..
+FlO, Fll- mass
+Fl2, Fl3- grossly uninvolved parenchyma
+
+ G. RIB
+ Received, labeled with the patient's, name as "rib" is a 2.4 x 2.2 x 0.5-cm aggregate of three
+ fragments of bone with attached red-brown soft tissue. After decalcification, it is submitted in
+ toto as G I-G2.
+ H. LEVEL 7 LYMPH NODE
+Received, labeled with the patient's name, as "level 7 lymph node" is a 1.6 x 1.1 x 0.5 em
+aggregate of tan-red fragments of tissue. One fragment is bisected, inked. It is submitted in toto
+as HI.
+I. LEVELS LYMPH NODE
+
+                                             Page 2 of 6
+ Received, labeled                 ' name, as "levelS lymph node" is a 1.7 x 1.7 x 0.5 em
+
+
+..
+ aggregate of three fragments of brown-red tissue. Each piece is bisected and submitted in toto as
+ Il-I2 .
+
+
+ DIAGNOSIS:
+ A. 4L LYMPH NODE; EXCISION:
+        -REACTIVE LYMPH NODE -NEGATIVE FOR TUMOR (0/1)
+
+ B. LEVEL 7 LYMPH NODE; EXCISION:
+       - REACTIVE LYMPH NODE -NEGATIVE FOR TUMOR (0/1)
+
+C. 2R LYMPH NODE, EXCISION:
+       -REACTIVE LYMPH NODE -NEGATIVE FOR TUMOR (0/1)
+
+D. LEVEL 11 LYMPH NODE, EXCISION:
+      -REACTIVE LYMPH NODE -NEGATIVE FOR TUMOR (0/1)
+
+E. ADDITIONAL LEVEL 11 LYMPH NODE, EXCISION:
+      -REACTIVE LYMPH NODES- NEGATIVE FOR TUMOR (0/9)
+
+F. LUNG, LEFT LOWER LOBE, EXCISION:
+      -WELL DIFFERENTIATED ADENOCARCINOMA, MEASURING 10.0 X 9.0 CM
+      - BRONCHIAL MARGIN IS FREE OF TUMOR
+      - PERIBRONCHIAL LYMPH NODES POSITIVE FOR CARCINOMA (3/14)
+      -SEE TEMPLATE
+
+G. RIB, EXCISION:
+       -IN DECALCIFICATION.
+
+H. LEVEL 7 LYMPH NODE, EXCISION:
+      - RECATIVE LYMPH NODE-NEGATIVE FOR TUMOR (0/1)
+
+I. LEVEL 5 LYMPH NODE, EXCISION:
+      - REACTIVE LYMPH NODES- NEGATIVE FOR TUMOR (0/4)
+
+
+
+                                 SYNOPTIC REPORT- LUNG
+  Surgical Procedure:    Lobectomy
+  Laterality:   Left
+  Tumor Site:    Lower lobe
+  Tumor Location:     Peripheral
+  Tumor Size:     Greatest diameter:   1Ocm
+                 Additional dimensions:    9cm
+                                             Page 3 of 6
+ WHO CLASSIFICATION
+     Adenocarcinoma
+Histologic Grade:      G I: Well differentiated
+Angiolymphatic Invasion:       Absent
+Bronchial Margins:       Bronchial margins uninvolved
+Visceral Pleural Involvement:      Present (pT2)
+Satellite Tumor(s):     Absent
+Lymph Node Involvement:         N1: Ipsilateral Hilar and/or Peribronchial (levels 10-14)
+                                     Positive 3 I 24
+                                N2: Ipsilateral Mediastinal and/or Subcarinal (Levels 1-9)
+                                     Negative 0 I 7
+                                N3: Contralateral MediastinaVHilar, Scalene or Supraclavicular
+                                     Negative 0 I I
+Non-Neoplastic Lung:        Emphysematous changes
+Additional Pathologic Findings:       None identified
+Pathological Staging (pTNM):           pT 2 N l        MX
+Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+
+
+
+                                               Page 4 of 6
+ADDENDUM:
+
+G. RIB, EXCISION:
+      -BONE AND BONE MARROW WITH NO PATHOLOGIC ABNORMALITIES.
+      -NO TUMOR SEEN.
+
+
+
+
+                             PageS of 6
+ADDENDUM:
+
+Based on the 7'h edition AJCC staging, the stage should be pT3 and not pT2.
+
+
+
+
+                                         Png~ 6 of 6

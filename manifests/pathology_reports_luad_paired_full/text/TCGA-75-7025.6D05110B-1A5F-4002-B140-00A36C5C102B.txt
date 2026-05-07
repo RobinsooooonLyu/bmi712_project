@@ -1,0 +1,26 @@
+A description for each data field can be found in the 'Data description’ worksheet (yellow tab).
+Sample Collection Details
+Sample Number
+
+Sample
+Type
+
+BUFFY
+TUMOUR
+Histology and staging
+Sample Site of Year of Age at Sample Days to Days to Type of Site of
+
+Preparatio Tissue Sample Sample Comments Procedure Diagnosis Procedure Primary
+n Collection Collection Date (Histology)
+(yrs)
+
+FF | | || 0 13 RESECT —_LUL
+FF LLL Lung po a 0 13 RESECT = _LUL
+Tumour Histology Grade/ Pathologic Pathologic ClinicalM VALCSG_ Histology Slide URL
+Size (cm) Differentiat al T al N Stage Comments
+ion
+
+3.4 3 | T2,NOS NO MO
+
+3.4 3 | T2,NOS NO MO P|
+

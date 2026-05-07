@@ -1,0 +1,93 @@
+SURGICAL PATHOLOGY REPORT
+
+De-Identified Specimen Code:
+
+Patient Age/Sex | |] M
+
+SPECIMEN SUBMITTED:
+
+Part A: BRONCHIAL MARGIN RIGHT
+UPPER LOBE
+
+Part B: LEVEL 10
+
+Part C; LEVEL 11
+
+Final Diagnosis
+
+1. Right lung, upper lobe, lobectomy (A) Adenocarcinoma with acinar and bronchioloalveolar
+components.
+
+- Two peribronchiolar lymph nodes, negative for carcinoma (0/2).
+
+- Mild centrilobular emphysema.
+
+2. Lymph nodes, level 10, excision (B) Negative for neoplasm.
+
+3. Lymph nodes, level 11, excision (C) - Negative for neoplasm.
+
+Diagnosis Comment:
+1.
+Tumor Location: Right upper lobe
+
+Tumor Size: 2.2 cm in greatest dimension.
+
+Vascular Invasion: No
+
+Lymphatic Invasion: No
+
+Bronchial Margin: Negative
+
+Vascular Margin: Negative
+
+Parenchymal Margins: Negative (gross assessment).
+Pleura/Soft Tissue Margin: Negative
+
+Pathologic Stage (AJCC): Stage IA (pT1b NOQ)
+
+General comment: The tumor will be sent for EGFR mutational analysis and the results of those studies
+reported as an addendum.
+
+Page 1 of 2
+SURGICAL PATHOLOGY REPORT
+
+Procedure: EGFR Mutation Analysis Re Status: Signed Out
+
+Text: EGFR Mutation Analysis (Clarient # EEE cate I:
+
+Diagnosis of neoplasm: No EGFR alteration detected .
+
+Genotype result: Wild type (see complete Clarient report in Epic).
+
+Intraoperative Diagnosis:
+A. Bronchial margin, no tumor seen
+
+Clinical Diagnosis:
+RUL NODULE
+
+Gross Description:
+
+A, Received in fixative labeled "bronchial margin right upper lobe" is a lobectomy specimen of the upper
+lobe of the right lung that weighs 189 grams fresh and measured 17.5 x 10.4 x 4.6 cm pre-inflation,
+After a period of inflation and fixation, the specimen measures 13.5 x 12,0 x 4.5 cm. There is a 0.9 cm
+bronchial stump previously taken for frozen section, which was negative. In the anterior segment, there
+is a poorly circumscribed firm gray-yellow tumor measuring 2.2 x 2.0 x 2.0 cm. There is no necrosis.
+The tumor is underlying a retracted puckered area of pleura measuring 2.8 x 2.5 cm in area. The tumor
+abuts the pleura, abuts segmental bronchi, is located 0.5 cm from the nearest vessel. The tumor is
+located 0.7 cm from the proximal margin, which is inked orange. The pleura above the tumor is inked
+blue. There are mild emphysematous changes in the remainder of the lung, and there is an area of
+consolidation in the apex which has a tan discoloration. Sections are submitted as follows: A1 frozen
+section of bronchial margin; A2 vascular margins; A3 tumor with overlying pleura inked blue; A4-A5
+tumor with bronchus and vessels; A6 tumor with parenchymal margin inked orange; A7 tumor with
+pleura; A8 apex consolidation; AQ normal lung; A710 two hilar lymph nodes.
+
+B. Received in formalin are two tan-gray nodules resembling lymph nodes aggregating to 0.5x0.3 x 0.2
+cm. Totally submitted in one cassette.
+
+C. Received fresh are multiple tan-black nodules resembling lymph nodes aggregating to 1.0 x 0.5 x 0.3
+cm. Totally submitted in one cassette.
+
+Microscopic:
+{Not Entered}
+
+Page 2 of 2

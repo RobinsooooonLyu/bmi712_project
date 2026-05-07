@@ -1,0 +1,54 @@
+UUID: 80C129A3 - A586-4B1C-9979 - 444307867744
+                                                                                       TCGA- 86-A4D0 - 01A-PR               Redacted
+                                                                            IIIIIIIIIIIIIIIIIIIIIIIIIIIIII11111 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                                                                            III IIIIIII I IIIIIIIIIIII I IIIIIIII I IIII II IIIIIIIIII II11111 I III III
+                                                                            III IIIIIII111IIIIIIIIIIIIIIH11111111111111111111111III
+
+Gross Description:
+
+Microscopic Description:
+
+Diagnosis Details:
+
+Comments:
+
+Formatted Path Reports : LUNG TISSUE CHECKLIST
+
+Specimen type : Excision of tumor
+
+Tumor site: Lung
+
+Tumor size: 6 x 6 x 6 cm
+                                                               ltd-v-3
+Histologic type: Adenocarcinoma
+                                                                                                          V N oI 3
+Histologic grade: Poorly differentiated
+                                                                                                                 c-34-1
+Tumor extent : Visceral pleura
+
+Other tumor nodules : Not specified                                                                                 JAAJ
+                                                                                                                     jJ     ;q)
+Lymph nodes : 0/6 positive for metastasis ( Regional 0/6)
+
+Lymphatic invasion : Not specified
+
+Venous invasion : Not specified
+
+Margins : Not specified
+
+Evidence of neo -adjuvant treatment: Not specified
+
+Additional pathologic findings : CK7, CD15, TTF-1 positive; CK10, P63 negattive
+
+Comments : Right- upper
+
+
+
+
+                                                                       ieria
+                                                                       iiagnosis')rsci cpaicy__
+                                                                       rimary)umor Site Di.creparicy
+                                                                       i!PAA Discrepancy
+                                                                       ^ru+r Mirwnan y History
+                                                                       "Ja{/synchrc,wus prim„ r
+                                                                       'ase is (ci

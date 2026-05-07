@@ -1,0 +1,217 @@
+This information is subject to all Federal and State
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+Document Type:
+Document Date:
+Document Status:
+Document Title:
+Encounter info:
+
+
+                                                                 * Final Report *
+APRPT (Verified)
+
+
+
+
+Patient Name:
+MRN:
+
+Location:
+Client:
+Submitting
+Phys:
+
+
+
+
+                                                Final Surgical Pathology Report
+
+Final PathologiC Diagnosis
+A. LUNG, RIGHT UPPER LOBE, WEDGE RESECTION, A1FS:
+       -ADENOCARCINOMA, MIXED SUBTYPE WITH SOLID AND ACINAR PATTERNS OF GROWTH, POORLY
+       DIFFERENTIATED.
+       - THE TUMOR MEASURES 1.5 X 1.3 X 1.1 CM.
+       -ANGIOLYMPHATIC INVASION IS IDENTIFIED.
+       - FOCI OF TUMOR EXTEND TO THE INKED EDGE (SEE COMMENT).
+       - NO VISCERAL PLEURAL INVASION IS IDENTIFIED.
+       - NO PERINEURAL INVASION IS IDENTIFIED.
+       - MARKED EMPHYSEMATOUS CHANGES AND CARCINOID TUMORLETS.
+       - SEE SYNOPTIC, COMMENT.
+
+B. LUNG, RIGHT LOWER LOBE, WEDGE RESECTION, B1 FS:
+       - ADENOCARCINOMA, MIXED SUBTYPE WITH MICROPAPILLARY, ACINAR AND LEPIDIC PATTERNS OF
+       GROWTH, MODERATELY DIFFERENTIATED.
+       - THE TUMOR MEASURES 0.7 X 0.6 X 0.5 CM.
+       - ANGIOLYMPHATIC INVASION IS IDENTIFIED.
+
+
+
+
+Printed by:
+Printed on:                                                                                                          Page 1 of 4
+                                                                                                                     (Continued)
+* Final Report *
+
+
+        - FOCI OF TUMOR EXTEND TO THE INKED EDGE (SEE COMMENT).
+        - NO VISCERAL PLEURAL INVASION IS IDENTIFIED.
+        - NO PERINEURAL INVASION IS IDENTIFIED.
+        - MARKED EMPHYSEMATOUS CHANGES.
+        - SEE SYNOPTIC, COMMENT.
+
+Comment
+Immunohistochemical stain results (performed on both part A and B):
+                                   PART A           PART B
+       C K7 --------------------   positive         positive
+       CK20 ------------------     negative         positive
+       TTF 1 -------------------   positive         positive
+       Napsin -----------------    positive         positive
+
+The immunoprofiles for the tumors in part A and B are compatible with a lung primary (CK7, TTF, Napsin positive). However, the
+differences in histologic patterns of growth and CK20 immunoprofile are suggestive of two separate primary adenocarcinomas of
+the lung. If the tumors are determined to be separate primaries, each would be staged as pT1 a. The edge of resection is inked
+after the staple line has been removed in both specimens and therefore the inked edge may not represent the true margin of
+resection. Clinical correlation is recommended.
+
+
+
+
+ANAL YTE SPECIFIC REAGENT (ASR) DISCLAIMER:
+So                              se               These tests were developed and their performance characteristics determined
+by                              They have not been cleared or approved by the Federal Drug Administration (FDA). The FDA
+do                              go through                               tests are used for clinical purposes, and should not be
+regarded as investigational or for resea                             is certified under the Clinical Laboratory Improvement
+Amendments (CLlA) as qualified to                                              testing.
+
+
+
+
+Synoptic Worksheet
+A. Right upper and lower lobes:
+   Specimen:                               Lobe(s) of lung: Right upper and lower lobes
+   Procedure:                              Wedge resection
+   Specimen Integrity:                     Indeterminate
+   Specimen Laterality:                    Right
+   Tumor Site:                             Upper lobe
+                                           Lower lobe
+     Tumor Focality:                       Separate tumor nodules in different lobes, sites: upper and lower
+
+
+
+
+ Printed by:                                                                                                         Page 2 of 4
+ Printed on:                                                                                                         (Continued)
+Anat Path Reports
+* Final Report *
+
+
+    Histologic Type:                      Adenocarcinoma, mixed subtype
+    Histologic Grade:                     Other: see parts A and B.
+    Tumor Size:                           Greatest dimension: 1.5 cm
+                                          Additional dimension: 1.3 cm
+                                          Additional dimension: 1.1 cm
+    Visceral Pleura Invasion:             Not identified
+    Tumor Extension:                      Not applicable
+    Bronchial Margin:                     Involvement by invasive carcinoma not applicable
+                                          Involvement by squamous cell carcinoma in situ (CIS) not applicable
+    Vascular Margin:                      Not applicable
+    Parenchymal Margin:                   Not applicable
+    Parietal Pleural Margin:              Not applicable
+    Chest Wall Margin:                    Not applicable
+    Other Attached Tissue Margin:         Not applicable
+    Treatment Effect:                     Not applicable
+    Lymph-Vascular Invasion:              Present
+    Extranodal Extension:                 Not identified
+    TNM Descriptors:                      Not applicable
+    Primary Tumor (pT):                   pTX: Primary tumor cannot be assessed, or tumor proven by presence of
+                                          malignant cells in sputum or bronchial washings but not visualized by imaging
+                                          or bronchoscopy
+    Regional Lymph Nodes (pN):            pNX: Regional lymph nodes cannot be assessed
+                                           Nodes examined: 0
+                                           Nodes involved: 0
+    Distant Metastasis (pM):               Not applicable
+    Additional Pathologic Findings:        Emphysema
+    Comments                               See final diagnosis comment regarding pT stage.
+
+
+
+
+Clinical History
+Right VATS. Tobacco 40 pack year/COPD. RLL lung.
+
+Specimen(s) Received
+A: Right upper and lower lobes
+B: Right lower lung lobe wedge
+
+Gross Description
+Specimen A is received fresh for intraoperative consultation and is labeled with the patient's name, medical record number and
+as "right upper lung wedge." The specimen consists of a lung wedge measuring 8.0 x 4.2 x 2.5 cm and weighing 16 grams. One
+firm, white nodule is found measuring 1.5 x 1.3 x 1.1 cm. A representative section of this nodule is submitted for frozen section
+diagnosis and the cryoblock is transferred into cassette "A 1FS." The parenchymal edge is inked green after the staple line has
+been removed. The uninvolved lung shows emphysematous changes. Representative sections are submitted as follows:
+A 1FS:     Representative nodule
+
+
+
+
+ Printed by:                                                                                                        Page 3 of 4
+ Printed on:                                                                                                        (Continued)
+ Anat Path Reports
+ * Final Report *
+
+
+ A2-A5:   Representative nodule
+ A6:      Normal lung
+
+
+Specimen B is received fresh for intraoperative consultation and is labeled with the patient's name, medical record number and
+as "right lower lobe lung wedge." The specimen consists of a lung wedge measuring 8.0 x 1.3 x 1.2 cm and weighing 4.3 grams.
+There is a stapled resection margin lined at one end of the specimen. A small white nodule is identified which measures 0.7 x
+0.6 x 0.5 cm. The nodule abuts the resection edge. The resection edge is inked green after the staple line has been removed.
+A representative section of the nodule is submitted for frozen section diagnosis and the cryoblock is transferred to cassette
+"B1 FS." No definite residual nodule is identified after frozen section. Sections are submitted as follows:
+
+
+
+
+-
+B1 FS:     Representative nodule
+B2-B6: Specimen submitted entirely
+
+
+
+Intraoperative Consult Diagnosis
+A1FS: LUNG, RIGHT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.
+
+
+
+
+                                                                                              b_
+        • ... I ... •
+                      results were communicated to the surgical team and were repeated back
+
+
+B1 FS: LUNG, RIGHT LOWER LOBE (FROZEN SECTION): ADENOCARCINOMA.
+      _ _ results were communicated to the surgical team and were repeated back
+
+
+
+Pathol
+
+
+Microscopic Description
+Microscopic examination is performed.
+
+
+
+
+Printed by:
+Printed on:                                                                                                      Page 4 of 4
+                                                                                                             (End of Report)

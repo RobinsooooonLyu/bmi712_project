@@ -1,0 +1,54 @@
+Pathology Reports
+Case ID                Gross Description Microscopic
+          Subject ID                     Description
+                       Labeled right lower      Sections reveal an
+                       lobe. There is a 3.5 x 3 invasive
+                       x 2.5 cm wedge of        adenocarcinoma with
+                       lung                     papillary, lipidic,
+                       tissue with intact gray acinar, and
+                       pleura. On cross         micropapillary
+                       section there is a 2.1 subtypes. See checklist
+                       cm                       for additional details.
+                       subpleural tumor with
+                       a glistening white
+                       mucoid surface. The
+                       tumor is 12 mm
+                       from the nearest
+                       stapled margin. The
+                       pleura has been inked
+                       blue. No
+                       satellite nodules are
+                       detected. The
+                       remaining lung tissue
+                       is brown and
+                       spongy.
+Diagnosis Details           Comments                      Formatted Path Report
+
+LUNG CARCINOMA                LUNG TISSUE CHECKLIST
+CHECKLIST
+1. Tumor Type:                Specimen type: Wedge
+Adenocarcinoma, mixed         resection, lobectomy
+subtype.                      Tumor site: Lung
+2. Tumor grade: Poorly        Tumor size: 2.1 cm
+differentiated.               Histologic type:
+3. Tumor location: Right      Adenocarcinoma
+lower lobe.                   Histologic grade: Poorly
+4. Tumor size: 2.1 cm.        differentiated
+5. Angiolymphatic invasion: Tumor extent: Visceral
+Yes.                          pleura
+6. Bronchial margin: N/A. Other tumor nodules: Not
+7. Pleural involvement:       specified
+Visceral pleura.              Lymph nodes: 1/1 positive
+8. Lymph nodes: 1 positive for metastasis (Subcarinal
+out of 1 found (subcarinal    lymph node 1/1)
+lymph node)                   Lymphatic invasion:
+9. Size of largest metastatic Present
+deposit: 0.25 cm.             Venous invasion: Present
+10. pTNM: T2a N2 MX.          Margins: Not specified
+                              Evidence of neo-adjuvant
+                              treatment: Not specified
+                              Additional pathologic
+                              findings: Not specified
+                              Comments: None
+             Date of
+Laterality   Procurement

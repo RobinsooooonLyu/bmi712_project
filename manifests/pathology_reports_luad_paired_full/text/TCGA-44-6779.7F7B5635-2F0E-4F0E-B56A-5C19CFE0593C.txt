@@ -1,0 +1,148 @@
+n
+
+
+Date Coll:
+
+                        SURGICAL PATHOLOGY REPORT
+
+
+
+SPECIMEN
+    A. R4 lymph node
+    B. L4 lymph node
+    C. Level 10 lymph node
+    D. Level 5 lymph node
+    E. Subcarinal lymph node
+    F. Level 6 lymph node
+    G. Left lung
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:   Lung cancer.
+
+FROZEN SECTION DIAGNOSIS
+    FSA) R4 lymph node - Negative for malignancy.
+    FSB) L4 lymph node - Negative for malignancy.
+
+GROSS DESCRIPTION
+             A. Part A is submitted fresh for frozen labeled "R4 lymph
+             node" consists of multiple fragments of tan-white and
+    yellow tissue admixed with anthracotic pigment. The aggregate
+    measurement is 4 x 2 x 0.5 cm. Submitted entirely for frozen
+    section.
+             B. Part B is submitted fresh for frozen labeled "L4 lymph
+             node" consists of multiple fragments of gray-red and yellow
+    tissue with an aggregate dime       f 2 x 2 x 0.5 cm. Submitted
+    entirely for frozen section.
+             C. Received fresh,          "level 10 lymph node", are two
+             slightly rubbery gray-black-red tissues, in keeping with
+    lymph nodes, measuring 0.35 cm. in greatest dimension and 0.7 x 0.5
+    x 0.5 cm. The larger tissue is bisected and the specimens are
+    entirely submitted in two blocks, as labeled. AS-2
+
+   BLOCK SUMMARY:   1 - Smaller node in toto; 2 - bisected larger node.
+
+            D. Received fresh, labeled "level 5 lymph node", are two
+            slightly rubbery gray-black-red tissues, in keeping with
+   lymph nodes, averaging 1.1 x 0.6 x 0.6 cm. The specimens are
+   bisected and entirely submitted independently in two blocks (one
+   bisected node per cassette). AS-2
+            E. Received fresh, labeled "subcarinal lymph node", are
+            four slightly rubbery tan-gray-red tissues, in keeping with
+   lymph nodes, measuring up to 0.6 cm. in greatest dimension. The
+   specimens are submitted in toto in one block. AS-1
+            F. Received fresh, labeled "level 6 lymph node", are two
+            soft tan-red to gray-black tissues, in keeping with lymph
+   nodes, measuring 0.5 and 2.4 cm. in greatest dimension, with a scant
+   amount of associated adipose tissue. The larger node is bisected
+   and the specimens are entirely submitted in two blocks, as labeled.
+   AS-2
+
+              RY:   1 - Smaller node in toto; 2 - bisected larger node.
+            G. Left lung submitted fresh for tissue procurement
+            labelled "left lung" is an intact lung with two lobes
+   weighing 442 grams. There is a suture line present at the
+   amputation point of the main left bronchus, the left main pulmonary
+   artery and main left pulmonary vein. The pleural surface of the
+   lung is intact with a finely stippled anthracotic pigment present.
+   No obvious areas of puckering of the pleura or umbilication are
+   evident. Several small possible peribronchial lymph nodes are
+   present adjacent to the bronchial stump. There is a mass that is
+   palpable in the interlobar fissure. This appears to be below the
+   surface of the lung. Sections are placed through the mass and this
+   reveals a large tumor mass which is immediately inferior to the main
+   bronchus. The tumor mass measures maximally 6 x 5 x 4 cm. It
+   arises approximately 1 cm below the bronchial cuff margin that
+   grossly does not appear to be involved by tumor. There does appear
+   to be at least one lymph node which is partially involved by tumor
+   adjacent the bronchus. Portions of the t           ormal lung are
+   submitted for procurement per request of              Further
+   sectioning of the lung reveals a second t          present deep to
+   the pleural surface of the lower lobe. This pleural mass as central
+   necrosis and measures maximally 3 x 2 x 1.5 cm. It has the same
+   fleshy tan-white gritty cut surface as does the main tumor mass.
+   The upper lobe does not appear to have any discrete nodules. It is
+   crepitant gray-tan tissue without focal nodularity. Sections after
+   fixation.
+   BLOCK SUMMARY: 1 - bronchial margin; 2 - vascular margin; 3 -
+   pleural margin of the main dominant tumor mass; 4-7 - dominant tumor
+   mass; 8-10 - secondary smaller tumor including pleural surface; 11 -
+   random left upper lobe; 12 - random left lower lobe; 13-14 -
+   bronchial lymph nodes.
+
+
+
+MICROSCOPIC DESCRIPTION
+             Microscopic sections of both lesions present in the left
+             lung have a similar histologic appearance. Both are
+    moderate to poorly differentiated adenocarcinomas with cells
+    exhibiting prominent eosinophilic cytoplasm. It is not clear from
+    the histology if this represents two separate primary tumors or an
+    intrapulmonary metastasis from the main lung tumor. Results of the
+    evaluation of the lung are summarized in the following template:
+
+   Histologic type: Adenocarcinoma.
+   Histologic grade: Moderate to poorly differentiated.
+   Primary tumor (pT): Two lesions are present. The larger lesion
+   measures 6 x 5 x 4 cm., the smaller lesion 3 x 2 x 1.5 cm. (pT2).
+   Margins of resection: Bronchial and vascular margins of resection
+   are free of tumor. Visceral pleural surface free of tumor.
+   Direct extension of tumor: Absent.
+   Venous (large vessel) invasion: Negative.
+   Arterial (large vessel) invasion: Negative.
+   Lymphatic (small vessel) invasion: Negative.
+   Regional lymph nodes (pN): Two of six bronchial lymph nodes contain
+   metastatic adenocarcinoma (2/6). All mediastinal lymph nodes are
+      negative (pN1).
+   Distant metastasis (pM): Cannot be assessed (pMX).
+
+   5, 3x6, 14x2
+DIAGNOSIS
+    A. Lymph node, R4, resection:
+          Negative for malignancy.
+
+   B.   Lymph node, L4, resection:
+          Negative for malignancy.
+
+   C.   Lymph node, level 10, resection:
+          Negative for malignancy.
+
+   D.   Lymph node, level 5, resection:
+          Negative for malignancy.
+
+   E.   Lymph node, subcarinal, resection:
+          Negative for malignancy.
+
+   F.   Lymph node, level 6, resection:
+          Negative for malignancy.
+
+   G.   Lung, left pneumonectomy:
+          Multicentric, moderate to poorly differentiated
+          adenocarcinoma. Bronchial, vascular and visceral pleural
+          surfaces are free of involvement by tumor.
+          Two of six peribronchial lymph nodes contain metastatic
+          adenocarcinoma (2/6).
+
+
+
+
+                       --- End Of Report ---

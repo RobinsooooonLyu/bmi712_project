@@ -1,0 +1,26 @@
+~~ BBB Lune Tissue cHecktist~
+
+‘Specimen type: Pneumonectomy
+
+‘Tumor site: Lung
+
+‘Tumor size: 3x 2.5x2cm
+
+‘Histologic type: Squamous cell carcinoma
+Histologic grade: Poorly differentiated
+
+Tumor extent: Not specified
+
+Other tumor nodules: Not specified
+
+Lymph nodes: 2/12 positive for metastasis (Hilar 2/12)
+‘Lymphatic invasion: Not specified
+
+‘Venous invasion: Not specified
+
+‘Margins: Not specified
+
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+‘Comments: None
+

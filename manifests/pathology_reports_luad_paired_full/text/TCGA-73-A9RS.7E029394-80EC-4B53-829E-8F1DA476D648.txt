@@ -1,0 +1,210 @@
+TSS
+Surg Date
+
+SPECIMENS:
+   A. 4R LYMPH NODE
+   B. ADDITIONAL 4R LYMPH NODE
+   C. 4R LYMPH NODE #3
+   D. LEVEL 7 LYMPH NODE
+   E. 4R LYMPH NODE #4
+   F. PERI BRONCHIAL BIOPSY (RIGHT SIDE)
+   G. PORTIONS OF 8TH RIB
+   H. PORTION OF 7TH RIB
+   1. RIGHT LUNG WITH MID CHEST WALL
+                                                       UUID : 7E829394.80EC - 4653-829E - 8F10A4760648
+   J. LEVEL 8 LN                                             TCGA- 73-A9RS - 01A-PR              Redacted
+SPECIMEN(S):                                        III IIIIIIIIIIIIIIIIUIIIIIIII111111111111111111111111111111II IIIIII
+   A. 4R LYMPH NODE                                 I I I I I 11111111 I I I I U I I I I I I N 111111111 I 11111111 I I I I
+   B. ADDITIONAL 4R LYMPH NODE
+   C. 4R LYMPH NODE #3
+                                                    I I 111111111111111111111111111111 111111 I I 111111111111 11111111111111 I I
+   D. LEVEL 7 LYMPH NODE
+   E. 4R LYMPH NODE #4
+   F. PERI BRONCHIAL BIOPSY (RIGHT SIDE)
+   G. PORTIONS OF 8TH RIB
+   H. PORTION OF 7TH RIB
+   1. RIGHT LUNG WITH MID CHEST WALL
+   J. LEVEL 8 LN
+
+DIAGNOSIS:
+   A. LYMPH NODE, 4R, BIOPSY:
+       - FRAGMENTS OF LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1)
+
+    B. LYMPH NODE, ADDITIONAL 4R, BIOPSY:
+        - FRAGMENTS OF LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1)
+
+    C. LYMPH NODE, 4R #3, BIOPSY:
+        - FRAGMENTS OF LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1)
+
+    D. LYMPH NODE , LEVEL 7, BIOPSY:
+        - ONE FRAGMENT OF LYMPH NODE , NEGATIVE FOR CARCINOMA (0/1)
+
+    E. LYMPH NODE, 4R #4, BIOPSY:
+        - FRAGMENTS OF LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1)
+
+    F. PERI BRONCHIAL (RIGHT SIDE), BIOPSY:
+        - NO EVIDENCE OF CARCINOMA
+
+    G. PORTIONS OF 8TH RIB, RESECTION:
+        - PENDING DECALCIFICATION
+
+     H. PORTION OF 7TH RIB, RESECTION:
+         - PENDING DECALCIFICATION
+
+     1. RIGHT LUNG WITH MID CHEST WALL, PNEUMONECTOMY:
+     - INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA, INVADING INTO CHEST WALL
+                  - 9.2 CM IN GREATEST DIMENSION
+          - BRONCHIAL MARGIN IS NEGATIVE CARCINOMA
+          - SOFT TISSUE RESECTION MARGIN IS NEGATIVE FOR CARCINOMA
+          - BONE RESECTION MARGINS ARE NEGATIVE FOR CARCINOMA
+     - NINETEEN PERIBRONCHIAL LYMPH NODES, NEGATIVE FOR CARCINOMA (0/19)
+          - SEE SYNOPTIC REPORT
+
+     J. LYMPH NODE, LEVEL 8, BIOPSY:
+        - ONE FRAGMENT OF LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1)
+
+   SYNOPTIC REPORT - LUNG
+   Specimens Involved
+   Specimens : A: 4R LYMPH NODE
+   B: ADDITIONAL 4R LYMPH NODE
+   C: 4R LYMPH NODE #3
+   D: LEVEL 7 LYMPH NODE
+   E: 4R LYMPH NODE #4
+   F: PERI BRONCHIAL BIOPSY (RIGHT SIDE)
+   G: PORTIONS OF 8TH RIB
+   H: PORTION OF 7TH RIB
+   I: RIGHT LUNG WITH MID CHEST WALL
+   J: LEVEL 8 LN
+
+    Surgical Procedure: Pneumonectomy
+    Laterality:   Right
+    Tumor Site: Upper lobe
+    Tumor Location:         Peripheral
+    Tumor Size: Greatest diameter:             9.2cm
+    WHO CLASSIFICATION
+    Adenocarcinoma
+    Histologic Grade:       G2: Moderately differentiated
+    Angiolymphatic Invasion:         Absent
+    Bronchial Margins:      Bronchial margins uninvolved
+    Visceral Pleural Involvement: Present (pT2)
+    Satellite Tumor(s):     Absent
+    Lymph Node Involvement:          N1: lpsilateral Hilar and/or Peribronchial (levels 10-14)
+    Negative 0 / 19
+    N2: Ipsilateral Mediastinal and/or Subcarinal (Levels 1-9)
+    Negative 0 / 6
+    Non-Neoplastic Lung: Emphysematous changes
+    Hematoma (1.3 cm in greatest dimension) in the right lower lobe
+    Additional Pathologic Findings: Inflammation
+    Type:          Chronic inflammation
+    Pathological Staging (pTNM):        pT 3      N0      Mx
+    Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+GROSS DESCRIPTION:
+   A. 4R LYMPH NODE
+   Received fresh labeled with the patient's identification and designated "4R lymph node" are two
+   fragments of red-tan soft tissue measuring 0.6 x 0 .3 x 0.2 cm and 0 . 5 x 0.3 x 0.2 cm. Entirely submitted
+   for frozen section, FSA.
+   B. ADDITIONAL 4R LYMPH NODE
+   Received fresh labeled with the patient 's identification and designated "additional 4R lymph node" are
+   multiple (approximately 5) fragments of red -tan soft tissue ranging from 0.4 x 0.3 x 0.2 cm up to 0.9 x
+   0.3 x 0 .2 cm. Entirely submitted for frozen section, FSB.
+   C. 4R LYMPH NODE #3
+   Received fresh labeled with the patient's identification and designated "4R lymph node #3" are two
+   fragments of red-tan soft tissue measuring 0.1 and 0.8 cm in greatest dimension . Entirely submitted for
+   frozen section, FSC.
+   D. LEVEL 7 LYMPH NODE
+    Received fresh labeled with the patient' s identification and designated "level 7" is a fragment of red-tan
+    soft tissue measuring 0.6 cm in greatest dimension . Entirely submitted for frozen section, FSD.
+    E. 4R LYMPH NODE #4
+    Received fresh labeled with the patient's identification and designated "4R lymph node #4" are multiple
+    (approximately 4) fragments of red-tan soft tissue ranging from 0.3 up to 0.9 cm in greatest dimension.
+    Entirely submitted for frozen section, FSE.
+     F. PERIBRONCHIAL BIOPSY (RIGHT.SIDE)
+     Received fresh labeled with the patient's identification and designated "peribronchial biopsy right side"
+     is a fragment of red-tan soft tissue measuring 0.5 x 0 . 1 by less than 0.1 cm. Entirely submitted for
+     frozen section, FSF.
+  G. PORTION OF 8TH RIB
+  Received in formalin labeled with the patient's identification and designated "portion of eighth rib" are
+  two fragments of unoriented bone measuring 4 x 2.5 x 1.5 cm in aggregate . Representatively submitted
+  in G1 for decalcification.
+  H. PORTION OF 7th RIB
+  Received in formalin labeled with the patient's identification and designated "portion of seventh rib" are
+  two fragments of unoriented bone measuring 3.9 x 3 x 1.3 cm in aggregate . Representatively submitted
+  in H1 for decalcification.
+   1. RIGHT LUNG WITH MID CHEST WALL
+   Received fresh and subsequently fixed in formalin labeled with the patient's identification and
+   designated "right lung with mid chest wall" is an oriented (suture marks sixth rib) right pneumonectomy
+   specimen with en bloc chest wall resection of ribs (3) and intercostal soft tissue. The right lobe, 20 x 18
+   x 8.5 cm, middle lobe (collapsed), 10.5 x 9.2 x 2 cm, and lower lobe 11 x 10.8 x 5 cm. The attached
+   chest wall consisting of three ribs, 9.3 x 6.2 x 1.5 cm, collectively, and portion of intercostal soft tissue, 7
+   x 3 x 1 cm. Ink code: Right upper lobe-blue, right mid lobe-orange , right lower lobe- black, lateral bone
+   margin-green, anterior bone margin-yellow, posterior tissue (possible upper lobe lung)-red. The pleural
+   surface of the upper lobe shows multiple bullae, ranging from 0.5 up to 2 cm in greatest dimension. The
+   superior portion of the upper lobe shows an ill-defined, nodular, firm white tan, centrally necrotic mass
+   grossly adherent to the chest wall, measuring approximately 9.2 x 6.5 x 5.4 cm, located 6.5 cm from the
+   bronchial margin, extending to the lateral and posterior soft tissue margins ( green ink, red-ink). The
+   remainder of the upper lobe is sectioned to show deep red, consolidated, focally fibrotic lung
+   parenchyma. The middle lobe is sectioned to reveal deep red, consolidated lung parenchyma. No
+   lesions or nodules are grossly appreciated in the middle lobe. The right lower lobe (apex) shows an ill-
+   defined, firm, red-tan, hemorrhagic lesion, 1.3 x 1 x 0.9 cm, located approximately 16.5 cm from the
+    bronchial margin. The remainder of the right lower lobe shows consolidated, focally fibrotic lung
+    parenchyma. Gross photograph is taken . A portion of the specimen is submitted for tissue procurement.
+    Representatively submitted:
+    FSI1: Shaved bronchial margin
+    12: Posterior soft tissue margin
+    13-16: Right upper lobe, mass, pleural surface , lateral soft tissue posterior to ribs
+    17: Anterior bone margin
+    18-110: One continuous section mass, ribs, lateral bone margin
+    111: Vascular margin
+    112-113: Lower lobe, lesion and pleura
+    114: Lower lobe, random section
+    115-116: Random sections middle lobe
+    117: Additional sections , mass , upper lobe, posterior
+    118-119: Random sections, upper lobe
+     120-123: Multiple possible lymph nodes, upper lobe
+     124-125: One hilar lymph node, upper lobe
+     126: Possible lymph nodes, lower lobe
+    J. LEVEL 8 LYMPH NODE
+     Received in formalin labeled with the patient's identification and designated "level 8 lymph node" is a
+    fragment of tan possible lymphoid tissue measuring 2.3 x 0.7 x 0.7 cm. The specimen is sectioned,
+     entirely submitted, J1.
+
+CLINICAL HISTORY:
+    None Given
+
+PRE-OPERATIVE DIAGNOSIS:
+   Right upper lobe ca
+
+   FROZEN SECTION INTRAOPERATIVE REPORT:
+   FSA: Lymph node, 4R, biopsy: Negative
+   FSB: Lymph node, additional 4R, biopsy: Negative
+   FSC: Lymph node, 4R #3, biopsy: Negative
+   FSD: Lymph node, level 7, biopsy: Negative
+   FSE: Lymph node, 4R #4, biopsy: Negative
+   Diagnoses called to Dr. at           (A),          (B),          (C, D),         (E) by Dr.
+   FSF: Soft tissue, peribronchial biopsy, right: Lung tissue with inflammation, no tumor seen
+   Diagnosis called to Dr. at             Dr. FSI: Right lung and mid chest wall, resection: Bronchial
+   margin negative
+     Diagnosis called to Dr. at          by Dr.
+
+Gross Dictation:, M.S.,
+Microscopic/Diagnostic Dictation: M.S.
+Final Review:, M.D., Pathologist
+Final Review:, M.D., Pathologist,
+Final Review:, M.D., Pathologis`
+Final Review:, M.D., Path-'^-'-
+Final:, M.D., Pathologist,
+Addendum: M.D., Pathologist,
+Addendum Final:, M.D., Pathologist,
+
+
+
+
+                                                  Criteria                /Lt/ I/ 7   Yes   No
+                                                  Diagnosis Discrepancy
+                                                  Primary Tumor Site Discrepancy
+                                                  HIPAA Discrepancy
+                                                  Prior Malignancy Histpry
+                                                  Dual/Synchronou;Pr
+                                                  Case Is (circle):
+                                                  Reviewer Initials

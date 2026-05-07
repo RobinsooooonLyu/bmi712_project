@@ -1,0 +1,391 @@
+UUID : BD386F47 - 1CDC-46D5 - A14D - F7D27F70982F
+                                                                       TCGA- 97-A4M5 - 01A-PR                              Redacted
+                                                            III IIIIIIIIIIIII II IU ffiII I II IIIIIII I III I IIII III IIIIIIIIIIIIIIIII
+                                                            II I IIIIIIIIIIIII II IIIIIIIIIIIIIIII I IIIIIIIIIIIIIIIIIIIII III IIIII
+                                                            III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIllIIIIIIIII
+
+
+
+
+                                                         1c6-o-3
+
+SURGICAL PATHOLOGY REPORT                                                                                    ^as573
+                                                                                                3
+COLLECTION DATE:
+
+SPECIMENS:
+1. F/S LUNG, RIGHT UPPER LOBE WEDGE
+2. LEVEL 7 LYMPH NODE, RIGHT
+3. LEVEL 10 LYMPH NODE, RIGHT
+4. COMPLETION RIGHT UPPER LOBECTOMY
+5. LEVEL 4 LYMPH NODE, RIGHT
+SEE ADDENDUM
+
+
+Reason For Addendum # 1: Immunohistochemistry Analysis
+Reason For Addendum #2: Molecular Studies
+Reason For Addendum #3: Molecular Studies
+Reason For Addendum #4: Molecular Studies
+
+DIAGNOSIS:
+
+1. LUNG, RIGHT UPPER LOBE : WEDGE RESECTION
+- INVASIVE MUCINOUS ADENOCARCINOMA ( 2.5 CM), SEE NOTE.
+- THE STAPLE LINE MARGIN IS FREE OF TUMOR.
+
+Note: The tumor consists of acinar (40%), micropapillary (30%) and
+papillary (30%) components. Results of immunohistochemical and
+molecular studies will be reported in addenda.
+
+2. LYMPH NODE, RIGHT LEVEL 7: BIOPSY
+- ONE LYMPH NODE , NEGATIVE FOR CARCINOMA (0/1).
+
+3. LYMPH NODE , RIGHT LEVEL 10: BIOPSY
+- FOUR LYMPH NODES, NEGATIVE FOR CARCINOMA (0/4).
+
+4. LUNG, RIGHT UPPER LOBE : COMPLETION LOBECTOMY
+- NO RESIDUAL TUMOR IS SEEN.
+- THE BRONCHIAL AND VASCULAR MARGINS ARE FREE OF TUMOR.
+- TWO LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).
+
+5. LYMPH NODE , RIGHT LEVEL 4: BIOPSY
+- TWO LYMPH NODES , NEGATIVE FOR CARCINOMA (0/2).
+
+
+Specimens : 1: F/S LUNG, RIGHT UPPER LOBE WEDGE
+2: LEVEL 7 LYMPH NODE, RIGHT
+3: LEVEL 10 LYMPH NODE, RIGHT
+4: COMPLETION RIGHT UPPER LOBECTOMY
+5: LEVEL 4 LYMPH NODE, RIGHT
+
+LUNG: Resection
+SPECIMEN
+Specimen : Lobe(s) of lung (specify)
+Right Upper
+Procedure: Lobectomy
+Specimen Laterality: Right
+Tumor Site : Upper lobe
+Tumor Focality: Unifocal
+TUMOR
+Histologic Type: Adenocarcinoma, mixed subtype
+Histologic Grade : G2: Moderately differentiated
+EXTENT
+Tumor Size : Greatest dimension (cm)
+2.5cm
+MARGINS
+Bronchial Margin
+Bronchial Margin Involvement by Invasive Carcinoma : Uninvolved by
+invasive carcinoma
+Vascular Margin : Uninvolved by invasive carcinoma
+Parenchymal Margin: Uninvolved by invasive carcinoma
+ACCESSORY FINDINGS
+Lymph-Vascular Invasion : Not identified
+STAGE (pTNM)
+Primary Tumor (pT):
+pTlb: Tumor greater than 2 cm, but 3 cm or less in greatest
+dimension, surrounded by lung or visceral pleura, without
+bronchoscopic evidence of invasion more proximal than the lobar
+bronchus (i.e., not in the main bronchus)
+Regional Lymph Nodes (pN)
+pNO: No regional lymph node metastasis
+Distant Metastases (pM): Not applicable
+ADDITIONAL NON-TUMOR
+Tumor Associated Atelectasis or Obstructive Pneumonitis:
+Extends to the hilar region but does not involve entire lung
+Additional Pathologic Finding(s): Metaplasia (specify type)
+squamous
+Inflammation (specify type)
+organizing pneumonia
+Emphysema
+
+
+Pathologist
+
+CLINICAL HISTORY AND PRE - OPERATIVE DIAGNOSIS:
+  M with a 2.3 cm RUL nodule.
+
+MACROSCOPIC DESCRIPTION:
+The specimen is received in saline , in five parts, each labeled with
+the patient's name.
+
+ 1. Part one is received fresh, labeled 'lung, right upper lobe wedge
+'. It consists of one lung wedge resection specimen measuring 10 x
+5.5 x 2 . 3 cm. There is a focal area of indurated pleura overlying a
+mass . The pleural surface is inked black . The stapled line is
+removed and the underlying pleura and parenchyma is inked green.
+The specimen is serially sectioned to reveal a poorly circumscribed
+heterogeneous tan mass measuring 2.5 x 2 .3 x 1.7 cm at a distance of
+0.5 cm from the surgical margin and abutting the pleura. A
+representative section is frozen for intraoperative evaluation.
+Representative sections submitted , IA-U.
+
+2. Part two is received in saline, labeled ' level 7 lymph node
+right'. It consists of one piece of anthracotic soft tissue
+measuring 1.5 x 1.2 x 0.5 cm. Entirely submitted, 2A.
+
+3. Part three is received in saline, labeled 'level 10 lymph node,
+right'. It consists of multiple pieces of anthracotic soft tissue
+measuring 1.5 x 1 x 0.7 cm in aggregate, ranging in size from 0.4 cm
+to 1 cm in greatest dimension. The largest lymph node is bisected.
+Entirely submitted, 3A-3B.
+
+4. Part four is received in saline, labeled' completion right upper
+lobectomy'. It consists of one lobectomy specimen measuring 13.5 x
+8 x 3.5 cm. The pleura is soft with a bluish-purple color and focal
+areas of hemorrhage. There is a stapled line running along the
+hilar aspect longitudinally measuring 12 cm in length. This line is
+inked green. On the opposite aspect of the specimen there is another
+staple line measuring 11 cm in length that is inked black. The
+bronchial and vascular stapled margins are removed and shaved
+sections are submitted. Multiple lymph nodes are dissected from the
+hilar region, the largest measuring 0.7 cm in greatest dimension.
+The specimen is serially sectioned and no abnormalities are found.
+Representative sections submitted 4A-4F.
+
+5. Part five is received in saline, labeled 'level 4 lymph node
+right'. It consists of two pieces of yellow fatty tissue measuring
+0.8 x 0.6 x 0.2 cm and 0.9 x 0.3 x 0.2 cm. Each piece contains one
+black nodule measuring 0.2 cm. Entirely submitted, 5A.
+
+
+
+
+SUMMARY OF SECTIONS:
+1 A frozen section control
+1 B-1 F tumor entirely
+1 G fibrotic pleura
+1 H-I I margin, representative
+1 J normal, representative
+2A entirely submitted
+3A three pieces
+3B largest piece bisected
+4A bronchial margin
+4B vascular margin
+4C lymph node bisected
+4D multiple lymph nodes
+4E-4F representative
+5A entirely submitted
+
+SPECIAL PROCEDURES:
+
+
+INTRA - OPERATIVE CONSULTATION:
+
+1. Lung, right upper lobe: wedge resection (FS)
+- Invasive adenocarcinoma.
+
+
+
+
+Intra-Operative Consultation #1 performed by
+ADDENDUM #1:
+This addendum documents the results of our immunohistochemical
+stains for Part 1 . The tumor cells are positive for CK7, TTF-1 and
+Napsin-A while negative for CK20 and CDX-2, supporting the
+diagnosis . The original diagnosis remains otherwise unchanged.
+
+
+
+
+Addendum #1 performed by
+
+
+
+
+ADDENDUM #2 FOR MOLECULAR TESTS:
+
+KRAS, EGFR and ALK FISH were sent on
+The test is to be performed on
+The case report, slides, and blocks for the cited
+accession number were retrieved from archives. The pathologist whose
+signature appears below reviewed the original pathology report,
+examined candidate H&E slides, and selected block 1 C appropriate to
+the specifications of the ordered molecular analysis. x 1 H&E and x9
+unstained slides were prepared and forwarded tc
+            vhere the subject molecular test will be performed. An
+addendum report will be issued when the results of this molecular
+test are available.
+
+Addendum #2 performed by
+
+
+
+
+ADDENDUM 3:
+Integrated Oncology
+
+MOLECULAR ONCOLOGY
+KRAS MUTATION ANALYSIS
+
+
+
+
+RESULTS: Positive for a p.G12C (c.34G> T) mutation in codon 12 of
+the KRAS gene.
+
+INTERPRETATION: Mutations in the KRAS gene are reported to
+correlate with poor prognosis and resistance to tyrosine kinase
+inhibitor therapies in patients with non-small lung cancer.
+
+COMMENT:
+KRAS mutations occur in 15-30% of non-small-cell lung cancer (NSCLC)
+patients and are strongly associated with adenocarcinoma and smoking
+history.
+
+This assay analyzes codons 12 and 13 in exon 2 of the KRAS gene;
+based on the current literature, approximately 98% of mutations are
+expected to occur in these codons. The analytical sensitivity of
+the assay is approximately 10%; thus mutations present in a low
+percentage of cells may not be detected.
+
+This test is validated for use in identifying KRAS codon 12 and
+codon 13 mutations in fresh, frozen, or formalin-fixed paraffin
+embedded tissue. In particular the test performance has been
+established in samples of colorectal cancer and non-small cell lung
+carcinoma which harbor these mutations, although several other
+tissues are also known to harbor KRAS mutations (e.g. tumors of
+pancreas, bile duct, ovary, appendix, etc.).
+
+METHOD/LIMITATION:
+
+Tissue sections are reviewed by a pathologist and relevant tumor is
+selected for analysis. DNA is isolated from the sample, quantified
+and amplified by polymerase chain reaction (PCR) using primers to
+exon 2 of the KRAS gene. PCR products are subjected to single
+nucleotide primer extension to detect mutations at codons 12 and 13;
+primer extension products are analyzed using capillary gel
+electrophoresis and fluorescence detection. False positive or
+negative results may occur for reasons that include genetic variants
+or somatic heterogeneity of the tissue sample.
+
+REFERENCES:
+NSCLC
+Mascaux C, Iannino N, et al. British Journal of Cancer, 2005;
+92:11-139
+Pao W, Wang TY, et al. PLoS Medicine, 205; 2(1):57-61
+Eberhard DA, Johnson BE, et al. J Clin Oncol, 2005; 23:5900-5909
+Han SW, Kim TY, et al. Clin Cancer Res. 2006; 12(8):253888888-2544
+CRC
+DiFiore C, Blanchard F, et al. Br J Cancer, 20007; 96:1166-1169
+Lievre A. Bachet J -B, et al . Cancer Res, 2006; 66:3992-3995,
+
+This test was developed and its performance characteristics
+determined by                                     The laboratory is
+regulated under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical
+testing. This particular test is not considered a stand alone test
+and should be only used in the context of other diagnostic tests or
+clinical work- up related to treatment decisions.
+
+
+
+
+Addendum # 3 performed by
+
+
+
+ADDENDUM # 4:
+
+
+EGFR Mutation Analysis
+
+Referring Physician:
+
+Body Site: Right upper lobe of lung
+
+Clinical Data: Adenocarcinoma, mucinous type
+
+RESULTS: No mutation detected.
+
+INTERPRETATION: No mutations were identified in the sample provided
+for analysis . Fewer than 5% of non-small cell lung carcinoma
+patients without identifiable mutations are reported to be
+responsive to EGFR tyrosine kinase inhibitor therapies.
+
+
+COMMENT: Forty percent (40%) or more tumor cellularity is optimal
+for this mutation analysis . The sample submitted showed 80% tumor
+cellularity upon pathologist review.
+
+A frequently occurring sequence change 2361>GA (Q787Q) was
+identified . This polymorphism is known not to have clinical
+significance.
+
+Mutations in the tyrosine kinase domain of the epidermal growth
+factor receptor (EGFR) gene are reported to be associated with
+differential responsiveness or resistance to EGFR tyrosine kinase
+inhibitor (TKI) therapies . The objective response rate among
+patients with a sensitizing mutation ranges from 55 to 82%.
+
+This assay analyzes exons 18 -21 of the EGFR tyrosine kinase domain;
+based on the current literature , most mutations in non-small-cell
+lung carcinoma (NSCLC) are expected to occur in these exons.
+Mutations present in less than 10-20% of extracted DNA may not be
+detected by this method . Mutation status in a sample may change
+during tumor progression or the course of therapy; therefore, this
+result cannot be used to infer the presence or absence of a mutation
+in another sample or sub-sample obtained from this tumor.
+
+This test is validated for non- small cell lung carcinoma. The
+clinical significance and utility of this test in other tumor types
+is unknown.
+
+METHOD:
+Tissue sections are reviewed by a pathologist and relevant tumor is
+selected for analysis. DNA is isolated from the sample, quantified
+and amplified by polymerase chain reaction (PCR) using primers to
+exons 18-21 of the EGFR gene. PCR products are analyzed by
+bi-directional direct DNA sequencing using capillary gel
+electrophoresis and fluorescence detection. False positive or
+negative results may occur for reasons that include genetic variants
+or somatic heterogeneity of the tissue sample.
+
+REFERENCES:
+1. Azzoli CG, et al. J Clin Oncol. 20095; 27:6251-6266.
+2. Jackman DM et al. Clin Carcinoma Res. 2009; 15:5267-5273
+3. Mok TS, et al. N Engl J Med. 1009; 361;947-957
+4. Sharma SV, et al. Nat Rev Carcinoma, 2007; 7:169-181.
+
+DISCLAIMER:
+This test was developed and its performance characteristics
+determined by                                     . The laboratory is
+regulated under the Clinical Laboratory Improvement Amendments of
+1988 (CLIA) as qualified to perform high complexity clinical
+testing. This particular test is not considered a stand alone test
+and should be used only in the context of other diagnostic tests or
+clinical work-up related to treatment decisions.
+
+
+
+
+Addendum #4 performed by
+
+
+The electronic signature attests that the named Attending
+Pathologist has evaluated the specimen referred to in the signed
+section of the report and formulated the diagnosis therein.
+
+This report may include one or more immunohistochemical stain
+results that use analyte specific reagents.
+The tests were developed and their performance characteristics
+determined b
+
+They have not been cleared or approved by the US Food and Drug
+Administration.
+The FDA has determined that such clearance or approval is not
+necessary.
+
+
+
+
+                                                                       Crie,,,
+                                                                        reg           ^`-
+                                                                                   D+screPa
+                                                                      Primary Tu            cY
+                                                                              sue"
+                                                                      ^
+                                                                      HIPgq p         rz M1repan
+                                                                                           i:cr
+
+                                                                      P, "or Maligpanr Y ffistory
+                                                                      Dualic,..._._

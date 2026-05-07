@@ -1,0 +1,186 @@
+SURGICAL PATHOLOGY REPORT
+** ADDENDUM REPORT **
+
+LUNG CANCER MUTATION PANEL
+SPECIMEN SOURCE: LUNG WEDGE
+SPECIMEN/BLOCK NUMBER:
+
+EGFR Mutation: NOT DETECTED
+Results reviewed by
+
+Sequencing of the entire coding region and splice junction sites of exons 18-21 of the EGFR gene revealed no previously published mutations or any
+sequence changes that could result in amino acid changes. As 7% of patients who respond to EGFR inhibitors do not show mutations in exons 18-21 of
+EGFR gene, a negative result does not preclude the possibility of a clinical response to EGFR inhibitors.
+
+KRAS Mutation Analysis
+KRAS Mutation: DETECTED
+(Abnormal) This result was reviewed and interpreted b:
+
+Based on sequence analysis, K-Ras codon 12 GGT>TGT (Gi2C) mutant was detected.
+
+FISH, ALK, 2p23
+FISH, ALK, 2P23: SEE BELOW
+
+Specimen Type: Paraffin Embedded Tumor Tissue
+
+Clinical Indication: FISH study for ALK
+
+Method : FISH
+
+Total Cells : 100
+
+Images Captured : 2
+
+RESULT :
+
+nuc ish(ALKx3-10)[79/100]
+
+INTERPRETATION :
+
+FISH RESULT NEGATIVE FOR REARRANGEMENT OF ALK GENE, SUGGESTIVE OF GAIN OF ALK REGION.
+
+Fluorescence in-situ hybridization (FISH) analysis, using break-apart probes specific for ALK gene (2p23; Abbott Molecular), did not exhibit a break-apart
+pattern. Thus, this result is not indicative of a translocation involving the ALK gene.
+
+As an incidental finding, additional 1-8 copies of the ALK region were observed in 79% of cells. This suggests gain of the ALK region. The clinical
+significance of this incidental finding is unknown.
+
+A small proportion of tumors (approximately 5%) with ALK rearrangement demonstrated by other methods may be missed by this study.
+
+This result does not rule out a malignancy or other genetic changes. This result should be considered in combination with other clinical and/or laboratory
+data. The cutoff values for ALK rearrangement are 12% for paraffin-embedded specimens, 3% for bone marrow, 5% for peripheral blood. Please expect
+the result of any other concurrent test in a separate report.
+
+This test was developed and its performance characteristics were determined by — : has
+not been cleared or approved by the U.S. Food and Drug Administration. The FDA nas determined that such clearance or approval Is not necessdry.
+Performance characteristics refer to the analytical performance of the test.
+
+Laboratory results reviewed and Clinical Interpretation provided by
+
+Test performed and reported under supervision of.
+
+Mutational analysis of the EGFR and KRAS genes and ALK locus rearrangement by FISH were performed to survey the most common tumor-associated
+genetic changes that have been shown to have prognostic and therapeutic consequences in non-small cell lung cancer (NSCLC). |
+
+EGFR kinase domain mutations are found in 10-15% of lung adenocarcinomas, particularly those occurring in younger patients without a smoking history,
+and identify tumors that may have significant clinical response to EGFR-targeted kinase inhibitors. Secondary somatic mutations in EGFR, particularly
+
+T790M in exon 20, may accompany acquired resistance to these inhibitors.
+
+KRAS point mutations occur in 20-30% of lung adenocarcinomas and are largely mutually exclusive with EGFR mutations. KRAS mutations are
+associated with a poor prognosis and resistance to anti-EGFR-directed immunotherapy.
+
+ALK locus rearrangement resulting in the EML4-ALK gene fusion is present in 3-5% of NSCLC, is most commonly seen in adenocarcinomas from
+younger patients, and produces overexpression of the ALK tyrosine kinase. Patients who harbor ALK rearrangement do not benefit from EGFR tyrosine
+kinase inhibitors and are recommended to be directed to trials of ALK-targeted agents.
+
+The exons tested cumulatively comprise greater than 95% of the known activating mutations in the selected genes; rare mutations occurring at other sites
+or in other genes that may influence outcome cannot be excluded.
+
+Genomic DNA was extracted from microdissected paraffin-embedded tissue sections isolated from the submitted block. PCR-based DNA sequencing was
+used to assess for mutations in exon 1 (including codon 12 & 13) and exon 2 (including codon 61) of KRAS and exons 18-21 of the EGFR tyrosine kinase
+(TK) domain. The sensitivity for mutation detection for these assays is approximately 10% mutant allele in the background of normal allele in the
+
+microdissected area.
+
+The KRAS and EGFR test was developed and its performance characteristics have been determined by
+Performance characteristics refer to the analytical performance of the test.
+
+The FISH test was developed and its performance characteristics have been determined by It
+has not been cleared or approved by the U.S. Food and Drug Administration. The FDA has determined that such clearance or approval is not necessary.
+Performance characteristics refer to the analytical performance of the test.
+
+Test performed at
+
+Addendum Report Issued By: ;
+
+DIAGNOSIS:
+A. Right endobronchial lesion, biopsy:
+Adenocarcinoma.
+
+B. Level 4R lymph nodes, excision:
+Two lymph nodes, negative for metastatic disease.
+One markedly calcified.
+
+C. Level 4L lymph nodes, excision:
+Six of six lymph nodes positive for metastatic carcinoma, see comment.
+
+D. Right upper lobe lung wedge, excision:
+Tumor Characteristics:
+. Histologic type: Adenocarcinoma.
+. Histologic grade: Grade II, moderately differentiated.
+. Tumor site: Right upper lobe.
+. Tumor focality: Unifocal.
+Tumor size: 2.4 x 2.3 x 1.8 cm.
+. Visceral pleural invasion: Negative.
+. Lymphovascular space invasion: Not seen.
+Surgical Margin Status:
+. Tumor distance from stapled margin: 0.2 cm.
+2. Tumor distance from pleural surface: Less than 0.1 cm.
+Lymph Node Status:
+1. See parts A, B.
+Other:
+1. pTNM stage: pT1bN1.
+
+NOOBRWN =
+
+—
+
+COMMENTS:
+Appropriately controlled immunohistochemical stains for pancytokeratin performed on block C2 shows numerous positive tumor cells in lymph nodes.
+
+Current NCCN practice guidelines recommend determination of EGFR and KRAS mutation status in adenocarcinoma of lung to help select patients for
+Tyrosine-Kinase Inhibitor (TKI) therapy. EGFR-activating mutations have been shown to be significantly associated with response to TKIs and KRAS
+mutations are associated with TKI resistance. They are mutually exclusive in NSCLC. Additionally, recent data show that ALK (Anaplastic Lymphoma
+Kinase) gene rearrangements in adenocarcinoma of lung are associated with resistance to TKIs and have favorable response rates to Crizotinib, the ALK
+inhibitor agent currently in clinical trials. Mutation analysis for KRAS and EGFR-TK domain and ALK gene rearrangement by FISH is available as the
+Lung Cancer Mutation Panel. Testing may be performed on paraffin-embedded tissue from the primary or metastatic tumor or pleural fluid cell block.
+These tests are available on request as a panel or as individual assays.
+
+CLINICAL HISTORY:
+
+Preoperative Diagnosis: TE female
+
+Postoperative Diagnosis:
+Symptoms/Radiologic Findings:
+
+SPECIMENS:
+
+A. Right endobronchial lesion
+B. Level 4R
+
+C. Level 4L
+
+D. Right upper lobe wedge
+
+~ GROSS DESCRIPTION:
+Four containers all labeled with the patient's name
+
+A. Container A is labeled 1 - Right endobronchial lesion. The specimen is received in formalin and consists of 0.4 x 0.2 x 0.1 cm aggregate of white-tan
+tissue admixed with blood. Specimen is submitted between sponges in cassette A labeled
+
+B. Container B is labeled 2 - Level 4R. The specimen is received in formalin and consists of two 0.7 and 1.6 cm in greatest dimension hemorrhagic soft
+tissue fragments. The first, smaller piece is consistent with a lymph node. The larger piece is markedly calcified.
+
+Representative sections are submitted in cassettes labeled as follows: B1. Smaller lymph node-like fragment intact; B2. Two sections of
+the calcified, larger piece of tissue following decalcification.
+
+C. Container C is labeled 3 - Level 4L. The specimen is received in formalin and consists of a2.4x2x 10cm aggregate of multiple pink-tan, ragged
+likely lymph node fragments.
+
+All lymph node tissue is submitted in cassettes labeled follows: C1. One intact lymph node fragment; C2. Two intact lymph node
+fragments; C3. Three intact lymph node fragments.
+
+D. Container D is labeled 4 - right upper lobe wedge. The specimen is received in formalin and consists of a 6.7 x 2.6 x 2.4 cm wedge of pink-tan lung.
+The pleural surface is intact and has a long line of stapled to mark the Surgical margin. The staple line is removed and the surgical margin is inked in
+
+green. A portion of the pleural surface has been inked in black intraoperatively and the specimen has been in this area to collect
+genomics tissue. Genomics tissues are received in yellow, green and blue cassettes labeled and
+MM respectively. Each cassette is also labeled with the patient's name In the previously sectioned area is a 2.4 x 2.3 x 1.8 cm tan-white, firm,
+
+well-defined mass. The mass extends to the pleural surface and is 0.2 un trom the green inked surgical margin. The remaining lung parenchyma is red-
+tan, spongy, unremarkable.
+
+Representative sections are submitted in cassettes labeled as follows: D1. Mass to nearest inked pleura; D2. Mass to nearest inked
+— margin; D3 and D4. Additional sections of the mass; D5. Norma parenchyma as well as the three genomics cassettes.
+

@@ -1,0 +1,32 @@
+Pathology Reports
+Case ID              Gross         Microscopic
+          Subject ID Description   Description
+Diagnosis Details   Comments                    Formatted Path Report
+
+                    LUNG TISSUE CHECKLIST
+
+                    Specimen type: Lobectomy
+                    Tumor site: Lung
+                    Tumor size: 5 x 5 x 5 cm
+                    Histologic type:
+                    Adenocarcinoma
+                    Histologic grade: Poorly
+                    differentiated
+                    Tumor extent: Not
+                    specified
+                    Other tumor nodules: No
+                    Lymph nodes: 3/3 positive
+                    for metastasis
+                    (Intrathoracical 3/3)
+                    Lymphatic invasion: Not
+                    specified
+                    Venous invasion: Not
+                    specified
+                    Margins: Not specified
+                    Evidence of neo-adjuvant
+                    treatment: Not specified
+                    Additional pathologic
+                    findings: Not specified
+                    Comments: None
+             Date of
+Laterality   Procurement

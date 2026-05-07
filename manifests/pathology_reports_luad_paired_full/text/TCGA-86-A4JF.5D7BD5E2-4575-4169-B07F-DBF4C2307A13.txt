@@ -1,0 +1,142 @@
+UUID : 5D79D5E2 - 4575 - 4169 - 807F - DBF4C2307A13
+          TCGA- 86-A47F - 01A-PR                   Reda             c ted
+III II1111111iiiIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+111111111 IN 11111 IN 111111111111111111111111111111111111111
+111 I I I I I I I I1111111111111111111111111111111111111111111111
+           Gross Description: Lobe with free bronchus; on section, a well-limited parahilar tumoral structure of
+           7/8/7 cm in diameter, with anthracotic tattoo; the tumor retracts the visceral pleura; an attached
+           fragment of atypical resection with possible tumoral infiltration.
+
+
+
+           Microscopic Description: TUMOR FRAGMENT:
+
+           Bronchopulmonary neoplasm of mucinous adenocarcinoma type, G2, with solid and papillary pattern,
+           formed of a monomorphous cellularity of relatively small size, with nuclear cell atypias and hotbeds of
+           necrosis, with moderate fribrocollagenous stromal reaction.
+
+           BRONCHIAL RECUPA:
+
+           Fragment of bronchial wall without tumoral infiltration.
+
+           TUMOR FRAGMENT WITH RETRACTED PLEURA:
+
+           Pleuropulmonary fragment with tumoral infiltration to the level of the pleura, without infiltrating it; the
+           pleura is thickened, with inflammatory reaction and stasis.
+
+           PARENCHYMA FRAGMENT -FOWLER SEGMENT:
+
+           Fragments of pulmonary parenchyma with tumoral infiltrates of adenocarcinoma, with hotbeds of
+           necrosis.
+
+           INTERLOBAR LYMPH NODE:
+                                                                                          /c,A --a-3
+                                                                                                                     SOS
+           Lymph node with anthracosis ; no metastases .                    LQLr : ad-eno carerto"'^a                       ^^^1 3
+
+           LOBAR LYMPH NODE : No metastases.                                     „^, f^,, : 1vN9         1 to 6.c,     C34.1
+
+           HILAR LYMPH NODE : No metastases.
+
+           Diagnosis Details:
+
+          Comments:
+
+          Formatted Path Reports : LUNG TISSUE CHECKLIST
+
+          Specimen type : Lobectomy
+
+          Tumor site: Lung
+                                                                                                            k                Pa+h c'aw^nas}ic.
+          Tumor size : 7 x 8 x 7 cm                                                                jSS SVem
+                                                                                                   d'isC4egC noy           (roan -r0
+          Histologic type : Mucinous adenocarcinoma                                                 du      ag        0 adt'r'D Cur cwt omo^, u Ob
+Histologic grade : Moderately differentiated
+
+Tumor extent: Not specified
+
+Other tumor nodules : Not specified
+
+Lymph nodes : 0/3 positive for metastasis (St.11,12,10 0/3)
+
+Lymphatic invasion : Not specified
+
+Venous invasion : Not specified
+
+Margins: Not specified
+
+Evidence of neo-adjuvant treatment : Not specified
+
+Additional pathologic findings: Not specified
+
+Comments: Right- upper
+
+
+
+
+                                                              01"                                        Y"   No
+                                                              Dlgnosis Dlunpancy
+                                                              PHmmy Tumor Site Discreponq
+                                                              HIPM Dlsaepmcy
+                                                              Prior Mifgnancy History
+                                                              Du&VSyndwonous Prim
+                                                              Case k (they):          Qt1AUFIED   rise
+Instructions: The TCGA .Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diargnosis ..
+documented on the initial pathology report fora case submittedfor TOGA is inconsistent with the diagnosis provider! on the
+Case Quali r Cantrot Form completed for the submitted crrs
+
+Tissue Source Si te. (TSS):                                         TSS Identier: ^,.               _. TSS Unique Patient identifier:.
+Completed By (Interviewer Name                                                                            .__C©mpieted Date.:_
+ ^i'agnosis Information:
+  #               Data Eleinent                              Entry Alternatives .                    Workin Instructions.
+                                                                                                     Provide the diagn o sis/ histologic subtype(s)) documented on.
+             Patholo gic Diagnosis                          tun.
+                                                                                                     the $ iti al pathology report for this caseJf the hisea logy for
+   I         Provided-.on Initial                     fix                                            this case Is mixed, provide aft listed s ubtypes.
+             Pathology Report.
+                                                                   tip.. tub t:.-.
+       . .                                                                                           Provide th e histologic features selected: on the.
+                                                                                                                                                     TCCACase
+             l ist lagic: features.of
+             the sample provided
+                                                                                                                         a
+                                                                                                     Quality Control For l completed for. this ease.
+
+             foe T CG&& as. reflected,
+             on the CQCF.
+
+Discrepancy bet*een•. Pathlo,Ry a ci et and Case Q talifiy Control S rrn
+  3          Provide the reason: for                                                                 Provide areason describing why the diagnosis on the: Initial
+                      s ep n
+             the di cr a cy                                                                          pAthol rigy report far this case Is n+ot consistent with the
+                                                                                                     diagnosis selected on the TCGA.Case Quality Control Fonn.
+             between the    athology
+                      thpathology
+             report and the TCGA
+             Case Qualm Control
+             Forth.
+
+
+
+
+             Name of TSS Reviewing                                                                   Provide the name of the pathologist who reviewed this case
+                                                                                                     for VGA.
+   4         Pathologist or
+              orep_psitoq D i rector
+             Byre
+
+                        i acknowledge brut the above irrformatfon providedbk inyinstftuttattfs .true and correct Otidhds hewn quality Cv dratted
+
+
+
+
+                  TSS Reviewing Pathologist or. Bio epositary Director                                                   Date
+
+
+  .1 acknowledge Mgt the above. information provided by My institution is trite and correct and has been gualiitycontrolled: The Attendln^g Pnittralo ist nor tiie
+                                 Department Chairman has been lnformed arts aware. of the above:discrepancy in diagnoses
+
+
+
+
+                               Principal Investigator Signature                                                          Date

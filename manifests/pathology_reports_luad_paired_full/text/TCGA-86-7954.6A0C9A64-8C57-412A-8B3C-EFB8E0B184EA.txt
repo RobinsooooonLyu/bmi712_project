@@ -1,0 +1,94 @@
+ID   Gross Description
+Case
+  ID
+
+            Labeled right lower lobe (bronchial margin).
+            Received fresh for
+            intraoperative consultation is a 162 g lower lobe of
+            lung measuring 14.5 x
+            11.5 x 3.5 cm. The pleural surface is tan to gray-
+            brown and lightly
+            wrinkled with 3 subpleural nodular structures ranging
+            from 0.4 to 0.6 cm
+            along the base. Along the posterolateral aspect near
+            the base is a 2.7 x
+            1.0 cm firm tan subpleural mass that comes to
+            within approximately 5 cm of
+            the bronchial margin, which is shaved and submitted
+            for frozen section. The
+            overlying pleura is puckering and is focally inked
+            blue. Sectioning through
+            the separate subpleural nodules reveals glistening
+            gray-tan cut surfaces.
+            The background lung is tan to red and spongy white
+            to white-tan hilar lymph
+            node measuring 0.5 and 0.6 cm.
+Microscopic Description
+
+
+
+The bronchial margin is negative for carcinoma. In the section from the
+bronchial margin, a small lymph node is identified which is negative for
+metastatic carcinoma. Also, there are two additional hilar lymph nodes
+which are both negative for metastatic carcinoma. The lung mass is an
+invasive poorly differentiated adenocarcinoma merging with a peripheral
+bronchioloalveolar type pattern. The invasive carcinoma focally involves
+the visceral pleura surface. In this area, free floating tumor cells are
+seen in blood clot external to the visceral pleura surface. The vascular
+margins are negative for neoplasm. No angiolymphatic space involvement by
+tumor is seen. The separate subpleural nodules are consistent with small
+foci of metaplastic epithelial proliferations (honeycombing). These nodules
+are composed of epithelial cells that have a mucinous as well as
+nonmucinous appearance and many demonstrate cilia. There is a focus of
+squamous metaplasia associated with one of these areas. There is no nuclear
+atypia. Nonneoplastic lung shows emphysematous features.
+Immunohistochemical stains are performed for CK7, CK20, TTF-1, CDX 2 and
+Napsin A. Control material for each individual stain demonstrates
+appropriate staining. The malignant cells are positive for Napsin A, CK7
+and TTF-1. There is focal positivity for CK20. The malignant cells are
+negative for CDX 2. These findings support the interpretation of a primary
+lung adenocarcinoma.
+Diagnosis Details                                                       Comments
+
+
+
+LUNG CARCINOMA CHECKLIST
+1. Tumor Type: Adenocarcinoma.
+2. Tumor grade: Poorly differentiated.
+3. Tumor location: Right lower lobe.
+4. Tumor size: 2.7 x 1.0 cm.
+5. Angiolymphatic invasion: No.
+6. Bronchial margin: Free of tumor.
+7. Pleural involvement: Present, there is involvement of the visceral
+pleural by invasive carcinoma.
+8. Lymph nodes: 16 lymph nodes are negative for metastatic carcinoma
+(0/16).
+9. Size of largest metastatic deposit: N/A.
+10. TNM: pT2 (PL2),N0,MX.
+Formatted Path Report                                         Laterality
+
+
+
+LUNG TISSUE CHECKLIST                                         Right-lower
+
+Specimen type: Lobectomy
+Tumor site: Lung
+Tumor size: 2.7 x 1 cm
+Histologic type: Bronchiolo-alveolar adenocarcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Visceral pleura
+Other tumor nodules: Not specified
+Lymph nodes: 0/16 positive for metastasis (Right lower lobe
+artery, bronchial margin, subcari 0/16)
+Lymphatic invasion: Absent
+Venous invasion: Absent
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: None
+Excision date
+
+
+
+
+/   /

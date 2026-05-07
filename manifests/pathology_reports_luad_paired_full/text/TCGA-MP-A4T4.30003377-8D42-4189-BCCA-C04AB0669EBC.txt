@@ -1,0 +1,48 @@
+Criteria
+Diagnosis Discrepancy
+                                                                                 UUID: 30003377 - 8D42 - 4189 -BCCA- C04AB0669EBC
+PrimaryTumor Site Discrepancy
+HIPAA Discrepancy
+                                                                                       TCGA-MP-A4T4-e1A-PR                    Redacted
+Prior Malignancy History
+Dual/Synchronous Prima                                                     III   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIU
+Case is (circle):
+Reviewer initials                                                          III III I I I 1 I I I I U I I U I I I II I II II IIII 1 11111/1 I I
+                                                                           III IIIIUIIIIIIIIIIIIIIIIIIIIIIIIIU11111III IIIIIIIIIIIIIIIIIII
+                           surgical Pathology
+Requested By:
+TISSUE DESCRIPTION:
+          Al A2 B1 82 C1 C2 C3 D1 D2 El F1 F2 F3 F4 F5 F6 G1 H1
+Right lower lobe lung (265 grams , 18.0 x 15.0 x 7. 0 cm).   Tissue
+from the right upper lobe lun (5 . 0 x 2.5 x 0.6 cm) and right lower
+lobe lung ( 8.0 x 3 .3 x 1.5 cm). superior mediastinal ( right lower
+paratracheal ), inferior mediastinal ( subcarinal ), N1(interlobar,
+right interlobar ) and right middle lobe lymph nodes.
+
+ DIAGNOSIS:
+Lung, right lower lobe, lobectomy: Invasive grade 4 (of 4)
+adenocarcinoma, forming a 3.0 x 3.0 x 2.8 cm mass located in the
+right lower lobe, 6 cm from the bronchial margin . The tumor invades
+the visceral pleura. The remainder lung parenchyma shows organizing
+pneumonia.  The bronchial margin and multiple (4) intrapulmonary
+peribronchial lymph nodes are negative for tumor.
+
+Lung right upper lobe, wedge excision: Organizing pneumonia and
+subpieural scar.
+Lung, right lower lobe, wedge excision: organizing pneumonia and
+area of scarring.
+Lymph node, N1, excision: A single right interlobar lymph node is
+involved by metastatic grade 4 (of 4) adenocarcinoma.
+Lymph nodes superior and inferior mediastinal, N1 and right middle
+lobe, excision: Multiple (10 right lower paratracheal, 3
+subcarinal, 1 interlobar, 3 right middle lobe) lymph nodes are
+negative for tumor.
+
+
+
+
+                                                      /ep- a-3
+
+
+
+                                            .Si fti    /oi j ,   w la(u,   e 3If. 3

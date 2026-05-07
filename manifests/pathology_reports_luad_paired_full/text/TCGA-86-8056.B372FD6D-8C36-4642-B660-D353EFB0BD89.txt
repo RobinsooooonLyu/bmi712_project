@@ -1,0 +1,104 @@
+TCGA Pathology Reports
+       Gross Description
+
+
+  ID
+       A. Labeled lymph node 10R. There is a 1.4 x 0.7 cm dark gray lymph node
+       with a small amount attached pale yellow adipose tissue.
+       B. Labeled right upper lobe. Received fresh for intraoperative consultation
+       is a 28 g stapled wedge of lung measuring 6.7 x 4.2 x 2.3 cm. The pleural
+       surface is dark gray to pale tan with subtle puckering and previous
+       incision near the midpoint. Upon sectioning, the cut surfaces are tan to
+       red and spongy with a 1.9 x 1.3 cm poorly-defined, firm pale tan subpleural
+       nodule, located 1.0 cm from the stapled edge. Sampled for frozen section.
+       No other lesions are noted.
+       C. Labeled lymph node 9. There is a 0.7 cm dark gray lymph node with
+       attached fat.
+       D. Labeled lymph node 4R. There is a 2.9 x 2.0 x 0.8 cm portion of tan
+       fibroadipose tissue containing 2 possible lymph nodes measuring 0.5 x 0.3
+       cm and 1.5 x 0.8 cm. Upon sectioning, the cut surfaces of the larger are
+       gray to black and smooth.
+       E. Labeled right upper lobe sump. There is a 1.1 x 0.9 cm black and tan
+       soft tissue fragment. Entirely submitted in one cassette.
+       F. Labeled lymph node R7. There are 2 dark gray to black soft tissue
+       fragments with attached adipose tissue measuring 1.6 x 1.0 x 0.7 cm and 2.5
+       x 1.2 x 1.0 cm.
+       G. Labeled right lower lobe with margins on bronchus. Received fresh for
+       intraoperative consultation is a 165 g lobe of lung measuring 13.5 x 13 x 5
+       cm. The pleural surface is tan to pale gray, lightly wrinkled and
+       glistening with a 3.2 x 2.5 cm ovoid subpleural mass with a slightly raised
+       and somewhat scalloped rim surrounding a flat center. Upon sectioning, the
+       subpleural mass is up to 1.5 cm thick with pale tan cut surfaces showing
+       central cavitation. The mass comes to within 5 cm of the bronchial margin,
+       which is shaved and submitted for frozen section. The background parenchyma
+       is red and spongy with cystic spaces up to 1.7 cm along the periphery of
+       the base. Within the hilum is a 0.8 cm black lymph node.
+       H Labeled R11 lymph node There is a 1 5 x 0 8 cm brown to dark gray lymph
+Microscopic Description                       Diagnosis Details           Comments
+
+
+
+A. Microscopic performed.                       LUNG CARCINOMA              A. Lymph node level 10 R,
+B. Sections reveal an invasive                  CHECKLIST                   biopsy: One benign lymph
+adenocarcinoma, mixed subtype with acinar 1. Tumor Type:                    node. (0/1)
+and lepidic growth patterns. The invasive       Adenocarcinoma.             B. Lung, right upper lobe,
+acinar component measures 0.7 cm                2. Tumor grade: Poorly      wedge resection: Invasive
+within a tumor displaying a prominent           differentiated.             adenocarcinoma, mixed
+lepidic pattern. There is extensive             3. Tumor location: 2        subtype. (See description
+subpleural scar formation with both the         separate invasive tumors, and checklist)
+frozen section slide and the                    right lower lobe and right C. Lymph node level 9,
+permanent slide of the frozen section           upper lobe.                 biopsy: One benign lymph
+demonstrating the extensive scar. The           4. Tumor size: Largest      node. (0/1)
+invasive adenocarcinoma is predominantly primary, 3.2 cm, right             D. Lymph node level 4 R,
+present on the adjacent section                 lower lobe.                 biopsy: Two benign lymph
+submitted for permanent section evaluation 5. Angiolymphatic                nodes. (0/2)
+(block B2). For additional                      invasion: Present.          E. Lymph node, right
+details please see the checklist.               6. Bronchial margin: Free upper lobe sump, biopsy:
+C-F. Microscopic performed.                     of tumor (tumor grossly 5 One benign lymph node.
+G. Sections reveal an invasive                  cm from bronchial           (0/1)
+adenocarcinoma, mixed subtype with              margin).                    F. Lymph node level 7 R,
+papillary, acinar, lepidic, micropapillary, and 7. Pleural involvement:     biopsy: Two benign lymph
+solid growth patterns                           Subpleura.                  nodes. (0/2)
+(predominant pattern is papillary). One         8. Lymph nodes: 0 positive G. Lung, right lower lobe,
+benign anthracotic lymph node is                out of 9 found.             lobectomy: Invasive
+also identified. A special stain for elastin    9. Size of largest          adenocarcinoma, mixed
+was performed with appropriate                  metastatic deposit: N/A. subtype. (See description
+controls. It supports the initial H&E           10. pTNM: pT4 (separate and checklist)
+interpretation of subpleural                    tumor nodule in a different    One benign lymph
+involvement. For additional details please      ipsilateral lobe) N0        node. (0/1)
+see the checklist.                              MX.                         H. Lymph node level R 11,
+H. Microscopic performed.                                                   biopsy: One benign lymph
+                                                                            node (0/1)
+Formatted Path             Lateralit OpenCli Date of
+Report                     y/locati nica ID excision
+                           on
+
+LUNG TISSUE                Right-
+CHECKLIST                  upper
+
+Specimen type:
+Lobectomy
+Tumor site: Lung
+Tumor size: 3.2 x 5 cm
+Histologic type:
+Adenocarcinoma
+Histologic grade: Poorly
+differentiated
+Tumor extent: Not
+specified
+Other tumor nodules:
+Yes -
+Lymph nodes: 0/9
+positive for metastasis
+(Pulmonary 0/9)
+Lymphatic invasion:
+Present
+Venous invasion:
+Present
+Margins: Not specified
+Evidence of neo-
+adjuvant treatment:
+Not specified
+Additional pathologic
+findings: Not specified
+Comments: None

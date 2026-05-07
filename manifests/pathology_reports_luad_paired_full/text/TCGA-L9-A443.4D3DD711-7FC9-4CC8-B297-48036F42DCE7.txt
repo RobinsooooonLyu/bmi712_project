@@ -1,0 +1,162 @@
+ACCT #:                  LOC:                                     U #:
+                                                   AGE/SX:                  ROOM: .                                  REG:
+                                                   DOB :                    BED:                W                    DIE:
+                                                              I   MF        TLOC:
+
+
+SPEC #:                       RECD:                        3TATUSs       PERFORMED AT
+                              COLL:                        TIME IN FORMALIN:
+                                                                             UUID:4D3DD711-7FC9-4CC8- 8297 - 48036F42DCE7
+CLINICAL INFORMATION:                                                                TCGA- L9-A443-01A-PR                                Redacted
+ Pre-op Diagnosis :
+          Remarks:       Tissue banking
+                                                                          III 111111111111111111111111111lIIIIIIIIIIIIIIIIIII11111111111111III
+      Specimen(s):       A.  Left lower lobe                              lII IlIl I lIFl I II I llII^lI^lIlllllI l II I lFfflhlI^I I lI I llIlI^ll lU
+                         B.  Level 8                                      III IIIIIIIllUlIIIIIIIIlIIIIIIIIIII1111IIIIIIIII111111111IU
+                         C.     Level 5                 jC,C>-0-3
+                         D.
+                         E.
+                                Level 10
+                                Level 6                    ota er oc& cA r^^                                   , i4OS
+                                                                                                       g t 4o) 3 g
+                                                                                                                                       f z3{/ Z.
+ ^117Mi[01:Zsa7X0[i)^^ysrlih_[a9^[sa7ri^                   Si . 1 uv-^o^ ,1'                           ( ^oScre,                            IO
+A. LOWER LOBE OF LEFT LUNG ,          LOBECTOMY:
+                                                                                                         G3* 3
+              MODERATELY DIFFERENTIATED ADENOCARCINOMA
+              CARCINOMA MEASURES 1.2 CM IN GREATEST DIMENSION, CONFINED TO THE LUNG WITHOUT
+              VISCERAL PLEURAL INVOLVEMENT (pTla)
+              SURGICAL MARGINS OF RESECTION FREE OF TUMOR
+              FIVE PERIBRONCHIAL LYMPH NODES, NO TUMOR IDENTIFIED
+              LYMPH VASCULAR INVASION NOT IDENTIFIED
+              INCIDENTAL MINUTE PERIPHERAL CARCINOID TUMORLET ( APPROXIMATELY I MM)
+              SEE SUMMARY FOR SURGICAL PATHOLOGY CANCER CASE SUMMARY CHECKLIST
+
+     LEVEL 8 MEDIASTINAL LYMPH NODE , BIOPSY:
+           NEGATIVE , NO EVIDENCE OF METASTATIC CARCINOMA
+
+     LEVEL 5 MEDIASTINAL LYMPH NODE , BIOPSY:
+      -    NEGATIVE , NO EVIDENCE OF METASTATIC CARCINOMA
+
+     LEVEL 10 LYMPH NODE ,       BIOPSY:
+              NEGATIVE , NO EVIDENCE OF METASTATIC CARCINOMA
+
+     LEVEL 6 LYMPH NODE , BIOPSY:
+           NEGATIVE , NO EVIDENCE OF METASTATIC CARCINOMA
+
+
+
+
+COMMENT (S)
+SURGICAL PATHOLOGY CANCER CASE SUMMARY - APPROVED BY COLLEGE OF AMERICAN PATHOLOGISTS
+
+SPECIMEN:                                     Left lower lobe of lung
+PROCEDURE:                                    Lobectomy
+SPECIMEN INTEGRITY:                            Intact
+
+                                           ** CONTINUED ON NEXT PAGE **
+
+
+
+
+                                                                                   :rteria
+                                                                                   )i+;nosis Pi,L. epan-y
+                                                                                   'rimary Tumo r ;;le Discrepancy
+                                                                                   1iPAA ois(repa'r.
+                                                                                   'rior k1alignarny history
+                                                                                   )uaI/Synchronru r Primary No
+                                                                                   :as.:                                        DISQUAL rlfD^^           O
+                                                                                   levieWe                            inw•erl
+COMMENT(S)                                          (Continued)
+
+SPECIMEN LATERALITY:                            Left
+TUMOR SITE:                                     Lower lobe
+TUMOR SIZE:                                     1.2 cm
+TUMOR FOCALITI:                                 Unifocal
+HISTOLOGIC TYPE:    ..... _.._...._.._.....     Adenocarcinoma
+HISTOLOGIC GRADE:                               G2
+VISCERAL PLEURA INVASION:                       Not identified
+TUMOR EXTENSION:                                Not applicable
+                                                Bronchial margin:   uninvolved by invasive carcinoma and
+MARGINS:
+                                                                    carcinoma in situ
+                                                Vascular margin;   uninvolved by invasive carcinoma
+                                                Parenchymal margin:   not applicable
+                                                Parietal pleural margin:   not applicable
+                                                Chest wall margin:   not applicable
+                                                     Distance of invasive carcinoma from closest margin:
+                                                     20 mm, bronchial
+TREATMENT EFFECT:                               Not applicable
+LYMPH-VASCULAR INVASION:                        Not identified
+PATHOLOGIC STAGING:                             Primary tumor:    pTla
+                                                 Regional lymph nodes:   pN0
+                                                    Number of lymph nodes examined: 9
+                                                    Number of lymph nodes involved: 0
+                                                 Distant metastasis:   not applicable
+ ADDITIONAL PATHOLOGIC FINDINGS:                 Minute carcinoid tumorlet
+
+
+
+ GROSS DESCRIPTION:
+ A.  Received fresh for Tissue Banking, labeled with the patient's name and "left lower
+ lobe".   Received is a 200 gram, 15.0 x 7.5 x 3.5 cm lobe of lung. The pleural surface is
+ pink/tan to purple with scant anthracotic marbling. There is a focal 1.5 x 1.0 cm area of
+ disruption on the pleural surface laterally. No additional pleural lesions are identified.
+ The lung is sectioned to have a 1.2 x 1.0 x 0.9 cm central indurated white tumor mass. The
+ tumor is 2.0 cm from the bronchial margin and between 1.5 and 2.0 cm to the pleura. A
+ section is sampled for Tissue Banking. The tumor appears to surround the adjacent
+ vasculature and air ways, The tumor is centrally located within the lobe. The remainder of
+ the parenchyma is unremarkable and no additional lesions or dilated airspaces are
+ identified. Representative sections are sampled as labeled:
+       I    -    bronchial margin
+       2    -    vascular margin
+       3    -    perihilar lymph nodes
+       4-6  -    cross sections of tumor to include surrounding lung parenchyma and
+                 associated structures
+       I     -   section between tumor and bronchial margin
+       8     -    sections of apical aspect of the lower lobe
+       9     -    sections of the mid aspect of the lobe in the area associated with tumor
+       10    -    sections of the inferior basilar aspect of the lobe sampled
+
+
+
+
+                                              ** CONTINUED ON NEXT PAGE **
+SPEC #:                        PATIENT:                                           (Continued)
+
+
+GROSS DESCRIPTION : ( Continued)
+Parts 2 through 5. Each part is received in formalin, labeled with the patients name.
+
+B. Part 2 labeled "level 8" is a 1.3 x 1.0 x 0.5 cm nodular, gray/black anthracotic lymph
+node with associated adipose. The node is bisected and entirely submitted cassette B1.
+
+C. Part 3 labeled "level 5" is a 0.7 x 0.6 x 0.4 cm tan/gray lymph node. The node is
+bisected and entirely submitted cassette C1.
+
+D. Part 4 labeled "level 10" are three anthracotic lymphoid tissue fragments which range
+from a disrupted, linear 1.0 x 0.3 x 0.2 cm to a nodular tan/gray lymph node which is 1.4 x
+1.0 x 0.6 cm. The large lymph node is bisected and the tissues are entirely submitted
+cassette D1.
+
+E. Part 5 labeled "level 6" is a 1.2 x 0.8 x 0.6 cm nodular fatty tan lymph node. The node
+is bisected and entirely submitted in cassette El.
+
+
+MICROSCOPIC DESCRIPTION;
+Slides examined and evaluated.
+
+
+
+INTRAOPERATIVE CONSULTATION:
+TUMOR PROCESSED FOR TUMOR TISSUE BANKING PER PROTOCOL
+
+
+
+
+ ^J3C^l^t[i^^Tiii1Y: 01n1^Y V^^MK^]Q^
+
+
+
+
+                                          ** END OF REPORT **

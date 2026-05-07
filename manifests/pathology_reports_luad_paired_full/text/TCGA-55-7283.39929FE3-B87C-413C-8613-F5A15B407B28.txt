@@ -1,0 +1,93 @@
+DIAGNOSIS
+DIAGNOSIS:
+A . Lung, right middle lobe; wedge resection:
+           Multiple microscopic foci of adenocarcinoma measuring up to 0.3 em in greatest dimension individually.
+           Hamartoma, 1.1 em in greatest dimension.
+           Tumor foci present in subpleural lymphatics.
+
+B . Lung. right upper lobe; lobectomy:
+           Tumor Characteristics:
+1. Histologic type: Adenocarcinoma.
+2 . Histologic grade: Moderately to poorly differentiated.
+3 . Tumor site: Right upper lobe.
+4 . Tumor focality: Multifocal.
+5 . Tumor ~ize: 7.5 x 5.5 x 3.8 em.
+6 . Visceral pleural invasion: Not identified ,
+7 . Lymphovascular space invasion : Present.
+S . Tumor extension: Tumor limited to pulmonary parenchyma.
+9 . Treatment effect: Not identified.
+           Surgical Margin Status:
+1 . Tumor distance from bronchial margin: 0.2 em.
+2 . Two foci of bronchioloalveolar carcinoma in the en face parenchymal margin.
+3 . TUmor distance from pleural surface: Less than 0.1 cn1 .
+           Lymph Node Status:
+1 . Total number of lymph nodes received: 5
+           Four peribronchial nodes.
+           One level eight node, see specimen C.
+2 . Total number of lymph nodes containing metastatic carcinoma: 3 (3/5).
+           Two positive peribronchial nodes.
+           One positive level 8 node.
+           Other:
+1 . pTNM stage: pT3 N2.
+2 . Bronchio[oalveoJar carcinoma associated with invasive adenocaricnoma.
+
+C. Lymph node, levelS; excision:
+        Metastatic adenocarcinoma present in one lymph node (1/1).
+
+
+
+                                                  Electronic Sig
+COMMENTS:
+Histologic sections from the right middle lobe wedge show a hamartoma. as seen in the frozen section slide. However, In addition to this finding. there are
+microscopic foci in sections not examined at the time of frozen section. These foci measure up to 0.3 em in greatest dimension individually. In addition,
+this section in slide A4 also shows multiple microscopic foci of tumor within subpleural lymphatic spaces.
+
+The main tumor in the right upper lobe is that of an adenocarcinoma which is moderately to poorly differentiated. Two foci of bronchioloalveolar carcinoma
+are also present in the shaved parenchymal margin . Multiple positive nodes are present.
+
+Current NCCN practice guidelines recommend detennination of EGFR and KRAS mutation status in adenocarcinoma of ·lung to help select patients for
+Tyrosine-Kinase Inhibitor (TKJ) therapy. EGFR-activating mutations have been shown to be significantly associated with response to TKls and KRAS
+mutations are associated with TKI resistance. They are mutually exclusive in NSCLC. Additionally. recent data show that ALK (Anaplastic Lymphoma
+Kinase) gene rearrangements in adenocarcinoma of lung are associated with resistance to TKls and have favorable response rates to Crizotinib, the ALK
+inhibitor agent currently in clinical trials . Mutation analysis for KRAS and EGFR-TK domain and ALK gene rearrangement by FISH is available as the
+Lung Cancer Mutation Panel. Testing may be performed on paraffin-embedded tissue from the primary or metastatic tumor or pleural fluid cell block.
+These tests are available on request as a panel or as individual assays.
+
+                                                                CLINICAL INFORMATION
+CLINICAL HISTORY : •
+Preoperative Diagnosis:     old fema~ with right sided pulmonary nodule SUS~!ci0US for malignancy with increased SUV.
+Postoperative DIagnosis: e side of excisiona' biopsy of histoplasmosis lung in
+Symptoms/Radiologic Findings:
+
+SPECIMENS:
+A . Right mtddte lobe wedge w ith frozen section.
+B. Right upper lobe lung.
+C. Level 8 lymph node.
+
+
+
+
+                                                                        SPECIMEN DATA
+GROSS DESCRIPTION:
+A. Container A specimen is received In three containers labeled'            I        Container A is labeled right middle lobe wedge and contains a- 5 .0 x 3.0
+x 1.&.:l:::lTl lung wedge. The pleura is purple-gray and glistening. The staple Hne is removed and the underlying parenchyma is inked black. Specimen is
+sectioned to reveal a 1 . 1 x 0 .9 x 0 .8 em well circumscribed yellow-tan nodule that approaches to within 0 .1 em in the inked margin. The remainder of the
+parenchyma is pink-tan and spongy. There is no additional lesions. Representative sections from the nodule are submitted for frozen section with the
+residual entirely resubmitted for pennanent section in cassette A1 labeled :                    \dditional representative sections are submitted in cassettes
+A2-A4 to inc~ude the remainder of the nodule in cassette A2.
+
+B . Container B is additionally labeled right upper lobe and contains a 10.0 x 8 .5 x 5 .0 em lung lobe. A 6 .0 x 3 .5 em aggregate of exposed parenchyma
+with muttiple segments of exposed vasculature and bron c hi are identified. Extending from one end of the exposed parenchyma are two serpiginous
+staple lines 4 .5 em each . Pleura is is purple-pink and glistening with a 3 .0 x 3.0 em area of umbilication. This area is inked black and the specimen is
+serially sectioned to reveal a 7 .5 x 5.5 x 3 .8 em defined yellow-tan mass that abuts the pleura at the site of umbilication and approaches to within a 0.2
+em of the exposed parenchyma, vasculature and bronchial margins. Additionally, this mass approaches to within 2 .5 em of the stapled parenchyma.
+The uninvolved parenchyma is beefy red and spongy. No additional masses are identified. Representative sections are submitted in cassettes 81-810
+labeled                                   .ignated as follows: 81-B2 enface of sections of exposed vascular and parenchymal margins; B3-84 mass to exposed
+parenct,,.IIICU 11 1(:11 '-::1"1, po .....endicular; 85 stapled parenchymal margin; perpendicular, 86-67 mass to umblHcated pleura; 6 8 '- _55; 810
+uninvolved parenchyma. Additionally, a yellow-green and blue cassette are submitted for                             esearch each labeled
+
+c . Container C is addittonaly labeled level 8 lymph node and contains a 2.0 em pink-gray rubbery nodule consistent with Ivmoh node. It Is trisected to
+        gray-white friable cut surface consistent with tumor. The specimen is entlrely submitted in cassette C labeled
+
+III    -OPERATIVE CONSULTATION:
+~~~':~~_~~~;:~~. DIAG._t::t.<?~S~ _Favor h.a~art(),,:,~..': Dr ..

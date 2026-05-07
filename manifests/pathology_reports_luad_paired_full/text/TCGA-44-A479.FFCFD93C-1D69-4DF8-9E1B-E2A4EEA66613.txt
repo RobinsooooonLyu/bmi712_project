@@ -1,0 +1,115 @@
+UUID: FFCFD93C-1069 - 40F8 -
+                                                9E1B -
+                         TCGA- 44-A479 - 91A-PR E2A4EEA66613
+                                                         Redacted
+               111111111111111 IIIIIi ili l i i i i l l l l l l l l l 1111111 111111 111   l G fJ-o-3
+               I I 11111111111111111111I 1111111111 I I I I 1111111111111111111111
+               il 1111111111111 l 11111111111 11111111 I I 1111111111111111 I I I           A .C^cn oc-a,rc r nvr^ , J'c^S
+                               Final Surgical Pathology Report                                                Sc^J^
+  Procedure:                                                                                Sr ^c :     n9 , upper 1 V bt
+  Diagnosis
+  A.  Lung, right upper lobe, resection:                                                       q _5_^ Z
+   Adenocarcinoma, poorly differentiated, 3.9 cm.
+   Surgical margins uninvolved.
+   2 lymph nodes with no evidence of metastatic disease (0/2).
+  B.  Lung, "portion of lower lobe", resection:
+   No evidence of malignancy.
+  C.  Level 10 lymph nodes, resection:
+   No evidence of metastasis in 4 lymph nodes (0/4).
+  D.  R4 lymph nodes, resection:
+   No evidence of metastasis in two lymph nodes (0/2).
+  B.  Level 7 lymph nodes, resection:
+   No evidence of metastasis in 4 lymph nodes (0/4).
+
+ Microscopic Description:
+ Microscopic examination performed.
+
+ A.   Histologic type:  adenocarcinoma
+ Histologic grade:   poorly differentiated
+ Primary tumor (pT): 3.9 cm, pT2
+ Margins of resection:   negative
+ Direct extension of tumor: not identified
+ Venous (large vessel) invasion: not identified
+ Arterial (large vessel) invasion: not identified
+ Lymphatic (small vessel) invasion: not identified
+ Regional lymph nodes (pN): negative, pNO
+ Distant metastasis (pM):
+                            cannot be evaluated by this specimen, pMX
+ Other findings:   none
+
+B.
+     Sections of the lower lobe demonstrate atelectasis and focal
+hemorrhage but no evidence of malignancy.
+C.
+     The level 10 lymph node demonstrates no evidence of metastasis in 4
+lymph nodes.
+D.
+    The R4 lymph node demonstrates no evidence of metastasis in 2 lymph
+nodes.
+E.
+    The level 7 lymph node demonstrates no evidence of metastasis 4
+lymph nodes.
+
+
+Specimen
+A.  Right upper lobe
+B.  Portion of lower lobe
+C.  Level 10 lymph node
+D.  R4 lymph node
+E.  Level 7 lymph node
+
+Clinical Information
+Lung cancer
+
+
+Gross Description
+A.
+    Received fresh for tissue procurement labeled "right upper lobe" is
+a 14.5 x 11.5 x 4.5 cm lobectomy specimen with attached 1 cm in length,
+1.2 x 0.9 cm in diameter bronchial stump. The pleura is smooth to
+scaberous tan red-gray with an indurated focus along the medial aspect.
+The pleura is inked black and the specimen is sectioned. On
+sectioning, there is a 3.9 x 3.5 x 3.2 cm rubbery tan-white tumor mass
+which extends to within 0.3 cm of the inked pleural surface. A portion
+of tumor and a portion of normal parenchyma are submitted for
+                            The remaining parenchyma is spongiform
+procurement as requested.
+tan-pink-red without additional mass lesion or abnormality. Two soft
+gray-black tissues in keeping with lymph nodes measuring up to 0.8 cm
+are recovered from the hilum. RS 12                         3 - hilar
+Summary: 1 - bronchial stump margin, 2 - vascular margins, 7        r 9
+                                                              through
+lymph nodes, 4 through 6 - tumor to inked pleural surface,
+- tumor to adjacent parenchyma, 10 through 12 - random
+
+    Received fresh labeled "portion of lower lobe" is a wedge-shaped,
+B.
+5.4 x 2.7 x 1.3 cm soft portion of lung tissue with a single staple
+line along one aspect. The staple line is removed and the underlying
+surface is inked blue. The pleura is slightly scaberous tan-pink. On
+sectioning, the parenchyma is spongiform tan red without apparent mass
+lesion or abnormality.  AS6
+
+     Received in formalin labeled "level X lymph node" is a 2.1 x 1.7 x
+ C.
+ 0.7 cm rubbery tan-gray-pink tissue which is bisected and entirely
+ submitted in one block.
+
+     Received in formalin labeled                      are
+ D.
+                                    issues aperagang
+ fragmented rubbery tan-gray-pink t
+ dimension.  AS1
+
+     Received in formalin labeled "level VII lymph node" -aree 4 slightly
+ E.
+ rubbery tan-pink to gray-black tissues ranging from
+ greatest dimension.   AS1
+
+
+
+
+                                                                   IPAA Discrepancy
+                                                                   rior Malignancy History
+                                                                   ual/Synchronous Pr
+                                                                     e is (circle):

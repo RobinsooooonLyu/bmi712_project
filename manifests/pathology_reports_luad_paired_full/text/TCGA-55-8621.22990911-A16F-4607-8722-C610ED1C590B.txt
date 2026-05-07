@@ -1,0 +1,103 @@
+DIAGNOSIS:
+Lung, left lower lobe, wedge excision with intraoperative consultation and microscopic slide examination:
+Adenocarcinoma.
+
+Tumor characteristics:
+
+Histologic type: Adenocarcinoma.
+
+Location: Left lower lobe.
+
+Focality: Unifocal.
+
+Size: 2.0 x 1.8 cm, as measured grossly.
+Grade: Well differentiated.
+
+Lymphovascular space invasion: Not identified.
+Visceral pleura involvement: Present.
+
+Margin status:
+
+Bronchial margin: Negative, at least 1 cm (see third specimen).
+Stapled margin: Negative, 0.7 cm (also see third specimen).
+Pleural margin: Negative (confirmed by CK7 immunostain).
+
+Lymph node status:
+Negative for metastatic malignancy (0/6--includes four nodes from level IX excision and two nodes from the lobectomy completion).
+
+Lymph nodes, level |X, regiona! excision:
+See above.
+
+Lung, left lower lobe, completion lobectomy:
+
+Negative for residual malignancy.
+
+Bronchial margin is negative for malignancy.
+
+Additional lymph nodes are negative for metastatic malignancy (0/2).
+
+Other:
+
+Specimen integrity: Intact for pathologic assessment.
+Treatment effect: Not identified.
+
+Staging: pT1, NO
+
+COMMENTS:
+The patient has history of renal cell carcinoma. Some of the areas of carcinoma have clear cell features while others demonstrate chromophilic features.
+
+Therefore, immunchistochemical stains are performed to more conclusively exclude the unlikely possibility of a renal carcinoma metastasis. Likewise,
+further assessment of the visceral pleura is performed. The results are as follows (controls stain appropriately):
+
+Block A2
+
+CK7: Strongly positive.
+p63: Negative in tumor.
+CD10: Negative in tumor.
+
+Block A3:
+CD10: Negative in tumor.
+
+These findings are strong supportive evidence of an adenocarcinoma of lung origin and evidence againsi a renal cell carcinoma and a squamous cell
+carcinoma. Although the carcinoma invades the visceral pleura, the actual pleural margin/surface appears negative.
+
+~ CLINICAL HISTORY:
+Preoperative Diagnosis: Pe left lower lobe lung mass. R/O malignancy.
+Postoperative Diagnosis:
+
+Symptoms/Radiologic Findings:
+
+SPECIMENS:
+A. Left lower lung mass mm
+B. Level S lymph node.
+
+Cc. Left lower lobe.
+
+~ GROSS DESCRIPTION:
+The specimen is received in three containers labeled the patient's name
+
+A. Container A is additionally labeled left lower lobe lung mass and contains a 10.5 x 4.5 x 2.5 cm. purple-pink glistening lung wedge. The staple line is
+removed and the underlying parenchyma is inked blue. The specimen is serially sectioned to reveal a 2.0 x 1.8 x 1.3 cm. ill-defined gray-white nodular
+that approaches to within 0.7 cm. of the stapled margin and abuts the pleura which is not inked black. The remainder of the cut surface is red-pink and
+spongy. Additional nodules or lesions are not identified.
+
+A representative section is submitted for frozen section with the residual entirely re-submitted for permanent section in cassette A1 labeled
+
+Additional representative sections to include the remainder of the mass are submitted in cassettes A2-5 designated as follows: su i ass;
+5--normal appearing parenchyma. Additionally, a yellow, green and blue cassette are submitted for genomics research labele
+
+B. Container B is additionally labeled level 9 lymph node and contains four gray-black rubbery nodules consistent with anthracotic lymph nodes. They
+range from 0.4 up to 0.9 cm. in greatest dimension. They are entirely submitted in cassette B1 labeled
+
+C. Container C is additionally labeled left lower lobe and contains a 13.5 x 7.0 x 5.5 cm. lung lobe. The pleura is purple-pink, mildly anthracotic and
+glistening. Exposed bronchi are not identified. Two stapled margins are present, 10.0 and 9.0 cm. in length. The longer staple line is removed and the
+underlying parenchyma is inked blue. The shorter staple line is removed to reveal bronchial and vascular margins. The bronchus is 0.5 cm. in length by
+4.5 cm. in diameter and is bifurcated. The endobronchial mucosa is pink-tan and glistening with no discrete lesions. The vascular margins are gross
+free of tumor. Adjacent to the bronchi and vasculature there are areas of red-pink parenchyma which are inked black. The specimen is serially
+sectioned to reveal a pink-tan spongy cit eurfa-- with no discrete lesions. No parabronchial lymph nodes are identified. Representative sections are
+submitted in cassettes C1-8 labeled signated as follows: C1 and 2—bronchial and vascular margins, en face; C3--longer stapled margin,
+— 4--shorter stapled margin, perpendicular; 5 through 8-—-representative parenchyma.
+
+-OPERATIVE CONSULTATION:
+A. FROZEN SECTION DIAGNOSIS: Adenocarcinoma per Dr.
+

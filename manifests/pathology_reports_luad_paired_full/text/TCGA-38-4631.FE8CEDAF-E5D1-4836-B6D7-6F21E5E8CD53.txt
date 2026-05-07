@@ -1,0 +1,103 @@
+TGGA-38-4631
+
+  ..-,INICAL INFORMATION
+   .e patient is with a reported history of non small cell carcinoma involving the left lung. No other clinical
+ 1nformation is provided.
+
+
+ GROSS DESCRIPTIONS
+
+
+ Received are six formalin-filled containers labeled with the patient's name and medical record number.
+ The first container is additionally labeled "station 9," It holds three nodules of tan/black, soft tissue which
+ in aggregate measure 2.1 x 0.7 x 0.6 em. These are submitted in entirety in block 1.
+
+ The second container is additionally labeled "station 10." It holds a single somewhat irregularly shaped nodule
+ of tan/black, soft tissue which measures 2.2 x 1.1 x 0.7 em. The specimen is bisected and submitted in
+ total in block 2.
+
+'l'he third container is appropriately labeled ''station 7." It holds two nodules of tan, soft tissue using focal
+areas of black discoloration. The larger fragment measures 2.9 x 1.3 x 0.9 em, and the smaller fragment
+measures 1.8 x 0.6 x 0.5 em. The specimens are bisected and half of the smaller fragment and half of the larger
+fragment are submitted in block 3, and the remaining half of each specimen are submitted in block 4.
+
+The next container is appropriately labeled "station 5." It holds three irregular shaped fragments of tan, soft
+tissue with focal areas of black discoloration. In aggregate, these measure 3.2 x 2.2 x 1.2 em maximally.
+
+The specimen is submitted in its entirety in blocks 5 and 6.
+
+The fifth container is additionally labeled "lymph node 4L." It holds two nodules of tan/brown, soft tissue. The
+smaller nodule measures 0.7 x 0.4 x 0.5 em, and the larger measures 2.2 x 0.9 x 0.9 em. Both are submitted in
+block 7.
+
+The sixth container holds a left lung consisting of a left upper lobe as well as a left lower lobe and lingula.
+The apex of the left upper lobe has the pleural surface marked in black ink, and has previously been opened for
+tissue procurement revealing a tan/white lesion with central necrosis. The borders of this lesion are somewhat
+irregular. This mass measures 4.6 em x 4.2 em x 4.3 em. This lesion appears to come within half of a mm of the
+ 1 eural surface. This lesion does not appear intimately associated with any airways grossly. The remaining lung
+
+   renchyma appears tan/brown in color with focal enlargement of air spaces.
+
+Representative sections of the lesion and lung are submitted as per block summary. Several lymph nodes are
+present adjacent to the left upper lobe bronchus. They measure 1.5 and 1.2 and 1.1 em in diameter, respectively.
+These are bisected and submitted in total in blocks 9 and 10.
+
+Specimen fixation: formalin
+'l'ype of specimen/parts of lung received: left lung, including both upper and lower lobes
+Size of specimen: 23.3 x 14.1 x 6.2 em
+Weight of specimen: 750 gm
+Other attached structures: none
+Tumor location: apex of left upper lobe, near periphery
+Tumor size: 4.6 x 4.2 x 4.3 em
+Relationship of tumor to bronchus: not obviously associated
+Distance of tumor to bronchial margin: 5.8 em
+Relationship/distance of tumor to pleura: grossly extends extremely close, 0.05 em
+Presence/absence of satellite tumor nodules: none
+Involvement of attached structures by tumor: not identified
+Description of nontumorous lung: focal dilatation of air spaces
+
+
+BLOCK SU!>lMARY
+1 - station 9 lymph nodes
+2 - station 10 lymph nodes
+3,4 - station 7 lymph nodes
+5,6 - station 5 lymph nodes
+7 - station 4L lymph nodes
+8 - left upper lobe bronchial margin
+9,10- peribronchial lymph nodes (3)
+11-15 - representative sections of tumor
+16,17 -left upper lobe, lung parenchyma
+18,19- left lower lobe, lung parenchyma
+
+
+  .:;HT HICROSCOPY
+Light microscopic examination is performed by or.
+Tumor histologic type (WHO classification) : adenocarcinoma
+Tumor histologic grade (WHO classification) : poorly differentiated
+Tumor size (greatest dimension): 4.6 em by gross measurement
+Histologic assessment of surgical margins: negative
+Pleural involvement: tumor focally extends to pleura but does not appear to penetrate it, In the area of closest
+approach of tumor to pleura, there is adherent adipose and skeletal muscle, consistent with focal adhesion to
+chest wall.
+
+   '-situ carcinoma: not identified
+   .vasion: angiolymphatic - present, vascular involvement within tumor mass perineural - not identified
+r.ymph nodes (by node group) : below
+Findings in nontumorous lung: emphysema, scattered lymphoid aggregates
+
+
+SPECIAL STAINS
+PAS stains show occasional intracytoplasmic globules which are diastase resistant.
+
+
+DIAGNOSIS
+LEFT LUNG, REMOVAL- POORLY DIFFERENTIATED ADENOCARCINOMA, 4.6 CM GREATEST DIMENSION
+- VASCULAR SPACE INVASION IDENTIFIED ~1ITHIN MAIN TUMOR MASS
+- TUMOR EXTENDS TO, BUT NOT THROUGH, PLEURA
+- SURGICAL MARGINS NEGATIVE FOR TUMOR
+- 3 STATION 12 L I,YNPH NODES WITH NO TUMOR SEEN (0/3)
+LYMPH NODES, STATION 9, REMOVAL - NO TUMOR SEEN IN 4 LY!>lPH NODES (0/4)
+LYMPH NODES, STATION 10, REMOVAL - NO TUMOR SEEN IN 2 LYMPH NODES (0/2)
+!JYHPH NODES, STATION 7 r REMOVAL - NO TUHOR SEEN IN 2 LYf.lPH NODES (0/2)
+LYHPH NODES, STATION 5, REMOVAL - NO TUMOR SEEN IN 3 LYI1PH NODES (0/3)
+LYHPH NODES, STATION 4L, REHOVAL - NO TUHOR SEEN IN 2 LYMPH NODES (0/2)

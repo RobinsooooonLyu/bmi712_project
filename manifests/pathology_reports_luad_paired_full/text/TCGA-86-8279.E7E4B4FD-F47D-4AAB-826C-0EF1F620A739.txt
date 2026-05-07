@@ -1,0 +1,32 @@
+TCGA Pathology Reports
+    Gross    Microsc Diagnos Comme
+    Descript opic     is      nts
+    ion      Descript Details
+  D          ion
+Formatted Path Report                                             OpenCli Excision date
+                                                                  nica ID
+
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Excision of tumor
+Tumor site: Lung
+Tumor size: 3 x 3 x 3 cm
+Histologic type: Adenocarcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Visceral pleura
+Other tumor nodules: Not specified
+Lymph nodes: 1/1 positive for metastasis (Intrathoracical 1/1)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not specified
+Additional pathologic findings: Not specified
+Comments: Positive for CD15, CK7, TTF1, CEA; negative for CK20,
+CDX2
+Lateralit
+y
+
+
+Right-
+upper

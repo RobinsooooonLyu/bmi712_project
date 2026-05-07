@@ -1,0 +1,32 @@
+A description for each data field can be found in the 'Data description’ worksheet (yellow tab).
+Sample Collection Details
+Sample Number
+
+Sample
+Type
+
+BUFFY
+TUMOUR
+Histology and staging
+Sample Site of Year of Age at Sample Days to Days to Type of Site of
+
+Preparatio Tissue Sample Sample Comments Procedure Diagnosis Procedure Primary
+
+n Collection Collection Date (Histology)
+(yrs)
+
+FF | | || processing 8 20 RESECT OTH
+
+FF RiLlung i |= a 0 12 RESECT OTH
+Tumour Histology Grade/ Pathologic Pathologic ClinicalM VALCSG
+Size (cm) Differentiat al T al N Stage
+ion
+
+5.9 3 | T3,NOS NO MO
+5.9 3 | T3,NOS NO MO
+Histology Comments
+
+Site of primary: Right lower lobe lung with posterior segments of upper lobe. Histologic type: Adenocarcinoma, fi
+Site of primary: Right lower lobe lung with posterior segments of upper lobe. Histologic type: Adenocarcinoma, fi
+Slide URL
+

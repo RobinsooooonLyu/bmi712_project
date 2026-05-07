@@ -1,0 +1,120 @@
+PRIORITY: FROZEN SEC
+
+SURGICAL PROCEDURES:
+   LUNG- LOBECTOMY, RESECTION, REGIONAL LYMPH
+
+        CLINICAL HISTORY
+
+
+     PERTINENT CLINICAL HISTORY:    LEFr LUNG CA
+
+
+       GROSS DESCRIPTION
+
+  A.  The specimen is submitted fresh for frozen section as "9L" and
+  consists of a yelJ.ow tan soft tissue fragment measuring 0. 8 em in greatest
+  dimension; submitted in toto; 1 (1) labeled "FSP 11 and used for frozen
+  section.
+
+   FROZEN SECTION DIAGNOSIS:       Negative for tumor.
+
+  B. The specimen is submitted fresh as "neck 5th rib" and consists of a
+  segment of rib measuring 2 em in length and 1.2 am in diameter.  The
+  specimen is bisected longitudinally and submitted in toto; 2 {1} for
+  decalcification.
+
+  C.  The specimen is submitted fresh as "neck of 6th rib" and consists of a
+  segment of rib measuring 1.2 em in length and 1.3 em in diameter.  The
+  specimen is bisected and submitted in toto; 2 (1) for decalcification.
+
+  D. The specimen is submitted fresh as "left lower lobe lung" and consists
+  of a lobe of lung weighing 157 gms and measuring 13.5 x 7.5 x 7 em in
+  dimension. There is a bifurcated stapled bronchial margin measuring
+  0.4 em and 1.5 em in diameter and three stapled vessel margins ranging
+  0.4 ern to 0.7 em in diameter. There are several anthracotic nodes
+  clustered at the hilum ranging 0.3 em to 1.5 am in greatest dimension.
+  The pleural surface is purple tan with membranous adhesions.  A firm mass
+  is palpated on the lateral aspect.  Sectioning reveals an underlying firm
+     GROSS DESCRIPTION
+tan tumor with poorly defined borders which abuts the inked (black)
+pleural surface with a gross dimension of 3.3 x 3 x 1.5 em approaching
+3 em of the stapled bronchial margin. The remainder of the pulmonary
+parenchyma is pink to deep red and airless. Representative sections are
+submitted; multiple (12) labeled as folloHs:
+
+Cassette Dl:                    Bronchial margin.
+Cassette 02:                    Vessel margins.
+Cassette 03:                    Nodules found at the hilum.
+Cassettes D4 through D9:        Representative tumor in consecutive
+                                cassettes.
+cassettes 010 and Dll:          Representative bronchial tree and vessels
+                                adjacent to the tumor.
+Cassette 012:                   Representative uninvolved pulmonary
+                                parenchyma.
+
+Please note:    A portion of tissue is submitted for TCGA studies.
+
+      FINAL DIAGNOSIS
+
+A.    LYMPH NODE, 9L (BIOPSY) :
+           SINGLE LYMPH NODE SHOWING ANTHRACOSIS; NEGATIVE FOR TUMOR (0/1) .
+
+B.    NECK OF 5TH RIB (RESECTION) :
+           RIB WITH HEMATOPOIETIC MARROW; NEGATIVE FOR TUMOR.
+
+C.    NECK OF 6TH RIB (RESECTION):
+           RIB WITH HEMATOPOIETIC MARROW; NEGATIVE FOR TUMOR.
+
+D.    LEFT LUNG, LOWER LOBE (LOBECTOMY):
+           INFILTRATING, MODERATELY DIFFERENTIATED ADENOCARCINOMA WITH
+           FOCAL BRONCHOALVEOLAR FEATURES (3.3 CM).
+           TUMOR CLOSELY APPROACHES, BUT DOES NOT APPEAR TO INVADE, THE
+           VISCERAL PLEURA.
+           NO VASCULAR INVASION IS SEEN.
+           BRONCHIAL AND VASCULAR MARGINS AND SEVEN (7) LOBAR LYMPH NODES
+           ARE NEGATIVE FOR TUMOR.
+           BACKGROUND LUNG SHOWS SCATTERED SMALL NON-CASEATING GRANULOMAS
+           ASSOCIATED WITH FRAGMENTS OF WEAKLY POLARIZABLE MATERIAL.
+
+COMMENT:   SPECIAL STAINS (AFB, GMS) WILL BE EXAMINED ON A SECTION SHOWING
+           GRANULOMAS. ADDENDUM TO FOLLOW.
+      SYNOPTIC REPORT
+
+                                SYNOPTIC REPORT:      LUNG
+                          (CAP/AJCC/ACS - REQUIRED ELEMENTS)
+
+SPECIMEN TYPE:      LOBECTOMY
+LATERALITY:         LEET
+TUMOR SITE:         LOWER LOBE
+TUMOR SIZE:         3.3 X 3 X 1.5 CM
+HISTOLOGIC TYPE:    ADENOCARCINOMA
+HISTOLOGIC GRADE:   II
+EXTENT OF INVASION:      CONFINED TO LONG
+EXTENTION TO PLEURA/OTHER STRUCTURES:   NOT SEEN
+ADDITIONAL PERTINENT FINDINGS:     FOCAL BRONCHOALVEOLAR FEATURES
+
+lxiARGINS:
+      BRONCHIAL:    NEGATIVE
+      PARENCHYMAL: N/A
+      VASCULAR:     NEGATIVE
+      DISTANCE TO PERTINENT MARGIN(S):         3 CM TO BRONCHIAL MARGIN
+
+VENOUS INVASION:    NOT SEEN
+ARTERIAL (LARGE VESSEL) INVASION:        NOT SEEN
+
+LYMPH NODES
+     Nl - # INVOLVED/jl EXAMINED:        0/7
+      N2 -    jfINVOLVED/#EXAMINED:      0/MULTIPLE
+      N3 -    # INVOLVED/# EXAMINED:     0/0
+
+OTHER FINDINGS:         SCATTERED SMALL NON-CASEATING GRANULOMAS
+
+pTNM STAGE (AJCC 7TH EDITION):         pT2a pNO MX (STAGE IB)
+
+             ADDENDUM
+
+
+
+
+NO ORGANISMS ARE IDENTIFIED ON SPECIAL STAINS (AFB, GMS) PERFORMED ON A
+REPRESENTATIVE SECTION FROM PART "D".

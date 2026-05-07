@@ -1,0 +1,285 @@
+This information is subiect to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures
+     patient information.
+                          Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+  Anat Path Reports
+  * Final Report *
+
+
+ Document Type :                       Anat Path Reports                                                              UUID: D348711A - FD65 -4771-
+ Document Date:                                                                                                                                    A604 -
+                                                                                                                            TCGA- 95-A4VN - 01A-PR D761C96FSC48
+ Document Status :                     Auth (Verified)                                                                                                      Redacted
+ Document Title:                       Histology
+                                                                                                                   III II IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIfl 111111111
+ Performed By:                                                                                                     I I 111 IN 111111111111111111111111111111111111111 fil I I
+ Verified By:                                                                                                     III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIiilllllllll
+ Encounter info:
+
+
+                                                                     * Final Report *
+ APRPT ( Verified)
+
+
+
+
+ Patient Name:
+ MRN•                                                                                                               Ace #:
+                                                                              UUIS:
+ Location :                                                                                                                            Breast Big
+                                                                              Gender:         F                     Collected:
+ Client:
+ Submitting                                                                                                         Received
+ Phys:                                                                                                              Reported:
+
+
+
+
+                                                   Final Surgical Pathology Report
+Final Pathologic Diagnosis
+A.            LUNG , RIGHT LOWER LOBE #2 ,
+                                               WEDGE RESECTION, Al FS:
+              - ADENOCARCINOMA , PREDOMINANTLY SOLID TYPE.
+              - THE TUMOR IS POORLY DIFFERENTIATED.
+                                                                              4 ` /U Ng , /0'w,rJ/o-A^'         s J1 '                                          C 3't-3
+             - TUMOR SIZE: 3 . 5 X 3.3 X 3.2 CM.
+             - NO VISCERAL PLEURAL INVASION IS IDENTIFIED.
+             - NO DEFINITE VASCULAR INVASION IS IDENTIFIED.
+             - METASTATIC CARCINOMA ONE OF TWO LYMPH NODES
+             -                                                       4 1/2 ).
+                THE UNINVOLVED LYMPH NODE IS AN INTRAPARENCHYMAL LYMPH NODE.
+             - EMPHYSEMATOUS CHANGES.
+             • SEE --- _ _   FOR FINAL MARGIN STATUS.
+             - SEE SYNOPTIC REPORT , COMMENT.
+
+B.           LUNG, RIGHT LOWER LOBE #1 , WEDGE RESECTION:
+             - METASTATIC CARCINOMA INVOLVING ONE OF TWO LYMPH NODES (112).
+
+
+
+
+Printed by,
+Printed on:                                                                                                                                               Page 1 of 5
+                                                                                                                                                         (Continued)
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures
+patient information . Any unauthorized use, disclosure , or reproduction of this information is strictly prohibited.
+
+
+
+
+Anat Path Reports
+  Final Report
+
+
+
+
+C.          LUNG, RIGHT LOWER LOBE #3 , WEDGE RESECTION:
+            - ADENOCARCINOMA, ACINAR PREDOMINANT, WELL DIFFERENTIATED.
+            - TUMOR SIZE: 1MM (SLIDE C3).
+            - NO VISCERAL PLEURAL INVASION.
+            • NO VASCULAR INVASION.
+            - ATYPICAL ADENOMATOUS HYPERPLASIA.
+            - ACUTE BRONCHOPNEUMONIA, BRONCHIOLITIS, MINUTE MENINGOTHELIOID NODULE AND
+            EMPHYSEMATOUS CHANGES.
+            - THREE, INTRAPARENCHYMAL, LYMPH NODES NEGATIVE FOR CARCINOMA (013).
+            - SEE          FOR FINAL MARGIN STATUS.
+            - SEE SYNOPTIC REPORT.
+            - SEE COMMENT.
+
+ Comment
+ The tumors in part A and C are histologically different and likely represent separate primary tumors , especially with the
+ background of atypical adenomatous hyperplasia.
+
+
+
+
+ Synoptic Worksheet
+ A. Right lower lobe wedge #2:
+     Specimen:                                            Lung
+       Procedure:                                         Other: multiple wedges; followed by a completion lobectomy
+       Specimen Integrity:                                Disrupted
+       Specimen Laterality:                               Right
+       Tumor Site:                                        Lower lobe
+       Tumor Focality:                                    Separate tumor nodules in same lobe
+       Histologic Type:                                   Other. Adenocarcinoma, mixed subtype, predominantly solid type with clear
+                                                          cell features
+       Histologic Grade:                                  G3: Poorly differentiated
+       Tumor Size:                                        Greatest dimension: 3.5 cm
+                                                          Additional dimension: 3.3 cm
+                                                          Additional dimension: 3.2 cm
+       Visceral Pleura Invasion:                          Not identified
+       Tumor Extension:                                   Not applicable
+       Bronchial Margin:                                  Uninvolved by invasive carcinoma
+                                                          Involvement by squamous cell carcinoma in situ. (CIS) not applicable
+        Vascular Margin:                                  Uninvolved by invasive carcinoma
+
+
+
+
+  Printed by:                                                                                                                        Page 2 of 5
+  Printed on:                                                                                                                        (Continued)
+  This information is subject to all Federal and State laws regarding
+                                                                      confidentiality and privacy and to the policies and procedures
+  patient information. Any unauthorized use, disclosure, or reproduction
+                                                                           of this information is strictly prohibited.
+
+
+
+  Anat Path Reports
+  * Final Report *
+
+
+       Parenchymal Margin:                               Not applicable
+       Parietal Pleural Margin:                          Not applicable
+       Chest Wall Margin:                                Not applicable
+       Other Attached Tissue Margin :                    Not applicable
+       Treatment Effect:                                 Not applicable
+       Lymph-Vascular Invasion:                          Indeterminate
+       Extranodal Extension:                             Not identified
+       TNM Descriptors:                                  m (multiple primary tumors)
+       Primary Tumor (pT):
+                                                         pT2a: Tumor greater than 3 cm, but 5 cm or less in greatest dimension
+                                                        surrounded by lung or visceral pleura, without bronchoscopic evidence of
+                                                        invasion more proximal than the lobar bronchus (ie, not in the main
+                                                        bronchus); or Tumor 5 cm or less in greatest
+                                                                                                        dimension with any of the
+                                                        following features of extent: involves main bronchus, 2 cm or more distal to
+                                                        the carina; invades the visceral pleura ; associated with atelectasis or
+                                                        obstructive pneumonitis that extends to the hilar region but does not involve
+                                                        th the entire lung
+      Regional Lymph Nodes (pN):
+                                                       pN1: Metastasis in ipsilateral peribronchial and/or ipsilateral hilar lymph
+                                                       nodes, and intrapulmonary nodes, including involvement by direct extension
+                                                       Nodes examined: 7
+                                                       Nodes involved: 2
+      Distant Metastasis ( pM):                        Not applicable
+      Additional Pathologic Findings:
+                                                       Atypical adenomatous hyperplasia
+      Comments
+                                                       The bronchial and vascular margin status is derived from
+                                                       (completion lobectomy).
+                                     - - ------- - --- - ----- -
+
+Clinical History
+Right VATS. Lung cancer.
+
+Specimen ( s) Received
+A: Right lower lobe wedge #2
+B: Right lower wedge #1
+C: Right lower wedge #3
+
+Gross Descri ption
+Specimen A is received fresh for intraoperative consultation and is labeled
+                                                                              " right lower lobe wedge #2 ." It
+                                                                                                                consists of anodule
+                                                                                                                              lung
+wedge biopsy weighing 61.0 grams and measuring 10.5 x 7.0 x 3.2 cm. There is a well circumscribed, tan-white,          firm
+abutting the staple resection margin ,
+                                       invading the pleural surface and measuring 3.5 x 3.3 x 3.2 cm. At the
+carbon pigment deposits are present .                                                                            center of this nodule
+                                         A representative section from this nodule is submitted for frozen section diagnosis in
+cassette "Al FS." A touch prep is also performed on this nodule. In addition to this nodule two smaller nodules are present 0.2-
+0.3 cmmargin
+staple  in greatest
+              . Thedimension.  The smaller nodule abuts the staple resection margin and the other is within 4.0 cm of the closest
+                     reaming lung tissue is unremarkable
+margin orange . Sections are submitted as stated below.. The pleural surface over the nodules is inked blue and the resection
+
+
+
+
+Printed by:
+Printed on:                                                                                                                             Page 3 of 5
+                                                                                                                                       (Continued)
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedure
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+
+Anat Path Reports
+  Final Report *
+
+
+
+Specimen B is received fresh, labeled with the patient's name and medical record number and identified as "right lower lobe
+wedge #1." It consists of a previously incised lung wedge that measures 8.5 x 6.0 x 1.5 cm and weighs 22.6 grams. Within the
+specimen, there is a 0.7 x 0.6 x 0.4 cm firm area that is 2.5 cm from the surgical resection margin. The area does not appear to
+involve the pleura. There is also an intraparenchymal lymph node that measures 1.8 x 0.9 x 0.8 cm. A separate lymph node is
+identified on the pleural surface. The remaining lung parenchyma is congested and shows emphysematous changes. The
+specimen is inked as follows: resection margin - black, pleura over firm area - green, pleura over lymph node - blue. (Dictated
+
+
+Specimen C is received fresh, labeled with the patient's name, medical record number and identified as "right lower lobe wedge
+#3." It consists of a wedge of lung measuring 4.0 x 2.5 x 3.2 cm. The specimen weighs 26.1 grams. Multiple possible lymph
+nodes are identified on the pleural surface. The surgical resection margin is inked black. The lung appears to have areas of
+focal consolidations. The lung parenchyma is emphysematous. No masses or lesions are identified. (Dictated by
+
+
+
+CASSETTE SUMMARY:
+
+Al FS:                 Representative nodule
+A2:                    Nodule in relationship to closest resection margin
+A3:                    Nodule to include pleura invasion
+A4:                    Second lung nodule
+A5:                    Third and fourth nodules at resection margin
+A6:                    Uninvolved lung parenchyma
+A7:                    Largest nodule in relationship to uninvolved lung parenchyma
+131:                   Intraparenchymai lymph node, serially sectioned
+B2:                    Firm area submitted entirely
+B3:                    Representative section of uninvolved lung and lymph node on pleural surface (submitted whole)
+B4:                    Resection margin, en face
+C1,2:                  Resection margin, en face
+C3:                    Representative section of remaining lung
+C4:                    Multiple possible pleural lymph nodes
+
+
+
+ Intraoperative Consult Diagnosis
+ Al FS, A1TP:           RIGHT LOWER LOBE LUNG WEDGE #2 (FROZEN SECTION AND TOUCH PREPARATION): NON-SMALL
+                        CELL CARCINOMA, POORLY DIFFERENTIATED.
+                        Frozen section results were communicated to the surgical team and were repeated back by
+
+                                       and the specimen was received at
+
+                        Pathologist:
+
+
+
+
+ Microscopic Description
+
+
+
+
+ Printed by:                                                                                                                        Page 4 of 5
+ Printed on.                                                                                                                        (Continued)
+  This information is subject to all Federal and State laws regarding
+                                                                      confidentiality and privacy and to the policies and procedure
+  patient information . Any unauthorized use, disclosure. or reproduction of this inf
+                                                                                      ormation is strictly prohibited.
+
+
+
+ Anat Path Reports
+ * Final Report
+
+
+
+
+Printed by:
+Printed on:                                                                                                                                             Page 5 of 5
+                                                                                                                                                    (End of Report)
+
+                                                                                                                   :Thera . ^,
+                                                                                                                   )iagnosis Discrepancy
+                                                                                                                   'rimary Tumor Site Discrepancy
+                                                                                                                   11PAA Discrepancy__
+
+
+                                                                                                                  )ual/Synchronous Primary N
+                                                                                                                  :use Is (circle):
+                                                                                                                  teviewer Initials

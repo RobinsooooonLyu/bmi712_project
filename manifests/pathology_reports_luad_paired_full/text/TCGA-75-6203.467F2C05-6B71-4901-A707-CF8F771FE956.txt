@@ -1,0 +1,26 @@
+A description for each data field can be found in the 'Data description’ worksheet (yellow tab).
+
+Sample Collection Details
+
+Sample Number Sample
+
+Type
+
+Histology and staging
+Sample Site of Year of Age at Sample Days to Days to Type of Site of
+Preparatio Tissue Sample Sample Comments Procedure Diagnosis Procedure Primary
+n Collection Collection Date (Histology)
+
+(yrs)
+FF Zz i
+
+RESECT LLL
+
+Tumour Histology Grade/ Pathologic Pathologic ClinicalM VALCSG Histology Comments
+Size (cm) Differentiat al T al N Stage
+ion
+
+3.50 03 | T2,NOS N2 MO adenocarcinoma, 1/10
+lymph nodes involved
+
+Slide URL

@@ -1,0 +1,133 @@
+PATIENT HISTORY:
+PRE·OP DIAGNOSIS:             Lung c.ancer (right lung).
+POST·OP DIAGNOSIS:            Same.
+PROCEDURE:                    Bronchoscopy. mediastinoscopy and thoracotomy.
+ADDENDA:
+
+
+
+             A. KRAS Exon 1 mutation NOT identified.
+             B. EGFR Exon 19 mutation NOT identified •
+         •c~··c. 'EGFRExon 21 mutation NOT Identified.
+,   ~~~~ codon 12/13 mutations ate found in approximately 10-30% lung ad,enocarcinomas a~d. associat~d with his~ory of smokin,9
+    (1) EGFR exon 19 and 21 mutations are present in about 10% of non·ASlans and up to 40 y, In the ASian population, common '"
+    no~.smok.rs and associated with the tumor r•• pon •• to treatment with EGFR inhibitors (2). These mutations are mutually
+    exclusive and their presence may have prognostic and/ortherapeut'lc implications (3,4).
+
+
+
+    Fluorescence in-situ hybridization studies performed on the adenocarcinoma shows a ratio of EGFR gene to the centromere of
+    chromosome 7 of 1.07 indicating no EGFR amplification in the targeted region. The rate of hyperploidy for the centromere of
+    chromosome 7 was 30% 01 the analyzed cells. The signal to nucleus ratio (SNR) for the EGFR gene was 2.5. 60 cells were
+    analyzed in the targeted region.
+
+
+    Interpretation guidelines for EGFR Gene Copy Number by FISH:
+
+    Ratio of EGFR to the centromere of chromosome 7:
+             Less than 2.0:    No EGFR amplification
+             Greater than 2.0: EGFR amplification
+
+    Hyperploidy; Greater than two centromere copies/cell.
+
+    SNR: The average number of EGFR signals per analyzed cell within the targeted region.
+
+    Clinical studies show high EGFR gene copy number by FISH analysis to be associated WIth favorable clinical benefit (clinical
+    response, stable disease, time to progreSSion, and survival) in patients with Qdvanced non-small call lung cancer treated with
+    EGFR tyrosine kinase inhibitors.
+
+    FINAL DIAGNOSIS:
+                                                      Summary Statement
+    The right lower lobe superior segment demonstrates a 2.5 em invasive moderately differentiated adenocarcinoma
+    associated with vlscer.1 pleural and .nglolymphatic invasion, All sampled lymph nodes are benign. Surgical resection
+    margins are free of tumor. The pathologic stage is T2NOMx.
+
+    The right middle lobe demonstrate. a 0.6 em typical carcinoid. Numerous carcinoid tumortets and diffuse
+    neuroendocrine cell hyperplasia are • ..,n throughout the right upper, right lower and right middle lobes.
+
+    PART 1: LYMPH NODE, SUBCARtNAL, BIOPSY -
+            FIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PtGMENT.
+
+    PART 2: LYMPH NODES, RIGHT TB ANGLE, BIOPSY -
+            THREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PtGMENT.
+
+    PART 3: LYMPH NODES, LEFT TB ANGLE, BIOPSY -
+            TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+    PART 4: LYMPH NODES, LEFT PARATRACHEAL, BIOPSY -
+            TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT,
+ PART 5: LYMPH NODE, RIGHT PARATRACHEAL, BIOPSY -
+         ONE (1) LYMPH NODE WITH ANTHRACOTIC PIGMENT,
+
+  PART 6: LYMPH NODes, SUBINNOMINATE, BIOPSY-
+          TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT,
+
+  PART 7: LYMPH NODES, POSTERIOR HILAR, BIOPSY -
+          TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT,
+
+  PART B: LYMPH NODES, ANTERIOR HILAR, BIOPSY-
+          TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+  PART 9: LYMPH NODE, INTRALOBAR LOBE, BIOPSY -
+          ONE (1) LYMPH NODE WITH ANTHRACOTIC PIGMENT,
+
+, PART 10: LYMPH NODES, RIGHT LOWER LOBE I SUPERIOR SEGMENT, BIOPSY-
+           TWO (2) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT,
+
+  PART 11: LUNG, RIGHT LOWER LOBE SUPERIOR SEGMENT, SUPERIOR SEGMENTECTOMY-
+     A. INVASIVE MODERATELY DIFFeRENTIATED ADENOCARCINOMA (2,S CM IN DIAMETER) ARISING IN A SCAR
+         AND ASSOCITED WITH ANGIOLYMPHATIC AND VISCERAL PLEURAL INVASION, MODERATE LYMPHOCYTIC
+         HOST RESPONSE, PATHOLOGIC STAGE: T2NOMX,
+     B, SURGICAL RESECTION MARGINS ARE FREE OF TUMOR,
+     C, BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGe, CALCIFIED NODULE, AND MULTIPLE CARCINOID
+         TUMORLETS,
+
+  PART 12: LUNG, RIGHT UPPER LOBE, WEDGE BIOPSY -
+         LUNG PARENCHYMA WITH MILD eMPHYSeMATOUS CHANGE AND DUST MACULES,
+
+  PART 13: LUNG, RIGHT UPPER LOBE, WEDGE BIOPSY -
+          LUNG PARENCHYMA WITH CARCINOID TUMORLET AND MILD EMPHYSEMATOUS CHANGE,
+
+  PART 14: LUNG, RIGHT LOWER LOBE, WEDGE BIOPSY -
+           LUNG PARENCHYMA WITH MILD EMPHYSEMATOUS CHANGE,
+
+  PART 15: LUNG, RIGHT MIDDLE LOBE, WEDGE BIOf'SY -                                " '
+             TYPICAL CARCINOID (O,G CM IN DIAMETER), ASSOCIATED WITH CARCONOID TUMORLETS AND
+  ."IIII.NIJjE",U..R..O.E;;.:NDOCRINE CELL HYPERPLASIA, (See comment),
+OIl    Si     1110
+        1,1
+  COMMENT:
+  This case in addition to invasive moderately differentiated adenoccareinoma demonstrates typical carcinoid in the right
+  mlddla lobe aSSOCiated with numerous carcinoid turnorlefs and diffuse lieuroendocrine cell hyperplasia. A primary lung
+  origin of carcinoid is confinned by positive TTF~1 and synaptophysin immunostalning. CDX2 and calcitonin are negative.
+  Surgical resection margin of the right middle lobe demonstrates scattered small microscopic foci of neuroendocrine
+  cells. However, based on the gross description it seems that margin is negative for tumor and these neuroendocrine
+  cells may represent another focus of tumorlet
+  CASE SYNOPSIS:
+       SYNOPTIC DATA· PRIMARY LUNG TUMORS
+       TUMOR LOCATION:                        Right Lower Lobe
+       LUNG SEGMENT{S) INVOLVED:              Superior
+       PROCEDURE:                             Segmental
+       TUMOR SIZE:                            Maximum dimension: 2,5 em
+                                              Minor dimension: 0,9 em
+       GROSS SATELLITES:                      Number of gross satellite lesions: 0
+       TUMOR TYPE:                            Invasive adenocarcinoma, Carcinoid
+       HISTOLOGIC GRADI::                     G2, Moderately d'lfferentiated
+       MICROSCOPIC SATELLITES:                Number of microscopic satellite leSions: 0
+       EXTRAPULMONARYPARENCHYMAL
+       EXTENSION/INVASION OF TUMOR: Visceral pleura
+       ANGIOLYMPHATIC INVASION:               Yes
+       TUMOR NECROSIS:                        < or = to 50%
+       SURGICAL MARGIN INVOLVEMENT: No
+       SURGICAL MARGIN SITE:                  Distance of invasive tumor to closest margin: 12 mm, Parenchymal margin
+       INFLAMMATORY(DESMOPLASTIC) REACTION:                     Mod.rate
+        Nl LYMPH NODES:                        Number of N1 lymph nodes positive: 0
+                   ,                           Number of N11ymph nodes examined: 7
+        EXTRACAPSULAR SPREAD OF N1 MHASTASES:                   No
+        N2 LYMPH NODES:                        Number of N2 lymph nodes positive: 0
+                                               Number of N21ymph nodes examined: 15
+        UNDERLYING DISEASE(S):                 Emphysema, parenChymal scar, Tumorlets
+        T STAGE, PATHOLOGIC:                   pT2
+        1'1 STAGE, PATHOLOGIC:                 pNO
+        M STAGE, PATHOLOGIC:                   pMX                                     :
+        ANCILLARY STUDIES:                     HIstochemical stains, Immunohistochemical stains, FISH studies, Molecular studies

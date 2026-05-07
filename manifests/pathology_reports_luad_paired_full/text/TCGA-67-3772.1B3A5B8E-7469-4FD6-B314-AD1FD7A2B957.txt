@@ -1,0 +1,298 @@
+CGA.- 67- 3772
+
+
+
+
+TISSUES:
+           A.   LYMPH NODE
+           B.   LYMPH NODE
+           C.   LUNG-RIGHT UPPER LOBE
+           D.   LYMPH NODE
+
+
+
+CODES: P88305 - 88305
+       P88309 - 88309
+       P88331 - 88331
+       050175 - RESECTION
+       050177 - REGIONAL LYMPH
+       88305TC - LEVEL IV - GROS
+       88309TC - LEVEL VI - GROS
+       88331TC - PATHOLOGY CONSU
+       88342TC - IMMUNOPEROXIDAS
+       1 - SURGICAL SPECIM
+       T08000 - LYMPH NODE
+       T28200 - RT UP LOBE LUNG
+
+
+
+
+MARKERS: 88305, 88305TC, 88309, 88309TC, 88331, PATH CONSULT FS, IMMUNOPEROXIDASE, RES, RLN,
+
+
+
+
+                                    Continued on next page ...
+     CLINICAL HISTORY
+
+
+
+
+     FINAL DIAGNOSIS
+
+A.   RIGHT DIAPHRAGMATIC NODULE, BIOPSY:
+
+          FIBROADIPOSE TISSUE WITH MESOTHELIAL PROLIFERATION AND CHRONIC
+          INFLAMMATION.
+          NO MALIGNANCY IS IDENTIFIED.
+
+B.   LYMPH NODE, RIGHT SUPERIOR HILAR lOR:
+
+          THREE LYMPH NODES, NEGATIVE FOR TUMOR.
+
+C.   LUNG, RIGHT UPPER LOBE, LOBECTOMY:
+
+          MODERATELY DIFFERENTIATED ADENOCARCINOMA WITH FOCAL PAPILLARY
+          FEATURES, SEE SYNOPTIC REPORT.
+
+D.   LUNG, RIGHT UPPER NODE:
+
+          MATTED LYMPH NODE, NEGATIVE FOR TUMOR.
+
+E.   LYMPH NODE, RIGHT POSTERIOR SUPERIOR HILAR:
+
+         LYMPH NODE, NEGATIVE FOR TUMOR.
+    GROSS DESCRIPTION
+A.  The specimen is submitted fresh for frozen section as 11 right
+diaphramatic nodule 11 and consists of five tan tissue fragments ranging
+from 0.2 to 0.3 em in dimension; submitted 5 (1} labeled 11 FSP 11 for frozen
+section.
+
+FROZEN SECTION DIAGNOSIS:   Focal cluster of atypical cells of uncertain
+                            nature; ? mesothelial cells, dissimilar to
+                            primary lung adenoca in recent aspiration
+                                      ).
+
+B.  The specimen is submitted fresh for frozen section as 11 right superior
+hilar node 10R 11 and consists of three red black nodes ranging from 0.7 to
+1.1 em in dimension.    Each is sectioned and the specimen submitted in
+toto, 5 (1) labeled 11 FSP 11 for frozen section.
+
+FROZEN SECTION DIAGNOSIS:   Negative for tumor.
+
+C.   The specimen is submitted fresh as nright upper lobe" and consists of
+a 131 gram (416), 16 x 7 x 3 em lung lobe.     The pleural surface shows a
+2.2 x 2 em firm puckered indurated area.    The pleural surface overlying
+this area is inked blue.   The pleural surface also shov1s four ill-defined
+tan white firm subpleural nodules measuring 0. 3 to o. 4 em vlith the closest
+located 6.5 em from the puckered area.   The specimen is received with
+multiple stapled margins measuring 3.5 to 7 em in length along with a
+stapled bronchial margin measuring 2.5 em in diameter and several adjacent
+stapled vascular margins measuring 0.2 em in length x 0.5 em in diameter
+to 0.5 em in length x 1 em in diameter.   The stapled margins are removed
+and the underlying parenchyma inked black.     Sectioning reveals a 4.3 x 3 x
+2. 2 em well circumscribed tan yelloN to \<lhite firm, focally hemorrhagic
+mass corresponding to the previous described puckered and indurated area
+on the pleural surface grossly appearing to abut the pleural surface
+measuring 0.7 em from the closest black inked parenchyma underlying the
+stapled resection margin and 3 em from the bronchial margin.     The
+remaining parenchyma is red to maroon, spongy, homogenous and grossly
+unremarkable.   No other discrete masses or nodularities are grossly
+evident. Also identified at the hilum is a 1 em in greatest dimension
+gray black possible hilar lymph node which is trisected and submitted
+entirely. Representative sections are submitted, multiple (7) as follows:
+
+Cassette 1:         Vasculature and bronchial margins submitted en face
+Cassette 2:         Subpleural nodules submitted entirely
+Cassette 3:         Mass with closest pleural surface
+Cassette 4:         Perpendicular section of mass to the closest stapled
+                    resection margin
+
+                              Continued on next page ...
+       GROSS DESCRIPTION             (Continued)
+
+   Cassette 5:            Additional section of mass with adjacent uninvolved
+                          parenchyma
+   Cassette 6:            Uninvolved parenchyma
+   Cassette 7:            One possible hilar lymph node, trisected
+
+   D.  The specimen is submitted fresh as 11 right upper node 11 and consists of
+   a cluster of multiple gray black to deep red nodules ranging from 0.3 to
+   0.7 em in dimension, the individual nodes separated and the specimen
+   submitted in toto, multiple (l) .
+
+   E.  The specimen is submitted fresh as 11 right posterior superior hilar
+   node 11 and consists of a single deep red 1.1 em nodule, bisected and
+   submitted in toto, 2 (1) .
+
+
+
+
+SURGICAL PROCEDURES:
+
+
+
+
+        SYNOPTIC REPORT
+                                  SYNOPTIC REPORT: LUNG
+                            (CAP/AJCC/ACS   REQUIRED ELEMENTS)
+
+
+  SPECIMEN TYPE: LOBECTOMY
+  LATERALITY: RIGHT
+  TUMOR SITE: RIGHT UPPER LOBE
+  TUMOR SIZE: 4.3 CM
+  HISTOLOGIC TYPE: ADENOCARCINOMA WITH FOCAL PAPILLARY FEATURES
+  HISTOLOGIC GRADE: 2 (MODERATELY DIFFERENTIATED)
+  EXTENT OF INVASION: TUMOR INVADES VISCERAL PLEURA
+  EXTENTION TO PLEURA/OTHER STRUCTURES: NONE IDENTIFIED
+
+  MARGINS:
+   BRONCHIAL: UNINVOLVED
+   PARENCHYMAL: UNINVOLVED
+   VASCULAR: UNINVOLVED
+
+                                   Continued on next page ...
+     SYNOPTIC REPORT           (Continued)
+
+ DISTANCE TO PERTINENT MARGIN: 3 CM FROM THE BRONCHIAL MARGIN
+
+VENOUS INVASION: ABSENT
+ARTERIAL (LARGE VESSEL) INVASION: ABSENT
+
+LYMPH NODE:
+ Nl - # INVOLVED/# EXAMINED: 0/6
+  N2 - # INVOLVED/#EXAMINED: 0/8
+ N3 - # INVOLVED/# EXAMINED: 0/0
+
+OTHER PERTINENT FINDINGS:
+     INCIDENTAL PULMONARY MENINOGOTHELIAL-LIKE NODULES/CHEMODECTOMAS (0.3-
+     0.4 CM).  THESE ARE PR+, CD56+ AND CHROMOGRANIN-.
+
+pTNM STAGE: pT2 NO (AJCC 6TH ADDITION)
+
+Unless otherwise specified, the performance characteristics of the
+immunoperoxidase stains performed here have been confirmed by the St.
+                                 .  These tests have not been cleared or
+approved by the U.S. Food and Drug Administration, although such approval
+is not necessary.
+
+
+
+
+                               *** End of Report ***
+ORDERED:     N A 4+1+1, C88173, C88305, C88342, FNA EVALUATION, LEVEL IV- GROS,
+             IMMUNOPEROXIDAS
+
+           CLINICAL HISTORY
+
+
+     HISTORY:  RUL CAVITARY MASS (2 CM) PICKED UP AS AN INCIDENTAL FINDING ON CT SCAN.
+        RENAL MASS - CRYO ABLATION
+        X-RAY FINDINGS:  2 CM RUL LUNG MASS.
+
+       GROSS DESCRIPTION
+
+
+
+   RECEIVED:       Slide     40 cc Fluid*     X Fresh        Fixed       Type Fix
+
+   * Volume may reflect total of specimen,          fixative, and/or collection fluid.
+
+   APPEARANCE: X Clear            Cloudy        Foamy        Bloody
+
+                   Clotted       Tissue         Color COLORLESS
+
+   PREP:          6 Smear {s)     Diff Quick (s)        Filter(s)     1 Cell Block(s)
+
+                  Cytospin(s) - 2 Singles(s)               Double (s)
+
+                           H&E              Unstained
+
+   Comment:
+
+           FINAL DIAGNOSIS
+
+   LUNG, RIGHT UPPER LOBE, NEEDLE ASPIRATION BIOPSY:
+
+           POSITIVE FOR MALIGNANT CELLS.
+           ADENOCARCINOMA CONSISTENT WITH LUNG PRIMARY.
+
+   COMMENT:    THE TUMOR SHOWS GLAND FORMATION AND APPEARS MODERATELY
+               DIFFERENTIATED.  A TTF-1 STAIN IS POSITIVE.
+SURGICAL PROCEDURES:
+   REGIONAL LYMPH
+
+          CLINICAL HISTORY
+
+
+      PERTINENT CLINICAL HISTORY:   NON-SMALL CELL LUNG CAr RIGHT.
+
+        GROSS DESCRIPTION
+
+  A.  The specimen is submitted fresh as "4L left lower paratracheal" and
+  consists o£ three pink to red lymph nodes ranging 0.2 am to 0.8 em in
+  dimension. The largest lymph node is bisected. The specimen is submitted
+  in toto, 4 (1) . The largest lymph node is inked with blue dye.
+
+  B. The specimen is submitted fresh as "lOL left tracheobronchial angle"
+  and consists of a 0.6 em grey black lymph node; bisected and submittedr
+  2   (1) .
+
+  C.  The specimen is submitted fresh as "2R right upper paratracheal" and
+  consists of multiple segments of adipose tissue intermixed with pink to
+  red possible lymph nodes with aggregate dimension 2 x 1.5 x 0.4 em with
+  the lymph nodes Ineasuring up to approximately 0.4 am. The specimen is
+  submQtted in toto, multiple (1) .
+
+  D. The specimen is submitted fresh as "4R right lower paratracheal" and
+  consists of multiple segments of yellow adipose tissue intermixed with
+  pink to purple tan lymph nodes Hith aggregate dimension 2. 3 x 1. 6 x 0. 4 em
+  with the lymph nodes measuring up to 0.5 em; submittedr multiple (1).
+
+  E. The specimen is submitted fresh as "3A lower pretracheal 11 and consists
+  of multiple segments of yellow adipose tissue intermixed 'vith pink lymph
+  nodes with aggregate dimension 2 x 1.5 x 0.4 em with the lymph nodes
+  measuring up to approximately 0.5 em; submitted, multiple (1).
+
+  F. The specimen is submitted fresh as "7 subcarinal" and consists of
+  multiple segments of yellow adipose tissue inter:mixed with pink to red
+  lymph nodes Hith aggregate dimension 2 x 2 x 0.3 em with the lymph nodes
+  measuring up to approximately 0. 4 em; submittedr multiple (1} .
+      GROSS DESCRIPTION          {Continued)
+
+
+
+ G.   The specimen is submitted fresh as ''2L left upper paratracheal" and
+ consists of a segment of adipose tissue measuring 1.5 x 1 x 0.2 em with a
+ single red to pink elongate lymph node measuring 0.8 em. The lymph node
+ is bisected and submitted, 2 (1).
+
+      FINAL DIAGNOSIS
+
+A.    4L LEET LOWER PARATRACHEAL:
+           THREE LYMPH NODES SHOWING ANTHRACOSIS;   NEGATIVE FOR TUMOR
+            (0/3).
+
+B.    lOL LEFT TRACHEOBRONCHIAL ANGLE:
+           SINGLE LYMPH NODE SHOWING ANTHRACOSIS; NEGATIVE FOR TUMOR (0/1) .
+
+C.    2R RIGHT UPPER PARATRACHEAL:
+           MULTIPLE SMALL LYMPH NODES SHOWING ANTHRACOSIS; NEGATIVE FOR
+           TUMOR.
+
+D.    4R RIGHT LOWER PARATRACHEAL:
+           MULTIPLE SMALL LYMPH NODES SHOWING ANTHRACOSIS; NEGATIVE FOR
+           TUMOR.
+
+E.    3A LOWER PRETRACHEAL:
+           MULTIPLE SMALL LYMPH NODES SHOWING ANTHRACOSIS; NEGATIVE FOR
+           TUMOR.
+
+F.    7 SUBCARINAL:
+           MULTIPLE SMALL LYMPH NODES SHOWING ANTHRACOSIS; NEGATIVE FOR
+           TUMOR.
+
+G.    2L LEFI" UPPER PARATRACHEAL:
+           SINGLE LYMPH NODE AND ADJACENT ADIPOSE TISSUE, NEGATIVE FOR
+           TUMOR (0/1).

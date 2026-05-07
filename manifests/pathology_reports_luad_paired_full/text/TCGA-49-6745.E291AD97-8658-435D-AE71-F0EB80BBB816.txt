@@ -1,0 +1,94 @@
+SORG PATH REPORT
+COLLECTION DATE/TIME:
+
+
+1st
+
+
+FINAL DIAGNOSIS ----------- Pathologist:
+1.  LYMPH NODE, L11 (EXCISION):                                                          ONE
+(1) FRAGt-JENTED LYMPH NODE.
+
+2.    LONG, LEFT UPPER LOBE (LOBECTOMY):
+
+SPECIMEN TYPE:
+Lobectomy
+
+TOt10R SITE:
+Left upper lobe
+
+HISTOLOGIC TYPE:
+Adenocarcinoma with focal papillary component.
+
+TUl'10R SIZE:
+4.0 cm
+
+HISTOLOGIC GRADE:
+G3:  Poorly differentiated
+
+LYI'lPH NODES (INCLUDES ALL PARTS):
+tvletastatic carcinoma in 6 of 11 lymph nodes
+
+EXTENT OF INVASION (7th Edition, AJCC): PRIMARY TUMOR:
+pT2a: Tumor more than 3 cm but 5 em or less
+
+REGIONAL LYMPH NODES:
+pN2: Metastasis in ipsilateral subcarinal lymph nodes
+
+tvlARGINS:
+Margins uninvolved by invasive carcinoma
+Distance of invasive carcinoma from nearest
+margin: 4.0 mm (parenchymal)
+
+VENOUS/ARTERIAL (LARGE VESSEL)      INVASION:
+Absent
+
+LnJPHATIC (SMALL VESSEL)     INVASION:
+Indeterminate
+
+ADDI'l'IONAL PATHOLOGIC FINDINGS:
+Emphysematous changes
+
+3.  LYMPH NODES,    STATION 5   (EXCISION):     TviO   (2)   LYI"lPl-l ilOfl:S:';,   L'lEGP,TIVE
+FOR TUMOR.
+
+4.  LYIvlPH NODES, STATION 7 (EXCISION): METASTATIC C.lI.RCIHOHli
+INVOLVING ONE (1) OF TWO (2) LYMPH NODES.
+
+NOTE:   The tumor has a focal solid component, raising rh':
+differential diagnosis of squamous cell carcinoma.
+Immunohistochemically the tumor cells are strongly posit i Vi? fe)).:
+Napsin-A, TTF-l, focally weakly positive for p63, and neqclti'Je lor CK
+5/b, supporting the diagnosis of adenocarcinoma.   Hist:ochemic,,"tl stain
+for mucin (mucicarmine) is negative.   Visceral pleura ilf,lnTv'olT/pd on
+VVG special s                                          ).     ilL; ' __ ~l:_;{:;'
+wa3 .shOHn at the
+
+ADDENDUM -------- Pathologist:
+MOLECULAR ANALYSIS FOR EGFR                                           ,   PERFOHHED l\ND
+KRAS MUTATIONAL ANALYSIS
+BLOCK TESTED: 2D
+RESULT: NEGATIVE
+
+NO'rE:                  not detect a mutation in either codon L.': or 13
+                        copy of the complete report is aVclilCtbho in EPR
+                               on file in the _ _ _ _
+                                EGFR mutationa~lq dnd
+
+
+ADDENDUM -------- Pathologist
+EGFR 11UTATIONAL ANALYSIS
+BLOCI( TESTED:   2D
+RESULT: NEGATIVE
+
+NOTE:                  were identified.    This assay    analy=0~
+                                          A copy of the com;: 1, ,. (,   J. ':'UU:'" t   is
+                                             also on filE:: i.      ,._
+
+
+         End of Diagnosis
+
+Clinical History:
+QUESTION LUNG CANCER
+
+s e e _ C l i n i c a l Document d a t e d _ f o r offici::.l 1_0port.

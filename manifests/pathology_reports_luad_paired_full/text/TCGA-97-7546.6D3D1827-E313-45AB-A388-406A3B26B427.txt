@@ -1,0 +1,143 @@
+SPECIMENS:
+1. F/S LEFT UPPER LOBE
+2. COMPLETION OF LEFT UPPER LOBE
+3. STATION 13 LYMPH NODE
+4. LEVEL 9 LYMPH NODE
+5. LEVEL 5 LYMPH NODE
+6. LEVEL 7 LYMPH NODE
+
+
+
+
+DIAGNOSIS:
+
+1. LUNG, LEFT, UPPER LOBE: WEDGE RESECTION
+- TWO FOCI OF INVASIVE ADENOCARCINOMA MIXED WITH
+BRONCHIOLOALVEOLAR CARCINOMA, RANGING FROM 2.1cm to 1.4cm,
+MODERATELY DIFFERENTIATED (SEE SUMMARY).
+- FOCI OF ATYPICAL ALVEOLAR HYPERPLASIA.
+- NO ANGIOLYMPHATIC INVASION SEEN.
+- IMMUNOHISTOCHEMICAL STUDIES REVEAL THAT TUMOR CELLS ARE POSITIVE
+FOR CYTOKERATIN-7 AND TTF-1, BUT NEGATIVE FOR CK-20 AND CDX-2.
+- MARGINS ARE NEGATIVE FOR CARCINOMA.
+
+2. LUNG, LEFT, UPPER LOBE: LOBECTOMY
+- FOCI OF ATYPICAL ALVEOLAR HYPERPLASIA.
+- BRONCHIAL MARGINS ARE NEGATIVE FOR CARCINOMA.
+- FOUR PERI-BRONCHIAL LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/4).
+
+3. LYMPH NODE, STATION 13: BIOPSY
+- TWO ANTHRACOTIC LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).
+
+4. LYMPH NODE, LEVEL 9: BIOPSY
+- TWO ANTHRACOTIC LYMPH NODES, NEGATIVE FOR CARCINOMA (0/2).
+
+5. LYMPH NODE, LEVEL 5: BIOPSY
+- THREE ANTHRACOTIC LYMPH NODES, NEGATIVE FOR CARCINOMA (0/3).
+
+6. LYMPH NODE, LEVEL 7: BIOPSY
+- ONE ANTHRACOTIC LYMPH NODE, NEGATIVE FOR CARCINOMA (0/1).
+
+SUMMARY
+MACROSCOPIC SUMMARY: Lung
+Specimen Type: Wedge resection and lobectomy
+Tumor Site: Left, Upper lobe
+Tumor Locality: Multifocal
+Tumor Greatest Dimension: 2.1 cm
+
+MICROSCOPIC SUMMARY:
+Histologic Type: Adenocarcinoma, mixed subtype with
+Bronchioalveolar carcinoma
+Histologic Grade: Moderately differentiated
+Extent Of Invasion: Limited to pulmonary parenchyma
+Margins: Uninvolved by invasive carcinoma
+Blood/Lymphatic Vessel Invasion: Not observed
+Venous Invasion: Not observed
+Regional Lymph Nodes: N0: No regional lymph node metastasis
+Nodes Examined: 12
+Nodes Involved: 0
+Additional Pathologic Findings: Foci of atypical alveolar
+hyperplasia, Emphysematous changes
+
+Note: This case has been reviewed intradepartmentally.
+
+
+Pathologist
+
+
+CLINICAL HISTORY AND PRE - OPERATIVE DIAGNOSIS:
+Lung nodule
+
+MACROSCOPIC DESCRIPTION:
+The specimen is received in six parts, each labeled with the
+patient's name.
+
+1. Part one is received fresh, labeled 'left upper lobe'. It
+consists of an 11 x 7.5 x 3 cm lung wedge resection with a stapled
+margin measuring 7 cm in length. Two defects made by the surgeon are
+noted. The first defect measures 1.5 cm in length and the second
+defect measures 1.8 cm in length. The pleural surface is otherwise
+smooth and glistening. The surgical margin is inked black and the
+pleural surface is inked blue. In the first defect area, a 1.4 cm
+relatively well-circumscribed, tan-white, firm nodule, located 1.3
+cm from the surgical margin and 0.2 cm from the pleural surface is
+noticed. In the second defect, a 2 x 1 cm, tan-white, firm nodule is
+noted. This nodule is 1.5 cm from the surgical margin and 0.2 cm
+from the pleura. Other areas of lung parenchyma show patchy
+congestion. Representative sections are submitted.
+
+2. Part two is received in saline, labeled 'completion of left upper
+lobe'. It consists of a partial lobectomy measuring 18 x 7 x 3.5 cm.
+The specimen weighs 136 g. The specimen contains a stapled margin
+measuring 15 cm, which is inked in blue. After the stapled margin
+is removed, the underlying surface is inked in green. The pleural
+surface is inked in black. The specimen is serially sectioned and no
+masses are identified. The lung parenchyma consists of tan-pink to
+tan-gray spongy parenchyma. Representative sections are submitted.
+
+3. Part three is received in saline, labeled 'station 13 lymph
+node'. It consists of two black lymph nodes measuring 1.6 x 1.2 x
+0.3 cm and 1 x 0.5 x 0.3 cm. The lymph nodes are bisected and
+entirely submitted in 3A.
+
+4. Part four is received in saline, labeled 'level 9 lymph node'. It
+consists of two black lymph nodes, both measuring 0.8 x 0.5 x 0.2
+cm. The specimen is entirely submitted.
+
+5. Part five is received in saline, labeled 'level 5 lymph node'. It
+consists of three black lymph nodes ranging in size form 0.4 cm to
+1.2 cm in greatest dimension. The specimen is submitted in toto.
+
+6. Part six is received in saline, labeled 'level 7 lymph node'. It
+consists of one black lymph node measuring 1.2 x 0.5 x 0.5 cm. The
+lymph node is bisected and submitted entirely in 6A.
+
+
+
+
+SUMMARY OF SECTIONS:
+1A first nodule (frozen control)
+1B second nodule (frozen control)
+1C-1E first nodule
+1F-1H second nodule
+1I-1R representative sections including margins
+1S unremarkable area
+2A bronchial margin
+2B representative section of vein with tan-brown tissue (1.2 x 0.5
+x 0.4 cm)
+2C artery margin
+2D three hilar lymph nodes (0.5 - 1 cm, two lymph nodes inked,
+bisected)
+2E-M representative sections
+3A two lymph nodes
+4A two lymph nodes
+5A three lymph nodes
+6A one lymph node
+
+SPECIAL PROCEDURES:
+CK-7, CK-20, CDX-2, TTF-1
+
+
+INTRA - OPERATIVE CONSULTATION:
+1A- Adenocarcinoma (1.4cm). 1B- Adenocarcinoma (2.1cm). Margins are
+free of tumor grossly.

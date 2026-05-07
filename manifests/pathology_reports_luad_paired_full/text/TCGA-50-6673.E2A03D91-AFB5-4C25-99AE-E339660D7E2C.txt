@@ -1,0 +1,123 @@
+PATIENT HISTORY:
+Clinical history is not given.
+PRE-OP DIAGNOSIS;              Right upper lobe mass
+POST-OP DIAGNOSIS;             Not given.            .
+PROCEDURE: Not given.
+
+ADDENDA:
+Addendum
+Fluorescence in-situ hyb~idi~ation studies performed on the adenocarcinoma show a ratio of Her2/Neu to the centromere of
+c~romosome 17 of 1.40, .,nd'cat,ng low:level amplification in the targeted region. The ratio of cyclin-01 gene to the centromere of
+~5r~~'0sfome 111 '~ 2.16, Indlcatln.9 cychn-Oj amplification in the targeted region where this is associated with a monosomy rat~ of
+t . t' ~ ana yze cells. The r~tlo of EGFR gelle to the centromere of chromosome 7 is 9.33, indicating amplification in the
+arge e region and corresponding to hyperploidy rate of 87.3% of analyzed cells.
+
+                               a~Pkliffication
+Ho'egre2t/hneeruwa,tnhd CthYClin D1
+t                      o er major ns  actors.
+                                               may help in identifying those patients likely to experience shorter survival when considered
+
+
+FINAL DIAGNOSIS:
+                                                   Summary Statement
+The right upper lobe demonstrates a 1.6 em invasive moderately differentiated adenocarcinoma. There is no
+angiolymphatic invasion or visceral pleural invasion. Surgical resection margins are free of tumor. All sampled lymph
+nodes are benign. Pathologic stage: T1 NO MX.
+
+PART 1: LYMPH NODE, "SUBCARINAL", BIOPSY-
+        FIVE (5) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 2: LYMPH NODE, "RIGHT TRACHEOBRONc,:;HIAL ANGLE", BIOPSY-
+        SIX (6) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+
+PART 3: LYMPH NODE, "RIGHT PARATRACHEAL", BIOPSY-
+        StX (6) FRAGMENTS OF FRAGMENTS OF LYMPH NODE WtTH ANTHRACOTIC PIGMENT.
+
+PART 4: LYMPH NODE, "SUBtNNOMINATE", BIOPSY-
+       TWO (2) FRAGMENTS OF REACTtVE LYMPH NODE WITH ANTHRACOTIC PtGMENT.
+
+PART 5: PLEURA, RIGHT, BIOPSY-
+        FRAGMENTS OF FIBRIN WITH REACTIVE MESOTHEliAL CELLS, MACROPHAGES AND BONE MARROW.
+
+PART 6: LUNG, RIGHT UPPER LOBE, WEDGE RESECTION-
+        A. INVASIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (1.6 CM IN DIAMETER). NO EVIDENCE OF
+           VISCERAL PLEURAL OR ANGIOLYMPHATIC tNVASION. MtLD LYMPHOCYTIC HOST RESPONSE.
+           PATHOLOGtC STAGE: Tl NO MX.
+        B. SURGICAL RESECTION MARGtNS ARE FREE OF TUMOR.
+        C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE AND RESPIRATORY BRONCHIOLITIS.
+
+PART 7: LYMPH NODE, "ANTERIOR HtLAR", BIOPSY-
+        THREE (3) FRAGMENTS OF LYMPH NODE WITH ANTHRACOTIC PIGMENT.
+MICROSCOPIC:
+Microscopic examination substantiates the above diagnosis. Mucicarmine is negative. PAS and PAS with diastase are positive.
+Elastic stain shows an intact visceral pleura.
+
+                                              SYNOPTIC - PRIMARY LUNG TUMORS
+
+A. Location: 1
+      1. RUL                                     3. RLL                                 5. LUL
+ 2 RML                                      4. LLL                                 6. Bronchus intermedius
+B. Procedure: 1
+ 1. Wedge/Segmental                          3. Bilobectomy
+ 2. Lobeclomy                                4. Pneumonectomy
+C. Size of lumor (maximum dimension): 1& cm.
+D. Satellite nodules: ;1
+       1. Yes                 2. No
+           D1. If yes. Where: t1
+                1. Same lobe         2. Ipsilateral lobes         3. Central lobe
+           D2. Grossly noted: t1
+                     1. Yes             2. No
+            D3. Microscopic satellites: IJ.
+                      1. Yes            2. No
+E. Type: ;2
+1. Invasive squamous carcinoma                                                    11. Fetal type adenocarcinoma
+2. Basaloid squamous carcinoma                                                    12. Small cell carcinoma
+3. InvaSive adenocarcinoma                                                        13. Carcinoid
+4. Bronchioloalveolar carcinoma. nonmucinous type                                 14. Atypical carcinoid
+5, BronchioJoalveolar carcinoma, mucinous type                                    15. Sarcoma
+6. Large cell carcinoma                                                           16. Adenosquamous carcinoma
+7. Clear cell carcinoma                                                           17. Mixed non-small cell carcinoma. NOS
+8. Giant cell carcinoma                                                           18. Carcinosarcoma
+9. Sarcomatoid carcinoma                                                          19. Large cell neuroendocrine
+10. Blastoma                                                                      20. Other
+F. Architectural grade: ;::
+        1. Well                                     2. Moderate                           3. Poor/undifferentiated
+G. Nuclear grade: f.
+        1. Low                                      2. Intermediate                      3 High
+H. Location in lung: g
+        1. Central              2. Peripheral
+I. Visceral pleural invasion through elastica: g
+        1.Yes               2.No
+J. Parietal pleural invasion: g
+        1. Yes              2. No
+K. Chest wall invasion (into skeletal muscle or soft tissue): ;;
+        1. Yes               2. No
+L. Angiolyrnphatic invasion: 2.
+        1 Yes                 2. No
+M. Necrosis: 1
+       1. ~50%               2. >50%
+N. Surgicalillargins involved: ;1
+        1. Yes                2. No
+O. Inflammatory (desmoplastic) reaction: 1
+        1. Mild               2. Moderate                           3. Severe
+P. N1 lymph node involvement (N1 nOdes): ;;
+         1. Yes                2. No
+Q N1 hilar lymph nodes involved. number of positive lymph nodes: Q
+R. Total number of N1 lymph nodes examined: ~
+S. Extracapsular spread of N1 lymph node metastases: .fj/A
+        1. Yes                 2. No
+T. Mediastinal (N2) nodes involved: ;/.
+          1. Yes                2. No                                3. Not applicable
+U. Mediastinal node group(s) involved (N2 nodes): N/A
+   1. Level4R        4. Level 7R       7. Level 4L     10. Level 7L      13. Level2L       16. Level2R
+   2. Level 5R       5. Level 9R       8. Level 5L     11. Level 9L      14. Level 3L      17. Level3R
+   3. Level6R        6. Level10R       9. Level6L      12. Level10L      15. Level8L       18. Level8R
+V. Number of positive mediastinal N2 nodes: 0
+W. Total number of mediastinal nodes N2 examined: 19
+X. Extracapsular swead of mediastinal lymph node N2 metastases:
+        1. Yes                  2. No
+Y. Underlying disease(s): 1!.±
+           1. Emphysema                    4. Smokers bronchiolitis             7. Pneumoconiosis, NOS
+           2. Bronchiectasis               5. Asthma                             8. Chronic interstitial pneumonia
+           3. Tumorlets                    6. Parenchymal scar                   9. Atypical alveolar hyperplasia
+Z. TNM Stage: T 1        NQ      M !:(

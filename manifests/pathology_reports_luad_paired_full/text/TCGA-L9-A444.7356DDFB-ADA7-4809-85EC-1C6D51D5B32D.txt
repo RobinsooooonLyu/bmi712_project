@@ -1,0 +1,199 @@
+I
+
+
+
+
+RUN DATE:                                                                                                                                    PAGE 1
+RUN TIME:                                                         n Inquiry
+RUN USER:                                                             Lab Database:
+
+PATIENT                                               ACCT. #:                     LOC:
+                                                      AGE/.SX.-                    ROOM:                                        REG.
+                                                                                                                                Q
+REG DR :                                              DOB:.                        BED:                                         DIS s
+                                                      STATUS:                      TLOC::
+
+
+SPEC # :              A        RECD :                      STATUS :          PERFORMED AT
+                               COLL:                       TIME IN     FORMALIN:
+CLINICAL INFORMATION:
+ Pre-Op Diagnosis:  Lung CA                                                      UUID: 7356DDFB - ADA7 - 4809 - 85EC - 1C6D51D5B32D
+                                                                                           TCGA - L9-4444-01A-PR
+               Remarks:                                                                                                                           Redactei
+           Specimen(s):   A. Level 7 (frozen section)                                                                  ^^^^^^^^^^^^^^^^^^ I ^^^^^^^ ^^^IIII III
+                          B. Level 4 (frozen)
+                          C.                                                  ^^^^ ^^^   1111111 1111111111111111 11 ^l l ^^^I^^^^'^^^^^I1111 ^ll
+                                R4
+                          D. Right upper lobe                                 fl ^^^'^^^^^^I I1111111111111111I l Il IlIl IlI 11111111I 1111III
+                          E,    Level   10
+
+                                                            I C p-o-3
+                                                             0ltiCxOr.^Gi r^0i"Y^C^, ^OS
+
+A.    LEVEL 7 LYMPH NODE :                                                                               b t '4c4 s
+      -    REACTIVE LYMPH NODE
+
+B.   LEVEL 4 LYMPH NODE:
+      --       REACTIVE LYMPH NODE
+                                                                                                                  C34 .
+C.   R4 LYMPH NODE :                                                             ^3 !
+     -    REACTIVE LYMPH NODE
+
+D.   RIGHT UPPER LOBE:
+              ADENOCARCINOMA
+      -       SEE COMMENT FOR DETAILS
+
+E.   LEVEL 10 LYMPH NODE:
+     -    REACTIVE LYMPH NODE
+
+
+
+
+COMMENT(S)
+
+
+PROTOCOL FOR EXAMINATION OF SPECIMENS WITH PRIMARY NON SMALL CELL CARCINOMA OF THE LUNG
+BASED ON AJCC/UICC TNM 7TH EDITION
+
+LUNG:                                            Resection
+SPECIMEN:                                        Lobe
+PROCEDURE:                                       Lobectomy
+SPECIMEN INTEGRITY:                              intact
+SPECIMEN LATERALITY:                             Right
+TUMOR SITE:                                     upper lobe
+TUMOR SIZE:                                      1.5 cm
+
+                                             ** CONTINUED ON NEXT PAGE **
+
+
+
+                                                                                             rice, a
+                                                                                             )iagnosis Discrepancy
+                                                                                              rimarv Tumor Site Discrepancy
+                                                                                             jirAA Discrepancy
+                                                                                              rior Malignancy History
+                                                                                             )ual,'Synchronous Prima
+                                                                                             :as* isicircle):
+                                          Specimen inquiry
+                             PCI User             Lab Database:
+
+
+
+
+COMMENT(S)
+
+TUMOR FOCALITY:                    Unifocal
+HISTOLOGIC TYPE:                   Adenocarcinoma
+HISTOLOGIC GRADE:                  G2, moderately differentiated
+VISCERAL PLEURAL INVASION:         Not identified
+TUMOR EXTENSION:                   Not applicable
+MARGINS:                           Bronchial Margin: Uninvolved by invasive carcinoma
+                                   Vascular Margin:  Uninvolved by invasive carcinoma
+                                   Parenchymal Margin: Not applicable
+                                   Parietal Pleural Margin: Not applicable
+                                   Chest Wall Margin: Not applicable
+TREATMENT EFFECT:                  Not applicable
+LYMPH-VASCULAR INVASION:           Not identified
+PATHOLOGIC STAGING:                Primary Tumor: pTla
+                                   Regional Lymph Node:  N0
+                                   Number of lymph nodes examined: 6
+                                   Number of lymph nodes involved: 0
+                                   Distance Metastasis : Not applicable
+
+
+
+
+GROSS DESCRIPTION:
+A.  Received in the unfixed state in the operating room labeled "level 7 lymph node". The
+specimen consists of multiple tan-red fragments of tissue aggregating to 1.5 x 0.5 x 0.3
+cm.  One smear imprint is prepared.   All the specimen is frozen in one block.
+
+ B.  Labeled "level 4 lymph node". The specimen is received in an unfixed state in the
+ Operating Room, consistent with a single 0.5 cm reddish tan piece of tissue entirely frozen
+ in one block.
+
+ C.  Part 3 labeled "R4". Received in formalin, is a 0.5 x 0.4 x 0.3 cm mildly anthracotic
+ to pink/tan lymph node.  The node is submitted in toto cassette Cl.
+
+ D.   Part 4 received fresh for Tissue Banking, labeled with the patient's name, and "right
+ upper lobe, is a 224 gram, 16.5 x 8.5 x 4.0 cm upper lobe of lung.    This is also received
+ fresh for frozen section diagnosis.    The surgeon changed his mind. The pleura is pink/tan
+ and spongy to red with anthracotic marbling. The lung is sectioned to have a 1.5 x 1.5 x
+ 1.0 cm tumor mass. The mass appears circumscribed and possibly within a vessel. The mass
+ is 2.0 cm from the bronchial margin and does not involve the pleura. The tumor appears to
+ have an adjacent smaller nodule, which ranges up to 0.5 cm. The lung is sectioned fresh to
+ have a peripheral pink/tan spongy appearance on the anterior surface in the superior
+ aspect.   The tumor has a central location adjacent to the hilar structures. There is focal
+  scant mucin filled bronchioles in the area of the tumor. The parenchyma demonstrates mild
+ congestion inferiorly. No additional masses or lesions are identified. Sections are
+  sampled as labeled in the following cassettes:
+       Di   -     frozen section residue of bronchial margin
+       D2   --   hilar lymph nodes
+       D3   -    vascular margins
+
+                                 ** CONTINUED ON NEXT PAGE **
+                                                                    t
+
+
+
+
+RUN DATE:                                                                            PAGE 3
+RUN TIME                                    Specimen Inquiry
+RUN USER M      User           ab         Database:
+
+SPEC                        PATIENT:.                                              (Continued)
+
+
+GROSS DESCRIPTION :   ( Continued)
+       D4   -    perpendicular section of bronchus from margin towards tumor
+       D5-D7-    representative sections of tumor to include separate small nodule of tumor
+       D8   -    parenchyma from superior aspect of lobe
+       D9   -    parenchyma adjacent to tumor from mid aspect of lobe
+       D10 -     inferior sections of parenchyma sampled
+
+
+The specimen is dissected in an unfixed state for Tumor Banking. Received a call from
+the Operating Room just before -           stating that            wanted a bronchial
+resection margin frozen.   The Tumor Banker brought the specimen over but at that time,
+       'id not want the bronchial resection margin frozen.
+
+E. Part 5 is received in formalin, labeled with the patient's name and "level 10" are two
+hemorrhagic to focally blackened anthracotic portions of possible lymphoid tissue.  The
+tissues include a 0.4 cm fragment and a 0.6 cm fragment. The tissues are submitted in toto
+cassette El.
+
+
+INTRAOPERATIVE CONSULTATION;
+A.     FROZEN SECTION AND CYTOLOGY SMEARS, LEVEL 7 LYMPH NODE, BIOPSY:
+            REACTIVE LYMPH NODE
+
+B.     FROZEN SECTION, LEVEL 4 LEFT LYMPH NODE, BIOPSY:
+             REACTIVE LYMPH NODE
+
+D.     FROZEN SECTION, RIGHT UPPER LOBE:
+            BRONCHIAL RESECTION MARGIN NEGATIVE FOR MALIGNANCY
+            SPECIMEN DISSECTED FOR TUMOR BANKING
+
+
+
+
+                                     ** CONTINUED ON NEXT PAGE **
+RUN DATE:                                                               PAGE 4
+RUN TIME :                                     Specimen Inquiry
+RUN USER.    M                                       N Lab Database:
+
+SPEC °#                   PATIENTS..                                   (Continued)
+
+
+
+ ^^Men7eKi^fMrl^^^^ak^Mw^M^K^h^        (Continued)
+
+
+
+
+Signed _( signature on file)
+
+
+
+
+                                        ** END OF REPORT **

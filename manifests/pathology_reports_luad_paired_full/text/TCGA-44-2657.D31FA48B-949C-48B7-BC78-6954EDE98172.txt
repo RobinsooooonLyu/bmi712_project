@@ -1,0 +1,47 @@
+TCGA- 44-2657
+
+
+
+SPECIMEN
+    Left upper lobe
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:     Lung mass
+
+GROSS DESCRIPTION
+             Received fresh in a container labeled "left upper lobe" is
+             a wedge of lung tissue, spanning an area 10.5 x 4.3 x 3.2
+    em. There is a stapled margin. The pleural surface is tan-pink,
+    smooth, and glistening, with some anthracotic pigment deposition.
+    The specimen is sectioned, revealing a 2.2 x 2.2 x 1.2 em firm
+    rubbery nodule, with minimal umbilication of the overlying pleura.
+    The pleural surface is inked black 1 The lesion comes to within
+    approximately 0.7 em from the stapled margin, which is inked blue.
+    The specimen outside the nodule is spongy and tan-pink, without
+    focal lesion. RS-6.   Please note that per the clinical request
+    tissue is taken for tissue procurement.   111111
+
+MICROSCOPIC DESCRIPTION
+    The following template summarizes the findings in this case:
+
+    Histologic type: Adenocarcinoma, not otherwise characterized
+    Histologic grade: Moderately differentiated
+    Primary tumor (pT): pT2. There is focal visceral pleural invasion
+    (block #2).
+    Margins of resection: Negative
+    Direct extension of tumor: Visceral pleural invasion
+    Vascular invasion: Not definitively identified
+    Regional lymph nodes (pN) : pNX
+    Distant metastasis (pM) : pMX
+    Other findings:  Focal fibrosis
+
+MICROSCOPIC DESCRIPTION
+
+    4
+
+DIAGNOSIS
+    Lung, left upper lobe, v1edge resection
+      - Moderately differentiated adenocarcinoma, vlith focal visceral
+      pleural invasion, margins negative for malignancy (see
+microscopic
+        description) .

@@ -1,0 +1,195 @@
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name         :Surgical Report
+
+
+
+                              leAL PATHOLOGY DLn,nnT
+
+==== SPECIMEN DESCRIPTIQN: =================
+A. PORTION OF RIGHT LOVIER LOBE OF LUNG. APC
+B. SUBCARINAL LYMPH NODE
+C. RIGHT W~ER LOBE OF LUNG
+D. INFERIOR PULMONARY LIGAMENT LYMPH NODE
+E. HILAR LYMPH NODE
+==== PRE-OPERATIVE DIAGNOSIS: ==============
+Right lower lobe of lung mass
+==== POST-OPERATIVE DIAGNOSIS: =============
+Same. pending pathology
+==== CLINICAL INFORMATION: =================
+Right lower lobe of lung mass
+==== INTRAOPERATIVE CONSULTATION: ==========
+APC DIAGNOSIS:             noma (tissue submitted for genomics study)" by Dr.
+
+
+==== GROSS DESCRIPTION: ====================
+A. Received in formalin is a wedge of lung. measuring·B.O x 4.0 x 3.0 cm.
+There is a staple line. measuring 8.5 cm. The pleural surface is focally
+hemorrhagic. congested. and moderately anthracotic. In addition. the pleura
+is retracted adjacent to the staple line. measuring 2.5 cm in greatest
+dimensions. The pleural surface is inked black and the staple line margin is
+inked blue. On sectioning. a poorly circumscribed tan-gray tumor mass.
+measuring 3.5 x 3.0 x 1.5 cm is identified. The tumor mass grossly abuts the
+pleural surface and comes to within 0.1 cm of the staple line margin. The cut
+surface of the mass is hemorrhagic. gritty. and focally friable. The
+uninvolved portion of lung is tan-pink and spongy. Representative sections
+are submitted in four cassettes as follovls: cassette 1 - tumor mass. pleural
+surface. and staple line margin; cassette 2 - tumor mass and pleural surface;
+cassette 3 - tumor mass and staple line margin; cassette 4 - uninvolved lung.
+APC. Received in formalin is an irregular portion of tan-gray soft tissue.
+measuring 2.2 x 1.0 x 0.2 cm. Its cut surface shows a poorly circumscribed
+tan-gray area. measuring 1.2 x 1.0 x 0.2 cm. The specimen is entirely
+submitted in one cassette.
+B. Received in formalin are multiple irregular pieces of tan-pink
+fibroconnective tissue with adjoining lymph nodes. measuring 2.5 x 2.0 x 0.5
+cm in aggregate. Upon palpation. two tan-gray nodules. measuring 0.2 em and
+         Not for Permanent St~e-ifl-MIc<edEl'ii-€c'tralH!CE1Wf1<;-1'--Mflt--J.ifi-H4--H~'>itli+ll'!G-----
+
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name         :Surgical Report
+~:B cm  in greatest dimension. are found. The nodules are entirely submitted
+ in one cassette.
+C. Received in formalin is a 230 gram lobe of lung. measuring 1B.0 x 14.0 x
+4.5 cm in overall dimensions. There are multiple staple lines adjacent to the
+hilum. ranging from 3.0 cm to 10.0 cm in greatest dimension. The pleural
+surface is tan-pink. moderately anthracotic and diffusely hemorrhagic and
+congested adjacent to the hilum. There is a portion of bronchus at the hilum.
+measuring 0.6 cm in length x 2.5 cm in diameter. Also there is a portion of
+vessel. measuring 0.4 cm in length x 1.0 cm in diameter. The vascular.
+bronchial. and staple line margins are inked blue and the pleural surface is
+inked black. On sectioning. a circumscribed tan-gray tumor mass. measuring
+O.B x 0.6 x 0.5 cm is identified. The mass comes to within 2.5 cm from the
+pleural surface. 6.0 cm from the bronchial resection margin. and 5.5 cm from
+the closest staple line margin. The cut surface is gray and mucoid. In
+addition. directly adjacent to the hilum. approximately 1.0 cm from the
+bronchial margin. and 0.1 cm from the closest staple line margin is a very
+poorly circumscribed tan-orange lesion. measuring 2.0 x 1.5 x 1.0 cm. The
+lesion comes to within 1.0 cm from the pleural surface. The remainder of the
+lung parenchyma is spongy and congested and shows a bulla located at the upper
+pole. measuring 2.0 x 2.0 x 1.0 cm. A single anthracotic lymph node.
+measuring 0.5 cm in greatest dimension. is identified at the hilum.
+Representative sections are submitted in eight cassettes as follows: cassette
+1 - bronchial margin; cassette 2 - vascular margin and lymph node at the
+hilum; cassette 3 - small tumor; cassette 4 - pleural surface closest to the
+tumor; cassette 5 - orange lesion adjacent to hilum; cassette 6 - orange
+lesion and closest staple line margin; cassette 7 - bulla; cassette B - lung
+parenchyma.
+O. Received in formalin is an irregular portion of tan-pink soft tissue.
+measuring 1.5 x 0.7 x 0.4 cm. The specimen contains multiple staples. The
+staples are removed and no discrete lymph node is found. The specimen is
+entirely submitted in one cassette.
+E. Recei ved in forma 1in is a da rk brown to black ovoi d nodul e. measuri ng 1. 2
+x 0.5 x 0.3 cm. The specimen is serially sectioned to reveal an anthracotic
+               The specimen is entirely submitted in one cassette.
+
+        ~I\UC'Lour! C OESCR! PTI ON: ~~~~~~~~~~~~~~
+A &APC. Five slides are examined. Sections of lung include a tumor mass
+composed of complex anastomosing glands and papillae within fibrous stroma.
+The tumor cells have abundant eosinophilic to clear cytoplasm Ivith polygonal
+cytoplasmic borders. The nuclei are enlarged and ovoid to irregular. with
+thickened nuclear membranes. coarsely granular chromatin and prominent
+nucleoli. Scattered mitoses are present. Tumor focally extends into the
+visceral pleura. forming a fibrotic nodule on the pleural surface. composed of
+Patient
+MRN
+Date of Service
+Performing Facilit
+Ordering Provider
+Result Provider
+Report Name          :Surgical Report
+more solid nests of cells within fibrotic stroma.
+B. One slide is examined. These are sections of lymph node characterized by
+moderate sinus histiocytosis and anthracosis. There is no evidence of
+involvement by tumor.
+C. Eight slides are examined. Sections of lung include residual tumor
+(slides 5 and 6 ). composed of abnormal glands. There is surrounding
+pneumonitis with aggregated foamy histiocytes present within alveoli.
+associated with interstitial infiltration by inflammatory cells. including
+lymphocytes. plasma cells and eosinophils. Sections of the second-described
+mass (block C3) reveal a circumscribed. but non-encapsulated. nodular mass.
+composed of a monotonous population of cells having ovoid to spindle-shaped
+nuclei. arranged in a nested/organoid pattern. The cells have bland chromatin
+I'lith inconspicuous nucleoli. Mitotic figures are not readily identified. The
+grossly-described bullous area is characterized by irregular disruption of the
+subpleural alveolar architecture. associated with irregular fibrous thickening
+of the pleura. I'lhich is infiltrated by chronic inflammatory cells. including
+lymphocytes and plasma cells. forming occasional loose aggregates. Clusters
+of pigmented histiocytes are present within the dilated alveolar spaces.
+Random sections of lung reveal mild patchy dilation of alveoli. most notably
+within the peripheral portions of the parenchyma. No other tumor is
+identified. Sections of the bronchial margin are lined by ciliated.
+pseudostratified columnar epithelium with areas of squamous metaplasia. The
+vascular margin of resection is uninvolved by tumor. A peribronchial lymph
+node is characterized by sinus histiocytosis and anthracosis. There is no
+morphologic evidence of involvement by tumor.
+D. One slide is examined. including the entirely submitted specimen. These
+are sections of a biopsy portion of lung. composed of benign alveolar
+parenchyma. There is adherent fibrofatty tissue. consistent with parietal
+pleura. There is no evidence of involvement by tumor. No lymph node is
+identified.
+E. One slide is examined. These are sections of clotted blood and organizing
+fibrin. A few clusters of mildly reactive mesothelial cells are focally
+present within the clot. occasionally forming gland-like structures. No lymph
+          .     'fied within the entirely submitted specimen.
+
+      ->nC,"ll'L STAINS: ~~~~~~=~~~=============
+
+A section of tumor (block Al) is stained by the immunoperoxidase method for
+thyroi d transcri pt ion factor-l (TTF -1) . The tumor cells revea 1 I'leak to
+moderate intranuclear positivity. consistent Vlith lung primary. A section of
+block E is also stained for TTF-l. The clusters of cells morphologically
+interpreted as mesothelial cells. are negative by this stain. Also stained is
+a section of the spindle cell tumor. seen on block C3. within the completion
+lobectomy specimen. The cells comprising the lesion are strongly and
+Patient
+MRN
+Date of Service
+Performing Facility
+Ordering Provider
+Result Provider
+Report Name         :Surgical Report
+diffusely positive for synaptophysin with moderate positivity for
+chromogranin, consistent with the morphologic interpretation of spindle cell
+ca      'd tumor. The corresponding controls stain appropriately.
+
+                   AGNOSIS: ~~~~~~~~~~~~~~~~~~~~~~
+ A & APC. RIGHT LUNG, \l;:4lWJ:jR£t'OB~ WEDG~~IOPSY:
+               1. HISTOLOGIC TYPE: '~~NgBARCINO!;lA+i.;
+               2. HISTOLOGIC GRADE: f3!l'A[f!i' t ll '.~.
+               3. PRIMARY TUMOR: pT2 - SEE COMMENT
+               4. REGIONAL LYMPH NODES: pNO;.flllO.• Rt:G:lQNA~.LYMF'H NODE:METASTASI~ -
+                                              SEE PARTS BAND C) .                    .
+               5. DISTANT METASTASIS: pMX (CANNOT BE ASSESSED)
+               6. MARGINS: TUMOR PRESENT AT VISCERAL PLEURAL SURFACE
+               7. VENOUS (LARGE VESSEL) INVASION: NOT IDENTIFIED
+               8. ARTERIAL (LARGE VESSEL) INVASION:. NOTJDENTIFJEQ
+           B. LYMPH NODE (SUBCARINAl), EXCISION: NFlGATI.\JEFORTUMOR
+           C. RIGHT.LUNG ..LOWER LOBE. CQ'1PLETION LOBECTOMY:
+               1. 'RE8\ifibAG'AOENdCARCINOM, vlITH SURROUNDING OBSTRUCTIVE/LIPOID
+                    PNEUMONIA
+               2. BRONCHIAL MARGIN UNINVOLVED                          ..
+               3. ~i'.mRQN9.HlAt LYMPH NODE NEGATIVE FOR TUM(fR~,
+               4. SPTNOl3F:Ch'U':CARCINOID TUMOR (8MM)
+               5. SUBPLEURAL BULLA
+           D. INFERIOR PULMONARY LIGAMENT, BIOPSY: BENIGN LUNG PARENCHYMA AND
+               ADHERENT FIBROFATTY TISSUE, CONSISTENT WITH PARIETAL PLEURA; NO
+               EVIDENCE OF INVOLVEMENT BY TUMOR
+           E. LYMPH NODE (HILAR), BIOPSY: CLOTTED BLOOD AND FIBRIN WITH REACTIVE
+               MESOTHELIAL CELLS, NEGATIVE FOR TUMOR
+COMMENT: The tumor within the wedge resection specimen grosslY\!l1~a$ures .3.5
+.~Ij).• ip greatest difl!~Ds.i on,\>ighdi rectext~ns ion into the vi scera 1 pleura. A
+small amount of''W.esidualtufiloris presene:'within the completion lobectomy
+          men.
+
+
+
+DATE AND TIME OF

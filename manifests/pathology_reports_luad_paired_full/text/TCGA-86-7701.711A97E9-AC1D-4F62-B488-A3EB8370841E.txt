@@ -1,0 +1,29 @@
+Gross    Microsc Diagnos Comme Formatted Path Report
+Case ID Descript opic     is      nts
+        ion      Descript Details
+                 ion
+                                       LUNG TISSUE CHECKLIST
+
+                                       Specimen type: Excision of tumor
+                                       Tumor site: Lung
+                                       Tumor size: 2.5 x 2 x 0.5 cm
+                                       Histologic type: Adenocarcinoma
+                                       Histologic grade: Poorly differentiated
+                                       Tumor extent: Visceral pleura
+                                       Other tumor nodules: Yes -
+                                       Lymph nodes: Not specified
+                                       Lymphatic invasion: Not specified
+                                       Venous invasion: Not specified
+                                       Margins: Not specified
+                                       Evidence of neo-adjuvant treatment: Not
+                                       specified
+                                       Additional pathologic findings: Not
+                                       specified
+                                       Comments: CD15+, CK7+, TTF1+, CK20-
+                                       , CDX2-
+     Lateralit Date of
+     y         procurement
+ID
+
+     Right-
+     upper

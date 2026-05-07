@@ -1,0 +1,196 @@
+TCGA- 44- 3396
+
+
+
+
+SPECIMEN
+    A. Pericardia! reflection node
+    B. Right upper and middle lobe
+    c. Lymph node level 11
+    D. Lymph node 4R
+    E.  Lymph node 2R
+    F. Lymph node level 9
+
+CLINICAL NOTES
+    Non-small cell lung cancer
+
+FROZEN SECTION DIAGNOSIS
+    A) Lymph node, pericardial reflection node, excision - Metastatic
+    non small cell carcinoma.
+
+GROSS DESCRIPTION
+                 A.   Received fresh for frozen section labeled "pericardial
+       reflection node" are irregularly shaped fragments of tan tissue
+that
+       measure 0.6 x 0.6 x 0.4 em in aggregate dimension. The tissue is
+       entirely frozen.
+                B. Received fresh, subsequently fixed and inflated \·lith
+                formalin labelled "bilobe right upper and middle lobe" is
+a
+       14.0 x 12.0 x 5,7 ern portion of lung which is grossly consistent
+       1;i th the upper and middle lobe of the right lung. The pleural is
+       violaceous smooth glistening with black stippling present shoNing a
+       3.0 em umbilication at the fissure of the middle and upper lobe.
+       This focus is inked and the specimen is sectioned to show a large
+       white-gray firm mass v1hich is 5. 5 x 5. 0 x 3. 7 em. The tumor is
+       contiguous with the umbilication and is also present at the base of
+       the middle lobe.    There are staples present at this area.   This
+area
+       is inked and on sectioning shows no discrete tumor invading the
+       stapled tissue. The remainder of the parenchyma is red-brovm and
+       fleshy1  Few hilar nodes are grossly identified. The tumor comes
+       vdthin 1.5 ern of the bronchial margin. Representative sections of
+GROSS DESCRIPTION
+    the specimen are submitted as follows:
+    BLOCK SUMMARY: 1 - brachial and vascular margins; 2-5 -
+    representative section of tumor to umbilication and normal; 6 -
+    representative section of tumor to base at stapled aspect of middle
+    lobe; 7 - tumor to bronchus; 8 - representative normal; 9-10.
+    possible hilar lymph node (block 10 is bisected),    RS-10.
+              C. Received fresh subsequently fixed in formalin labeled
+              "lymph node level 11" is a 1 x 0.5 x 0.4 em black red
+    irregular soft tissue fragment which is entirely submitted in one
+    cassette. AS-1.
+              D. Received fresh subsequently fixed in formalin labeled
+              "lymph node 4R" are two red black pink irregular soft
+    tissue fragments which are 0.6 em each in greatest dimension.    The
+    specimens are entirely submitted in one cassette.    AS-1.
+              E. Received fresh subsequently fixed in formalin labeled
+              "lymph node 2R" are multiple pink yellow black irregular
+    soft to hard tissue fragments tvhich have an aggregate measurement
+of
+    2.2 x 1.5 x 0.7 em. The specimens are entirely submitted in one
+    cassette.    AS-1.
+              F.   Received fresh subsequently fixed in formalin labeled
+              "lymph node level 9" is a 2 x 0.7 x 0.3 em pink black
+    irregular soft tissue fragment t'lhich is entirely submitted in one
+    cassette. AS-1.
+
+
+
+MICROSCOPIC DESCRIPTION
+    Histologic type:  Adenocarcinoma.
+    Histologic grade:   Poorly differentiated.
+    Primary tumor (pT):   The tumor measures 5.5 em. in dimension and is
+    present within less than 0.2 em. of the bronchial margin of
+     excision, PT2.
+    Margins of resection:   Invasive carcinoma is present in soft tissue
+MICROSCOPIC DESCRIPTION
+    of the lung within 0.2 em. of the bronchial margin of excision.
+    Direct extension of tumor:  Tumor shows rnultifocal areas of
+    extension up to and focally into the pleural but is not identified
+     on the pleural surface.
+    Vessel invasion:    Present.
+    Regional lymph nodes (pN):   Tumor shows involvement of hilar lymph
+    nodes v1hich appears to be direct extension, although metastases can
+     not be excluded.   Metastatic carcinoma is identified in a
+    pericardial reflection node, pN2.
+    Distant metastasis (pM):   pMx.
+
+    l4x1, 3x5, 5x1
+
+DIAGNOSIS
+    A.  Lymph node, pericardial reflection node, excision - One lymph
+    node positive for metastatic carcinoma (1/1).
+    B.  Lung, right upper and middle lobe 1 excision - Invasive poorly
+          differentiated adenocarcinoma (see tumor characteristics in
+          the lung resection template in the microscopic description) .
+    C. Lymph node 1 level 11 1 excision - One lymph node negative for
+    metastatic carcinoma (0/1).
+    D. Lymph node, level 4R, excision - Two lymph nodes negative for
+    metastatic carcinoma (0/2).
+    E.  Lymph node, level 2R, excision - Fragments of lymph node
+    negative for metastatic carcinoma.
+    F.  Lymph node, level 9, excision - One lymph node negative for
+    metastatic carcinoma (0/1).
+
+
+
+
+            --- End Of Report ---
+E.  Received fresh subsequently fixed in formalin labeled
+              "level 5" is a 1.5 x 1.0 x 0.7 em. black pink tan
+irregular
+    rubbery tissue fragment. The specimen is bisected to show a v1hi te
+     firm rubbery nodule tvhich is entirely submitted in one cassette.
+     AS-1
+              F. Received fresh and subsequently fixed in formalin
+              labeled "level 4 is a 0.5 x 0.3 x 0.3 em pink-red
+irregular
+     soft tissue fragment v1hich is entirely submitted in one cassette.
+     AS-1.
+
+
+
+
+MICROSCOPIC DESCRIPTION
+             A. The following template applies to the left lower lobe
+             wedge resection:
+
+     Histologic type: Adenocarcinoma
+     Histologic grade: Poorly differentiated
+     Primary tumor (pT): 1.7 em (pTl)
+     Hargins of resection: Uninvolved
+     Venous (large vessel} invasion: Not identified
+     Arterial (large vessel) invasion: Not identified
+     Lymphatic (small vessel) invasion: Not identified
+
+MICROSCOPIC DESCRIPTION
+    Regional lymph nodes (pN) : See specimen E below
+    Distant metastasis (pM} : Cannot be evaluated by this specimen
+    (pMX)
+    Other findings: None.
+
+              B. The following template applies to the left upper lobe
+              wedge resection:
+
+     Histologic type: Adenocarcinoma
+     Histologic grade: Poorly differentiated
+     Primary tumor (pT): 1.8 em (pTl)
+     Margins of resection: Uninvolved
+     Direct extension of tumor: Tumor invades the visceral pleura
+     Venous (large vessel) invasion: Not identified
+     Arterial (large vessel) invasion: Not identified
+     Lymphatic (small vessel) invasion: Not identified
+     Regional lymph nodes (pN) : See specimen E below
+     Distant metastasis (pM) : Cannot be evaluated by this specimen
+     (pMX)
+     Other findings:  None.
+ c.    The level 7 lymph node demonstrates no evidence of
+                metastasis in one node.
+
+                 D. The level 6 lymph node demonstrates two lymph nodes
+Nith
+                 no evidence of metastatic disease.
+
+               E. The level 5 lymph node demonstrates metastatic poorly
+      differentiated carcinoma involving one lymph node. The size of the
+      metastasis is 1.5 em.
+
+                 F. The level 4 lymph node demonstrates no evidence of
+                 metastasis in one lymph node.
+
+
+MICROSCOPIC DESCRIPTION
+
+      14x2, 4x2,   3x4
+
+
+DIAGNOSIS
+    A. Lung, left lm-1er lobe, wide resection:
+               Poorly differentiated adenocarcinoma, 1.7 em, surgical
+            margins uninvolved.
+      B.   Lung, left upper lobe, v1edge resection:
+               Poorly differentiated adenocarcinoma, 1.8 em, surgical
+            margins uninvolved.
+      C.   Level 7 lymph node, resection:
+               No evidence of metastasis to one lymph node (0/1).
+      D.   Level 6 lymph node, resection:
+               No evidence of metastasis to two lymph nodes (0/2).
+      E.   Level 5 lymph node, resection:
+                Metastatic adenocarcinoma involving one lymph node size of
+                                                                 1
+
+             metastasis 1.5 em.
+      F.   Level 4 lymph node, resection:
+                No evidence of metastasis to one node (0/1).

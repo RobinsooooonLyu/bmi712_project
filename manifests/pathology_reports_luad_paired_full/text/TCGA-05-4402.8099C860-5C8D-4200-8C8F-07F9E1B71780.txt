@@ -1,0 +1,13 @@
+Main diagnosis/diagnoses:
+Mixed adenocarcinoma located peripherally in the lower lobe with a predominant acinar
+component, a smaller large-cell solid component with a bronchioloalveolar growth pattern in
+the tumor periphery, slight mucin formation and marked lymph vessel propagation in the lung
+tissue and the visceral pleura.
+
+Comment/supplementary remark:
+Conventional histology shows a peripheral bronchopulmonary carcinoma (to be verified by
+immunohistological analysis). The tumor has infiltrated the visceral pleura, focally penetrated
+the surface of the pleura and extends as far as the basal margin of the preparation after the row
+of metal clamps is removed.
+These findings thus give a tumor classification of pT2 pNX pMX L1 RX, with localization
+code C34.3 and morphology code M8255/3.

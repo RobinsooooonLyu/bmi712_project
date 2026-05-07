@@ -1,0 +1,260 @@
+UUID:0C79A75F- E3B3 - 4984 - 8406 - 2532E4A68D96
+                                                                                  TCGA-L9-A5IP-91A-PR                     Redacted
+                                                                         I I 1111111111111111I I I I Il111111111I I I I I I 11111111111111111
+                                                                         I I I I1111111111111111111111111111111111111111111111111111I I
+  RUN DATE:                                                              I I I111111111111111111111111111111111111111111111111111111111 I I
+  RUN TIME:
+                                             S ecimen Inquiry
+  RUN USER:
+
+  PATIENT:m
+                                          ACCT #:                LOG:                              U #;
+  REG DR:
+              air                         AGE/SX:
+                                          DOB:
+                                          STATUS:
+                                                                 ROOM:
+                                                                 BED:
+                                                                                                   REG:
+                                                                                                   DIS:
+                                                                 TLOC:
+
+
+  SPEC #:
+                                                            PERFORMED AT
+                                              TIME IN FORMALIN: 8:57     hrs.
+  CLINICAL INFORMATION:
+   Pre-Op Diagnosis:   Right lung hilar mass; lung CA
+            Remarks:
+        Specimen(s):  A.   Right lung
+                      B.   Right level 4
+                      C.   Level 10 right lymph node
+
+
+
+
+ A.   LUNG, RIGHT, PNEUMONECTOMY:
+       -
+            INVASIVE POORLY DIFFERENTIATED ADENOCARCINOMA INVOLVING RIGHT UPPER LOBE, LOWER
+           LOBE, AND MAINSTEM BRONCHUS MEASURING 5.5 CM
+      -
+           INVOLVEMENT OF PERIHILAR NODAL AND SOFT TISSUE WITH PERINEURAL AND VASCULAR
+           INVASION
+      -
+           AT LEAST 2 OF 3 HILAR LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA
+      -
+           3 OF 3 PERIBRONCHIAL LYMPH NODES POSITIVE FOR METASTATIC CARCINOMA
+      -
+           BRONCHIAL MARGIN POSITIVE MICROSCOPICALLY FOR CARCINOMA AND GROSSLY MEASURES
+           1.5 CM FROM ENDOBRONCHIAL COMPONENT
+      -
+           CLIPPED VASCULAR MARGIN POSITIVE FOR CARCINOMA WITHIN SOFT TISSUE AND BLOOD
+      -    RESPIRATORY BRONCHIOLITIS AND RIGHT MIDDLE LOBE ATELECTASIS
+
+ B,   RIGHT LEVEL 4 LYMPH NODE:
+      -
+           LYMPH NODE TISSUE FOCALLY POSITIVE FOR METASTATIC ADENOCARCINOMA WITH PERINODAL
+           LYMPHATIC INVASION PRESENT
+
+C.    RIGHT LEVEL 10 LYMPH NODE:
+      -    3
+             OF 3 LYMPH NODES POSITIVE FOR METASTATIC ADENOCARCINOMA WITH EXTRANODAL
+           CAPSULAR EXTENSION PRESENT
+
+
+
+
+COMMENT(S)
+
+
+The patient has a large endobronchial mass demonstrating a poorly differentiated
+adenocarcinoma with extensive tumor necrosis where the epicenter appears to be at the
+ junction of the right mainstem and upper lobe bronchus with extension along the lower lobe
+bronchus.
+            The firm nodal mass which was adherent to the bronchus, when removed,
+demonstrates apparent matted lymph node tissue involved by metastatic adenocarcinoma with
+extensive involvement of the adjacent soft tissue as well as with perineural and
+angiolymphatic invasion present.
+                                   Tumor involves the surface in this area. Clinical
+correlation is recommended to ascertain whether there was direct involvement of other
+mediastinal structures in this area.
+                                       The bronchial margin does demonstrate carcinoma
+
+                                  CONTINUED ON NEXT PAGE
+
+
+
+
+                                                           Pa.'th -      C          s     ,^^ u4<< rt e kb eS C^                                S'
+                                                                                       PAGE 2
+RUN DATE:
+                                               specimen   inq ulL- y
+RUN TIME:
+RUN USER:
+                                                                                      (Continued)
+SPEC # :r                   PATIENT:
+
+
+
+
+                                            (Continued)
+COMMENT (S)
+                                               Adenocarcinoma is also demonstrated in the
+present within the peribronchial soft tissue.
+sections obtained of the clipped vascular margins. In other sections. malignant cells
+penetrate the adventicia of the pulmonary artery without definitive muscle wall invasion
+             Immunohistochemical stains were performed on the previous bronchoscopic biopsy
+identified.
+             The tumor in the bronchoscopic biopsy was found to be positive for CK7 and
+negative for TTF1. CK5/6 and P63. These stains will not be repeated unless otherwise
+requested.
+
+ CAP Protocol for the Examination of Specimens From Patients With Primary Non-Small Cell
+ Carcinoma, Small Call Carcinoma, or Carcinoid Tumor of the Lung
+ Based on AJCC/UICC TNM, 7th edition
+
+                                         Lung
+ specimen:
+                                         Pneumonectomy
+ Procedure:
+                                         Intact
+ Specimen Integrity:
+                                         Right
+ Specimen Laterality:                    other; endobronchial hilar mass involving right upper
+ Tumor Site:
+                                         lobe, mainstem. and right lower lobe
+                                         Greatest dimension: 5.5 cm
+ Tumor Size:
+ Tumor Focality:                         Unifocal
+                                         Adenocarcinoma
+ Histologic Type:
+                                         Grade 3: poorly differentiated
+ Histologic Grade:
+ Visceral Pleural Invasion:              Not identified
+                                         Tumor in the main bronchus <2 cm distal to the carina
+ Tumor Extension:
+                                          Bronchial: Involved by invasive carcinoma
+ Margins:                                 Vascular: Involved by invasive carcinoma
+                                          Other attached tissue margin: Not applicable (none
+                                         designated)
+                                         Not applicable
+ Treatment Effect:
+ Lymph-Vascular Invasion:                Present
+ Pathologic Staging:                     Primary Tumor: pT3
+                                         Regional Lymph Nodes: pN2
+                                           Number examined: At least 10
+                                           Number involved: 9
+                                         Distant Metastasis: Not applicable
+
+
+
+  GROSS DESCRIPTION:
+       Received fresh labeled with the patient's name and "right lung" with request for tissue
+  A.
+  banking is a right lobectomy specimen which weighs 574 grams and measures 30 x 15 x 9 cm in
+                        The right middle lobe is somewhat collapsed compared to the upper and
+  the inflated state.
+                 The middle lobe measures 11 x 6 x 2 cm. The bronchial margin measures 2 cm
+  lower lobes.
+                 Blue ink is applied to this margin. An endobronchial mass is visualized
+   in diameter,
+                                 The mass lies 1.5 cm from the bronchial margin. The
+  through the bronchial lumen,
+  bronchial margin is separated from the specimen and submitted in block Al. The clipped
+  vascular margins are identified and are submitted in block.A2. A firm mass is palpated in
+   the hilar aspect at the junction between the upper and lower lobes. The pleura is
+   retracted at the junction of the three lobes at the peripheral aspect. Blue ink is applied
+
+                                       ** CONTINUED ON NEXT PAGE
+RUN DATE:                                                                            PAGE 3
+RUN TIME:
+RUN USER:
+
+SPEC tt :                 PATIENT :                                               (Continued)
+
+
+GROSS DESCRIPTION: (Continued)
+to this area . There is a firm hilar mass which when sectioned may represent a pathologic
+lymph node or lymph node tissue involved by direct extension .  This area is adherent to the
+bronchial wall and when removed measures 4.5 x 2.5 x 1.5 cm. Two other hilar lymph nodes
+are identified, 2 and 2.5 cm in greatest dimension.   The lung is sectioned longitudinally
+along the axis of the bronchial margin revealing a rigt upper lobe mass extending into the
+main bronchus with lateral extension along the lower lobe bronchus measuring 5.5 x 3 x 5.5
+cm.  There is direct extension into peribronchial lymph nodes,   There is purulent material
+which fill the distal bronchi and necrotic material is noted within step sections of the
+tumor.  There is a small skip area along the lower lobe bronchus where a separate
+submucosal mass is noted measuring 1 cm. This may just represent direct extension around
+the bronchus.  The lower lobe has a yellowish-brown color possibly representing obstructive
+pneumonia . A portion of non-necrotic tumor is provided to the tissue bank coordinator with
+a weight of 230 mg noted. No other discrete masses are identified .   Additional sections
+are submitted as follows:
+
+      A3   -   one hilar lymph node bisected and totally submitted
+      A4,5 -   one hilar lymph node bisected and totally submitted
+      A6   -   sections of largest hilar mass
+      A7   -   sections of smaller grossly positive peribronchial lymph nodes
+      A8,9 -   sections of endobronchial extension
+      A10  -   longitudinal sections of tumor and right upper lobe bronchus
+      All  -   section demonstrating separate or adjacent submucosal polypoid mass
+      A12 --   tumor
+      A13  -   section of tumor and inked pleural surface
+      A14  -   right upper lobe apex
+      A15  -   right lower lobe base
+      A16  -   right middle lobe
+
+B.  In formalin labeled with the patient' s name and "right level 4" is several irregular
+portions of reddish-tan tissue which measure together 2 x 1.5 x 0.5 cm. The larger is
+bisected and submitted with two smaller fragments in block B.
+
+C.  In formalin labeled with the patient 's name and "right level 10 lymph node" is three
+irregular portions of reddish-brown soft tissue measuring 1.5, 2. 2.5 cm in greatest
+dimension, There is also a separate 5 mm fragment of similar tissue. The smaller fragment
+and the smallest portion is sectioned and submitted in block C1. The next to largest
+portion is sectioned and submitted in block C2. The largest portion is serially sectioned
+and in doing so, a 5 mm gray nodule is noted consistent with metastasis. Representative
+sections of this portion are submitted in block C3.
+
+
+INTRAOPERATIVE CONSULTATION:
+A.   RIGHT LUNG:
+          TISSUE PROCESSED FOR TISSUE BANK WITH TUMOR AND NON-TUMOROUS TISSUE PROVIDED TO
+          TISSUE BANK COORDINATOR
+
+
+
+
+                                ** CONTINUED ON NEXT PAGE **
+RUN DATE;
+RUN TIME:                                    Specimen Inquiry
+RUN USER:
+
+SPEC #                       PATIENT *                                                                                    (Continued)
+
+
+
+            • as         ^
+
+
+
+
+Signed       (signature on file)
+
+
+
+
+                                         END OF REPORT
+
+
+
+
+                                                                r feria
+                                                                    , cc's Discrepdrrty _,_-___,_.
+                                                                )iagn
+                                                                'r im iry tumor Site Dian e^ancY
+                                                                ttPAA DdWePncY
+                                                                rrior {vta^ignan 'y Hitter/          ._,-           --+
+
+                                                                '•ua   ynU .rrnnnuSPnma. Y Ote {
+                                                                                          U:1LIF L            DIS QUNIFIF
+                                                                 ese is
+                                                                                                            ei. -   J

@@ -1,0 +1,150 @@
+4
+
+
+
+
+ RUN DATE:                                                                                                                                       PAGE 1
+ RUN TIME:
+ RUN USER:
+
+ PATIENT:                                     ACCT #:                             LOC :                                        U #:
+                                              AGE/SX :                            ROAM :                                       BEG:
+REG DR:                                       DOB:                                BED:                                         DIS;
+                                              STATUS:
+
+
+
+
+                                                  TIME IN fibPMALIN: 5:52                                   hrs.
+
+CLINICAL INTORMATION:
+ Pre-Op Diagnosis:  Left lung CA                                   UUID : ADBOE9E3 - 62E7-4461 - 9254 -
+                                                                                                        14DC15DC8877
+                                                                         TCGA- L9-A50W-01A-PR
+          Remarks:  Tissue banking                                                                               Redacted
+      Specimen(s):  A.  Left lower lobe lung                   III II II I III I II I IIII IIIIIIIIII I IIIIII1I li i ili i i l 1111111 111 III III
+                         B.   Left level 8                     III ^I I II I I II I III II IIII II IIIIIIIIIIIII II IIIIIIIiii liil iii l i iii
+                         C.   Left level 11
+                                                               I I I it 111111 I I I I I I I I I I I I I I I I I I I I 111 I I I 11111111 I I I I
+
+
+A.    LUNG ,    LENT LOWER LOBE ( LOBECTCMY):
+               MODERATELY DIFFERENTIATED ADENOCARCINONA, 2.5 CM IN GREATEST DIMENSION
+               VISCERAL PLEURAL INVASION ABSENT
+               BRONCHIAL MARGIN UNINVOLVED
+               NO METASTASIS IN THREE PERIBRONCHIAL LYMPH NODES
+
+B.   LEFT LEVEL 8 LYMPH NODE (BIOPSY):
+     --   METASTATIC ADENOCARCINObW                                            0-3
+                                                                                o-^-^ W                    A              st( /yam 8^s^f 3
+C.   LEFT LEVEL 11 LYMPH NODE (BIOPSY):                  Q china
+     --   NEGATIVE FOR METASTASIS
+
+
+
+
+C omma ( S)
+
+SURGICAL PATHOLOGY CANCER CASE SUMMARY - CAP APPROVED
+
+Specimen:                               Left lower lobe
+Procedure:                              Lobectomy
+Specimen Integrity:                     Intact
+Specimen Laterality:                    Left
+Tumor Site:                             Lower lobe
+Tumor Size:                             2.5 cm in greatest dimension
+Tumor Focality:                         Unifocal
+Histologic Type:                        Adenocarcinoma, mixed subtype
+Histologic Grade:                       G2
+Visceral Pleura Invasion:               Not identified
+Tumor Extension:                        Not applicable
+Margins:                                Bronchial: Uninvolved by invasive carcinoma and
+                                        carcinoma in situ
+                                        vascular: Uninvolved by invasive carcinoma
+Distance of invasive carcinoma
+
+                                    ** CONTINUED ON NEXT PAGE **
+CO .2 NT (S)                           (Continued)
+
+from closest margin:               2 cm from bronchial margin
+Treatment Effect:                  Not applicable
+Lymph-Vascular Invasion:           Not identified
+Pathologic Staging:                Primary Tumor: pTlb
+                                   Regional Lymph Nodes: pNl
+                                     Number examined: 5
+                                     Number involved: 1
+                                   Distant Metastasis: Not applicable
+
+
+
+ ROSS DESCRIPTION:
+Specimen A is received in the fresh state labeled "left lower lobe lung". This is a lobe
+of lung recognizable as lower lobe and measuring 11 x 10 x 6 cm. The pleural surfaces are
+smooth, dark reddish-tan to black.  At the base of the lobe is a firm tumor. The overlying
+pleura is smooth and this surface is inked black. The cut surface of the tumor shows
+solid white tissue with the appearance of confluent nodules, forming a multinodular
+single mass which measures 2.5 x 2.0 cm in greatest surface area. Tumorous tissue focally
+extends to within 1 mm of the inked pleural surface at the base of the lobe. A portion of
+the tumor is harvested for tumor banking. The tumor is 2 cm from the bronchial margin.
+There is a blackened 8 mm peribronchial lymph node. Serial sections through the remainder
+of the lung tissue reveal no additional tumors. Representative sections are submitted as
+follows:
+
+     Al    -   bronchial and vascular margin
+     A2   -    peribronchial lymph node at margin
+     A3-6 -    tumor
+     A7   -    uninvolved lung
+     AS   -    additional bronchi adjacent to tumor but uninvolved
+
+Specimen B is received in formalin labeled "left level 8 lymph node". This is an ovoid
+piece of firm dark reddish-brown to white tissue measuring 1.3 x 1.3 x 0.7 cm. The cut
+surface is solid homogeneous white, suspicious for metastasis. The specimen is entirely
+submitted in cassette B1 and B2.
+
+Specimen C is received in formalin labeled "left level 11 lymph node". It consists of
+multiple irregular pieces of dark reddish-brown tissue measuring 10 x 8 x 3 mm in
+aggregate.  The specimen is entirely submitted in cassette C1.
+
+
+
+MICROSCOPIC DESCRIPTION:
+A.  Sections of the lung tumor demonstrate a well to moderately differentiated
+adenocarcinoma with a mixed glandular, solid and papillary growth pattern. Areas of clear
+cell change are noted.
+
+
+
+
+                               ** CONTINUED ON NEXT PAGE **
+RUN DATE:                                                                                                   PAGE 3
+RUN TIME:
+RUN USER:
+
+SPEC                      PATIENT                                                                       (Continued)
+
+
+
+INTRAOPERATIVE CONSULTATION:
+LEFT LOWER LOBE LUNG, GROSS EXAM:
+     -    TUMOR IDENTIFIED AND PLEURAL SURFACE INKED
+     -    TUMOR HARVESTED FOR TISSUE BANKING
+
+
+
+
+Signed   _ (signature on file)
+
+
+
+
+                                    ** END OF REPORT
+
+
+                                                       arfterls                                                  O
+                                                       Yragnosis Discrepancy
+                                                       'rimary Tumor Site Discrepancy
+                                                       11PAA Discrepancy
+                                                       Prior Malignancy Histbry
+                                                       Dual./Sy gcbronous Q:im    Noted
+                                                       Cases        I* -          QUAUFIED     /   DISQUAUFI D
+                                                       Review     In'                        viewed:

@@ -1,0 +1,90 @@
+SPECIMEN
+    A. Level 12 lymph nodes
+    B. Level 11 lymph nodes
+    C. Level 10 lymph node
+    D. Right upper lobe
+    E. 2R lymph node
+    F. 4R lymph node
+    G. Level 7 lymph node
+    H. Level 8 lymph node
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:   Lung nodule
+
+GROSS DESCRIPTION
+             A. [The specimen is] Received in formalin labeled "Level
+             12 lymph nodes" and consists of a red and black piece of
+    soft tissue measuring 1.2 cm. in greatest dimension. AS-1.
+             B. Received unfixed labeled "Level 11 lymph nodes" and
+             consists of a black and e piece of soft tissue measuring
+    1.6 cm. in greatest dimension.    -
+             C. Received unfixed la l     "Level 10 lymph node" and
+             consists of portions of red and l k soft tissue measuring
+    2 cm. in greatest aggregate dimension.    -
+             D. The specimen is received un x , labeled "right upper
+             lobe" and consists of a 192 gram lung lobe measuring 12.5 x
+    9.5 x 3 cm. There is a contained roughly spherical mass that is
+    subpleural and measures 2 cm. in diameter. A portion of the specimen
+    is taken for research purposes. Sections after fixation.
+             E. Received unfixed labeled "2R lymph node" and consists
+             of three i es of yellow and red soft tissue measuring 2.5
+    x 3.5 x 0.4 cm.    -
+             F. Rece e unfixed labeled "4R lymph node" and consists
+             of multiple pieces of pink and   a   soft tissue measuring
+    1 cm. in greatest aggregate dimension.    -
+            G. Received unfixed labeled "Le l     lymph node" and
+             consists of a yellow and black piece of soft tissue
+      a ring 2.4 x 1.7 x 0.3 cm. in greatest aggregate dimension.
+      -
+             H. Received unfixed labeled "Level 8 lymph node" and
+             consists of portions of pink and black so     ssue
+    measuring 1 cm. in greatest aggregate dimension.    -
+
+
+
+MICROSCOPIC DESCRIPTION
+    A. A single lymph node is negative for malignancy
+    B. A single lymph node is negative for malignancy
+    C. No evidence of malignancy in multiple lymph nodes or lymph node
+    pieces
+    D.
+             Tumor type: Adenocarcinoma
+             Tumor grade: 2-3 out of 3
+             Tumor size: 2 cm
+             Bronchial resection margin: Negative for malignancy
+             Pleura: Negative for malignancy
+             Vascular invasion: Absent
+             Attached lymph nodes: None
+             pTNM Stage: T1
+             Non-tumorous lung: Emphysema
+
+   E. There is no evidence of malignancy in any of 3 lymph nodes
+   F. A single lymph node is negative for malignancy
+   G. A single lypmh node is negative for malignancy
+   H. There is no evidence of malignancy in any of 4 lymph nodes
+
+   4x2,3x6
+
+DIAGNOSIS
+    A. Lymph node, level XII, biopsy:
+          A single lymph node is negative for malignancy.
+    B. Lymph nodes, level XI, biopsy:
+          A single lymph node is negative for malignancy.
+    C. Lymph node, level X, biopsy:
+          There is no evidence of malignancy in multiple lymph nodes or
+          lymph node pieces.
+    D. Lung, right upper lobe, resection:
+          Moderately to poorly differentiated adenocarcinoma
+    E. Lymph node, 2R, biopsy:
+          There is no evidence of malignancy in any of 3 lymph nodes
+    F. Lymph node, 4R, biopsy:
+          A single lymph node is negative for malignancy.
+    G. Lymph node, level VII, biopsy:
+          A single lymph node is negative for malignancy
+    H. Lymph node, level VIII, biopsy:
+          There is no evidence of malignancy in any of 4 lymph nodes.
+
+
+
+
+                       --- End Of Report ---

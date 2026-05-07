@@ -1,0 +1,344 @@
+UUID:726A5F6E- 4592 - 49AA-976F- 556CABABDD3D
+        TCGA- N]-A55R -01A-PR                Redacted
+
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+I I 111111111111111111111111111111111I I I I I I I I1111111111I I
+III IIIIIIIIIIIII I IIIIIIIIIIIII1I IIf 1111 1111111111 11 III III
+
+
+
+     Procedure Location:
+
+
+
+
+    PATHOLOGY SURGICAL
+
+   Results
+
+    Status : Final result
+
+
+
+
+  Entry Date
+Component Results
+
+
+
+ PATHOLOGY RESULT:
+
+
+
+
+Department of Pathology
+
+
+
+
+ Final
+
+ Clinical Data Repository * This report may not match the original report
+
+ format
+
+
+
+
+  FINAL DIAGNOSIS
+
+  A. (Level five lymph node ; biopsy): Two lymph nodes, negative for
+
+  malignancy.
+ B. (Level eleven lymph node ; biopsy ): One lymph node, negative for
+
+ malignancy.
+
+
+
+
+ C. (Lung, left upper lobe ; lobectomy):
+                                           Invasive moderately differentiated
+
+ adenocarcinoma , measuring 2.2 cm in greatest dimension. Margins of resection
+
+ free of tumor. Six peribronchial lymph nodes ,
+                                                  negative for malignancy. Stage
+ pT1b ( PL 0) NO. See note.
+
+
+
+
+ D. (Level seven lymph node ; biopsy): One lymph node, negative for
+
+ malignancy.
+
+
+
+
+INTRAOPERATIVE CONSULTATION
+
+C. FROZEN:LEFT UPPER LOBECTOMY FROZEN ON THE TUMOR:
+                                                                  Infiltrating carcinoma,
+favor squamous cell carcinoma . (C91, TP , smear)
+
+
+
+
+NOTE
+C. Immunohistochemical stains show that the tumor is positive for cytokeratin
+
+7 and TTF -1 and negative for cytokeratin 5,6 and P63, supporting the
+
+diagnosis. Immunohistochemistry controls are examined and show appropriate
+
+reactivity.
+
+
+
+
+Lung Cancer Summary
+
+ Specimen type: Left upper lobectomy
+
+
+
+
+ Tumor location : Left upper lobe
+
+
+
+
+ Tumor size: 2 .2 x 1.7 x 1.6 cm
+
+
+
+  Histologic type : Adenocarcinoma
+
+
+
+  Histologic grade: 2
+
+
+
+
+  Status of margins:
+
+     Bronchial: Negative
+
+     Vascular: Negative
+
+      Parenchymal: Negative
+
+      Pleural: Negative
+
+
+
+   Visceral/Parietal pleural invasion: Absent
+
+
+
+
+   Lymphatic vascular invasion : Absent
+  Lymph node status: Negative
+
+
+
+
+  Extension into other structures: Absent
+
+
+
+
+  Non-neoplastic pathology: N/A
+
+
+
+
+  TMN stage: Stage pT1b (PL 0) NO
+
+
+
+
+ GROSS DESCRIPTION
+
+ A. The specimen is labeled level five lymph node .
+                                                        Received fresh are two
+ possible black lymph nodes ( 1.2 and 1 .
+                                            3 cm in greatest dimension). The larger
+
+  node is bisected in cassette Al and the smaller is submitted intact in
+
+ cassette A2.
+
+
+
+
+ B. The specimen is labeled level eleven lymph node. Received fresh is a single
+
+ 2.5 x 0.9 x 0.4 cm possible lymph node. The specimen is entirely submitted
+
+intact in cassette B1.
+
+
+
+
+C. The specimen is labeled left upper lobectomy, frozen on tumor. Received
+
+fresh for frozen section is a 22.5 x 11.2 x 3.7 cm left upper lobectomy
+
+specimen. Serial sectioning reveals a well circumscribed, firm, gray-white
+
+mass measuring 2.2 x 1.7 x 1.6 cm that is causing pleural puckering and is
+
+closest at 8 cm from the bronchial and vascular margins. The pleura around
+the mass is inked blue. A representative section is submitted for frozen
+
+section analysis with remnants wrapped and placed in cassette C91. Touch prep
+
+and smear prepared. Additional representative sections are submitted as
+
+follows: C1, bronchial and vascular margin; C2, peribronchial lymph node; C3
+
+and C4, mass with inked pleura; C5, mass with adjacent grossly normal lung;
+
+ and C6, lung away from mass.
+
+
+
+ D. The specimen is labeled level seven lymph node. Received fresh is a
+
+ single 0.6 x 0.5 x 0.2 cm lymph node with surrounding fibroadipose tissue.
+
+ The entire specimen is submitted in cassette D1.
+
+
+
+
+  SPECIMEN(S) RECEIVED
+
+  A: LEVEL FIVE LYMPH NODE
+
+  B: LEVEL ELEVEN LYMPH NODE
+
+  C: FROZEN:LEFT UPPER LOBECTOMY FROZEN ON THE TUMOR
+
+  D: LEVEL SEVEN LYMPH NODE
+
+
+
+   * The above listed tests (if any) were developed and the performance
+
+                                                        Pathology. These tests have
+   characteristics determined by
+
+   not been cleared or approved for commercial use by the U.S. Food and Drug
+
+   Administration. The FDA has determined that FDA review is not required for
+
+   such in-house assays. (21 CFR 809.30(e))
+
+
+
+
+    OPERATIVE INFORMATION
+DIAGNOSIS : LUNG CANCER; PROCEDURE : BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+THORACOSCOPY VIDEO ASSISTED
+
+
+
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST : QA COMMITTEE
+
+ICD-9(s): 162.3
+
+CPT(s) : A: 88307
+
+B: 88305
+
+C: 88309, 88331, 88334, 88334, 88342 p63, 88342 ck5,6, 88342 ttfl, 88342 ck7
+
+D: 88305
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed , and actively participated in all key decisions.
+
+
+
+
+Lab and Collection
+
+
+
+
+ PATHOLOGY SURGICAL,                                          - Lab and Collection Information
+PATHOLOGY SURGICAL
+
+Pathology
+
+
+
+
+ Procedure Location:
+                                                                                                                                                         VT 00
+                                             TCGA Pathologic Diagnosis Discrepancy Form
+
+
+Instructions : The TCGA Pathologic Diagnosis Discrepancy Form should be completed when the pathologic diagnosis
+documented on the initial pathology report for a case submitted for TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+Tissue Source Site (TS'-,..                                   _
+Completed By (Interviewer Name on OpenLlinica):
+
+Diagnosis Information
+              Data Element                             Entry Alternatives                        Working Instructions
+                                                                                                 Provide the diagnosis/ histologic subtype(s) documented on
+         Pathologic Diagnosis                                                                    the initial pathology report for this case. If the histology for
+     1   Provided on Initial                                                                     this case is mixed, provide all listed subtypes.
+         Pathology Report                                  +oCow6rimna
+         Histologic features of                                                                  Provide the histologic features selected on the TCGA Case
+         the sample provided                                                                     Quality Control Form completed for this case.
+  2
+         for TCGA, as reflected
+         on the CQCF.
+
+Discrepancy between Pathology Report and Case Quality Control Form
+ 3       Provide the reason for
+         the discrepancy
+         between the pathology
+         report and the TCGA
+                                       Pjk QL^vr4 MS nc4                         J^,
+                                                                                                Provide a reason describing why the diagnosis on the initial
+                                                                                                pathology report for this case is not consistent with the
+                                                                                                diagnosis selected on the TCGA Case Quality Control Form.
+
+
+         Case Quality Control
+         Form.
+
+
+
+
+         Name of TSS Reviewing                                                                  Provide the name of the pathologist who reviewed this case
+ 4       Pathologist or                                                                         for TCGA.
+         Biorepository Director
+
+                  I acknowledge that the above information provided by my institution is true and correct and has been quality controlled.
+
+
+
+
+             TSS Reviewing Pathologist or Biorepository Director                                                    Date
+
+
+ I acknowledge that the above information provided by my institution is true and correct and has been quality controlled
+                                                                                                                    . The Attending Pathologist or the
+                                Department Chairman has been informed or is aware of the above discrepancy in diagnoses.
+
+
+
+
+                                                                                                                   Date

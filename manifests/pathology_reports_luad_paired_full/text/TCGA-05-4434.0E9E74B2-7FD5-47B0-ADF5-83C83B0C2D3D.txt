@@ -1,0 +1,29 @@
+Main diagnosis/diagnoses:
+Extensive and locoregionally advanced, central to peripheral, very likely primarily peripheral
+bronchopulmonary, histologically mixed adenocarcinoma of the right lower lobe of the lung
+with pleural invasion and metastatic dissemination to both pleural layers and lymph nodes.
+Tumor classification on the basis of this material pT4 pN1 pM1 (P/E) V1 RX, stage IV. C34.3
+M 8255/3 G3.
+
+Comment/supplementary remark:
+Within the main tumor and the lymph node metastases, which are found within the lung in the
+parabronchial region, at the hilus and in sample 5, the large-cell solid tumor component,
+which has a partly clear-cell character, is predominant. Especially in the area of the main
+tumor margin and the surrounding area the carcinoma shows glandular tubulopapillary and
+bronchioloalveolar differentiation. No maturation pattern of squamous epithelium is evident
+on conventional histology (immunohistochemical analysis will follow to provide as definitive
+confirmation as possible of the bronchopulmonary origin of the tumor and thus exclusion of a
+late metastatic spread of the reported breast carcinoma). The RX category is explained by the
+fact that the tumor infiltrating the pleura and disseminated there extends as far as the pleural
+surface and, with the detection of carcinoma cells in the pleural effusions, the possibility
+cannot be excluded that some of them remained there. The central bronchus resection line and
+the resection margins of the large pulmonary vessels and the resection preparation of parietal
+pleura itself, as registered under 4., are tumor-free
+
+
+Result of immunohistochemical analysis: a major part of the tumor cells with double
+expression of low and high molecular weight keratins (M903 and 902). In the glandular
+differentiation component, tumor cell nuclei are positive TTF1.
+
+The immune profile confirms the diagnosis of an adenocarcinoma of the lung of mixed
+differentiation.

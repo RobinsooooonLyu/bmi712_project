@@ -1,0 +1,332 @@
+UUID: FBB21BE1 - EB57 - 4C9D - 8149 - EE275C1E9BCE
+         TCGA- N3-A550 -91A-PR                      ed     R act ed
+III 1111111)1111111)1lIIIIII1111111111IIIIIIIIIIIIIIIIII
+III I l u l Il u IIIIII111111111 II IIIIIIIIIIIII I IIIIII I IIII III
+III IIIIIl il l l l 11IIIIIIi l l1111111111II11111111IIIIIII1111
+
+
+
+      Procedure Location:
+
+
+
+
+    PATHOLOGY SURGICAL
+
+    Results
+
+     Status : Final result
+
+
+                                                                         /CLS-o-3
+
+                                                                               C      uo      MIW.; M j N OS
+                                                                                       r1l
+                                                                        511 : I t '*^ , k041 Ian.   e- 31-1
+
+
+
+
+  Entry Date
+Component Results
+
+
+
+
+ PATHOLOGY RESULT:
+
+
+
+
+Department of Pathology
+
+
+
+
+ Final
+
+ Clinical Data Repository * This report may not match the original report
+
+ format
+
+
+
+
+  FINAL DIAGNOSIS
+
+  A. (Right upper lobe lung ; lobectomy): Invasive adenocarcinoma, grade 1, with
+
+   mucinous features , measuring 2.6 cm . Bronchial, vascular, parenchymal, and
+
+  visceral pleural margins are all free of tumor. One of five peribronchial
+ lymph nodes positive for metastatic adenocarcinoma , measuring 0.4 cm with no
+
+ extracapsular extension . Remainder of lung with benign meningothelial-like
+
+ rest. Stage pT1bN1 ( PLO). See note.
+
+
+
+
+ B. (Right paratracheal tissue): Fragments of anthracotic lymph node tissue
+
+ negative for tumor.
+
+
+
+
+C. (Subcarinal lymph nodes ): Fragments of anthracotic lymph node tissue
+
+negative for tumor.
+
+
+
+
+INTRAOPERATIVE CONSULTATION
+
+A. FROZEN : RIGHT UPPER LOBE, FROZEN ON TUMOR AND BRONCHIAL MARGINS: Invasive
+
+adenocarcinoma , bronchial margin negative for malignancy (A91-mass,
+
+A92-bronchial margin,
+
+
+
+
+NOTE
+                                                                     -1, and are
+A. The tumor cells are strongly positive for CK7, positive for TTF
+
+negative for CK20 and CDX-2, which supports a lung primary.
+
+
+
+Immunohistochemistry controls are examined and show appropriate reactivity.
+
+
+
+
+Lung Cancer Summary
+
+Specimen type: Lobectomy
+
+
+
+
+ Procedure: Right upper lobectomy
+
+
+
+
+ Specimen integrity: intact
+
+
+
+
+ Tumor location : Right upper lobe
+
+
+
+ Tumor focality: unifocal
+
+
+
+
+  Tumor size: 2.6 x 2.0 x 2.0 cm
+
+
+
+
+  Histologic type: Adenocarcinoma
+
+
+
+
+  Histologic grade: 1
+
+
+
+
+  Treatment effect:     Not applicable
+
+
+
+
+   Status of margins:
+    Bronchial: Negative
+
+    Vascular: Negative
+
+    Parenchymal: Negative
+
+    Pleural: Negative
+
+
+
+
+ Visceral pleural invasion: absent
+
+
+
+
+ Lymphatic vascular invasion: absent
+
+
+
+
+ Lymph node status: positive (peribronchial)
+
+
+
+
+ Extension into other structures: absent
+
+
+
+
+ Non-neoplastic pathology: meningothelial-like rest
+
+
+
+
+TMN stage: pT1bN0(PL0)
+
+
+
+
+GROSS DESCRIPTION
+
+A. The specimen is labeled right upper lobe. Received fresh for frozen section
+
+is a 15.0 x 10.3 x 3.0 cm lobectomy specimen with multiple overlying staples
+
+margins in total measuring 15.5 cm in length. The visceral pleural surface is
+
+inked black and the specimen is sectioned to show a spiculated tan tumor
+
+measuring 2.6 x 2.0 x 2.0 cm located 0.2 cm from the overlying visceral
+
+pleura, 2.0 cm from the closest overlying staple margin and 3.0 cm from the
+bronchial margin . The remainder of the lung tissue shows anthracosis and some
+
+mild congestion . No other discrete masses or lesions are identified. A
+
+touch prep of the tumor is performed and a portion is submitted for frozen
+
+section with the remnant wrapped and placed in cassette A91. A shave of the
+
+bronchial margin is submitted for frozen section with the remnant wrapped and
+
+placed in cassette A92. Additional cassettes are submitted as follows : Al-A2,
+
+ sections of tumor and overlying visceral pleura ; A3, section of tumor and
+
+adjacent lung ; A4, stapled margin closest to tumor and vascular margin; AS,
+
+ multiple peribronchial lymph nodes; A6, uninvolved lung.
+
+
+
+ B. The specimen is labeled right paratracheal tissue. Received in formalin
+
+ are multiple irregular fragments of white-tan fibrous tissue and yellow
+
+ adipose tissue (1.5 x 2.5 x 1.0 cm in aggregate) admixed with multiple
+
+ fragments of black possible lymphoid tissue. All of the possible lymphoid
+
+ tissue is submitted in cassettes B1-B5.
+
+
+
+ C. The specimen is labeled subcarinal nodes. Received in formalin are
+
+  multiple irregular fragments of red-black possible lymphoid tissue measuring
+
+  1.8 x 1.5 x 0.4 cm in aggregate. All of the lymphoid tissue is submitted as
+
+  follows: C1- largest fragment bisected, C2 - one fragment bisected, C3 - 2
+
+  intact fragments.
+
+
+
+
+  SPECIMEN(S) RECEIVED
+
+  A: FROZEN: RIGHT UPPER LOBE, FROZEN ON TUMOR AND BRONCHIAL MARGINS
+ B: RIGHT PARATRACHEAL TISSUE
+
+ C: SUBCARINAL NODES
+
+
+
+
+ * The above listed tests (if any) were developed and the performance
+
+ characteristics determined by          Department of Pathology. These tests have
+
+ not been cleared or approved for commercial use by the U.S. Food and Drug
+
+Administration. The FDA has determined that FDA review is not required for
+
+such in-house assays. (21 CFR 809.30(e))
+
+
+
+
+OPERATIVE INFORMATION
+
+DIAGNOSIS: LUNG NODULE; PROCEDURE: BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+THORACOSCOPY VIDEO ASSISTED
+
+
+
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+
+ICD-9(s): 162.3
+
+CPT(s): A: 88309, 88331, 88332, 88334, 88342 ck7, 88342 ck20, 88342 ttfl,
+
+88342 cdx2
+
+B: 88307
+
+C: 88307
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed, and actively participated in all key decisions.
+
+
+
+
+Lab and Collection
+PATHOLOGY SURGICAL    • Lab and Collection Information
+
+
+
+
+PATHOLOGY SURGIC,
+
+Pathology
+
+
+
+
+Procedure Location:
+ [rrter'a
+   agn-Js Discrepancy
+    mary Tumor S: te (jiscrepanc y
+ HI)AA Disrrepanc y
+_Pnur A;^IiPnanc• Hi
+G; .3 I/S Vt-chronous
+                             N- tea
+Oise is !circle):
+                            QJA:lrl[D
+ tvie.Ver Initials
+
+
+                                        1

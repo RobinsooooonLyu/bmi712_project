@@ -1,0 +1,126 @@
+UUID: A835FO45 -7783- 4EBD - 8883 - D24E244535FC
+                          TCGA-44-A476-91A-PR                    Redacted
+
+                 111111111111111 I I111111111I I I I I I I 111111I 11111111111111111 I I           LD-o-3
+                 III II I IIIIIIIIII I IIIIIIIIIIIIIIIIIIII II IIIIIIIIII II I II II I II II III
+                 I I I I I I I I I I I I 1111111111111111111111111111111111 I I I                  ad Cn cc_a.rc (rI v rflc , r             S
+                                 1.14       surgical Pathology Report
+
+
+  Procedure:
+                                                                                                    c3i ..        ) c c,^   cam.       ^bc
+  Diagnosis
+  A.
+                                                                                                             C) -s -)Z
+                                                                                                                                   c3-, 1
+        Lung, right upper lobe, excision                                                                           ^C.
+  Moderately differentiated adenocarcinoma, 3.3 cm in greatest dimension,
+  without definite pleural invasion (pT2a, see microscopic description).
+  Bronchial and vascular resection margins negative for tumor.
+  Hilar lymph nodes negative for tumor.
+
+  B-F.
+        Lymph nodes, level 11, 4R, level 8, level 7, and 2R, excisions -
+  Negative for tumor.
+
+ Microscopic Description:
+ The following template summarizes the findings in this case:
+
+ Histologic type: Adenocarcinoma, comprising the mass lesion in part A.
+ There may be a minor component of squamous cell carcinoma also present,
+ but it is not a significant component of the tumor.
+ Histologic grade: Moderately differentiated
+ Primary tumor (pT):   pT2a.    The tumor is 3.3 cm in greatest dimension,
+ without definite pleural invasion.
+                                        An elastic stain is examined on
+ block A5 to aid in assessment.
+ Margins of resection: Negative for tumor
+ Direct extension of tumor: Not definitively identified
+ Vascular invasion:
+                      Favor lymphatic invasion present focally.
+ Regional lymph nodes (pN): pNO. The hilar lymph nodes in part A, as
+ well as the separately submitted lymph nodes in parts B-F, are negative
+ for tumor.
+ Distant metastasis (pM):    Not applicable
+ Other findings: There are some inflammatory changes within the
+ carcinoma.
+
+
+ Specimen
+ A.  Right upper lobe
+ B.  Level 11 node
+C.     4R node
+D.     Level 8
+E.     Level 7
+F.     2R
+
+
+Clinical Information
+PRE-OP DIAGNOSIS: Lung mass
+
+
+Intraoperative Consultation
+A.  Adenocarcinoma.
+
+
+
+
+Gross Description
+A. Received fresh in a container labeled "right upper lobe" is a 182 g,
+16 x 9.8 x 3.5 cm, lobectomy specimen. The bronchial stump is 1 cm
+long , and 1.4 x 0.7 cm in cross-section. The bronchial stump and
+vessels at the margin are grossly unremarkable. Several staple lines
+are present along the medial aspect of the specimen. The pleura is
+generally tan-pink-purple.
+                            There is an area of pleural retraction,
+which is inked, with a palpable underlying mass lesion. On sectioning
+            there is a circumscribed 3.3 x 3 x 2.5 cm rubbery tan-white
+this area,
+       subjacent to the pleural retraction. The mass extends very
+mass,
+peripherally, but there is no definite pleural invasion grossly. The
+      is not near the margin. The lung away from the mass is spongy and
+mass
+tan-red, without additional focal lesion. There are a few soft
+gray-black hilar lymph nodes present, up to 1 cm greatest dimension.
+Tissue is taken for tissue procurement per the clinical request.
+RS-10.
+BLOCK SUMMARY: Al - bronchial margin; A2 - vascular margins; AFS1,A3-A6
+- tumor, including relation to pleural surface and to uninvolved lung;
+A7,A8 - lung away from tumor; A9 - three hilar lymph nodes.
+
+   Received fresh in a container labeled "level 11" are two soft
+B.
+tan-pink to gray-black lymph nodes, averaging 0.6 cm in greatest
+dimension.   AS-1.
+
+ C. Received fresh in a container labeled "4R node" are three soft
+ tan-pink to gray-black lymph nodes, ranging from 0.4 cm to 1.1 cm in
+ greatest dimension.  AS-1.
+                                                        three soft
+ D. Received fresh in a container labeled "level 8" are
+ tan-pink to gray-black lymph nodes, ranging from 0.5 cm to 1 cm in
+ greatest dimension.  AS-1.
+
+    Received fresh in a container labeled "level 7" is a desiccated 0.2
+ E.
+ cm in greatest dimension gray-black tissue fragment. AS-1.
+
+
+ F. Received fresh in a container labeled "2R" are two soft
+                               0.2 cm and 0.9 cm in greatest dimension.
+ tan-pink-yellow lymph nodes,
+ AS-1.
+
+
+
+
+                                                                   rlteria
+                                                                   iagnosisCi;uepancy         __
+                                                                   rimary 7wnor Site Dis ,.pancy
+                                                                   IPM Discrepancy
+                                                                   riot (AalignancY History
+                                                                   ual/Synchronous Prii        ed
+                                                                                               AUFIED      DI
+                                                                                                 a Reviewed:    ^1,,,
+                                                                    <v^ower initials _

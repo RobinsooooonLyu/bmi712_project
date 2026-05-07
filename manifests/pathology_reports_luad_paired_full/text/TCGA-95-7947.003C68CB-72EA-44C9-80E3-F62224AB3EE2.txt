@@ -1,0 +1,284 @@
+nnl",pnto~1 Document
+
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures   • • • rel~arding
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+Document Type:
+Document Date:
+Document Status:
+Document Title:
+Encounter info:
+
+                                                                 * Final Report *
+APRPT (Verified)
+
+
+
+
+Patient Name:                                                                                                    Acc#:
+MRN:
+
+Location:                                                                  Gender:         M                     Collected:
+Client:                                                                                                          Received:
+Submitting                                                                                                       Reported:
+Phys:
+
+
+
+
+                                                 Final Surgical Pathology Report
+
+ Final Pathologic Diagnosis
+ A.         LUNG, LEFT UPPER LOBE, WEDGE RESECTION, A1FS:
+            - ADENOCARCINOMA, MIXED SUBTYPE, WITH ACINAR, PAPILLARY AND MICROPAPILLARY PATTERNS OF
+            GROWTH.
+            THE CARCINOMA IS MODERATELY DIFFERENTIATED AND MEASURES 1.5 X 1.1 X 0.7 CM.
+            -ANGIOLYMPHATIC INVASION IDENTIFIED.
+            - NO VISCERAL PLEURAL INVASION IS IDENTIFIED.
+            - SURGICAL PARENCHYMAL MARGIN IS NEGATIVE FOR CARCINOMA.
+            - SEE SYNOPTIC REPORT.
+
+ B.         LYMPH NODES, #6, EXCISION, B1 FS:
+            - FIVE LYMPH NODE FRGAMENTS, NEGATIVE FOR METASTATIC CARCINOMA (0/5).
+            - PARTIALLY CALCIFIED, FIBROTIC NODULES, NEGATIVE FOR CARCINOMA.
+
+ C.          LYMPH NODES, #7, EXCISION, C1FS:
+             - THREE LYMPH NODES, NEGATIVE FOR METASTATIC CARCINOMA (0/3).
+
+
+
+
+ Printed by:                                                                                                                             Page 1 of 5
+ Printed on:                                                                                                                             (Continued)
+                                                                                               Document
+ This infonnation is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures o f _ r e g a r d i n g
+ patient information. Any unauthorized use, disclosure, or reproduction of this infomlation is strictly prohibited.
+
+
+
+ Anat Path Reports
+ * Final Report *
+
+
+
+ D.        LYMPH NODE, #9, EXCISION, D1 FS:
+           - ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+
+ E.        LYMPH NODE, 10L, EXCISION, E1FS:
+           - ONE LYMPH NODE, NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+
+F.         LUNG, LEFT UPPER LOBE, MEDIAL, WEDGE RESECTION:
+           - LUNG WITH BULLOUS EMPHYSEMATOUS CHANGES.
+           - NEGATIVE FOR CARCINOMA.
+
+Comment
+Immunohistochemical and special stains (all on block A3):
+          - CK7 --------------------------------- positive
+          - CK20 ------------------------------- negative
+          - TTF 1 -------------------------------- positive
+          - Napsin A --------------------------- negative
+          - Pax 8 -------------------------------- negative
+          - Mucicarmine ---------------------- positive (focal)
+This staining profile is compatible with a lung primary.
+
+
+
+
+-
+Synoptic Worksheet
+A. Wedge excision left upper lobe:
+   Specimen:                                        Lung
+   Procedure:                                      Wedge resection
+   Specimen Integrity:                             Intact
+   Specimen Laterality:                            Left
+   Tumor Site:                                     Upper lobe
+   Tumor Focality:                                 Unifocal
+   Histologic Type:                                Adenocarcinoma, mixed subtype
+   Histologic Grade:                               G2: Moderately differentiated
+   Tumor Size:                                     Greatest dimension: 1.5 cm
+                                                   Additional dimension: 1.1 cm
+                                                   Additional dimension: 0.7 cm
+      Visceral Pleura Invasion:                    Not identified
+      Tumor Extension:                             Not applicable
+      Bronchial Margin:                            Involvement by invasive carcinoma not applicable
+                                                   Involvement by squamous cell carcinoma in situ (CIS) not applicable
+      Vascular Margin:                             Not applicable
+
+
+
+
+Printed by:
+Printed on:                                                                                                                               Page 2 of 5
+                                                                                                                                          (Continued)
+                                                                                  nfidential Document
+This information is subject to all Federal and State laws     IIlg confidentiality and privacy and to the policies and procedures o f _ r e g a r d i n g
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+     Parenchymal Margin:                            Uninvolved by invasive carcinoma
+     Parietal Pleural Margin:                       Not applicable
+     Chest Wall Margin:                             Not applicable
+     Other Attached Tissue Margin:                  Not applicable
+     Treatment Effect:                              Not applicable
+     Lymph-Vascular Invasion:                       Present
+     TNM Descriptors:                               Not applicable
+     Primary Tumor (pT):                            pT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or
+                                                    visceral pleura, without bronchoscopic evidence of invasion more proximal
+                                                    than the lobar bronchus (ie, not in the main bronchus); or Superficial
+                                                    spreading tumor of any size with its invasive component limited to the
+                                                    bronchial wall, which may extend proximally to the main bronchus
+      Regional Lymph Nodes (pN):                    pNO: No regional lymph node metastasis
+                                                    Number of nodes examined cannot be determined
+      Distant Metastasis (pM):                      Not applicable
+
+
+
+
+Clinical History
+Left VATS, upper lobe wedge, lymph node dissection. Laryngeal cancer.
+
+Specimen(s) Received
+A: Wedge excision left upper lobe
+B: #6 Lymph node
+C: #7 Lymph node
+D: #9 Lymph node
+E: 10 L lymph node
+F: Medial wedge excision left upper lobe
+
+ Gross Description
+ Specimen A is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and labeled
+ "wedge excision, left upper lobe." It consists of a wedge of lung that weighs 23.8 gram and measures 10.8 x 4.7 x 2.2 cm. There
+ is a firm, well-defined lesion (that was previously incised) that measures 1.5 x 1.1 x 0.7 cm. The lesion is 0.4 cm from the
+ parenchymal margin and p u c k eIr s , , - h eainder of the lung is unremarkable. The pleura is inked blue. Sections are
+ submitted as follows: Dictated by
+ A2,A3:               Lesion pleura an margin
+ A4;                  Tumor in relation to surrounding lung
+ A5:                  Representative sections of uninvolved lung parenchyma
+
+ Specimen B is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and as
+ additionally "#6 lymph node for frozen." It consists of multiple pieces of soft tissue measuring in aggregate, 1.8 x 1.7 x 0.9 cm.
+ The tissue is partially calcified. The non-calcified portions are submitted for frozen and the contents of the cryoblock are
+ sub              . ...... : 1 FS." The calcified tissue is sectioned and submitted for decal in its entirety in cassette "B2." Dictated
+ by
+
+
+
+
+ Printed by:                                                                                                                                Page 3 of 5
+ Printed on:                                                                                                                                (Continued)
+                                                        ~onfidential Document
+This information is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+Specimen C is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and "#7
+lymph node." It consists of four pieces of soft tissue in aggregate measuring 1.5 x 0.2 x O.   II  • ... • ... II ....
+                                                                                                                       is entirely
+submitted for intraoperative consultation and transferred to cassette "C1 FS." (Dictated by
+
+Specimen D is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and "#9
+lymph node." It consists of a fatty soft tissue fragment measuring 0.6 x 0.4 x~en is entirely submitted for
+intraoperative consultation and transferred to cassette "D1FS." (Dictated by ~
+
+Specimen E is received fresh for intraoperative consultation, labeled with the patient's name, medical record number and "10L
+lymph node." It consists of a soft tissue fragment measuring 0.6 x 0.5 x 0.4 ~ntirely submitted for
+intraoperative consultation and transferred to cassette "E1 FS." (Dictated b y - . . . . . .
+
+Specimen F is received in formalin, labeled with the patient's name, medical record number and additionally "medial wedge
+excision, left upper lobe." It consists of a wedge of lung that measures 8.1 x 2.0 x 2.0 cm and weighs 15 grams. There is a
+pleural bleb that measures 2.8 x 1.9 x 1.9 cm. The remainder of the lung is unrema~ymal margin is inked
+green and the pleura is inked blue. Sections are submitted as follows: Dictated b y _
+F1:                Section of bleb and normal lung parenchyma
+F2:                Normal lung parenchyma
+
+
+
+
+Intraoperative Consult Diagnosis
+A 1FS:                 LUNG, LEFT UPPER LOBE (FROZEN SECTION): ADENOCARCINOMA.
+           ~rozen section resultlllw
+                                r    municated to the surgical team and were repeated back
+           _inat~uta
+ B1FS,B1TP:            #6 LYMPH NODE (F        Z N SECTION AND TOUCH PREPARATION): NEGATIVE FOR CARCINOMA.
+                       Frozen section results were communicated to the surgical team and were repeated back b~n
+                       _ i n at~ out a t . -
+                       #7""LY'M'PH N~OZEN~: THREE LYMPH NODES NEGATIVE FOR CARCINOMA.
+
+
+
+-
+ C1FS:
+                       Frozen section results were communicated to the surgical team and were repeated back b Y _ O n
+
+                       at          and start t i m e ' -
+
+
+
+
+-
+ D1FS:                 #9 LYMPH NODE (FROZEN"'SEcTiON): ONE LYMPH NODE NEGATIVE FOR CARCINOMA.
+                       Frozen section results were communicated to the surgical team and were repeated back b y _ o n
+
+                       a t _ a n d start t i m e ' -
+                       #10 LYMPH NODE (FRO~ON): ONE LYMPH NODE NEGATIVE FOR CARCINO~
+
+
+
+
+-
+ E1FS:
+                       Frozen section results were communicated to the surgical team and were repeated back by~n
+
+                       at ~nd start t i m e _
+
+            patholOgist.
+
+
+
+
+ Printed by:                                                                                                                         Page 4 of 5
+ Printed on:                                                                                                                         (Continued)
+                                                         ~onfidential Document
+ This information is subject to all Federal and State lawS~ity and privacy and to the policies and procedures
+ patient information, Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited,
+
+
+
+ Anat Path Reports
+ * Final Report *
+
+
+
+ Microscopic Description
+ Microscopic examination performed,
+
+ ANAL YTE SPECIFIC REAGENT (ASR) DISCLAIMER:
+                                    Class I ASRs, These tests were developed and their performance characteristics determined
+                                      have not been cleared or approved by the Federal Drug Administration (FDA), The FDA
+                                go through   p~emarketFDA  revi w     se tests are used for clinical purposes, and should not be
+regarded as investigational or for research,                          s certified under the Clinical Laboratory Improvement
+Amendments (CLlA) as qualified to perform Ig complexity clinical laboratory testing,
+
+
+
+
+Printed by:
+Printed on:                                                                                                               Page 5 of 5
+                                                                                                                      (End of Report)

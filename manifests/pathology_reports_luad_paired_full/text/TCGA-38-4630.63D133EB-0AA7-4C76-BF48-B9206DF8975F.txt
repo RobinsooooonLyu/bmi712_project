@@ -1,0 +1,111 @@
+TCGA-38-4630
+
+
+   .agnosis:
+ r\:Lung, right upper lobe, lobectomy
+ -Adenocarcinoma, poorly differentiated, with focal papillary architecture, 4.5 em diameter, morphologically
+ similar to previous uterine papillary serous carcinoma, bronchial margin not involved, pleural margin focally
+ involved (see light microscopy)
+
+ B: Lymph node, Station 7, biopsy
+ - No metastatic carcinoma identified (0/1)
+
+ C: Lymph node, R9, biopsy
+ - No metastatic carcinoma identified {0/4)
+
+ D: Lymph node, RlO, biopsy
+ - No metastatic carcinoma identified {0/2)
+
+ Corrunent:
+ None
+
+Intraoperative Consultation:
+A frozen section is requested by Dr
+
+ FSAl: Right upper lobe, lobectomy, bronchial margin
+ - No in situ or invasive carcinoma identified
+
+
+Clinical History:
+The patient is with non-small cell lung carcinoma of the right upper lobe.
+
+Gross Description:
+Received are four appropriately containers.
+
+Container A is additionally labeled "right upper lobe." Within is a plastic yellow biopsy cassette labeled FSAl.
+Also within is the lobectomy specimen.
+
+   ecimen fixation: formalin
+
+Type of specimen/parts of lung received: right upper lobe partial lobectomy
+
+Size of specimen: 13 x 12 x 4.5 em
+
+Weight of specimen: 220 grams
+
+Other attached structures: none
+
+Tumor size: 4.5 x 4.1 x 3.5 em
+
+Tumor description: ovoid, circumscribed, tan and solid with central softening
+
+Relationship of tumor to bronchus: directly involving a medium sized bronchus
+
+Distance of tumor to bronchial margin: 9 mm
+
+Relationship/distance of tumor to pleura: the tumor grossly comes to within 1 mm of the visceral pleural surface
+but not directly involving it (the overlying pleura is pink/purple and smooth)
+
+Distance of tumor to other surgical margins: a 9 em linear stapled margin of resection runs parallel to the
+longitudinal axis of the ovoid tumor; the tumors closest approximation to this stapled margin
+is approximately 1 em
+
+Presence/absence of satellite tumor nodules: absent
+
+Description of nontumorous lung: unremarkable pulmonary parenchyma
+
+Block Summary:
+
+Al,A2 - tumors relationship to bronchus
+A3,A4 ~ tumors relationship to pleura
+·-=. ~ tumor
+     - tumor at area of central softening
+n/ - tumor/normal parenchymal interface
+A8 - representative sections of normal parenchyma
+A9 - en face section of previously inked hilum
+
+Container B is additionally labeled "station 7." Within are two brown/black soft
+tissue fragments measuring 1.1 x 0.5 x 0.4 em in aggregate. (              )
+
+Container Cis additionally labeled "R9." It holds a 1.5 x 0.6 x 0.5 em tan/gray soft tissue specimen is
+bisected and entirely submitted in block Cl.
+
+  Jntainer Dis additionally labeled "RlO lymph node." Within is a 0.9 x 0.5 x 0.4 em tan/gray soft tissue
+specimen which is bisected and entirely submitted in block Dl
+
+Light Nicroscopy:
+I,ight microscopic examination is performed by Dr.
+
+The frozen section diagnosis is confirmed.
+
+(Specimen A)
+
+Tumor histologic type (WHO classification) : adenocarcinoma, with focal papillary
+features
+
+Tumor histologic grade {WHO classification) : poorly differentiated
+
+
+Tumor size (greatest dimension): 4.5 em diameter
+
+Histologic assessment of surgical margins: bronchial margin not involved
+
+Pleural involvement: focally {+) {block A3)
+
+In situ carcinoma: no definite in situ carcinoma identified
+
+Invasion:
+angiolymphatic - present {small vein)
+perineural - not identified
+
+Lymph nodes {by node group): no metastatic carcinoma identified {0/7 total)

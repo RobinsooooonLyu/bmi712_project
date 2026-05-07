@@ -1,0 +1,95 @@
+UUID : 3723B92A - EFB6 - 4239-9D26 - B88AF56252CE
+                                                                                                TCGA- 4B-A93V - 01A-PR                Redacted
+
+                                                                                  - I I 111111111111111111111111111111111111111111111011111111111111111
+                                                                                          1111 I 1111111 I 111111111 1111 I I 1 I I 1111111111111111111 I I
+                                                                                       III 11111111111111111111111111101111111111111111IIIIIIIIIIIIIIII
+                                      SURGICAL PATHOLOGY REPORT
+ Patient:                                                                                                          Accession:
+
+ DOB:Age:s Sex: F                                        Account:                                              Date Collected:
+ MRN: -l       L                                                                                               Date Received:
+ Requested by:                                                                                                 Date Reported:
+ Copy to:   -Am
+
+Clinical Data : Rignt lung cancer, total cancer care
+
+
+
+
+1.      Right lower lobe of lung, lobectomy (201.5 grams):
+        Adenocarcinoma . See Synoptic Report.
+                                                                            oklux, dat&4,L^^
+2,      Right peribronchial lymph node , excision:
+        One lymph node is negative for malignancy (0/1).
+
+
+        Right paratracheal lymph node , excision:
+                                                                                                           1
+3.
+        Two lymph nodes are negative for malignancy (012).
+
+        SYNOPTIC REPORT
+        Tumor site:                              Right lower lobe
+        Specimen integrity:                      Intact
+        Tumor size:                              3 cm
+        Tumor locality:                          Unifocal
+        Histologic type:                         Adenocarcinoma
+        Histologic grade:                        Moderate to poorly differentiated (G2-G3)
+        Visceral pleural invasion:               Not identified
+        Microscopic extent of tumor:             Tumor surrounded by lung, without evidence of invasion more proximal than the
+                                                 lobar bronchus
+            Margins:                             Uninvolved by invasive carcinoma
+              Bronchial margin:                  Negative for tumor
+              Vascular margin:                   Negative for tumor
+              Parenchymal margin:                Negative for tumor
+            Treatment effect:                    Not identified
+            LymphNascular Invasion:              Absent
+            Regional lymph nodes:                Three lymph nodes are negative for tumor (0/3)
+            Pathologic Tumor Stage:               pT1b pN0
+
+            Comment : Sections from the tumor are remarkable for predominantly moderately differentiated adenocarcinoma. More
+            solid areas are identified , and therefore , immunohistochemical stains for cytokeratin -7, cytokeratin-5/6, TTF- 1, and p63
+            were performed to evaluate for a mixed subtype . The tumor is positive for cytokeratin -7 and TTF-1 only, confirming an
+            adenocarcinoma . Molecular studies may be indicated,
+
+
+
+
+                                                                                                                                                 Page 1 of 2
+                     SURGICAL PATHOLOGY REPORT - CONTINUED
+
+
+
+
+                                                                                   Pathologist , Electronic Signature
+
+
+SPECIMEN ( S) SUBMITTED : GROSS DESCRIPTION
+1.    Right lower lobe of lung: Received initially in the fresh state labeled "right lower lobe of lung" is a 201.5 gram, 15.5 x
+      11.5 x 3.5 cm lung lobe. The pleura displays a abundant anthracotic pigment. Sectioning reveals a well circumscribed 3
+      cm in greatest dimension firm tumor within the anterior basal segment. The tumor lies 2.8 cm from the bronchial margin
+      of resection . The tumor abuts , but does not penetrate through the overlying pleura . The remaining parenchyma is
+      spongy red-brown . No hilar lymph nodes are identified . The pleura overlying the tumor is inked black . Representative
+      sections are submitted in 5 cassettes as A-B tumor to include overlying pleura , C tumor to include uninvolved lung
+      parenchyma , D normal lung parenchyma , E bronchial and vascular margins.
+2.    Right peribronchial lymph node : In formalin labeled "right peribronchial lymph node " is a 0.7 cm lymph node which is
+      submitted in toto in one cassette.
+3.    Right paratracheal lymph node . in formalin labeled " paratracheal lymph node" are 2 lymph node fragments
+      aggregating 1.2 cm which is submitted in toto in one cassette.
+
+CPT CODE(S):                               ICD-9 CODE(S):                              FACILITY:
+88342 x4, 88309, 88305 x2                  [1625)
+
+
+
+
+                                                         END OF REPORT
+                                                                                             Crkeria                   /•2- f3 /3   Yes
+                                                                                             Diagnosis Discrepancy
+                                                                                             Primary Tumor Site Discrepancy
+                                                                                             HIPAA Discrepancy
+                                                                                             Prior Malignancy History
+                                                                                             Dual/Synchronous Primary No d
+                                                                                             Case is (circle):    _   QUALIF
+                                                                                             Reviewer Initial

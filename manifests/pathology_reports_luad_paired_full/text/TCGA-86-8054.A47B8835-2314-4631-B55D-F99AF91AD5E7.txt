@@ -1,0 +1,23 @@
+TCGA Pathology Reports
+          OpenClinica ID Gross         Microscopic   Diagnosis   Comments
+     ID                  Description   Description   Details
+Formatted Path Report                           Laterality/lo   Date of excision
+                                                cation
+LUNG TISSUE CHECKLIST                           Right- upper
+
+Specimen type: Lobectomy
+Tumor site: Lung
+Tumor size: 6 x 6 x 7 cm
+Histologic type: Acinar cell adenocarcinoma
+Histologic grade: Poorly differentiated
+Tumor extent: Not specified
+Other tumor nodules: Not specified
+Lymph nodes: 3/13 positive for metastasis
+(Hilar 3/13)
+Lymphatic invasion: Not specified
+Venous invasion: Not specified
+Margins: Not specified
+Evidence of neo-adjuvant treatment: Not
+specified
+Additional pathologic findings: Not specified
+Comments: None

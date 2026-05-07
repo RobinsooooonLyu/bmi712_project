@@ -1,0 +1,26 @@
+Case ID Gross Description   Microscopic   Diagnosis
+                            Description   Details
+Comments   Formatted Path Report
+                                                 ica ID
+           LUNG TISSUE CHECKLIST
+
+           Specimen type: Lobectomy
+           Tumor site: Lung
+           Tumor size: 3 x 2.5 x 2 cm
+           Histologic type: Bronchiolo-
+           alveolar carcinoma, mucinous
+           Histologic grade: Moderately
+           differentiated
+           Tumor extent: Not specified
+           Other tumor nodules: Not
+           specified
+           Lymph nodes: Not specified
+           Lymphatic invasion: Not specified
+           Venous invasion: Not specified
+           Margins: Not specified
+           Evidence of neo-adjuvant
+           treatment: Not specified
+           Additional pathologic findings: Not
+           specified
+           Comments: Left, lower
+Excision date

@@ -1,0 +1,98 @@
+Clinical History/Diagnosis: Right lung cancer.
+
+Source of Specimen(s):
+A: Portion of sixth Rib
+B: Mediastinal Lymph Node Level 9
+C: Right Level4 L.N.
+D: Level 7 L.N.
+E: Right Lung                                                               TCGA-64-5774
+Gross Description:
+Received in five patts.
+
+Source of Tissue: 1. Labeled #1 "portion of sixth rib"
+
+Gross Desctiption: Received fresh is a 1.5 em in greatest dimension tan
+fragment of rib having a minimal amount of attached soft tissue. A
+representative section is submitted in one block, following
+decalcification.
+
+Designation of Sections: block 1
+
+Summary of Sections: undesignated- 1
+************************************************************************
+Source of Tissue: 2. Labeled #2 "mediastinal lymph node level 9"
+
+Gross Desctiption: Received fresh are two gray-black anthracotic stained
+lymph nodes, 0.8 em in greatest dimension. They are submitted in toto in
+one block.
+
+Designation of Sections: block 2
+
+Summary of Sections: undesignated- 2
+************************************************************************
+Source of Tissue: 3. Labeled #3 "right level4lymph node"
+
+Gross Description: Received fresh are two gray-black anthracotic stained
+tissue fragments, 1.0 em in greatest dimension. They are entirely
+submitted in one block.
+
+Designation of Sections: block 3
+
+Summaty of Sections: undesignated- multiple
+************************************************************************
+Source of Tissue: 4. Labeled #4 "level7lymph node"
+
+Gross Desctiption: Received fresh are 3.0 x 2.0 x 0.8 em of yellow-tan
+fibroadipose tissue. The fragments are sectioned to reveal multiple
+anthracotic stained lymph nodes, 1.5 em in greatest dimension. The tissue
+is entirely submitted in four blocks.
+Designation of Sections: 4A-4D
+                                                                     CGA-64-5774
+Summary of Sections: multiple
+*************************************************                   ****************
+Source of Tissue: 5. Labeled #5 "right lung"
+
+                    gnm;i·s: SFS NEGATIVE MARGIN OF RESECTION PER
+
+
+Gross Description: Received fresh for frozen section evaluation is a 797
+gm, 20.0 x 20.0 x 5.5 em right pneumonectomy. It is covered by a pink-red
+to purple focally anthracotic stained pleura having up to 2.0 em of
+attached bronchus. The bronchial resection margin is submitted for frozen
+section evaluation and the frozen section residue is submitted in one
+block. In the hilar area, adjacent to the bronchus is a 7.0 x 5.0 x 3.0
+em firm mass having tan anthracotic stained cut surfaces. The remaining
+cut surfaces of lung range from areas which are tan-pink and crepitant to
+areas which are red-purple, soft and glistening. There are multiple
+palpable hilar lymph nodes, 1.0 em in greatest dimension. The cut surface
+of each is gray-black and anthracotic stained. Representative sections
+are submitted in eleven blocks.
+
+Designation of Sections: SFS frozen section bronchial resection margin, SA
+vascular margins, 5B-5F tumor, 5G-5H random lung sections, 5I-5K hilar
+lymph nodes
+
+Summary of Sections: multiple
+************************************************************************
+Final Diagnosis:
+1. P01tion of 6th rib, excision:
+- No tumor seen.
+
+2. Mediastinal lymph node, level 9, excision:
+- No tumor seen in four lymph nodes (0/4).
+
+
+
+
+                                   1
+3. Right leve14 lymph node s, excision:
+- No tumor seen in five lymph nodes (0/5).
+
+4. Level 7 lymph nodes, excision:
+- No tumor seen in thirteen lymph no es (0/13).
+
+5. Right lung, pneumonectomy:
+- Poorly differentiated adenocarcin a with clear cell changes (7 em); no
+invasion of visceral pleura.
+- Negative bronchial and vascular margins.
+- No tumor seen in fifteen peribronchial lymph nodes (0115).

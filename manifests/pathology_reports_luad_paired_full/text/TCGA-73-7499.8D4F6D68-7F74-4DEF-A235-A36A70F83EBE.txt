@@ -1,0 +1,156 @@
+TSS:
+
+SPECIMENS:
+   A. 4R LYMPH NODE
+   B. 2ND 4R LYMPH NODE
+   C. 4L SUPERIOR LYMPH NODE
+   D. 4L INFERIOR LYMPH NODE
+   E. LEVEL 7 LYMPH NODE
+   F. 2R LYMPH NODE
+   G. 2L LYMPH NODE
+   H. RIGHT UPPER LOBE
+   I. LEVEL 4R LYMPH NODES
+   J. LEVEL 7 LYMPH NODES
+
+SPECIMEN(S):
+   A. 4R LYMPH NODE
+   B. 2ND 4R LYMPH NODE
+   C. 4L SUPERIOR LYMPH NODE
+   D. 4L INFERIOR LYMPH NODE
+   E. LEVEL 7 LYMPH NODE
+   F. 2R LYMPH NODE
+   G. 2L LYMPH NODE
+   H. RIGHT UPPER LOBE
+   I. LEVEL 4R LYMPH NODES
+   J. LEVEL 7 LYMPH NODES
+
+DIAGNOSIS:
+   A. LYMPH NODE, 4R, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   B. LYMPH NODE, ADDITIONAL 4R, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   C. LYMPH NODE, 4L SUPERIOR, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   D. LYMPH NODE, 4L INFERIOR, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   E. LYMPH NODE, LEVEL 7, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   F. LYMPH NODE, 2R, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   G. LYMPH NODE, 2L, BIOPSY:
+   - ONE BENIGN LYMPH NODE (0/1).
+
+   H. LUNG, RIGHT UPPER LOBE, LOBECTOMY:
+   - INFILTRATIVE MODERATELY DIFFERENTIATED ADENOCARCINOMA (3CM).
+   - BRONCHIAL MARGIN IS NOT INVOLVED.
+   - ONE BENIGN PERIBRONCHIAL LYMPH NODE (0/1).
+
+   I. LYMPH NODE, 4R, DISSECTION:
+   - FIVE BENIGN LYMPH NODE (0/5).
+
+   J. LYMPH NODE, LEVEL7, DISSECTION:
+   - NINE BENIGN LYMPH NODE (0/9).
+
+
+   SYNOPTIC REPORT - LUNG
+   Specimens Involved
+   Specimens: H: RIGHT UPPER LOBE
+TSS:
+
+    Surgical Procedure: Lobectomy
+    Laterality:   Right
+    Tumor Site: Upper lobe
+    Tumor Location:        Peripheral
+    Tumor Size: Greatest diameter:             3cm
+    Additional dimensions:           2.5cm x 2cm
+    WHO CLASSIFICATION
+    Adenocarcinoma
+    Mixed subtypes 8255/3
+    Dominant Histologic Subtype: Acinar
+    Proportion of Subtype: Lepidic 40% Acinar 50% Solid 10%
+    Histologic Grade:      G2: Moderately differentiated
+    Angiolymphatic Invasion:         Absent
+    Bronchial Margins:     Bronchial margins uninvolved
+    Tumor Distance from margin: 2cm
+    Visceral Pleural Involvement: Absent
+    Satellite Tumor(s):    Absent
+    Lymph Node Involvement:          N1: Ipsilateral Hilar and/or Peribronchial (levels 10-14)
+    Negative 0 / 1
+    N2: Ipsilateral Mediastinal and/or Subcarinal (Levels 1-9)
+    Negative 0 / 18
+    N3: Contralateral Mediastinal/Hilar, Scalene or Supraclavicular
+    Negative 0 / 2
+    Non-Neoplastic Lung: Emphysematous changes
+    Atelectasis
+    Additional Pathologic Findings: None identified
+    Pathological Staging (pTNM):        pT 2a     N0       Mx
+    Pathological staging is based on the AJCC Cancer Staging Manual, 7th Edition
+
+GROSS DESCRIPTION:
+   A. 4R LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘4R lymph node’ are
+   multiple tan red soft tissue fragments aggregating to 1.1 x 0.9 x 0.3cm. Toto FSA.
+   B. 2ND 4R LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘2nd 4R lymph node’ are
+   multiple tan red soft tissue fragments aggregating to 1.2 x 0.9 x 0.3cm. Toto FSB.
+   C. 4L SUPERIOR LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘4L superior lymph node’
+   are multiple tan red soft tissue fragments aggregating to 0.8 x 0.8 x 0.2cm. Toto FSC.
+   D. 4L INFERIOR LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘4L inferior lymph node’ are
+   multiple tan red soft tissue fragments aggregating to 0.8 x 0.4 x 0.4cm. Toto FSD.
+   E. LEVEL 7 LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘Level 7 lymph node’ are
+   multiple tan red soft tissue fragments aggregating to 0.8 x 0.8 x 0.3cm. Toto FSE.
+   F. 2R LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘4R lymph node’ are two
+   tan red soft tissue fragments aggregating to 0.8 x 0.4 x 0.2cm. Toto FSF.
+   G. 2L LYMPH NODE
+   Received fresh for frozen section labeled with the patient’s identification and ‘4L lymph node’ are
+   multiple tan red soft tissue fragments aggregating to 0.6 x 0.3 x 0.3cm. Toto FSG.
+
+              UPPER LOBE LUNG
+    Received fresh labeled with the patient's identification and designated "right upper lobe" is a right upper
+    lung lobectomy specimen, weighing 198 grams and measuring 16 x 8 x 3.2 cm. The pleural surface
+    demonstrates an area of puckering, 2.1 x 1.3 cm, inked black. Sectioning shows a gray-tan mass
+    measuring 3 x 2.5 x 2.0 cm, located approximately 2 cm from bronchial margin and 1.3 cm from pleural
+    surface. The remainder of the specimen shows pink red congested lung parenchyma. A portion of the
+    specimen is submitted for tissue procurement. Representative sections submitted:
+    H1: Bronchial margin from the frozen section
+    H2: Tumor section, from the frozen section
+    H3-4: Tumor with pleura
+TSS:
+
+   H5: Tumor with closest bronchial branch
+   H6-7: Section from puckering area
+   H8: Uninvolved lung parenchyma
+   H9: Hilar lymph nodes
+   I. LEVEL 4R LYMPH NODES
+   Received in formalin labeled with the patient's identification and "level 4R lymph nodes" are pieces of
+   yellow-tan soft tissue admixed with black-tan lymph nodes in aggregate measuring 3.1 x 2.4 x 0.6 cm;
+   submitted entirely in cassettes I1-I2.
+   J. LEVEL 7 LYMPH NODE
+   Received in formalin labeled with the patient's identification and "level 7 lymph node" is an aggregate of
+   black-tan lymphoid tissue pieces, 3 x 2 x 0.7 cm; submitted entirely in cassettes J1-J2.
+
+CLINICAL HISTORY:
+    None provided.
+
+PRE-OPERATIVE DIAGNOSIS:
+   Right upper lobe mass.
+
+   INTRA-OPERATIVE DIAGNOSIS:
+   FSA-FSB-FSC: 4R LN- 2nd 4R LN- 4L superior LN: Negative for carcinoma. Diagnosis called to
+
+   FSD-FSE-FSF-FSG: 4L inferior LN-Level 7 LN-2R LN- 2L LN: Negative for carcinoma. Diagnosis called
+   to
+   FS H1, Bronchial margin: Negative for malignancy, one peribronchial lymph node negative for
+   malignancy.
+   FSH2, Tumor section: Non-small cell carcinoma, favor adenocarcinoma.
+   Report called to

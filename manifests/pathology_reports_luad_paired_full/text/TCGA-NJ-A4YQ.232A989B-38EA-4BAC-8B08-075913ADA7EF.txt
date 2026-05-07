@@ -1,0 +1,412 @@
+UUID: 232A9899 - 38EA-49AC- 8808 -075913ADA7EF
+          TCGA-N7-A4YQ-eIA-PR                  Redacted
+   11111111111111111 IN 11111111111111 I I I I I I IN 11111111111111111
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+II I I II II II II I II II I I II IIII I I I III II IIIII I II I II I IIII II I I IIIII III
+       Procedure Location:
+
+
+
+
+         PATHOLOGY SURGICAL
+
+       Results
+
+
+                                                                                                                     r^^ Pes   f.2fs'l3
+                                                                                              C CF-   -   wl rini,
+
+
+
+       Entry Date
+
+
+
+
+      Component Results
+
+            PATHOLOGY RESULT:
+
+
+
+
+      Department of Pathology
+Final
+
+Clinical Data Repository * This report may not match the original report
+
+format
+
+
+
+
+FINAL DIAGNOSIS
+
+A. (Lung, left upper lobe; wedge resection ): Invasive poorly differentiated
+
+adenocarcinoma (grade 3 ), measuring 2.2 cm in greatest dimension.
+
+Lymphovascular invasion by tumor is present . Visceral pleura is negative for
+
+malignancy. Stage pTlbNO( PLO). See note.
+
+
+
+
+B. (Lymph node , level 5; biopsy): Fragment of benign lymph node tissue.
+
+Negative for malignancy.
+
+
+
+
+ C. (Lymph node , level 10; biopsy ): Fragment of benign lymph node tissue.
+
+ Negative for malignancy.
+
+
+
+
+ D. (Lymph node , level 12 ; biopsy): Fragments of benign lymph node tissue.
+
+ Negative for malignancy.
+
+
+
+
+ E. (Lung, left upper lobe; completion lobectomy ): Segment of lung tissue
+
+ negative for malignancy. Bronchial and vascular margins negative for
+
+ malignancy . Three hilar lymph nodes negative for malignancy.
+F. (Lymph node, level 6; biopsy): Fragments of benign lymph node tissue.
+
+Negative for malignancy.
+
+
+
+
+INTRAOPERATIVE CONSULTATION
+
+A. FROZEN: LEFT UPPER LOBEWEDGE: Non-small cell carcinoma, favor
+
+adenocarcinoma . (A91, TP, smear)
+
+
+
+
+E. LEFT UPPER LOBE-FROZEN ON BRONCHIAL MARGIN: Bronchial margin negative for
+
+malignancy. (E91)
+
+
+
+
+NOTE
+
+A. Immunostains performed on the tumor show the malignant cells are strongly
+
+positive for CK7, show weak and focal positivity for TTF- 1 and are negative
+
+for CK5/6 and P63 . This pattern supports the above diagnosis.
+Immunohistochemistry controls are examined and show appropriate reactivity.
+
+
+
+
+Lung Cancer Summary
+
+Specimen type: Wedge resection and completion lobectomy
+
+
+
+
+Tumor location : Left upper lobe
+
+
+
+
+Tumor size: 2.2 cm
+
+
+
+
+Histologic type: Adenocarcinoma
+
+
+
+
+Histologic grade: 3
+
+
+
+
+Status of margins:
+
+   Bronchial : Negative
+
+   Vascular : Negative
+
+   Parenchymal: Negative
+
+   Pleural: Negative
+
+
+
+
+ Visceral/Parietal pleural invasion: Absent
+
+
+
+
+ Lymphatic vascular invasion: Present
+
+
+
+
+ Lymph node status: Negative (levels 5, 10, 12, 6)
+Extension into other structures: Absent
+
+
+
+
+Non-neoplastic pathology: NA
+
+
+
+
+TMN stage: pT1bN0(PL0)
+
+
+
+
+GROSS DESCRIPTION
+
+A. The specimen is labeled left upper lobe wedge . Received fresh for frozen
+
+section, is a 6.5 x 1 . 8 x 0.9 cm lung wedge resection specimen with a 7.4 cm
+
+staple margin . There is a palpable mass underneath the pleural surface near
+
+the center of the specimen . The pleural surface around this area is inked
+
+green, and the specimen is serially sectioned to reveal a 2.2 x 1.8 x 1.5 cm
+
+somewhat irregular shaped , but well-defined, yellow- tan to grey-tan mass that
+
+approaches closest within 4 mm of the stapled margin and approximately 2 mm of
+
+the visceral pleural surface . A touch prep and smear are prepared and a
+
+representative section of the tumor is submitted for frozen section with the
+
+remnant placed in cassette A91. Additional representative sections are
+
+submitted as follows: Al staple margin, A2 and A3 additional sections of
+
+tumor with surrounding lung parenchyma, A4 additional section of lung
+
+parenchyma.
+
+
+
+
+B. The specimen is labeled level 5L. Received in formalin is a 1.7 x 1.5 x
+0.5 cm segment of black-tan lymphoid tissue. The specimen is bisected and
+
+entirely submitted in cassette 131.
+
+
+
+
+C. The specimen is labeled level 10 node . Received in formalin is a 1.8 x
+
+1.0 x 0 . 4 cm segment of black - tan lymphoid tissue. The entire specimen is
+
+submitted in cassette C1.        _
+
+
+
+
+D. The specimen is labeled level lumbar 12 node . Received in formalin are
+
+two fragments of soft black tissue that measures 0.3 x 0.2 x 0.2 cm and 0.2 x
+
+0.2 x 0.2 cm. The entire specimen is wrapped in blue paper and submitted
+
+entirely in cassette D1.
+
+
+
+
+ E. The specimen is labeled left upper lobe. Received fresh for frozen
+
+ section, is an 18 x 9 x 2.5 cm lung lobectomy specimen. There is an area of
+
+ hemorrhage possibly corresponding to the previous wedge site; however, no
+
+ additional masses or lesions are identified . The bronchial vascular
+
+ parenchymal margins are stapled . Representative sections are submitted as
+
+ follows: E91 frozen section, bronchial margin, El vascular margin and three
+
+  possible hilar lymph nodes, E2 parenchymal margin, E3 somewhat hemorrhagic
+
+ area of lung parenchyma, E4 additional section of lung parenchyma.
+
+
+
+
+ F. The specimen is labeled level 6 node . Received in formalin are three
+
+ fragments of black-tan lymphoid tissue , measuring 1.7 x 1. 6 x 0.5 cm in
+
+ aggregate . The entire specimen is submitted in cassette Fl.
+SPECIMEN (S) RECEIVED
+
+A: FROZEN : LEFT UPPER LOBEWEDGE
+
+B: LEVEL #5 NODE
+
+C: LEVEL #10 NODE
+
+D: LEVEL#12 NODE
+
+E: LEFT UPPER LOBE - FROZEN ON BRONCHIAL MARGIN
+
+F: LEVEL 6 NODE
+
+
+
+
+* The above listed tests (if any) were developed and the performance
+
+characteristics determined b^                                  These tests have
+
+not been cleared or approved for commercial use by the U.S. Food and Drug
+
+Administration . The FDA has determined that FDA review is not required for
+
+such in-house assays.
+
+
+
+OPERATIVE INFORMATION
+
+DIAGNOSIS: LUNG NODULE ; PROCEDURE : BRONCHOSCOPY FLEXIBLE FIBEROPTIC,
+
+THORACOSCOPY VIDEO ASSISTED
+
+
+
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST: QA COMMITTEE
+
+ICD-9(s):
+The attending pathologist was physically present when this specimen was
+
+diagnosed , and actively participated in all key decisions.
+
+
+
+
+Lab and Collection
+
+
+
+
+ PATHOLOGY SURGICAL                                           Lab and Collection Information
+
+
+
+
+ PATHOLOGY SURGICAL
+
+ Pathology
+Procedure Location:
+
+
+
+
+                      Criteria
+                          rig      Dscrep incy
+                      P, in.rrv I urnor Site Ci,.repency
+                       IiFAA Cisc     panty.
+                      ProrM&        nancyIlistory
+                      f!u.!/Sy nr rr onou; Primary
+                      ..asr is ( r ^rdr);
+                      ;;rvi.•-r Imtiai
+12
+
+
+
+                                                               TCGA Pathologic Diagnosis Discrepancy Form
+
+
+         I tructiions • The TCG;A Pathologic Diagnosis Discrepancy -Form should
+                                                                                 be com p l e te d wh en the pathologic      dii
+                                                                                                                          agnoss
+         documented on the initial pathology report for a case submitted for 7 CG4 is inconsistent
+                                                                                                     with the diagnosis provided on the
+         Case Quality Control Form completed for the submitted case.
+
+     Tissue Source Site (TSS):                                                    ._.,,_,TSS Identifier :           --- TSS Un ique Patient Identifier:-
+     Con pleted By (lnterv)ewer Name on Op enClitni(-a]:
+                                                                                                                                        Completed Date:
+     t   Diagnosis liiformatiotl
+         {
+                     ^         Data Element                                   Entry Alternatives
+                     I Pathologic Diagnosis              I/   YCX   s   t        Poor             ^- > ,i Cl t19; `^1 C
+                                                                                                                            Working Instructions
+                                                                                                                            Provide tine diagnosis / histologic mubty pe(s) doc ullietjte(t ()n
+                                                                                                                            rite initial ira:tholagy report for this case. If thr histology fi.^C
+                                                                                                                                                                                                           1
+                          Provided on initial                                                                               this case is tnixed,provide all listed subtypes.
+                          Pathology Report                                  rc r3 ^ ry7k a
+                                                                                                        3 .
+
+                         Histologic features of                                                                            Provide the histologic fe: atttrr>s selected an the TCGA Case
+                         the sample provided                                                                               Quality Control Form completed for this case.
+                 L
+
+                         for TCGA, as reflected
+         ! l             on the CQCF.
+
+     Discrepancy between Pathology Report and Case Quality Control Form
+             3           Provide the reason for
+                         the discrepancy
+                                                       Paws                      doesnei- S,.^                             Provide a reas o n describing why the diaghosis o n th e initial
+                                                                                                                           pathology report for this vase is not consistent with the
+                         between the pathology                                                                             diagnosis selected on the TC(;A Case Quality Contr ol Form.
+                         report and the TOGA
+                         Case Quality Control
+                         form.
+
+
+
+
+                         Name of TSS Reviewing                                                                            Provide the ll anze at' the paft w oOn who revretveo this ease            "` I
+             4           Patholo g ist o
+                                      -r                                                                                  for 'I CGA.
+                         Biore osito       Director
+                                                                                                                                                                                               -__j
+                                  I acknowledge that the above
+                                                                    information provided by my institution is tale and correct and has been quality controlled.
+
+
+
+
+                             I`SS Reviewing Pathologist or I iurepository Director
+                                                                                                                                              'ba t-'
+
+         I nrknosvkdge that tite above in jorncati(rn provided by my
+                                                                        insiitcttion
+                                                                                     is true and correct and has been quality controlled Tire Attending Patholciyist or thy!
+                                                Department Chairman has been informed or is
+                                                                                              aware of the above discrepancy in diagnoses.
+
+
+
+
+                                           Principal Invest. igat. or Sig:           ire                                                      Date

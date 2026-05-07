@@ -1,0 +1,105 @@
+SURG PATH REPORT
+COLLECTION DATE/TIME:
+
+
+ 1st Specimen collected
+,          Accessioned
+
+FINAL DIAGNOSIS ----------- Pathologis~:
+1.  LYMPH NODE, R4 (RESECTION):  ONE (1) LYMPH NODE AND ;:-,;':::':;,)CL':.TED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.  NEGATIVE FOR CARCINOI>1A.
+
+2.  LYlvlPH NODE, L4 (RESECTION): ONE (1) LYMPH NODE ANf) ASSOCI.2..TED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR. NEGATIVE FOR CAHCIllOI'l!L
+
+3.     LUNG, RIGHT UPPER LOBE (LOBECTOMY):
+
+SPECIMEN TYPE:
+Lobectomy
+
+TUMOR SITE:
+Right upper lobe
+
+HISTOLOGIC TYPE:
+Adenocarcinoma, solid type with clear cell change
+
+TUMOR SIZE:
+Greatest dimension:      7.S em
+
+
+HISTOLOGIC GRADE:
+G3:  Poorly differentiated
+
+LYMPH NODES:
+All 17 nodes negative for tumor (includes parts 1-7)
+
+DIRECT EXTENSION OF TUMOR:
+The tumor extends subpleurally but does not involve the f--,lellctl
+surface
+
+EXTENT OF INVASION (7th Edition, AJCC):
+PRINARY TUNOR:
+pT3: Tumor which is >7 em or invades chest wall, diaphraqrn,
+mediastinal pleura, or parietal pericardium, or involves main
+bronchus <2 em from carina or associated \>lith total atsl':;('t",si:::: ur
+separate tumor nodule in the same lobe
+
+
+REGIONAL LYMPH NODES:
+pNO:  No regional lymph node metastasis
+
+DISTANT NETASTASIS:
+pMX:  Cannot be assessed
+
+M.l'd:.zC~INS :
+Margins uninvolved by invasive carcinoma
+Distance of invasive carcinoma from nearest margin:          4.U em (bronchial
+margin)
+
+VENOUS/ARTERIAL (LARGE VESSEL)      INVASION:
+Absent
+
+LYMPHATIC (SMALL VESSEL)     INVASION:
+Absent
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Immunohistochemistry demonstrates that the tumor cells ;:11(;= TTF-l
+(diffuse) and Napsin-A (variable) positive.    .~n immunosto.in zur pC3
+Sho\·15 patchy, variable staining of the tumor cells.  Tll:;i ;( :tlLing
+
+
+*i"k   Unofficial lab results - do not file in patient chart.
+*~k    Contact medical records for official chart copy.
+                                                                                 AT:
+SP-CONS
+
+pattern supports the diagnosis.
+Background lung shoHS emphysematous changes and
+injury (fibroblast focil adjacent to the tumor.
+                                                                                                    -
+4.      LYMPH NODE,     STATION 1    (RESECTION):     ONE   (l)   LYt·1PH NO[IE   ,~,llD
+AS.sOCIATED FIBROADIPOSE TISSUE, NEGATIVE FOR TUtvIOR.
+
+5.      LYMPH NODE, R4        (RESECTION): ONE (1) LYMPH NODE,         NEGATIVE FOR
+TUMOR.
+
+6.      LYMPH NODE,     lOR    (RESECTION):   THREE   (3)   LYMPH NODES,     llECl\TIVE FOR
+TUMOR.
+
+7.      LYlvJPH NODE,   STATION 7    (RESECTION):     ONE   (1)   LYMPH NODE AND
+ASSOCIATED FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+Note:  EGFR and KRAS mutation analysis studies are pendinq dnd ,-iill
+be reported separately.
+
+ADDENDUM -------- Pathologist.
+KR~.St'1UTATION ANALYSIS IS                                                IDENTIFIED AT
+CODONS 12 AND 13 OF THE KRAS GENE.
+
+EGFR IYmTATION ANALYSIS IS NEGATIVE.             NO MUTATIONS \tIERE IJETE'-:TED :"\'1'
+EXONS 18-21 OF THE EGFR GENE
+
+NOTE:  1\_ copy of the complete report is available in                       dId       c_"   '_in
+file in the rnlecular pathology laboratory.
+
+See _ l i n i c a l Docwnent             date~ for ofiicLll 1.(.:,):>01""(.

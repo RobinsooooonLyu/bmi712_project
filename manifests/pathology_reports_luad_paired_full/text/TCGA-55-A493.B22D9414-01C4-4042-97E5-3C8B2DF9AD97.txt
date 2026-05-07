@@ -1,0 +1,248 @@
+UUID: 822D9414 -01C4- 4042 - 97E5-3CgB2DF9AD97
+                                                                                 TCGA- 55-A493 -81.A-PR               Redacted
+                                                                        III IIIIIIIIIOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                                                                        III IIIIIIIII11I1111IIIIIIIIIIIIIIIIIIIIIIIIIIIIIII111111IIIII
+                                                                        III IIIIUIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII111111IIIIIIIIII1IIIIII
+ Results                                  GROSS AND MICROSCOPIC SURt ;._.._....-__
+Specimen Information
+  Collection Date and Time
+
+
+Component Results
+
+
+
+                                                           G er^^co.f        nonr,ot t0c)5
+
+
+  DIAGNOSIS
+  Corrected report issued to correct the pathologist signature line.
+                                                                             MID
+  A) LYMPH NODE, STATION 7, SUBCARINAL, BIOPSY: No evidence of malignancy
+  (total of three nodes)
+
+ B) LYMPH NODE, STATION 4R, RIGHT PARATRACHEAL, BIOPSY: No evidence of
+ malignancy ( one lymph node)
+
+ C) LYMPH NODE, STATION 12, RIGHT UPPER LOBE BRONCHUS, BIOPSY: No evidence
+ of malignancy (two lymph nodes)
+
+ D) LUNG, RIGHT UPPER LOBE, RESECTION: Nonsmall cell carcinoma compatible
+ with adenocarcinoma, characterized by:
+   1. 3.2 cm in greatest dimension
+  2. Poorly differentiated
+  3. Negative for pleural involvement
+  4. Negative resection margin
+
+ LYMPH NODES, PERIBRONCHIAL, RESECTION WITH LOBE: No evidence of malignancy
+ in a total of five lymph nodes
+
+ COMMENT:
+ A portion of the tumor, paranormal and normal tissue are banked for
+ possible ancillary study.
+ Dr. Steeper evaluated the immunostains on block D4 only.
+
+                  .UNG CANCER STAGING P              METERS***
+Case number:               Patient name:
+               ^^V!
+Final TNM: pT2aNOMO
+2010 stage: 18
+
+MACROSCOPIC
+ SPECIMEN TYPE
+   Lobectomy
+ TUMOR SITE
+   Right Lung -Upper Lobe
+ TUMOR SIZE
+   3.2 X 3 X 3 cm
+ TUMOR FOCALITY
+   Unifocal
+
+MICROSCOPIC
+ HISTOLOGIC TYPE
+    Adenocarcinoma
+ HISTOLOGICAL GRADE
+     G3: (poorly differentiated) of G4
+  VISCERAL PLEURAL INVASION
+     Not identified
+  LYMPHATIC VASCULAR INVASION
+     Absent
+  TREATMENT EFFECT
+     Not applicable
+  MARGINS
+
+
+PATHOLOGIC STAGING
+  EXTENT OF INVASION
+      pT2a. (Tumor greater than 3 cm, but 5 cm or less in greatest
+dimension surrounded by lung or visceral pleura , without bronchoscopic
+evidence of invasion more proximal than the lobar bronchus (ie, not in the
+main bronchus); or Tumor 5 cm or less in greatest dimension with any of the
+following features of extent : involves main bronchus , 2 cm or more distal
+to the carina ; invades the visceral pleura ; associated with atelectasis or
+obstructive pneumonitis that extends to the hilar region but does not
+involve the entire lung)
+  REGIONAL LYMPH NODES
+     pNO. (No regional lymph node metastasis)
+     Total nodes:            11
+        N1 nodes:           7
+        N 1 positive nodes:
+        N2 nodes:           4
+        N2 positive nodes:
+     N2 sites sampled:
+       Station 7: Subcarinal nodes
+       Station 4: Lower paratracheal nodes
+  DISTANT METASTASIS
+     pMO. (No distant metastasis) .
+  PATHOLOGIC STAGE Summary
+     Final TNM : pT2aNOMO
+             tage: IB
+        The pathologic stage presumes no distant metastasis.
+
+
+Case number :                  Patient name:
+
+  HISTOLOGIC TYPE
+    Adenocarcinoma
+  STAGE IV STATUS
+     No stage IV disease pathologically
+  TISSUE BLOCK AVAILABLE FOR ANCILLARY TESTING
+      D2-7
+  COMMENT
+     This patient' s sample does not meet,
+                                              No fresh tissue is available
+for ancillary testing . The block identified above will be stored in
+pathology for 10 years for possible future ancillary testing . Please call
+                             any ancillary testing requests.
+
+
+
+
+Attendina Pathologist:
+
+
+CLINICAL INFORMATION
+   Right upper lobe lung mass
+
+   SPECIMEN/GROSS DESCRIPTION
+  A) SOURCE: Lymph node biopsy, #7 subcarinal
+  The specimen is received labeled "#7 subcarinal lymph node." It consists of
+  three focally gray-black apparent lymph nodes with a small amount of
+  focally attached adipose tissue. Lymph node #1 measures 0.5 x 0.4 x 0.3 cm.
+  Lymph node #2 measures 1 x 0.7 x 0.3 cm and lymph node #3 measures 2.5 x
+                                      a included. issue is submitted in
+  toto for frozen section diagnosis in one block.
+
+  INTRAOPER             ATH LOGY CONSULTATION WITH FROZEN SECTION: " Negative." is
+  rendered by
+
+  B) SOURCE: Lymph node biopsy, #4R right paratracheal
+  The specimen is received labeled "#4R right paratracheal lymph node." It
+  consists of a 2 x 1 x 0.5 cm portion of fibrofatty tissue which contains
+  one gray-black possibly focally disrupted lymph node measuring 1.6 x 1 x
+  0.3 cm. The apparent lymph node is submitted in toto for frozen section
+  diagnosis on one block.
+
+  INTRAOPERA               H LOGY CONSULTATION WITH FROZEN SECTION: " Negative." is
+  rendered by
+
+
+
+ C) SOURCE: Lymph node biopsy, rt upper lobe #12, bronchus
+ The specimen is received labeled "Rt upper lobe bronchus lymph node #12,"
+ It consists of two lymph nodes measuring 0.4 and 1 cm in greatest
+ dimension. The large lymph node is serially sectioned and both nodes are
+ entirely submitted in two cassettes.
+
+ D) SOURCE: Lung, right upper lobe
+ The specimen is received fresh from the OR labeled "right upper lobe." It
+ consists of a 147 gram spongy red-tan lung lobe measuring 15 x 8 x 4.5 cm.
+ The pleura is smooth, focally firm (inked blue). The medial aspect displays
+ two surgical staple lines measuring 4.8 and 5.5 cm in length. The sutures
+ are removed and underlying parenchyma inked black. The inked aspect of the
+ pleura is incisect jo display a large rubbery tumor. A representative
+ section of the tumor and entire en face bronchial margin are frozen on two
+ blocks.
+
+ INTRAOPERATIVE PATHOLOGY CONSULTATION WITH FROZEN SECTION: " FS1: Margin
+ ne ative. FS2: Non- small cell carcinoma , favor squamous cell." is rendered
+ by
+
+The tissue is serially cross-sectioned. On cut surface, the tumor is
+approximately 2.7 cm from the bronchial margin and 2 cm from the superiorly
+located surgical staple line. The tumor focally abuts inked pleural
+surfaces. Extension through the pleura is not grossly seen.
+
+On sectioning, the tumor measures 3.2 x 3 x 3 cm and has tan, glistening
+focally gray-black cut surfaces. The tumor grossly obliterates small
+apparent vessels and possible bronchioles.
+
+The remaining cut surfaces are mottled pink-red with scattered black patchy
+discolored foci. No other lesions are seen . The cut surfaces display four
+black lymph nodes measu ring between 0.6 and 2.3 cm in greatest diameter.
+
+Note: A portion of the tumor, paranormal and normal tissue are banked for
+possible ancillary study.
+  Note: Specimen removed from patient at                       Specimen placed
+  in 10% neutral buffered formalin at                     Specimen fixed in
+  formalin for a minimum of 6 hours, and not longer than 48 hours.
+
+  Representative sections are submitted in a total of 16 cassettes labeled:
+  D1. Frozen section residue, en face bronchial margin
+  2.  Frozen section residue, tumor
+
+      obliterated vasculature and bronchioles
+  8.   En face vasculature
+  9.   Black ink subjacent to the staple line closest to the tumor
+  10. Black it* subjacent to the staple line furthest from the tumor
+  11. Apical aspect
+  12. Lingular aspect
+  13. Two nodes, one is inked blue
+  14-15. One node
+  16.   One node
+
+  This case is accessioned in
+
+  Gross dictation b'
+
+   MICROSCOPIC
+ i A-D) The microscopic appearance substantiates the diagnosis.
+   b) Block D4 was evaluated with immunostains in order to further
+   characterize this nonsmall cell carcinoma. Results are as follows:
+   TTF-1: Strongly positive, nuclear pattern
+   P63: negative
+  These results are compatible with adenocarcinoma of pulmonary origin.
+
+  Dictation by
+
+  Interpreted at
+
+
+  COLLECTED:                 CCESSIONED .               SIGNED:
+Lab and Collection
+  GROSS AND MICROSCOPIC SURGICAL PANEL                                                               L ab and Collection
+  Information
+Result History
+  GROSS AND MICROSCOPIC SURGICAL PANEL                                                       Order Result History
+  Report.                                                               L
+
+  Lab Status
+  Order Complete
+
+
+Reviewed by List
+
+
+Result Information
+  Result Date and T+ma                     St2fl^^                               Provider Status
+
+
+Lab Information
+
+
+
+
+                                                                                  rior Malignancy History
+                                                                                  uaI/Synchrohous Primary No
+                                                                                 'ase is (circle):
+                                                                                 teview

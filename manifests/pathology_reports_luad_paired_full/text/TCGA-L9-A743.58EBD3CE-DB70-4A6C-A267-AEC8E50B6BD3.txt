@@ -1,0 +1,175 @@
+UUID : 58EBD3CE - 0870 - 4A6C - A267-AEC8E50B6BD3
+                                                  TCGA-L9-A743 -01A-PR
+                                                                                        Redacted
+                                         ^l 111111111H^^111111111111IIIIIIN IIIIIIIIIII 1111011111111III
+     RUN DATE:
+     RUN TIME:
+                                         III 11111111111111li IIIIII11111 IIIIIIIIIIIIIIIIIIIII11111IIII     1                     PAGE 1
+     RUN USER:                           1111111111IIII111I1II1111111111111111I1II11I1I1111111111111111111
+
+     PATIENT:                                            ACCT fl:                                    LOC
+                                                         AGE/SX:              /M                     ROOM:
+     REG DR:                                             DOB:                                        BED:
+                                                         STATUS:
+
+
+     SPEC NRECD :
+                                                                STATUS:
+              COLL.'                                            TIME IN FORMALIN:                                hrs.
+                                                               COLD ISCHEMA TIME:                                mins.
+  CLINICAL INFORMATION:
+      Pre-Op Diagnosis:     Squamous cell CA left upper lobe lung
+               Remarks:
+           Specimen(s):    A.    Biopsy for 4R lymph node for frozen section
+                           B.    Biopsy level 7 lymph node for frozen section
+                           C.    Level 7 lymph node for permanent
+                           D.    Left upper lobe with bronchial margin
+                           E.    Level 5 lymph node
+                           F.    Level 10 lymph node
+
+
+
+
+                                                                                                                 -re     -D-,--3
+ A.      R4 LYMPH NODE (BIOPSY): - NEGATIVE FOR METASTASIS
+
+ B.      LEVEL 7 LYMPH NODE (BIOPSY): - NEGATIVE FOR METASTASIS                                                                     1I Lb/
+ C.      LEVEL 7 LYMPH NODE (BIOPSY): -- NEGATIVE FOR METASTASIS
+
+ D.      LUNG, LEFT UPPER LOBE (LOBECrOMY):
+              ADENOCARCINOMA, 4.5 CM GREATEST DIMENSION
+              .•J... n 1 i V .,grc^, 1 VJUPIA .l N i 01' 5
+                 4 A-7 1
+                                                           PER IBRONCHIAL LYMPH NODES WITH EXTRANODAL
+              EXTENSION
+              VASCULAR INVASION PRESENT
+              VISCERAL PLEURAL INVASION PRESENT
+              SURGICAL MARGINS UNINVOLVED
+              SEE COMMENT FOR SYNOPTIC REPORT
+
+E.      LEVEL 5 LYMPH NODE (BIOPSY): - NEGATIVE FOR METASTASIS
+
+F.      LEVEL 10 LYMPH NODE (BIOPSY): - METASTATIC CARCINOMA
+
+
+
+
+COMMENT(S)
+
+SURGICAL PATHOLOGY CANCER CASE SUMMARY - CAP APPROVED
+
+Specimen:                                   Left upper lobe
+Procedure:                                  Lobectomy
+Specimen Integrity:                         Intact
+
+                                       ** CONTINUED ON NEXT PAGE **
+                                                                                       PAGE 2
+RUN DATE:
+RUN TIME:
+RUN USER:
+
+                             PATIENT: 1                                            (Continued)
+SPEC #
+
+
+
+
+COMMENT(S)                               (Continued)
+
+Specimen Laterality:                 Left
+Tumor Site:                          Upper lobe
+Tumor Size:                          4.5 cm in greatest dimension
+Tumor Focality:                      Unifocal
+Histologic Type:                     Adenocarcinoma
+Histologic Grade:                    G3: poorly differentiated
+Visceral Pleural Invasion:           Present
+Tumor Extension:                     Not applicable
+Margins:                             Distance of invasive carcinoma from closest margin: 15
+                                     mm; parenchymal margin
+                                     Bronchial: Uninvolved by invasive carcinoma and
+                                     carcinoma in situ
+                                     Vascular : Uninvolved by invasive carcinoma
+                                     Parenchymal : Uninvolved by invasive carcinoma
+Treatment Effect:                    Not applicable
+Lymph-Vascular Invasion :            Present
+Lymph Nodes Extranodal Extension :   Present
+Pathologic Staging :                 Primary Tumor: pT2a
+                                     Regional Lymph Nodes: pNl
+                                       Number examined: 10
+                                       Number involved: 4
+                                     Distant Metastasis : Not applicable
+
+
+GROSS DESCRIPTION:
+The specimen is received in the fresh state in two parts for frozen section evaluation.
+
+A. This i s fragments of soft, tan and black lymph node measuring 8 mm in aggregate.
+totally examined by frozen section as block Al.
+
+B. This is fragments of soft, black lymph node measuring 8 mm in aggregate , totally
+examined by frozen section as block B1.
+
+C. This specimen is received in the fresh state from the operating room for permanent
+section evaluation and consists of fragments of soft, black lymph node measuring 1 cm in
+aggregate , totally submitted as block Cl.
+
+D.  This specimen is received in the fresh state from the operating room for evaluation of
+surgical margins and for tumor banking.             requests evaluation of the specimen for
+bronchial margin and for a parenchymal margin staple line present on the specimen.     The
+specimen consists  of a left upper lobectomy specimen which  measures 18 x 10 x  6 cm.
+Present centrally i s an area of distorted visceral pleura with underlying palpable tumor.
+Blue ink is applied to the visceral pleural surface .  Sections reveal a firm , partly
+necrotic tan tumor which mea411res 4.5 x 3.5 x 2.5 cm, located 1. 5 cm from the parenchymal
+margin of concern to            and 3 cm from the bronchial margin .  Representative sections
+of the tumor are  removed by aseptic technique and submitted  for tumor banking.   Three soft,
+black peribronchial lymph nodes are present measuring up to 1. 5 cm in greatest dimension.
+The following sections are submitted:
+
+                                ** CONTINUED ON NEXT PAGE **
+RUN DATE :                                                                             PAGE 3
+RUN TIME:
+RUN USER:
+
+SPEC                              PATIENT :                                           (Continued)
+
+
+GROSS DESCRIPTION:          (Continued)
+
+         D1   -       one peribronchial lymph node sectioned and totally submitted
+         D2   -       two peribronchial lymph nodes sectioned and totally submitted
+         D3   -       bronchial margins
+         D4   -       vascular margins
+         D5   -       two peribronchial lymph nodes bisected and totally submitted
+         D6-9 -       representative tumor with blue ink on visceral pleura
+         D10  -       representative lung
+
+Two additional specimens are received in formalin.
+
+E. This is multiple fragments of soft , black lymph node which in aggregate measure 2 x 2 x
+0.4 cm , totally submitted as block El.
+
+F.  This is fragments of soft, black lymph node measuring 1 x 1 x 0.3 cm, totally submitted
+as block Fl.
+
+
+INTRAOPERATIVE CONSULTATION:
+A.   FROZEN SECTION DIAGNOSIS:
+     --   NO TUMOR SEEN
+
+         FROZEN SECTION DIAGNOSIS:
+              NO TUMOR SEEN
+
+         IMMEDIATE GROSS EVALUATION LEFT UPPER LOBE:
+              4.5 CM TUMOR PRESENT 1.5 CM FROM PARENCHYMAL MARGIN AND 3.0 CM FROM BRONCHIAL
+              MARGIN
+
+
+
+
+i mage
+Signed            ( signature on file)
+
+
+
+
+                                              ** END OF REPORT **

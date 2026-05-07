@@ -1,0 +1,118 @@
+SURGICAL PATHOLOGY REPORT
+
+De-Identified Specimen Code:
+
+Patient Age/Sex iF
+
+SPECIMEN SUBMITTED:
+Part A: LEFT UPPER LOBE
+Part B: 10L
+
+PartC: 11L
+
+PartD: 12L
+
+PartE: #5
+
+Final Diagnosis
+
+1. Left lung, upper lobe, lobectomy (A) - Adenocarcinoma, with solid, acinar, and
+bronchioloalveolar cell carcinoma components (see comment).
+
+- Centrilobular emphysema.
+
+- Pulmonary hemosiderosis.
+
+- Metastatic adenocarcinoma in peribronchial lymph nodes.
+
+- Necrotizing granulomas in peribronchial lymph nodes.
+
+2, Lymph nodes, 10L, 12L, excision (B, D) - Lymph nodes, negative for neoplasm.
+
+3. Lymph nodes, 11L, #5, excision (C, E) - Metastatic adenocarcinoma.
+
+Page 1 of 3
+SURGICAL PATHOLOGY REPORT
+
+Diagnosis Comment:
+
+Tumor Location: Left upper lobe
+Tumor Size: 3.5 x 2.8 x 2.5 cm.
+Vascular Invasion: Not identified.
+Lymphatic Invasion: Pending
+
+Bronchial Margin: Negative. Tumor cells are present within lymphatic spaces in the permanent section of the
+bronchial margin.
+
+Vascular Margin: Negative
+Parenchymal Margins: Not applicable.
+
+Pleura/Soft Tissue Margin: The tumor invades into the visceral pleura (A Movat stain on block A4 was
+evaluated).
+
+Pathologic Stage (AJCC): p stage IIIA (oT2a N2 MX)
+
+Comment: Immunohistochemical stains (A4 and A13) show that the tumor cells are immunoreactive diffusely
+to TTF-1 and focally to p-63. A Cytokeratin CAM 5.2 (A1) highlights the tumor cells within lymphatic spaces in the
+permanent section of the bronchial margin.
+
+ANALYTE SPECIFIC REAGENT (ASR) DISCLAIMER
+
+This test was developed and its performance characteristics determined by rm 060Uttti<‘“i‘i;*S*~*@”
+
+The U.S. Food and Drug Administration has not approved or cleared
+this test; however, FDA clearance or approval is not currently required for clinical use.
+
+Procedure: ADDENDUM | Status: Signed Out
+Text: GMS and Ziehl-Neelsen stains (A171) are negative for fungal organisms and acid fast
+bacilli respectively.
+
+Procedure: EGFR Mutation Analysis Re Status: Signed Out
+Text: EGFR Mutation Analysis (Claien iis
+
+Diagnosis of neoplasm: No EGFR alteration detected
+
+Genotype result: Wild type (see complete Clarient report in Epic).
+
+Page 2 of 3
+SURGICAL PATHOLOGY REPORT
+
+Intraoperative Diagnosis:
+A. Adenocarcinoma, bronchial margin is negative for tumor
+
+Clinical Diagnosis:
+LT UPPER LOBE NODULE
+
+Gross Description:
+
+A. Received at the frozen desk for intraoperative frozen diagnosis labeled “left upper lobe" is a left upper
+lung lobe measuring 15.0 x 13.0 x 3.0 cm and weighing 436.7 g after fixation with the bronchial remnant
+(0.1 cm in length, 1.5 cm in diameter). In the apex of the lobe is a 3.5 x 2.8 x 2.4 cm tan, white, firm
+mass with scalloped edges with cavitation. The mass is located 1.7 cm from the parenchymal line of
+resection and 4.0 cm from the bronchial margin. The overlying pleura is retracted without gross
+involvement. Also present inferior to the mass but not involving the mass are two subpleural
+hemorrhagic areas measuring 1.2 cm and 4.1 cm. There are moderate emphysematous changes in the
+remainder of the lung. Multiple anthracotic hilar lymph nodes are present ranging in size from 1.5-1.7
+cm and appear grossly positive. Representative sections are submitted as follows: A1 bronchus margin
+frozen section, A2 frozen section of mass, A3 vascular margins, A4 mass in relation to pleura (blue
+
+ink), AS mass with line of resection (orange Ink), A6-A7 mass with adjacent uninvolved lung
+parenchyma, A8 larger subpleural hemorrhagic area, AQ smaller subpleural hemorrhagic area, A10
+uninvolved lung parenchyma, A11-A13 lymph nodes totally.
+
+B. Received fresh labeled "10L" is an irregular shaped segment of tan-gray soft tissue measuring 0.9 x
+0.8 x 0.3 cm. The specimen is totally submitted in formalin in one cassette.
+
+C, Received fresh labeled "11L." is an irregular shaped segment of tan-gray soft tissue measuring 71.1 x
+0.8 x 0.3 cm. The specimen is totally submitted in formalin in one cassette.
+
+D. Received fresh labeled "12L" is an irregular shaped segment of tan-gray soft tissue measuring 0.8 x
+0.3 x 0.3 cm. The specimen is totally submitted in formalin in one cassette.
+
+E. Received fresh labeled "#5" are multiple irregular shaped segments of tan-gray soft tissue
+aggregating to 2.5 x 1.3 x 0.7 cm. The specimen is totally submitted in formalin in one cassette.
+
+Microscopic:
+{Not Entered}
+
+Page 3 of 3

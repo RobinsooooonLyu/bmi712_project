@@ -1,0 +1,272 @@
+CGA- 67- 6217
+PRIORITY: FROZEN SEC
+
+SURGICAL PROCEDURES:
+   LUNG-LOBECTOMY, RESECTION,           REGIONAL LYMPH
+
+ ,.•,        CLINICAL HISTORY
+
+
+          PERTINENT CLINICAL HISTORY:       T.ED'. LUNG CA ..
+
+ >·,        GROSS DESCRIPTION       ·
+
+        A.  The specimen is submitted fresh for frozen section as 11 9L" and
+        consists of a single red black lymph node measuring 0.6 em; submitted in
+        toto, l (1) labeled "FSP" for frozen section.
+
+        FROZEN SECTION DIAGNOSIS:       Lymph node:    Negative for tumor.
+
+        B.  The specimen is submitted fresh for frozen section as "level 5" and
+        consists of four red black lymph nodes ranging from 0.5 to 0.8 em;
+        subrnitted 1 4 (1) labeled "FSP" for frozen section.
+
+        FROZEN SECTION DIAGNOSIS:       Level 5:   Negative for tumor.
+
+       C.. The specimen is submitted fresh for frozen section as "level 6n and
+       consists of a single red black lymph node measuring 1.5 em which is
+       bisected and submitted in toto, 2 (1) labeled nFSP" for frozen section.
+
+        FROZEN SECTION DIAGNOSIS:       Level 6:   Negative for tumor.
+
+    D. The specimen is .submitted fresh for frozen section as "anterior·
+    medias-tinal mass" and consists of a 2.5 x 1.8 x 1.5 em roughly spherical
+    lobular mass with tail of yellow adipose tissue exhibiting tan lobulated
+    fleshy tissue and a 0.3 em area.    Upon cut section the external surface is
+    marked with black dye.   The speclrnen is sectioned and submitted in toto,
+  fJo;..    . GROSS · DESCRIP'l'ION   . · ·   (Con £inued)                        TCGA- 67- 6217
+        FROZEN SECTION DIAGNOSIS:         Anterior mediastinal mass: Favor epithelioid
+                                          thymoma. Classification pending permanent
+                                          sections. 111111111
+         E.  The specimen is submitted fresh but not from frozen section as "left
+         upper lobe" and is a 114 gram of (formalin fixed), 18 x· 11 x 2 .3 em lung
+         lobectomy specimen received with a stapled bronchiai margin measuring 3
+         em in diameter and· multiple adjacent stapled vasculature margin measuring
+        0.5 to 2.3 am in greatest dimension along with two stapled parenchymal
+        margins measuring 1.7 and.2.6 em in diameter.    The pleural surface is pink
+        to purple red with focal areas of anthracotic pigmentation along with an
+        indurated, finm well circumscribed puckered area.    The pleural surface
+        overlying ~his area is inked blue.    The stapled parenchymal margins are
+        removed and the underlying parenchyma. is inked black.   Sectioning of the
+        finm puckered area reveal a 2.5 x 2 x 1.4 am well circumscribed gray to
+        white finmroass which grossly appears to abut the overlying blue inked
+        pleural surface measuring 0.4 em from the closest parenchymal ~esection
+        margin {black ink) and 0.9 cm.from the bronchial margin at the hilum.     The
+        remaining parenchyma is tan pink to red spongy and homogenous showing
+        focal areas of emphysematous changes. No other discreet masses or
+        nodularities are grossly identified. At the hilum are multiple g~ay black
+        hilar lymph nodes measuring ·a.s to 1 em in greatest dimensionr each of
+        which is submitted entirely.   Representative sections of the specimen are
+        submitted, multiple (8) as follows:
+
+        1         Vasculature and bronchial margins (subrnltted en face)
+        2         Mass with closest parenchyma underlying stapled resection margin
+                  inked black.
+        3 and 4 - Mass with closest pleural surface.
+        5         Mass with adjacent uninvolved parenchyma.
+        6         Parenchyma shmving emphysematous changes.
+        7         Uninvolved parenchyma.
+        8         Hilar lymph nodes.
+
+    A piece of tumor is collected for TCGA tissue collection project.
+
+    F. The specimen is sUbmitted fresh as "posterior interlobular node 11 and
+    consists of a single gray black elongate lymph node measuring 1 em which·
+    is bisected and submitted in totor 2 (1).
+
+¥;.,.        FINAL Dil\.GNOSIS
+
+    A.       LYMPH NODE,    9L, BIOPSY:
+
+                   LYMPH NODE, NEGATIVE FOR TUMOR.
+ fie?~··, .. ··FINAL· DIAGNOSIS                          · · : ··; ,:.• ·             (Conti~ued)
+
+
+   B.     LYMPH NODE, LEVEL 5, EXCISION:
+
+                       MULTIPLE LYMPH NODES, NEGATIVE FOR TUMOR.
+
+   c.     LYMPH NODE, LEVEL 6, EXCISION:
+
+                       LYMPH NODE, NEGATIVE FOR TUMOR.
+
+   D.     ANTERIOR MEDIASTINAL MASS, RESECTION:
+
+                       THYMOMA (TYPE AB) WITH MICROSCOPIC TRANSCAPSULAR INVASION
+                       (2.5 CM), MARGINS INVOLVED.  SEE SYNOPTIC REPORT.
+
+   E.     LUNG,           LEFT UPPER LOBE,                                   LOBECTQ~:
+
+
+                      ADENOCARCINOMA ( 2 . 5 CM) . SEE SYNOPTIC REPORT.
+                      METASTATIC CARCINOMA (0.3 CM FOCUS) INVOLVING ONE OF FIVE HILAR
+                      LYMPH NODE FRAGMENTS.
+
+   F.    LYMPH NODE, POSTERIOR INTERLOBULAR, EXCISION:
+
+                      LYMPH NODE, NEGATIVE FOR TUMOR.
+
+
+
+
+V."'     SYNOPTIC REPORT                                       .         •
+
+                                                               'SYNOPTIC REPORT:                THYMOMA
+
+
+ rl'!'YJ~=rzt~.s~.•·~
+   PROCEDURE:    PARTIAL RESECTION
+  SPECIMEN INTEGRITY:           INTACT
+  SPECIMEN WEIGHT: APPROXIMATELY 2 GRAMS
+  TUMOR SIZE:     2.5 CM
+ CHIST0LGGICc-·T.YPE~
+   ~--~
+                      .. ·c·.TYPE~·1\Bc"'i'HYMOMA:
+          -~:_,','-=,',_~::-_,_~c·_-,,-~·'-'·::-~·-·"'""'• ~
+         ..                         •.                             •-'~ ·-----'-'-'·-~c~
+
+  TUMOR EXTENSION:         NOT IDENTIFIED
+  MARGINS:    INVOLVED. TUMOR ABUTTS ON AND FOCALLY INVOLVES SURGICAL MARGINS.
+      (SPECIMEN WAS RECEIVED UNORIENTED)
+  TREATMENT EFFECT:         NOT APPLICABLE
+  LYMPHOVASCULAR INVASION:             NOT IDENTIFIED
+  REGIONAL LYMPH NODES :          NONE SAMPLED
+  IMPLANTS/DISTANT METASTASIS:               CANNOT BE ASSESSED
+  OTHER PERTINENT FINDINGS:
+            THE TUMOR IS IMMUNOREACTIVE FOR CYTOKERATIN 5/6 BUT IS NEGATIVE
+            FOR NEUROENDOCRINE MARKERS, SYNAPTOPHYSIN AND CHROMOGRANIN,
+                             SYNOPTIC REPORT:   LUNG
+                       {CAP/AJCC/ACS - REQUIRED ELEMENTS)
+
+
+SPECIMEN TYPE: LOBECTOMY
+LATERALITY: LEFT
+TUMOR SITE: LEFT UPPER LOBE
+TUMOR SIZE: 2.5 CM
+HISTOr=IC TYPE: ADENOCARCINOMA
+HISTOLOGIC GRADE: GRADE 2 OF 3 (MODERATELY DIFFERENTIATED)
+EXTENT OF INVASION: VISCERAL PLEURAL INVASION PRESENT
+EXTENTION TO PLEURA/OTHER STRUCTURES: ABSENT
+
+l:-1ARGINS:
+ BRONCHIAL: UNINVOLVED
+ PARENCHYMAL: UNINVOLVED
+ VASCULAR: UNINVOLVED
+ DISTANCE TO PERTINENT MARGIN (S) : TUMOR IS 0. 4 CM FRO.."V! THE
+   PARENCHYMAL RESECTION MARGIN AND 0.9 CM FROM THE BRONCHIAL MARGIN
+
+VENOUS INVASION: ABSENT
+ARTERIAL (LARGE VESSEL) INVASION: ABSENT
+
+LYMPH NODE:
+f,,,, N1- #INVOLVED/# EXAMINED: 1/8+
+ f,,, N2 -"# INVOLVED/#EXAMINED: 0/10+
+f,,,, N3- #INVOLVED/# EXAMINED: 0/0
+
+OTHER PERTINENT FINDINGS:
+      AN ELASTIC STAIN HIGHLIGHTS VISCERAL PLEURAL INVASION.
+      UNINVOLVED LUNG SHOWS MILD EMPHYSEMA.
+
+pTNM STAGE: pT2apNl
+
+Unless ·otherwise specified, the performance characteristics of the
+immunoperoxidase stains performed here have been confirmed by the     .
+                                  . These tests have not been cleared or
+approved by the U.S. Food and Drt1g Administration,. although such approval
+is not necessary.
+                                                                                                  Page 3 of5
+
+
+
+
+ Patient Infmmation Resources
+
+
+
+
+ Thymoma
+ This section has been reviewed and approved by the
+
+
+
+
+ Staging
+
+
+
+Staging is a way of describing a cancer, such as where it is located, if or where it has spread, and if it
+is affecting the functions of other organs in the body. Doctors use diagnostic tests to determine the
+cancer's stage, so staging may not be complete until all the tests are finished. Knowing the stage helps
+the doctor to decide what kind of treatment is best and can help predict a patient's prognosis (chance
+of recovery). There are different stage descriptions for different types of cancers.
+
+There is no standard system for staging thymoma; however, the most commonly used system is called
+the Masaoka system. This system was developed in       and it classifies thymoma into the following
+stages:
+
+Stage I: The cancer is limited to the thymus and the capsule that sunounds it.
+
+Stage II: The cancer has spread into fat surr-ounding the thymus or into the lining of the lung next to
+the tumor, called the mediastinal pleura.
+
+Stage III: The cancer has spread to other organs that are near the thymus, such as the lung, blood
+vessels, and the sac around the heart, called the pericardium.
+
+Stage IVA: The cancer has spread more extensively into the lining of the lung or the sac around the
+heart.
+
+Stage IVB: The cancer has spread to organs fmiher away from the thymus, or has spread through the
+vessels carrying blood or lymph.
+
+Classification
+
+In addition to its stage, thymoma can be classified into different categories, developed by the
+                       (     ), based on what the tun1or cells look like under a microscope:
+                                                                                              Page 4 of5
+
+
+
+Type A thymoma. This is also called spindle cell thymoma or medullary thymoma. The chance of
+recovery for people with type A thymoma is good, with a                    survival rate (percentage of
+people who survive at least         after the cancer is detected, excluding those who die from other
+diseases) near
+
+TypeAB thymoma. Also called mixed thymoma, type AB thymoma is similar to type A thymoma;
+however, type AB thymoma has lymphocytes in the tumor. The chance of recovery for people with
+type AB thymoma is also good, with a               survival rate of approximately %.
+
+Type Bl thymoma. This is also known as lymphocyte-rich thymoma, lymphocytic thymoma,
+predominantly cortical thymoma, and organoid thymoma. This type of thymoma has very many
+lymphocytes in the tumor, but the cells of the thymus appear normal. The chance of recovery for
+people with type B 1 thymoma is also good, with a 20-year relative survival rate (percentage of people
+who survive at least    years after the cancer is detected, excluding those who die from other
+diseases) of approximately
+
+Type B2 thymoma. Type B2 thymoma also has many lymphocytes, like type Bl thymoma; however,
+the thymus cells do not appear normal. Type B2 thymoma is also known as cortical thymoma and
+polygonal cell thymoma. The -year relative survival rate for people with type B2 thymoma is
+approximately
+
+Type B3 thymoma. Type B3 thymoma is also known as epithelial thymoma, atypical thymoma,
+squamoid thymoma, and well-differentiated thymic carcinoma. This type of thymoma has few
+lymphocytes, and the thymus cells look abnormal. The                survival rate is approximately
+
+
+Thymic carcinoma. Thymic carcinoma, previously called type C thymoma, is very rare and more
+aggressive. Thymic carcinoma cells do not look like normal thymus cells, but like cancers in other
+organs of the body. This type of tumor is often advanced when diagnosed. It is classified into two
+categories: low grade, which has a better chance of recovery, and high grade, which is more likely to
+grow and spread quickly. Low-grade thymic carcinoma includes basaloid, mucoepidermoid, and well-
+differentiated squamous cell types. High-grade thymic carcinoma includes anaplastic/undifferentiated,
+clear cell, poorly differentiated squamous cell, sarcomatoid, and small cell/neuroendocrine types. The
+five-year relative survival rate of people with thymic carcinoma is
+rate of people with thymic carcinoma is %.
+
+Cancer survival statistics should be interpreted with caution. These estimates are based on data from
+thousands of cases ofthis type of cancer in the United States, but the actual risk for a particular
+individual may differ. It is not possible to tell a person how long he or she will live with thymoma.
+
+
+
+
+<Previous                                                                                      Next>

@@ -1,0 +1,51 @@
+TCGA Pathology Reports
+               OpenClinica ID   Excision date Gross
+                                              Descript
+                                              ion
+                                             Lung lobe
+                                             of 23 x 12
+                                             cm.
+                                             Subleural
+                                             there is a
+                                             grey-
+                                             yellow
+                                             coloured
+                                             tumour of
+                                             8 cm in
+                                             size, with
+                                             focal
+                                             necrosis.
+Microscopic Description      Diagnosis Details         Comments
+
+
+Bronchioalveolar cancer. Four  Tumor Features: Unknown, The type of
+bronchopulmonary lymph nodes Tumor Extent: Localized,   bronchioloalveolar
+- follicular hyperplasia,      NOS , Venous Invasion:   carcinoma (mucinous
+antracosis.                    Absent, Margins: Absent, or nonmucinous) is
+Aortic window node -           Treatment Effect:        not defined in the
+antracosis.                                             original pathology
+One bifurcational lymph node -                          report.
+antracosis.
+Formatted Path Report
+
+
+LUNG TISSUE CHECKLIST
+
+Specimen type: Lobectomy
+Tumor site: Lung
+Tumor size: 8 x 0 x 0 cm
+Histologic type: Bronchiolo-alveolar
+adenocarcinoma
+Histologic grade: Well differentiated
+Tumor extent: Not specified
+Other tumor nodules: Not specified
+Lymph nodes: 0/6 positive for metastasis
+(Bronchopulmonary, bifurcational, aortic window
+0/6)
+Lymphatic invasion: Not specified
+Venous invasion: Absent
+Margins: Uninvolved
+Evidence of neo-adjuvant treatment: Not
+specified
+Additional pathologic findings: Not specified
+Comments: Left- upper

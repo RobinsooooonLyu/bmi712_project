@@ -1,0 +1,150 @@
+TGGA-64-5815
+ Clinical History/Diagnosis: Lung cancer
+
+Source of Specimen(s):
+1: Cytology -no fee code
+2: Level nine lymph nodes
+3: lOR lymph nodes
+4: Level seven lymph nodes
+5: Levellllymph node
+6: Level lllymph node at bifurcation of middle and lower lobe
+7: Right upper and middle lobe
+
+Final Diagnosis:
+1. Cytology
+
+2. Level nine lymph nodes, excision:
+-No tumor seen in one lymph node (0/1).
+
+3. lOR lymph nodes, excision:
+-Metastatic carcinoma in two of two lymph nodes (2/2).
+
+4. Level seven lymph nodes, excision:
+-No tumor seen in seven lymph nodes (017).
+
+5. Levellllymph node, excision:
+-No tumor seen in one lymph node (0/1).
+
+6. Levelll lymph node at bifurcation of middle and lower lobe, excision:
+-No tumor seen in one lymph node (0/1).
+
+7. Right upper and middle lobe, resection:
+-Invasive poorly differentiated adenosquamous carcinoma, 6.5 em of the
+upper lobe.
+- Carcinoma invades through visceral pleura.
+- Angiolymphatic invasion is not identified.
+-Bronchial and vascular margins are free of carcinoma.
+-No tumor seen in five parabronchiallymph nodes (0/5).
+-pT2Nl Mx
+
+Gross Description:
+Received in seven pmts.
+Source of Tissue: 1. Cytology
+************************************************************************
+Source of Tissue: 2. Labeled #2, "level 9lymph nodes"
+
+Gross Description: Received fresh labeled,
+level 9lymph nodes". It consists of a firm light-brown lymph node
+measuring 1.5 x 0.8 x 0.5 em. The lymph node is bisected and entirely
+submitted in 2A.
+************************************************************************
+Source of Tissue: 3. Labeled #3, "lOR lymph nodes"
+                                                                               CGA-64-5815
+ Gross Description: Received fresh labeled ",
+ lOR lymph nodes". It consists of black-brown soft anthracotic lymph nodes
+ measuring from 1 up to 1.5 em in greatest dimension. Each lymph node is
+ bisected and entirely submitted in 3A-3B.
+ ************************************************************************
+Source of Tissue: 4. Labeled #4, "level 7 lymph nodes"
+
+Gross Desctiption: Received fresh labeled",
+level7lymph nodes". It consists of multiple soft black-brown anthracotic
+lymph nodes measuring from 0.2 up to 2.0 em in greatest dimension.
+Entirely submitted in 4A-4E.
+
+Designation of Sections: 4A-4B- one large bisected lymph node, 4C- one
+bisected lymph node, 4D- two bisected lymph nodes, 4E- multiple small
+potential lymph nodes
+************************************************************************
+Source of Tissue: 5. Labeled#5, "levellllymph node"
+
+Gross Description: Received fresh labeled ",
+level lllymph node". It consists of a soft black-brown anthracotic lymph
+node measuring 1.2 x 0.5 x 0.5 em. The lymph node is bisected and entirely
+submitted in 5A.
+************************************************************************
+Source of Tissue: 6. Labeled #6, ''l'evellllymph node at bifurcation ofmiddle and lower
+lobe"
+
+Gross Description: Received fresh labeled,
+levellllymph node at bifurcation of middle and lower lobe". It consists
+of a soft black-brown anthracotic lymph node measuring 0.8 x 0.7 x 0.6 em.
+The lymph node is bisected and entirely submitted in 6A.
+************************************************************************
+Source of Tissue: 7. Labeled#?, "tight upper and middle lobe"
+
+Intraoperative Consultation: UPPER LOBE BRONCHIAL MARGIN- NO TUMOR
+SEENPER
+
+Gross Desctiption: Received fresh labeled ",
+right upper and middle lobe". It consists of two lobes of lung weighing a
+total of 292 grams. The upper lobe measures 13.5 x 11.5 x 5 em in greatest
+dimension. The pleura is gray-tan, smooth except for a 1.2 em puckered
+area located approximately 6 em from the closest upper lobe margin and
+approximately 4.5 em from the middle lobe bronchial margin. The middle
+lobe measures 10.5 x 10.5 x 4.5 em. The pleura is gray-tan and smooth.
+Both the bronchial margin and vascular margin from both upper and middle
+lobes are umemarkable. The upper lobe is sectioned to reveal a 6.5 x 4.5
+x 4.5 em ill-defined film brown mass located approximately 3.5 em from the
+closest upper lobe bronchial and vascular margins. The mass corresponds to
+the previously described pleural pucketing of the upper lobe. The middle
+lobe is sectioned to reveal a congested soft tan-pink cut surface with no
+masses present. The horizontal fissure appears grossly unremarkable. The
+upper lobe bronchial margin is entirely frozen in 7FS. Additional random
+ sections of the remainder of the specimen are submitted in 7A-7J.      TGGA-64-5815
+ Designation of Sections: 7FS- frozen section, 7 A- tight upper lobe
+ vascular margin, 7B-7D- random section of tumor, 7E- tumor with adjacent
+ uninvolved parenchyma, 7F- middle lobe bronchial margin, 7G- middle lobe
+ vascular margin, 7H- hotizontal fissure, 7I- uninvolved middle lobe, 7J-
+ petibronchiallymph nodes
+ ************************************************************************
+ LUNG TEMPLATE
+
+ Specimen Type
+ Right upper and middle lobes
+
+ Laterality
+ Right
+
+ Tumor Site
+ Upper lobe    Middle lobe
+
+ Tumor Size
+ Greatest dimension: 6.5 em (Tl if <=3.0 em; otherwise T2)
+
+ Histologic Type
+ Adenosquamous carcinoma
+
+ Histologic Grade
+ Poorly differentiated
+
+Extension of Tumor
+Carcinoma invades into/through visceral pleura (T2)
+
+Venous (Large Vessel) Invasion
+Absent
+
+Alterial (Large Vessel) Invasion
+Absent
+
+Margins
+Margins uninvolved by invasive carcinoma
+Distance from closest margin: 3.5 em
+
+ Regional Lymph Nodes
+ 17 regional lymph nodes examined
+.Regional lymph node metastasis
+ 2 ipsilateral petibronchial and/or hilar lymph node(s) with
+ metastatic carcinoma (Nl)
+
+pTNM: T2 Nl Mx

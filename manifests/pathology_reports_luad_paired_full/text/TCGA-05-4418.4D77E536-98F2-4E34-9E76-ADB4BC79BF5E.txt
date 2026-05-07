@@ -1,0 +1,13 @@
+/diagnoses:
+Locally advanced, peripheral bronchopulmonary, histologically mixed adenocarcinoma of the
+left lower lobe of the lung with a large-cell and clear-cell, solid and acinar component, mucin
+formation and localization in S8.
+TNM classification on the basis of this material: pT3 pN2 pMX V1 R0, stage IIIA
+C 34.1 M 8255/3.
+
+Comment/supplementary remark:
+The carcinoma has infiltrated the pericardial fatty tissue. Lymph node metastases can be seen
+in the hilar region both in the main preparation and in samples 1.) and 4.). The resection
+margin of the bronchus and vessels as well as the pericardial resection material, the adhered
+part of the parietal pleura sample 2.) and the lymph nodes of samples 3.) and 5.) are tumor-
+free.

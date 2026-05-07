@@ -1,0 +1,215 @@
+UUID : 4D754ACD - 9001 - 4268 - 8E84 - 6A9A647A29C5
+                                                                         TCGA- MN-A4N4 - 01A-PR                   Redacted
+                                                               III 11111111111 I IIIIII II IIIIII I IIIII IIIIIIIIIIIIIII I IIIIIII IIIIII III
+                                                               III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlIilIIlIllllll I11111III
+ ---- SURGICAL PATHOLOGY ----
+                                                               ^^^ IIIIIIIIIIIIIIIIIIIIIIIIIII 111111111111111111111111111 III III
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+     MEDICAL RECORD I                   SURGICAL PATHOLOGY
+----------------------------------------
+                                  PATHOLOGY REPORT
+
+     - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Specime-
+A. LEFT UPPER LOBE CHECK BRONCHIAL MARGIN,      F.S.
+B. LEVEL 9
+C.   LEVEL   10
+D. LEVEL 7
+E. LEVEL 6
+F. LEVEL 5
+El
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+BRIEF CLINICAL HISTORY:
+     None given
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+PREOPERATIVE DIAGNOSIS:
+     lung cancer
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+OPERATIVE FINDINGS:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+POSTOPERATIVE DIAGNOSIS:
+     lung cancer
+
+
+
+
+                                  PATROT,CCY REPORT
+
+
+
+
+GROSS DESCRIPTION:
+     A.  The specimen consists of a 173 gram, 17.3 x 9.0 x 2.6 cm left
+     upper lobe specimen with a 3.0 cm in length staple line adjacent to
+     the bronchial margin.   The visceral pleura is tan-pink to pink-purple
+     displaying anthracosis.   There is an area of pleural retraction with a
+     central umbilication with underlying induration located 6.2 cm from
+     the bronchial margin.   The visceral pleura is inked blue overlying the
+     induration.   The bronchial margin is removed en face for frozen
+     section diagnosis.
+
+      Sectioning of the lung reveals a 2.3 x 2.0 x 1.0 cm, tan to dark
+      brown, circumscribed mass which extends to the pleura. The mass is
+      located 6.2 cm from the bronchial margin, 4.9 cm from the vascular
+      margin and 9.6 cm from the staple line margin. Serially sectioning
+      through the remaining lung reveals tan-pink to dark red, spongy
+      parenchyma with no other discrete lesions identified. There are thick
+      mucous secretions within the bronchial tree; however, no lesions are
+      identified within the bronchi.  Multiple hilar lymph nodes are
+      identified.  No emphysematous changes are identified.
+
+      Representative sections are submitted as follows:  Al- staple line
+      (inked black) en face; A2- vascular margin; A3-A7- entire indurated
+      mass, to include overlying pleura and adjacent parenchyma; A8-
+      multiple whole lymph nodes; A9- one bisected lymph node; A10-
+      representative section of normal lung parenchyma. (Please note that
+      representative sections of normal lung parenchyma and tumor were taken
+      for tissue banking).
+
+      FROZEN SECTION DIAGNOSIS:
+
+      FsA. Lung, left upper lobe, lobectomy:
+         - BRONCHIAL MARGIN, NEGATIVE FOR MALIGNANCY
+    B.  The specimen consists of three, ovoid , tan-gray lymph nodes
+    averaging 1.0 x 0.6 x 0.4 cm which are submitted in toto in cassette
+    B.
+
+    C.  The specimen consists of two, ovoid, tan-gray lymph nodes
+    averaging 1.0 x 0.6 x 0.5 cm, which are submitted in toto in cassette
+    C.
+
+    D.  The specimen consists of a 1.1 x 0.7 x 0.4 cm, ovoid portion of
+    fibrofatty tissue, which is submitted in toto in cassette D.
+
+    E.  The specimen consists of two, ovoid , tan to tan-gray portions of
+    fibrofatty soft tissue measuring 1.7 x 1.3 x 0.5 cm and 1.4 x 0.5 x
+    0.3 cm. The larger portion of tissue is bisected revealing a
+    tan-gray, lobulated cut surface . The specimen is submitted as
+    follows: El- bisected possible lymph node; E2- possible whole lymph
+    node.
+
+    F.  The specimen consists of two, ovoid, tan-gray portions of
+    fibrofatty tissue measuring 1.5 x 1.4 x 0.5 cm and 1.5 x 1.5 x 0.4 cm.
+    Both portions of tissue are bisected. The specimen is submitted as
+    follows: Fl- one possible lymph node, bisected; F2- one possible lymph
+    node, bisected.
+
+MICROSCOPIC EXAM
+     DIAGNOSIS:
+
+     A.   Lung , left upper lobe, lobectomy:
+          SPECIMEN: Lung
+           - Lobe of lung: Left
+          PROCEDURE
+           - Lobectomy
+          SPECIMEN INTEGRITY
+           - Intact
+          SPECIMEN LATERALITY
+           - Left
+          TUMOR SITE
+           - Upper lobe
+          TUMOR SIZE
+           - Greatest dimension: 2.3 cm
+          TUMOR FOCALITY
+            - Unifocal
+          HISTOLOGIC TYPE
+            - Adenocarcinoma
+          HISTOLOGIC GRADE
+            - G3: Poorly differentiated ( high grade)
+          VISCERAL PLEURA INVASION
+            - No definitive invasion identified
+          TUMOR EXTENSION
+            - Isolate tumor cells extends to alveolar
+               spaces adjacent to mass
+          MARGINS
+            - BRONCHIAL MARGIN
+               Uninvolved by invasive carcinoma
+            - VASCULAR MARGIN
+               Uninvolved by invasive carcinoma
+            - PARENCHYMAL MARGIN
+               Not applicable
+            - PARIETAL PLEURAL MARGIN
+               Not applicable
+             - CHEST WALL MARGIN
+               Not applicable
+             - OTHER ATTACHED TISSUE MARGIN
+               Not applicable
+             - Distance of invasive carcinoma from closest margin: 4.9 cm
+               Specify margin: Vascular margin
+           TREATMENT EFFECT
+             - Not applicable
+           LYMPH-VASCULAR INVASION
+             - Identified
+           PERINEURAL INVASION
+             - Not identified
+            PATHOLOGIC STAGING (PTNM)
+             - Primary Tumor (pT)
+               pTlb
+             - Regional Lymph Nodes (pN)
+               pNO (including specimens A-F)
+                    Number examined: 22
+                    Number involved: 0
+            Distant Metastasis (pM)
+               Not applicable
+            ADDITIONAL PATHOLOGIC FINDINGS
+             - Scar, fibrotic, calcified and hyalinzed nodules
+               associated with tumor
+             - Granulomas present in hilar lymph nodes
+               (SEE COMMENT)
+
+     B.     Lymph nodes, level 9, excision:
+          - FOUR LYMPH NODES, NEGATIVE FOR MALIGNANCY
+          - GRANULOMAS PRESENT
+
+     C.     Lymph nodes, level 10, excision:
+          - TWO LYMPH NODES, NEGATIVE FOR MALIGNANCY
+          - GRANULOMAS PRESENT
+
+     D.     Lymph node, level 7, excision:
+          - ONE LYMPH NODE, NEGATIVE FOR MALIGNANCY
+          - GRANULOMA PRESENT
+
+     E.     Lymph nodes, level 6, excision:
+            TWO LYMPH NODES, NEGATIVE FOR MALIGNANCY
+            GRANULOMAS PRESENT
+
+     F.     Lymph nodes, level 5, excision:
+          - FIVE LYMPH NODES, NEGATIVE FOR MALIGNANCY
+          - GRANULOMAS PRESENT
+            (SEE COMMENT)
+
+     COMMENT:  There are multiple granulomas present in the lymph nodes
+     (specimens A-F).  The GMS and AFB stains are negative for definitive
+     fungal organisms or mycobacteria. Clinical correlation is recommended.
+
+     Microscopic isolate tumor cell clusters extend to alveolar and
+     vascular spaces of lung parenchyma in vicinity of mass. The tumor
+     clusters measures 2.0 mm in single greatest dimension. Since
+     multifocal lymphovascular invasion is identified, these isolated tumor
+     cells may arise from vascular spreading. The tumor approaches, but not
+     extends through visceral pleura.
+
+
+
+
+pathologist
+
+      -------------------------------------
+                                                            (End of report)
+
+      -------------------------------------
+
+
+
+
+                                                                                                       I     I   I
+                                                                 Di ggno:is C^isc: ePar^
+                                                                 Pnrtari "UinerS"e Discrepancy
+                                                                 HIP.4A rAscreyay
+                                                                 Prio, hlalignj, ^O His.i
+                                                                 r)u;.! /SVn   chrun0u, N'       DISC UALI
+                                                                 Casels
+                                                                        _! ! n1t
+                                                                 P._viewe   _r   ass

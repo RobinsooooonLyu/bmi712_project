@@ -1,0 +1,205 @@
+Clinical History/Diagnosis: Left lung CA
+
+  Source of Specimen(s):
+  1: Portion 6th rib
+  2: Level 9 lymph node
+  3: LevelS lymph node
+  4: Diaphragmatic adhesion
+  5: llL lymph node
+  6: 12L lymph node                                                     TCGA- 64-5779
+  7: Level 8lymph node
+  8: Level 7 lymph node
+  9: Left lung
+  10: New bronchial margin
+  11: Level 61ymph node
+
+
+  Final Diagnosis:
+  1. Portion of 6th rib, excision:
+  No tumor seen.
+
+  2. Level 9 lymph nodes, excision:
+  Seven lymph nodes, no tumor seen (017).
+
+  3. LevelS lymph nodes, excision:
+  Metastatic carcinoma in two of fifteen lymph nodes (2/15).
+
+  4. Diaphragmatic adhesion, excision:
+  Fibrous adhesion.
+
+  5. llL lymph nodes, excision:
+  Metastatic carcinoma in three of six lymph nodes (3/6)
+
+  6. 12L lymph nodes, excision:
+  Five lymph nodes, no tumor seen (0/5).
+
+  7. Level 8lymph nodes, excision:
+  Two lymph nodes, no tumor seen (0/2).
+
+  8. Level 7 lymph nodes, excision:
+  Two lymph nodes, no tumor seen (0-/2).
+
+ 8. Level 7 lymph nodes, excision:
+/Metastatic carcinoma in two of three lymph nodes (2/3).
+
+j :·Left lung, pneumonectomy:
+ Adenocarcinoma, WHO acinar subtype.
+ -The 8.5 em poorly differentiated carcinoma does not invade visceral
+ pleura.
+ - Angiolymphatic invasion is identified.
+ - Surgical resection margins are free of carcinoma.
+ Emphysema.
+ Metastatic carcinoma in four of twelve peribronchial lymph nodes (4/12).
+
+ 10. New bronchial margin, excision:
+ No tumor seen.
+
+ 11. Level 6 lymph node, excision:                                       TCGA- 64- 5779
+ Three lymph nodes, no tumor seen (0/3).
+
+ Gross Description:
+ Received in eleven parts.
+ Source of Tissue: 1. Labeled #1, "portion of tib"
+
+ Gross Desctiption: Received fresh labeled, ,
+ pottion of tib". It consists of a portion of tib measuring 5 x 1.3 x 0.7
+ em. Representative sections are submitted in 1A following decalcification.
+ ************************************************************************
+ Source of Tissue: 2. Labeled #2, "level 9 lymph node"
+
+Gross Description: Received fresh labeled, ,
+level9lymph node". It consists of a soft brown lymph node measming 1.8
+x 1 x 0.5 em. The lymph node is bisected and entirely submitted in 2A.
+************************************************************************
+Source of Tissue: 3. Labeled #3, "level9lymph node"
+
+Gross Desctiption: Received fresh labeled, ",
+level 9 lymph node". It consists of multiple soft yellow tan lymph nodes
+measming from 0.5 up to 0.9 em in greatest dimension. The lymph nodes are
+entirely submitted in 3A-3B.
+
+Designation of Sections: 3A- two bisected lymph nodes, 3B- multiple
+additional lymph nodes
+************************************************************************
+Source of Tissue: 4. Labeled #4, "diaphragmatic adhesion"
+
+Intraoperative Consultation: INFLAMMATORY AND MESOTHELIAL
+PROLIFERATION,NO TUMOR SEEN PER
+
+Gross Description: Received for frozen section labeled, ",
+, diaphragmatic adhesion". It consists of a soft tan pink
+irregular tissue fragment measuring 2 x 2 x 0.5 em. Entirely frozen in
+4FS.
+************************************************************************
+Source of Tissue: 5. Labeled #5, "llL lymph node"
+
+Gross Desctiption: Received fresh labeled, ",
+level 11 lymph node". It consists of multiple soft black brown anthracotic
+lymph nodes measuting from 0.2 up to 0.7 em in greatest dimension. The
+lymph node are entirely submitted in 5A-5B.
+************************************************************************
+Source of Tissue: 6. Labeled #6, "12L lymph node"
+ Gross Description: Received fresh labeled, ",
+ level 12lymph node". It consists of two soft black brown anthracotic
+ lymph nodes measuring from 0.8 up to 1.1 em in greatest dimension. Each
+ lymph node is bisected and entirely submitted in 6A.
+ ************************************************************************
+ Source of Tissue: 7. Labeled #7, "level81ymph node"
+
+ Gross Description: : Received fresh labeled, ",
+ level 8 lymph node". It consists of two soft black brown anthracotic lymph
+ nodes measming from 0.5 up to 0.7 em in greatest dimension. Entirely
+ submitted in 7 A.
+ ************************************************************************
+ Source of Tissue: 8. Labeled #8, level 7 lymph node"
+
+Gross Description: : Received fresh labeled, ,
+level 7 lymph node". It consists of multiple brown anthracotic lymph nodes
+measuring from 0.2 up to 2 em in greatest dimension. The largest lymph
+node is bisected and the specimen is entirely submitted in 8A-8B.
+
+Designation of Sections: SA- largest lymph node bisected, 8B- three
+additional smaller lymph nodes
+************************************************************************
+Source of Tissue: 9. Labeled#9, "left lung"
+
+     I I -   •   .   I I   •   I I   NEGATIVE BRONCHIAL MARGIN PER~
+
+
+ Gross Description: Received fresh labeled, ",
+ left lung". It consists of a complete left pneumonectomy specimen weighing
+ a total of 753 grams with an overall measurement of 29 x 18.5 x 8 em in
+greatest dimension. The upper lobe measures 18.5 x 12.5 x 5 em in greatest
+dimension. The upper lobe is seiially sectioned to reveal a homogenous,
+spongy, pale cut smface. The lower lobe measures 19.5 x 12.5 x 8.5 em in
+greatest dimension. The lower lobe is serially sectioned to show an 8.5 x
+7.5 x 6 em ill defined firm brown tumor mass that comes within 5 em of the
+closest bronchial and vascular margins. The mass comes within 0.1 em of
+the pleura. The bronchial and vascular margins are grossly umemarkable.
+Multiple scattered black brown anthracotic peribronchial lymph nodes are
+identified measuring from 0.1 up to 1.2 em in greatest dimension. The
+bronchial margin is entirely frozen in 9FS. Random sections of the
+remainder of specimen are submitted in 9A-9L.
+
+Designation of Sections: 9FS- frozen section, 9A- vascular margin, 9B-
+additional random section of bronchus, 9C-9E- random section of tumor of
+the closest pleura, 9F- tumor by adjacent uninvolved parenchyma, 9G-
+uninvolved lower lobe, 9H-9I- upper lobe, 9J-9L- peribronchial lymph node
+************************************************************************
+Source of Tissue: 10. Labeled #10, "new bronchial margin"
+
+Gross Description: Received fresh labeled, ",
+new bronchial margin". It consists of a soft tan pink irregular tissue
+fragment measming 1.2 em in length and 1.7 em in diameter. The specimen
+ is bisected and entirely submitted in lOA-lOB.
+                                                                             TCGA-64-5779
+ Designation of Sections: lOA- proximal end, 1OB- distal end
+ ************************************************************************
+ Source of Tissue: 11. Labeled #11, "level 6lymph node"
+
+ Gross Description: Received fresh labeled, ,
+ level 6 lymph node. It consists of multiple soft yellow tan irregular
+ tissue fragments measuring 1.7 x 1.5 x 0.5 em. Entirely submitted in llA.
+ ************************************************************************
+ LUNG TEMPLATE
+
+Specimen Type
+Pneumonectomy
+
+Laterality
+Left
+
+Tumor Site
+Lower lobe
+
+TumorSize
+Gmatest dimension: 8.5 m
+                        i
+Histologic Type
+Invasive adenocarcinoma with
+Acinar morphology(ies)
+
+Histologic Grade
+Poorly differentiated
+
+Extension of Tumor
+Carcinoma does not involve visceral pleura
+
+Venous (Large Vessel) Invasion
+Absent
+
+Arterial (Large Vessel) Invasion
+Absent
+
+Margins
+Margins uninvolved by invasive carcinoma
+Distance from closest margin 5.0 em
+
+Regional Lymph Nodes
+53 regional lymph nodes examined
+Regional lymph node metastasis
+4 ipsilateral pe1ibronchial and/or hilar lymph node(s) with
+metastatic carcinoma (Nl)
+7 ipsilateral mediastinal and/or subcarinallymph node(s) with metastatic
+carcinoma (N2)
+pTNM: T2 N2 Mx

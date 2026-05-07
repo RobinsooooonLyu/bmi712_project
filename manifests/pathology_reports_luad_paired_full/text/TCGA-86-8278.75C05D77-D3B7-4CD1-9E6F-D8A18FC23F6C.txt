@@ -1,0 +1,29 @@
+TCGA Pathology Reports
+            ID Gross Description   Microscopic Description
+Diagnosis Details   Comments   Formatted Path Report
+
+                               LUNG TISSUE CHECKLIST
+
+                               Specimen type: Lobectomy
+                               Tumor site: Lung
+                               Tumor size: 3 x 2 x 2 cm
+                               Histologic type: Mucinous
+                               adenocarcinoma
+                               Histologic grade: Moderately
+                               differentiated
+                               Tumor extent: Visceral pleura
+                               Other tumor nodules: Not specified
+                               Lymph nodes: 3/3 positive for
+                               metastasis (Intrathoracical 3/3)
+                               Lymphatic invasion: Not specified
+                               Venous invasion: Not specified
+                               Margins: Not specified
+                               Evidence of neo-adjuvant
+                               treatment: Not specified
+                               Additional pathologic findings: Not
+                               specified
+                               Comments: positive for CK7, TTF1
+OpenClinica ID   Excision date
+Laterality
+
+Left- lower

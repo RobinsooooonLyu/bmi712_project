@@ -1,0 +1,193 @@
+Criteria
+Diagn-',si      Pancy
+?rimary Tumor Site Discrepancy                                             UUID: 3ACOF538 - A612 - 484B - 9589 - 699F583F4F1D
+HIPAA Discrepancy                                                                TCGA-MP-A4TE-01A-PR                      Redacted
+Prior %lalignan cyHistory
+D ual/Syncnronous prima
+                                                                        I I I I 1 I I 1 I 1111111 I I I I 11 I I I I 111111111111111111111111111 I I
+                                                                        I I 111111111111111111111111111111I I I I I I I I I I I 111111111
+Case 1s
+ (CIMFel:
+
+Reviewer
+     initials .
+                                 Date Rev+ewed
+
+
+                                                                         I 1 111111111IIIIIIIIIiIIIIIIIIII11111111111111111111111111IIII11
+                           urgical Pathology
+              REVISED REPORT ( Revised information underlined)             /6o-o -3
+              Addendum/Procedure i ncl imii ri                                            ^.o,r^-^ nNis                 (111o^3
+             Requested By:
+                                                                    Sh"
+             SLIDE DISPOSITION:
+
+
+             DIAGNOSIS:
+             A. Lymph nodes, station 7, biopsy: Multiple (6) fragments of lymph
+             nodes are negative for tumor.
+             a. Lymph nodes , station 4L, biopsy: A single (1) lymph node is
+             negative for tumor.
+             C. Lymph nodes, station 4R, biopsy : A single ( 1) lymph node is
+             negative for tumor.
+             D. Lymph nodes , station 9L set #1, biopsy : A single (1) lymph node
+             is negative for tumor.
+             E. Lymph nodes , station 9L set #2, biopsy : Multiple ( 4) fragments of
+             lymph nodes are negative for tumor.
+             F. Lymph nodes , station 11L set #1, biopsy : A single ( 1) lymph node
+             is negative for tumor.
+           G. Lymph nodes , station 11L set #2 , biopsy : A single (1) lymph node
+           is negative for tumor.
+           H. Lymph nodes , station 10L, biopsy : Multiple ( 2) fragments of lymph
+           nodes are negative for tumor.
+           I. L ymph nodes , station 7 set #2, biopsy : Multiple ( 3) fragments of
+           lymph nodes are negative for tumor.
+           J. Lymph nodes, station 11L set #3, biopsy: Multiple ( 3) fragments
+           of lymph nodes are negative for tumor.
+           K. Lymph nodes , station 5, biopsy: A single ( 1) lymph node is
+           negative for tumor.
+        L. Lung, left lower lobe, lobectomy : Invasive grade 3 (of 4)
+        adenocarcinoma, forming a 6.6 x 6.2 x 5.8 cm peripheral mass.
+        visceral pleural invasion is present . Angiolymphatic invasion is
+        absent . The bronchial margin is negative for tumor        ( by 3.7 cm).
+        [AJCCpT 2 bNOMX]
+
+        Frozen section histologic interpretation of station 7 lymph nodes
+        set #1, station 4L lymph nodes and station 4R lymph nodes performed
+        by:
+       This final pathology report is based on the gross /macroscopic
+       examination and frozen section histolo g ic ev a l uation
+                        ema ox in an d Eosin H E permanent sections are
+        reviewed to confirm these findings . Any substantive changes
+        identified on permanent section review will be reflected in a
+        revised report.
+
+
+
+
+       ADDENDUM:
+      At the request of                     k-ras mutation analysis will be
+      performed on paraffin-embedded lung tissue (block L4). Upon
+      completion , results will be available in
+Transcribed by:
+signed by
+
+AMENDMENTS :  ( Previous Signout Date:
+Revision Description:    Part L in final aiagnosis contains
+typographical error.    A]CC staging should be T2 not T12.
+  .. Original Diagnosis....
+A. Lymph nodes, station 7, biopsy: Multiple (6) fragments of lymph
+nodes are negative for tumor.
+B. Lymph nodes, station 4L, biopsy: A single (1) lymph node is
+negative for tumor.
+C. Lymph nodes, station 4R, biopsy : A single ( 1) lymph node is
+negative for tumor.
+D. Lymph nodes, station 9L set #1, biopsy: A single (1) lymph node
+is negative for tumor.
+E. Lymph nodes, station 9L set #2, biopsy: Multiple (4) fragments of
+lymph nodes are negative for tumor.
+F. Lymph nodes, station 11L set #1, biopsy: A single (1) lymph node
+is negative for tumor.
+G. Lymph nodes , station 11L set #2, biopsy: A single (1) lymph node
+is negative for tumor.
+H. Lymph nodes , station 10L, biopsy: Multiple (2) fragments of lymph
+nodes are negative for tumor.
+I. L ymph nodes , station 7 set #2, biopsy: Multiple (3) fragments of
+lymph nodes are negative for tumor.
+]. Lymph nodes, station 11L set #3, biopsy: Multiple (3) fragments
+of lymph nodes are negative for tumor.
+K. Lymph nodes , station 5 , biopsy : A single (1) lymph node is
+negative for tumor.
+L. Lung, left lower lobe, lobectomy: Invasive grade 3 (of 4)
+adenocarcinoma , forming a 6.6 x 6 . 2 x 5.8 cm peripheral mass.
+visceral pleural invasion is present. Angiolymphatic invasion is
+absent.  The bronchial margin is negative for tumor (by 3.7 cm).
+[AJCCpT12bNOMX]
+Frozen section histologic interpretation of station 7 lymph nodes
+set #1 , station 4L lymph nodes and station 4R lymph nodes performed
+by:
+This final pathology report is based on the gross/macroscopic
+examination and frozen section histolo g ic evaluation of the
+reviewed to confirm t ese findings. Any substantive changes
+identified on permanent section review will be reflected in a
+revised report.
+
+
+GROSS DESCRIPTION:
+A. Received fresh labeled "station 7 lymph nodes" is a 2.0 x 1.5 x
+0.4 cm aggregate of lymphatic tissue which is entirely submitted.
+Grossed by
+B. Received fresh labeled " station 4 left lymph nodes " is a 0.5 x
+0.5 x 0.3 cm aggre ate of lymphatic tissue which is entirely
+submitted . Grossed by
+C. Received fresh labeled "station 4 right lymph nodes" is a 1.5 x
+1.0 x 0.5 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+D. Received fresh labeled "station 9 left lymph nodes" is a 0.9 x
+0.8 x 0.6 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+E. Received fresh labeled "station 9 left lymph nodes set #2" is a
+1.7 x 1.2 x 0.3 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+F. Received fresh labeled "station 11 left lymph nodes" is a 0.4 x
+0.3 x 0.2 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+G. Received fresh labeled "station 11 left lymph nodes set #2" is a
+1.9 x 1.0 x 0.5 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+H. Received fresh labeled "station 10 left lymph nodes" is a 2.5 x
+1.5 x 0.5 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+1. Received fresh labeled "station 7 lymph nodes set #2" is a 1.8 x
+1.2 x 0. 5 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+3. Received fresh labeled "station 11 left lymph nodes set #3" is a
+1.0 x 0.7 x 0.2 cm aggregate of lymphatic tissue which is entirely
+submitted. Grossed by
+K. Received fresh labeled "station 5 lymph nodes" is a 0.7 x 0.5 x
+0.3 cm aggregate of lymphatic tissue which is entirely submitted.
+Grossed by
+L. Received fresh labeled "left lung lower lobe" is a 300.0 gram
+lobectomy. There is a 6.6 x 6.2 x 5.8 cm central, solid mass,
+located 3.7 cm from the bronchial margin. The mass umbilicates the
+visceral pleura. Multiple intrapulmonary peribronchial lymph nodes
+are identified. Representative sections are submitted. Grossed by
+BLOCK SUMMARY:
+Part A: station #7 subcarinal lymph nodes
+   1 subcarinal LN (Al)
+   2 Subcarinal LN (A2)
+Part s: station 4 left lower paratracheal lymph node
+   1 Lt low paratracheal LN
+Part C: station 4 right lower paratracheal lymph node
+   1 Rt low paratracheal LN
+Part D: station #9 left pulmonary ligament lymph nodes
+   1 Lt pulmonary ligament LN
+                                         y m p h n o es set Z
+Part E : Station #9 left pulmonary ligament
+    1 Lt pulmonary ligament LN #2
+Part F: station 11 left interlobar lymph node
+   1 Lt interlobar LN
+Part G: station 11 left interlobar lymph node #2
+   1 Lt interlobar LN #2
+Part H: Station #10 left hilar lymph nodes
+   1 Lt hilar LN
+   2 Lt hilar LN
+
+Part I: Station #7 subcarinal lymph nodes set #2
+   1 subcarinal- LNS #2
+  2 Subcarinal LNS #2
+Part 7: Station #11 left interlobar lymph nodes set #3
+   1 Lt interlobar LNs #3
+Part K:  Station #5 subaortic lymph nodes
+   1 Subaortic LN
+
+Part L: Left lung lower lobe
+   1 Bronchial margin
+   2 Peribronchial LNs
+   3 Left lower lobe lung
+   4 Left lower lobe lung
+   5 Left lower lobe lung
+   6 Left lower lobe lung
+   7 Left lower lobe lung
+   8 Left lower lobe lung
+   9 Lt lower lobe lung normal

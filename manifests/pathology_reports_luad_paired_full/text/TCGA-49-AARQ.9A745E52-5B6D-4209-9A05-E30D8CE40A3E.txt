@@ -1,0 +1,138 @@
+UUID:9A745E52- 586D - 4209 - 9A05 - E3 0D8CE40A3E
+                  TCGA-49-AARQ-91A-PR                                            Redacted
+     ^^ ^ I I I I I I I I I I I I I I I I I 1 1 1 1 1 1 1 1 1 I I I I I I I I 11111111111 I I I I
+     III IIIIIIIIIIIIIIIIII IIIIIIIIIIIIIIIIIIIIIIIIIIiIIIIIIIIIIII
+     III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIHIIIIIIIIIIIIII
+
+
+
+
+INTERPRETATION AND DIAGNOSIS:
+
+1.  RIGHT UPPER LOBE ( LOBECTOMY ):   TWO (2 ) SEPARATE NON-CONTIGUOUS
+FOCI OF INFILTRATING MODERATELY DIFFERENTIATED ADENOCARCINOMA (3.2 CM
+AND 1 . 0 CM). THE TUMOR DOES NOT EXTEND TO THE OVERLYING PLEURAL
+SURFACE .   BRONCHIAL MARGINS , VASCULAR MARGINS, PARENCHYMAL MARGINS,
+AND SIX (6) HILAR LYMPH NODES ARE NEGATIVE FOR TUMOR .     THE PATHOLOGIC
+STAGE OF THE TUMOR IS pT2NOMx , STAGE I .    ACUTE AND ORGANIZING
+BRONCHOPNEUMONIA IN THE AREA SURROUNDING THE TUMOR ( FOCAL OBSTRUCTIVE
+PNEUMONITIS ).   EMPHYSEMATOUS CHANGES WITH FOCAL PERIPHERAL BULLA
+FORMATION .   SEE NOTE.
+2.  STATION R-4 LYMPH NODE                                                            ( BX):          ONE    ( 1)   LYMPH NODE, NEGATIVE FOR
+TUMOR.
+3.  STATION 7 LYMPH NODE                                                       ( BX):               ONE   ( 1)   LYMPH NODE, NEGATIVE FOR
+TUMOR.
+
+NOTE:  The measured tumor size is corrected for surrounding
+pneumonia.
+
+
+
+*Electronic signature
+
+
+Clinical History:
+     NON SMALL CELL CARCINOMA OF THE LUNG.
+
+GROSS DESCRIPTION
+
+(Continued on next page.)
+                                                        Page 2
+
+
+
+
+PART #1 : FS: RIGHT UPPER LOBE
+Resident Pathologist:
+
+FROZEN SECTION DIAGNOSIS --
+FS:  RIGHT UPPER LOBE : STAPLED MARGIN NEGATIVE FOR TUMOR.
+
+The specimen is received fresh labeled                        nd
+designated right upper lobe .   it consists o a grossly recognizable
+lobe of lung that weighs 250 gms, and measures 20 x 9 . 5 x 3.5 cm. The
+staple parenchymal margin measures 17 cm in length .     The entire
+parenchymal margin will be sampled for histology .     One particular area
+of concern raised by the surgeon was frozen with frozen section
+diagnosis as above .   There is in fact some firmness felt underneath the
+parenchymal margin .   Upon serially sectioning through the lung, this
+area of firmness appears to be secondary to bronchopneumonia .      A tumor
+mass is identified which measures 3.2 cm in greatest dimension. This
+white tan tumor mass approaches the parenchymal margin no closer than
+4.2 cm.    Between this nodule and the overlying stapled parenchymal
+margin-is the area of firmness consistent with bronchopneumonia.
+There is however one additional smaller nodule that is white tan in
+color measuring 1.0 cm in greatest dimension .     This other nodule is
+separate from the main tumor nodule .   This nodule is surrounded by the
+firm gray tan tissue reminescent of pneumonia .     This second nodule
+approaches the stapled parenchymal margin , no closer than 2 . 2 cm. The
+bronchial and vascular margins grossly appears well away from the
+tumor and approach no closer that 4 . 0 cm from the main tumor mass,
+and 6 . 2 cm from the other suspicious smaller nodule .   in the area of
+the lung adjacent to the tumor in the area away from the pneumonia.
+the lung appears focally cystic .   The remainder of the lung specimen
+is congested .   No other lesions are identified .   Black and white and
+color photographs of the specimen are taken .    In one region the tumor
+appears grossly to approach the overlying pleural surface with some of
+ focal hardening and puckering of the surface .    Representative sections
+are submitted.
+
+SUMMARY OF SECTIONS:
+6   - LN1-6    - 2 EA.   (ONE NODE PER CASSETTE)
+1   - FSC      - 1 EA.     (FROZEN CONTROL OF PARENCHYMAL MARGIN
+1   -- VM      - 1       ( VASCULAR MARGIN)
+1   - BM         1       ( BRONCHIAL MARGIN)
+3   - PM1-3    - M       (REMAINDER OF PARENCHYMAL MARGIN , NOT FROZEN)
+
+ (Continued on next page.)
+3      - A-C        -   3,2,2    (PLEURA OVERLYING TUMOR, TUMOR IS SEEN IN
+                                   SECTION C)
+3      -   D-F      -   1       (TUMOR WITH ADJACENT CYSTIC LUNG)
+2      -   G-H      -   1 EA.   (TUMOR WITH ADJACENT FIRM LUNG)
+I      -   I        -   2       (REPRESENTATIVE TUMOR)
+1      -   J        -   1       (SECOND NODULE)
+2      - K-L        -   1       (FIRM LUNG WITH ADJACENT MORE NORMAL LUNG)
+1      - M          - 1         (REPRESENTATIVE FIRM LUNG)
+4      - N-Q        - 2,3,1,1 (REPRESENTATIVE CYSTIC LUNG)
+3      - R-T        - 2,2,1        (OTHER REPRESENTATIVE LUNG)
+32     - TOTAL      -- M
+
+
+PART # 2: R-4 LYMPH NODE
+Resident Pathologist:
+
+The specimen is received fresh labeled                   and
+designated R-4 lymph node. It consists o o      iece of red-tan soft
+tissue measuring 1 x 0.5 x 0.3 cm. The specimen is bisected and
+submitted in its entirety.
+
+SUMMARY OF SECTIONS:
+1 - A - 2
+1 - TOTAL - 2
+
+
+PART #3: STATION 7 LYMPH NODE
+Resident Pathologist:
+
+The specimen is received fresh labeled                   and
+designated station 7 lymph node. It cons s s ofW    ppiece of
+                                                 oneM
+red-black to tan soft tissue measuring 0.7 x 0.5 x 0.2 cm. The
+specimen is bisected and entirely submitted.
+
+SUMMARY OF SECTIONS:
+1 - A - 2
+    1 - TOTAL - 2
+
+
+                                  Specimens known to the computer:            UNNINWO
+
+                                                                 Criteria                      l   0 \            Yes   No
+    (End of Report)                                     printe   Diagnosis Discrepan
+                                                                 Primary Tumor Site Discrepancy
+                                                                 HIPAA Discrepancy
+                                                                 Prior Mali nancy History
+                                                                 Dual/Synchronous Primary o
+                                                                 Case is (circle(:          QU/WGI      / DISQUAIJRED
+                                                                  Reviewer Initials                      JW4
+                                                                                                   Reviewed:

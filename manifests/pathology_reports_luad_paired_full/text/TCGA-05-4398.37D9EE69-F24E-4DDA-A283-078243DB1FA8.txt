@@ -1,0 +1,13 @@
+Main diagnosis/diagnoses:
+Locally advanced, peripheral bronchopulmonary, histologically mixed adenocarcinoma of the
+right upper lobe of the lung with a predominant large-cell, polymorphocellular and partly
+clear-cell solid component, with bronchioloalveolar growth pattern in the tumor periphery and
+very small acinar part, mainly located in S1 and satellite focus in S3.
+TNM classification pT4 pN3 L1 V1 R0, stage IIIB
+C 34.1 M 8255/3
+
+Comment/supplementary remark:
+The main tumor shows a large cicatricial area and has invaded small blood vessels located in
+the tumor and also lymph nodes. There are lymph node metastases in samples 1.) to 4.), 6.) to
+8.) and 10.). The visceral pleura and resection margins of the bronchus and vessels of the
+main preparation and also the lymph nodes of samples 5.) to 9.) are tumor-free.

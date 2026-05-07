@@ -1,0 +1,180 @@
+UUID: 3AFOFSA9-8D19-4060-86E0-B24AE8C83A82
+TCGA-93-A4]P-@1A-PR R
+
+1000 0000011
+ACUTE A AA
+AAU OTA AAT A
+
+dacted
+
+Surgical Pathology Report
+
+Final
+{CS&-a-%
+adivocececdoma, pap lag, Nox
+- - § s0/ >
+ote bvng, feroev lobe C34-3
+SURGICAL PATHOLOGY REPORT / of > {~
+FINAL WITH ADDENDUM
+Patient Name:
+Addrewa: Service Cardiothoracic Surgery Accession
+. Locations. - Toa
+Patan Type . Reported:
+Pryelcian(s).
+QIAGNOSIS:
+
+LUNG, RIGHT MIODLE/LOWER LOBES, WEDGE EXCISIONS - ADENOCARCINOMA.
+
+By this signature, } aeeat that the above dlagnosia is based upon my personal
+sxamination of the cidessrc/or other moterial indicated in the dlagnosie).
+
+“*Renort Electronically Reviewsd and Signed Out By
+
+Mi @
+Sections of the right middie and lower lobes of the lung show moderately differentiated, papillary adenocarcinoma
+
+History:
+The patientiga = year old man, of unstated race, with a left paratracheal lymph nade positive for adenocarcinoma on
+fine needle aspiration No clinical history is provided. Operative procedure: Wedge biopsies.
+
+{ iv
+
+A: LUNG, RIGHT MIDOLE LOBE NODULE
+B:; LUNG, RIGHT LOWER LOBE NODULE
+
+Gros: tion:
+
+The specimens are received in two formalin-filed containers each labelad with the patient's name
+The first container is labeled “right middie lobe nodule.” It holds a portion of brown lung pasenchyma and pleura
+measuring 1.5 x 1.0 x 6.7 cm. There is a firrn irregular, whites nodule present measuring 0.7 x0.5%0.2 cm. Labeled
+A. Jar 0.
+
+The second container is labeled "lower lobe right nodule.” {t holds a singla portion of brown lung parenchyma with
+overlying pleura, There is a white, irregular, sami-firm nodule measuring 1.4 x 1.2x 0.8 cn. Labeled 81 and 82. Jor
+
+*
+
+Pane tala
+SURGICAL PATHOLOGY REPORT
+
+Addenda/Procedures.
+Addendum Ordered: “Statue: Signed Out
+Addendum Complete: By:
+Addendum Signed Out:
+Addendum Comment Oo
+FI ¢
+Block At
+
+Negative FISH result for ALK gene rearrangement
+nue ish(ALKx5~8)[12])/(ALKx4){1 5)/(ALKx3)[26](ALKx2)[42]}
+
+Comment: In this case, a gain of ALK was noted; 3~8 copies of ALK were observed in 53% of nuctal examined, the
+significance of which, if any, is unclear.
+
+FISH for ALK-gene rearranaement at chromosomal locus 2p23 was performed utilizing FISH
+probe kit (IVD) The Vysis ALK Break Apart FISH Probe K#® is a qualitative
+teat to detect rearrangements involving the ALK gene a fluorescence in situ hybridization (FISH) In formalin-fixed.
+paraffin-embedded (FFPE* snn.emalt call lung cancer (NSCLC) tissue specimens to aid in identifying those patients:
+eligible for treatment with The' =‘ FISH laboratory follows the manufacturer's guidelines in
+the processing and analysis of this rurn-op,../ed IVD FISH probe: -
+
+Positive for gane- rearrangement: 215% of a minimum of 100 interphase cells with positive signal pattern
+Negative for gene rearrangement: <15% of a minimum of 100 Interphase cells with positive signal pattam
+
+Reference: Vysis ALK Break Apart FFPE FISH Probe Kit Package Insert
+
+Addendum Ordered: Status: Signed Out
+Addendum Complete: By: ©
+Addendum Signed Out:
+
+Addendum Comment.
+EGFR MUTATIONAL ANALYSIS
+
+OATE RECEIVED:
+
+GENPATH SPECIMEN ID NUMBER:
+
+RESULTS |
+EGFR MUTATIONAL ANALYSIS: NONE DETECTED
+
+INTERPRETIVE iNFORMATION
+The epidermal growth factor receptor (EGFR) is overexpressed in 40-80% of patients with non-small ceil fung cancer (NSCLC). In
+
+Pana 2 of &
+qn: SURGICAL PATHOLOGY REPORT
+
+patients whe are unresponsive to standard chemotherapy, a subset respond fo treatment with small molecule tyrosine kinase
+inhibitors (Tits) of the EGFR intracellular domain, such as gefitinib (ressa®) and erlotinib (Tarceve®), TKI therapy is more effective
+in patients who have never smoked, have adenocarcinoma histology, are famate, and of Asian sthnicity. In the TKI responder
+group, up to 85% have somatic, heterozygous, activating gain-of-function mutations of EGFR.
+
+Most EGFR mutations (80-90%) ars in the tyrosine kinase coding domain in exons 18-21, The two most common sensitizing
+
+mutations are short in-frame deletions of exon 19 (45% of all mutations) and the L858R substitution in exon 21 (40-45% of all
+
+mutations). Another mutation, T790M In exon 20, has been shown to cause secondary resistance to gefitinib, in patients who
+
+develop resietance, approximately 43-50% acquire the T790M mutation. Altogether, EGFR mutations are seen in 10-20% of alt
+patients.
+
+This assay identifies all classical and unknown mutations in exon 19 and the L858R (totaling 85-90% of af EGER mutations) as.
+well 8 resistance mutation T790M. The lower limit of detection of this assay is 5% for exon 19 mutations, 1% for L858R, and 1%
+for T7S0M. ;
+
+METHODOLOGY.
+
+Tumor ONA was extracted from paraffin-embedded tissue utilizing QlAmp Blood Kt and
+amplified by polymerase chain reaction (PCR). The EGFR mutation assay Combines fluorescent PCR fragment
+analysis with allele-specific PCR for the detection of each of the 3 different mutations sites (exon 19, L858R, T7S0M)
+utilizing capillary electrophoresis with an ABI
+
+3130 Genetic Analyzer
+
+REFERENCES
+
+Paez JG, Janne PA, Lea JC, et al. EGFR Mutations in Lung Cancer: Correlation with Clinical Response to Gatitinib
+Therapy. Science 304:1497-1500, 2004.
+
+Maheswaran S, Sequist LV, Nagrath S, et al. Detection of Mutations in EGFR in Circulating Lung-Cancer Calls. N Engl
+J Med 369(4):366-377, 2008.
+
+Lynch TJ, Bell OW, Sordelia R, et al. Activating Mutalions in the Epidermal Growth Factor Receptor Undertying
+Responsiveness of Non-Smali-Cail Lung Cancar to Gefinitib. N Engl J Med 360(21):2129-2139.
+
+Dacic S. EGFR Assays in Lung Cancar. Adv Anat Pathol 15(4):241-247,
+
+Zhang X, Chang A. Somatic mutations of the epidermal growth factor receptor and non-small-cell lung cancer, J Med
+Genet 44:166-172, 2007.
+
+Kancha RK, von Bubnoff N, Peschel C, et al. Functional Analysis of Epidermal Growth Factor Receptor (EGFR)
+Mutations and Potential Implications for EGFR Targeted Therapy. Clin Cancer Res 15(2):460-467, 2009,
+
+Pallis AG, Voutsina A, Kalikaki A, et al. ‘Classical’ but not ‘other mutations of EGFR kinase domain are associated
+with clinical outcome in gefitinib-treated pateiins with non-small cell lung cancer. British Journal of Cancer
+97:1560-1566, 2007.
+
+Shamma S, Bell D, Settieman J, at al. Epidermal growth factor receptor mutations in lung cancer. Nature
+Reviews/Cancer 7:169-181, 2007.
+
+This test was developed and its performance characteristics were detarmined by It has not
+been cleared by the U.S. Food and Orug Administration. The FOA has determined that such clearance or approval is
+not necessary. This test is used for clinical purposes. It should not be regarded aa investigational or for research. This
+lab has been approved by CLIA 88 and Gesignated as a high complexity laboratory and is qualified to perform this test.
+
+Pace 3 of 4
+SURGICAL PATHOLOGY REPORT
+available onine :
+
+Criteria _. Noy
+
+Diagnosis Discrepancy /
+
+Primary Tumor Site Discrepancy wv/
+
+HIPAA Discrepancy ; Wh)
+Prier Malignancy History w/
+Dual/Synchronous Prima’ a 4
+Case is {circle): \
+Reviewer Initlais Date Reviewed: _ AN
+
+Page 4 of 4

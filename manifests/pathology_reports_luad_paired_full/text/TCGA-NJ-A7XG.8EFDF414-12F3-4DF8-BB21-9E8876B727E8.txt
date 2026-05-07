@@ -1,0 +1,171 @@
+UUID :BEFDF414-12F3- 4DF8-BB21 - 9E8876B727E8
+               TCGA-N1-A7XG-01A-PR                                                  Redacted
+                                                                                                                                          4/U
+ II I II II I III I II I ^ II II IIII I II II I IIII IIII 1 I II I II I I III I I II IIII III III III
+ III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII11111111IIIIII
+ III IIIIIIIIIIIIIIIIIIIIII111111111111111111111111111111111111III
+
+Final
+Clinical Data Repository * This report may not match the original report
+format
+REPORT DATE:
+
+
+FINAL DIAGNOSIS
+A. (Level 4R lymph node; excision):
+One lymph node, negative for carcinoma.
+
+B. (AP window node level 5; excision):
+One lymph node, negative for carcinoma.
+
+C. (Level 6 lymph node; excision):
+One lymph node, negative for carcinoma.
+
+D. (Left lung; pneumonectomy):
+Invasive moderately differentiated adenocarcinoma, present in the upper lobe
+and measuring 10 cm, with extensive lymphovascular invasion, extending into
+the parietal pleura.
+Multiple tumor nodules are identified in the left lower lobe.
+Metastatic carcinoma in 10 of 21 peribronchial lymph nodes.
+Margins of resection are free.
+Stage: pT4N 1
+See note.
+
+Attending Pathologist:                                                                                  Electronically signed Pathology
+Resident:
+
+INTRAOPERATIVE CONSULTATION
+A. FROZEN:LEVEL 4R LYMPH NODE: Negative for malignancy . (A91, tp, smear)
+
+Intraoperative consultation pathologist
+Intraoperative consultation resident
+D. LEFT LUNG. FROZEN ON MARGIN: Negative for malignancy. (D91)
+
+Intraoperative consultation pathologist
+Intraoperative consultation resident
+
+
+
+
+NOTE
+An elastic stain has been evaluated ; findings support the above diagnosis.
+
+
+
+
+Lung Cancer Summary
+Specimen type: Left lung
+
+Procedure: Pneumectomy
+
+Specimen integrity: Intact
+
+Tumor location: Left upper lobe
+
+Tumor focality: Multifocal; separate tumor nodules in different lobes
+
+Tumor size: 10 x 4 x 2.5 cm (gross measurement)
+
+ Histologic type: Adenocarcinoma
+
+ Histologic grade: Grade 2
+
+ Treatment effect: Not applicable
+
+ Status of margins:
+ Bronchial: Negative
+ Vascular: Negative
+ Parenchymal: Not applicable
+ Pleural: Tumor infiltrates into parietal pleura
+
+ Visceral/Parietal pleural invasion: Present
+
+ Lymphatic vascular invasion: Present
+
+ Lymph node status: Positive (Peribronchial)
+
+ Extension into other structures: Absent
+
+ Non-neoplastic pathology: Absent
+TMN stage: pT4N1
+
+
+GROSS DESCRIPTION
+A. The specimen is labeled level 4R lymph node. Received fresh for frozen
+section is a piece of soft, black tissue (0.5 x 0.2 x 0.2 cm). Touch preps
+and smear are obtained and the specimen is submitted entirely for frozen
+section with the remnant placed in cassette A91.
+
+B. The specimen is labeled AP window node level V. Received without fixative
+is a 1.6 x 1 .0 x 0.5 cm anthracotic lymph node. The entire specimen is
+submitted in cassette B 1.
+
+C. The specimen is labeled level VI lymph node. Received without fixative is a
+1.3 x 1.1 x 0.6 cm anthracotic lymph node. The specimen is bisected and
+entirely submitted in cassette C 1.
+
+D. The specimen is labeled left lung. Received fresh for frozen analysis is a
+16 x 14 x 12 cm left lung. The pleural surface shows two areas of adhesions
+in the left upper lobe. The first area measures 7 x 7 cm and has attached
+fibroadipose tissue, is more lateral and posterior. The second adhesion area
+measures 7 x 2 cm and is located anteriorly; both areas are inked blue and the
+specimen is serially sectioned to reveal in the left upper lobe a 10 x 4 x
+2.5 cm white-tan mass with areas of necrosis. The mass appears to invade
+through the pleura in both areas of adhesions. The mass is also present 1 cm
+from the bronchial margin and 1 cm from the vascular margins. There is only a
+rim of unremarkable lung tissue in the left upper lobe. The left lower lobe
+shows multiple nodules, in a miliary pattern, throughout the lung, ranging in
+size from 2 to 8 mm; those nodules are confluent the superior portion of the
+left lower lobe. No normal lung tissue is identified in this lobe. The hilar
+area shows multiple lymph nodes, ranging in size from 2 to 0.5 cm. The mass
+does not appear to cross the fissure. The bronchial margin is submitted for
+frozen analysis with the remnants placed in cassette D91. The remainder of
+the specimen is submitted as follows: D 1 bronchial vascular margin, D2
+multiple lymph nodes, D3 one lymph node serially sectioned, D4 one lymph
+node bisected, D5 one lymph node bisected, D6 one intact lymph node, D7 -
+one lymph node bisected, D8 and D9 mass and underlying large pleural adhesion
+area, D 10 mass and underlying small pleural adhesion area, D 11 mass and
+adjacent pulmonary artery, D 12 - mass, D 13 and D 14 small nodules from the
+left lower lobe, D 15 confluent nodules from the left lower lobe, D 16 left
+upper lobe and left lower lobe juction, D17 unremarkable lung from the left
+lower lobe, D 18 multiple lymph nodes, D 19 one lymph node bisected.
+
+
+SPECIMEN(S) RECEIVED
+A: FROZEN:LEVEL 4R LYMPH NODE
+B: AP WINDOW NODE LEVEL 5
+C: LEVEL 6 LYMPH NODE
+D: LEFT LUNG. FROZEN ON MARGIN
+
+* The above listed tests (if any) were developed and the performance
+characteristics determined by                                   . These tests have
+not been cleared or approved for commercial use by the U.S. Food and Drug
+Administration. The FDA has determined that FDA review is not required for
+such in-house assays. (21 CFR 809.30(e))
+
+OPERATIVE INFORMATION
+DIAGNOSIS: LUNG CA; PROCEDURE: BRONCHOSCOPY AND MEDIASTINOSCOPY,
+THORACOSCOPY
+VIDEO ASSISTED
+
+
+ICD-9(s): 162.3
+CPT(s): A; 88305, 88331, 88333, 88334
+B; 88305
+C; 88305
+D;88309,88331,88313
+The attending pathologist was physically present when this specimen was
+diagnosed, and actively participated in all key decisions.
+
+
+
+
+                                                                  Criterii
+
+                                                                  Diagnosis Discepant}
+                                                                  Primary Tumor Site Discrepancy
+                                                                  IiIPAA Discrepancy
+                                                                  Prio, Malignancy History
+                                                                  Dual/Synchronous Primary
+                                                                  Case is ( circle)
+                                                                  Reviewer Initi

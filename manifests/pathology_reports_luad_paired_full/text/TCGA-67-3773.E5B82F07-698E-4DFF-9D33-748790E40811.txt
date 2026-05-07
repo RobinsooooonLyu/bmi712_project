@@ -1,0 +1,255 @@
+CGA- 67- 3773
+
+
+
+
+TISSUES:
+           A. LYMPH NODE
+           B. LYMPH NODE
+           c. LYMPH NODE
+           D. LYMPH NODE
+           E. LYMPH NODE
+               J           •   ~   •
+
+
+
+
+  DES: P88305 - 88305
+       P88307 - 88307
+       P88313 - 88313
+       P88331 - 88331
+       050175 - RESECTION
+       D50177 - REGIONAL LYMPH
+       88305TC - LEVEL IV - GROS
+       88307TC - LEVEL V - GROSS
+       88313TC - SPECIAL STAINS
+       88331TC - PATHOLOGY CONSU
+       1 - SURGICAL SPECIM
+       T28700 - LT LO LOBE LUNG
+       T08000 - LYMPH NODE
+
+
+
+
+                                       Continued on next page ...
+MARKERS:     88305, 88305TC, 88307, 88307TC, 88313, SPECIAL STAINS - GRP II,        88331,
+             PATH CONSULT FS, RES, RLN, SURGICAL SPECIMEN
+
+
+
+
+   ' '      CLINICAL HISTORY
+
+
+         PRE-OPERATIVE DIAGNOSIS:    LEFT LOI1ER LOBE LWG
+
+
+
+            FINAL DIAGNOSIS
+
+   A.       "LEVEL 9L LYMPH NODE":    LYMPH NODE NEGATIVE FOR TUMOR.
+
+   B.       "LEVEL 6 LYMPH NODES":    MULTIPLE LYMPH NODES NEGATIVE FOR TUMOR.
+
+   C.       "LEVEL 5 LYMPH NODES":    TWO (2)    LYMPH NODES NEGATIVE FOR TUMOR.
+
+   D.       "POSTERIOR HILAR LYMPH NODE":       LYMPH NODE NEGATIVE FOR TUMOR.
+
+   E.       "SUPERIOR SEGMENTAL LYMPH NODE":       LYMPH NODE NEGATIVE FOR TUMOR.
+
+   F.      "SUPERIOR SEGMENT, LEFT LUNG LOWER LOBE" (SEGMENTECTOMY) : MODERATELY
+           DIFFERENTIATED ADENOCARCINOMA OF LUNG SPANNING 1.5 CM IN DIMENSION
+           AND FOCALLY PENETRATING THE VISCERAL PLEURA (HIGHLIGHTED ON AN
+           ELASTIC STAIN) . THE INKED SURGICAL MARGIN OF RESECTION IS NEGATIVE
+
+                                       Continued on next page ...
+     FINAL DIAGNOSIS             (Continued)
+
+     FOR TUMOR.  PATCHY MILD NON-SPECIFIC CHRONIC INFLAMMATION WITH
+     SCATTERED EPITHELIOID GRANULOMATA.
+
+
+
+
+    GROSS DESCRIPTION
+
+A.  The specimen is submitted fresh for frozen section as 11 9L 11 and
+consists of a 0.7 em anthracotic lymph node; bisected and submitted, 2 (1)
+labeled "FSP 11 for frozen section.
+
+FROZEN SECTION DIAGNOSIS:      Negative for tumor.
+
+B.  The specimen is submitted fresh for frozen section as 11 level 6 11 and
+consists of four anthracotic lymph nodes ranging 0.4 em to 1.4 em in
+dimension.  The largest nodule is inked blue and bisected. The specimen
+is submitted in toto, 5 (1} labeled 11 FSPn for frozen section.
+
+FROZEN SECTION DIAGNOSIS:      Multiple lymph nodes negative for tumor.
+
+
+C.  The specimen is submitted fresh for frozen section as 11 level 5 11 and
+consists of two anthracotic lymph nodes measuring 0.5 em and 1.3 em in
+greatest dimension.  The smaller lymph node is inked blue.      The specimen
+is bisected and submitted in toto, 4 {1) labeled 11 FSP 11 for frozen section.
+
+FROZEN SECTION DIAGNOSIS:      Multiple lymph nodes negative for tumor.
+
+
+D.  The specimen is submitted fresh for frozen section as 11 posterior hilar
+node 11 and consists of a 1.2 em anthracotic lymph node; bisected and
+submitted, 2 (l} labeled "FSP 11 for frozen section.
+
+FROZEN SECTION DIAGNOSIS:      Negative for tumor.
+
+E.  The specimen is submitted fresh for frozen section as "superior
+segmental node 11 and consists of a 0.5 em anthracotic lymph node; bisected
+and submitted, 2 (l) labeled 11 FSP 11 for frozen section.
+
+FROZEN SECTION DIAGNOSIS:      Negative for tumor.
+
+F.   The specimen is submitted fresh as "left lower lobe superior
+segrnentectomyn and consists of a wedge lung resection measuring 8 x 5 x
+1. 5 ern and weighing 24 gms \<lith two stapled surgical margins measuring
+7 em and 3 ern in length.   The pleural surface is tan purple with diffuse
+
+                               Continued on next page
+    GROSS DESCRIPTION              {Continued)
+
+anthracotic pigmentation and a 0.5 em puckered area. A mass is palpable
+underlying the puckered pleural surface. Sectioning reveals a 1.5 x 1.3 x
+l em pale tan firm mass 0.4 em from the stapled margin and abutting the
+pleural surface. The pleural surface is inked black and the stapled
+margin is inked blue. No additional masses or lesions are identified.
+The lung parenchyma is red purple and spongy.  Representative sections are
+submitted, 6 {5) :
+
+Cassettes 1, 2 and 3:       Mass
+Cassettes 4 and 5:          Normal lung
+
+Note:       A portion of the tumor is submitted for        studies.
+
+
+
+
+        SYNOPTIC REPORT
+                                SYNOPTIC REPORT:  LUNG
+                          {CAP/AJCC/ACS - REQUIRED ELEMENTS)
+
+
+SPECIMEN TYPE:     WEDGE RESECTION
+LATERALITY:         LEFT
+TUMOR SITE:         SUPERIOR SEGMENT OF LOWER LOBE
+TUMOR SIZE:         1.5 CM
+HISTOLOGIC TYPE:   ADENOCARCINOMA
+HISTOLOGIC GRADE:   I-II
+EXTENT OF INVASION:LUNG PARENCHYMA
+EXTENTION TO PLEURA/OTHER STRUCTURES {SPECIFY) : VISCERAL PLEURA
+ADDITIONAL PERTINENT FINDINGS - ATELECTASIS, PNEUMONIA, ETC: {SEE
+NARRATIVE)
+
+MARGINS:
+ BRONCHIAL:      N/A
+
+                                 Continued on next page ...
+     SYNOPTIC REPORT            (Continued)
+
+PARENCHYMAL' NEGATIVE
+VASCULAR'     N/A
+DISTANCE TO PERTINENT MARGIN(S)   (AS APPLICABLE), 0.4 CM
+
+VENOUS INVASION'                  NOT IDENTIFIED
+ARTERIAL (LARGE VESSEL) INVASION' NQT IDENTIFIED
+
+LYMPH NODE:
+ Nl - # INVOLVED/it EXAMINED'   0/2
+  N2 - # INVOLVED/#EXAMINED'     0/MULTIPLE
+ N3 - # INVOLVED/# EXAMINED:    0/4
+
+OTHER PERTINENT FINDINGS:   (SEE NARRATIVE)
+
+pTNM STAGE: pT2, pNO, MX
+
+
+
+
+                                  *** End of Report ***
+        CLINICAL HISTORY
+
+
+  HISTORY:    2 CM SOLITARY NODULE LOCATED IN THE POSTERIOR BASAL REGION.
+      (+)' MEDIASTINAL LYMPH NODES. JUNE 2009 (ACUTE TRACHEAL BRONCHITIS).
+     X-RAY FINDINGS: 2 CM LEFT LUNG NODULE (+PET SUV 2.6)
+
+     GROSS DESCRIPTION
+
+                                                                        Tech
+
+RECEIVED:       Slide     90 cc Fluid*     X Fresh        Fixed      Type Fix
+
+* Volume may reflect total of specimen, fixative, and/or collection fluid.
+
+APPEARANCE: X Clear            Cloudy        Foamy        Bloody
+
+                Clotted       Tissue          Color COLORLESS
+
+PREP:          6 Smear(s)      Diff Quick(s)         Filter(s)     1 Cell Block(s)
+
+              Cytospin(s) - 2 Singles(s)                Double(s)
+
+                        H&E              Unstained
+
+Corrrrnent:
+
+        FINAL DIAGNOSIS
+
+LUNG, LEFT POSTERIOR (FINE NEEDLE ASPIRATION BIOPSY) : POSITIVE FOR
+t-!Af-.IGNANCY. WELL DIFFERENTIATED ADENOCARCINOMA CONSISTENT WITH LUN<?
+PRIMARY. THE DIAGNOSIS IS SUPPORTED BY IMMUNOPHENOTYPE WITH STRONG CK7
+AN~F-1 POSITIVITY, FAINT P53 POSITIVITY AND NEGATIVE MESOTHELIAL
+MARKERS (CALRETININ, CD15, WTl, CKS/6) . CK20 IS NEGATIVE, AND Ki67
+PROLIFERATIVE RATE IS MILDLY ELEVATED. TUMOR IS PRESENT IN A BACKGROUND
+OF INFLAMMATION AND FIBROSIS WITH BENIGN PULMONARY ELEMENTS.
+
+INTRADEPARTMENTAL CONSULTATION:
+     FINAL DIAGNOSIS           (Continued)
+
+
+
+REVIEWED BY PATHOLOGIST:
+
+Unless otherwise specified, the performance characteristics of the
+bununoperoxidase stains performed here have been confirmed by the
+
+approved by the U.S. Food and Drug Administration, although such approval
+is not necessary.
+NONCONTRAST CHEST CT
+
+INDICATION: Cough. Abnormal chest x-ray.
+
+
+
+
+FINDINGS: There is a noncalcified soft tissue mass density in the left lower lobe series 3 image #44 measured at 2.2
+x 1.3 em. This is of concern for neoplasm. There are bilateral apical opacities right greater than left. There is
+posterolateral pleural based density bilaterally right greater than left. This may be due to scarring. Mass or infiltrate
+cannot be excluded and follow-up is advised. The lungs appear hyperexpanded with peribronchial thickening and
+prominence of the interstitial markings. There are other regions in the right upper lobe with interstitial density
+suggesting scarring. There is a posterior pleural based density as seen on linage #25. There may be a nodular density
+li1 the right upper lobe on linage #30 versus scarring measuring 7 mm. There is a very small nodular density lateral
+portion right upper lobe on inlage #33. There is no evidence of pleural fluid. There are degenerative changes in the
+spine. There is vascular calcification. There are a few nodes in the mediastinum. There is a pretrachealnode
+measuring 1.8 x 0.8 em. There are a few smaller nodes at the AP window. Evaluation of the hila is somewhat limited
+without contrast. There is vascular calcification including coronary involvement. Adrenal glands appear mildly
+thickened without defmite mass.
+
+IMPRESSION:
+1. There is a noncalcified mass density of concern for a neoplasm in the left lower lobe posteriorly.
+2. There are bilateral apical opacities right greater than left which may be due to scarring. In light of asymmetry a
+superinlposed mass cannot be excluded. PET scan may be helpfi.Il to evaluate the various abnormalities. The lungs
+appear hyperexpa11ded and there are regions of peribronchial thickening and interstitial density which are consistent
+
+
+
+
+                                                                                                            Page I of2
+--

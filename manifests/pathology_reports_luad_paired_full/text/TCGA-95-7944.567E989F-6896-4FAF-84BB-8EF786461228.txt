@@ -1,0 +1,272 @@
+fidential Document
+ This information is subject to all Federal and State laws
+                                                                             'ality and privacy and to the policies and procedures
+ patient information, Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+ Anat Path Reports
+ * Final Report *
+
+
+
+ Document Type:
+ Document Date:
+ Document Status:
+ Document Title:
+ Encounter info:
+                                  .....
+                                   Auth (Verified)
+                                   • • ••
+
+                                                                 * Final Report *
+ APRPT (Verified)
+
+
+
+
+Patient Name:
+MRN:
+                                                                         OOB:
+
+Location:
+                                                                         Gender:         M                     Collected:
+Client:
+                                                                                                               Received:
+Submitting
+Phys:                                                                                                          Reported:
+
+
+
+
+                                                Final Surgical Pathology Report
+
+Final Pathologic Diagnosis
+A. LUNG, LEFT LOWER LOBE, WEDGE RESECTION, A1FS:
+          - NON-SMALL CELL CARCINOMA (1.4 X 1.2 X 1.1 CM), FAVOR POORLY DIFFERENTIATED ADENOCARCINOMA
+          - NO LYMPHOVASCULAR INVASION IDENTIFIED.
+           - MARGINS OF RESECTIONS ARE NEGATIVE.
+          - SEE SYNOPTIC REPORT AND COMMENT.
+
+B. LYMPH NODE, #9, EXCISION, B1 FS-B2FS:
+       - TWO LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/2).
+
+C. LYMPH NODE, #7, EXCISION, C1 FS:
+            - ONE LYMPH NODE NEGATIVE FOR METASTATIC CARCINOMA (0/1).
+
+D. LYMPH NODE, #6, EXCISION, 01 FS-D2FS:
+           - THREE LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/3).
+
+E. LYMPH NODE, #10L, EXCISION, E1 FS:
+
+
+
+
+Printed by:
+Printed on:                                                                                                                          Page 1 of 5
+                                                                                                                                     (Continued)
+                                                                                   tidential Document
+This information is subject to all Federal and State laws                         and privacy and to the policies and procedures o f _ r e g a r d i n g
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+
+           - TWO LYMPH NODES NEGATIVE FOR METASTATIC CARCINOMA (0/2).
+
+F. LUNG, LEFT LOWER LOBE, EXTENDED WEDGE RESECTION:
+        - LUNG PARENCHYMA NEGATIVE FOR CARCINOMA.
+
+Comment
+Immunohistochemical stains for TIf-1, p63 and Ck5 are negative
+
+
+
+
+•
+Synoptic Worksheet
+B. #9 lymph node:
+    Specimen:                            Lobe(s) of lung: left lower lobe
+    Procedure:                           Wedge resection
+    Specimen Integrity:                  Intact
+    Specimen Laterality:                 Left
+    Tumor Site:                          Lower lobe
+    Tumor Focality:                      Unifocal
+    Histologic Type:                     Adenocarcinoma
+    HistologiC Grade:                    G3: Poorly differentiated
+    Tumor Size:                          Greatest dimension: 1.4 cm
+                                         Additional dimension: 1.2 cm
+                                         Additional dimension: 1.1 cm
+      Visceral Pleura Invasion:          Not identified
+      Tumor Extension:                   Not identified
+      Bronchial Margin:                  Involvement by invasive carcinoma not applicable
+                                         Involvement by squamous cell carcinoma in situ (CIS) not applicable
+      Vascular Margin:                   Not applicable
+      Parenchymal Margin:                 Uninvolved by invasive carcinoma
+      Parietal Pleural Margin:           Not applicable
+      Chest Wall Margin:                  Not applicable
+      Other Attached Tissue Margin:       Not applicable
+      All Margins Uninvolved By Invasive Carcinoma:
+                                          Distance of invasive carcinoma from closest margin: 39 mm
+                                          Margin closest to invasive carcinoma:: parenchymal
+      Treatment Effect:                   Not applicable
+      Lymph-Vascular Invasion:            Not identified
+      TNM Descriptors:                    Not applicable
+      Primary Tumor (pT):                 pT1a: Tumor 2 cm or less in greatest dimension, surrounded by lung or
+                                          visceral pleura, without bronchoscopic evidence of invasion more proximal
+
+
+
+
+ Printed by:                                                                                                                              Page 2 of 5
+ Printed on:                                                                                                                              (Continued)
+                                                                                dential Document
+This infonnation is subject to all Federal and State laws regarding confidentiality and privacy and to the policies and procedures O f _ r e g a r d i n g
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+                                                     than the lobar bronchus (ie, not in the main bronchus); or Superficial
+                                                     spreading tumor of any size with its invasive component limited to the
+                                                     bronchial wall, which may extend proximally to the main bronchus
+     Regional Lymph Nodes (pN):                      pNO: No regional lymph node metastasis
+                                                     Nodes examined: 0
+                                                     Nodes involved: 8
+     Distant Metastasis (pM):                        Not applicable
+     Additional Pathologic Findings:                 None identified
+
+
+
+
+Clinical History
+Left video-assisted thorascopic surgery, wedge resection.
+
+Specimen(s) Received
+A: Left lower lobe wedge, FS
+B: #9 lymph node
+C: Lymph node #7
+D: Lymph node #6
+E: Lymph node #10L
+F: Extended wedge, left lower lobe
+
+Gross Description
+Six specimens are received fresh for intraoperative consultation, each labeled with the patient's name and medical record
+number.
+
+Specimen A is further labeled "left lower lobe wedge." It consists of a wedge of lung measuring 6.8 x 2.5 x 2.1 cm and weighing
+12.7 grams. The pleural surface has been previously opened to reveal a 1.4 x 1.2 x 1.1 cm firm yellow mass that is 0.3 cm from
+the stapled surgical resection margin. The remaining lung parenchyma is unremarkable. A representative section of the mass
+and of normal lung is submitted for Tumor Bank. The specimen is inked as follows: pleural surface blue, surgical resection
+margin underneath staple line green. A portion of the mass is su                       .             n and transferred to
+cassette "A 1FS." The remaining cassette summary is as follows.
+
+ Specimen B is labeled as "#9 lymph node" and consists of three lymph nodes that measure 1.2 to 2.2 cm in greatest dimension.
+ Two lymph nodes are submitted for intraoperative consultation and~." One lymph node is submitted
+ for intraoperative consultation and transferred to cassette "B2FS." ~
+
+ Specimen C is labeled as "lymph node #7" and consists of a fragment of tissue that measures 2.2 x 1.3 x 0.5 cm. One lymph
+ node is identified. The lymph node is submitted                            n and transferred to cassette "C1 FS." Additional
+ tissue is submitted in cassette "C2."
+
+ Specimen D is received fresh for intraoperative consultation and is labeled "lymph nodes #6." It consists of three lymph nodes
+ ranging i   ... • II • 4.             I I . ...
+                                                    s are submitted entirely for frozen section diagnOSis in cassettes "D1 FS" and
+                                                   .. ............... ...
+
+
+ "D2FS."
+
+ Specimen E is received fresh for intraoperative consultation and is labeled "lymph nodes #1 OL." It consists of two lymph nodes
+
+
+
+
+ Printed by:                                                                                                                                Page 3 of 5
+ Printed on:                                                                                                                                (Continued)
+                                                                                onfidential Document
+This information is subject to all Federal and State laws
+patient information. Any unauthorized use, disclosure, or reproduction of this information is strictly prohibited.
+
+
+
+
+Anat Path Reports
+* Final Report *
+
+
+      ••   I     ...     I"    •   II.       • • • ...   lymph nodes are submitted entirely for frozen section diagnosis in cassette "E1 FS."
+
+
+Specimen F is received in formalin and labeled "extended wedge, left lower lobe." It consists of a portion of lung measuring 4.0 x
+3.9 x 1.9 cm and weighing 13.0 grams. A ring of stapled margin entirely encircles the specimen. The lung parenchyma is
+unremarkable with no lesions identified. The specimen     ... -1 .. III     ..........   gin green, pleura blue. Representative
+sections are submitted in cassettes "F1" through "F4."
+
+
+Cassette Summary:
+
+A2:                                 Additional mass
+A3:                                 Surgical resection margin closest to mass
+A4:                                 Uninvolved lung
+D1FS:                               Two lymph nodes, one bisected and one inked blue
+D2FS:                               Lymph node, bisected
+
+
+
+Intraoperative Consult Diagnosis
+A 1FS:            LEFT LOWER LOBE WEDGE (FROZEN SECTION): POORLY DIFFERENTIATED CARCI
+                  Frozen section results were communicated to the surgical team and were repeated back
+
+           _ a n d start
+B1 FS,B2FS: #9 LYMPH NODE                                SECTION): NEGATIVE FOR CARCINOMA.
+                       Froze.n.s.e,c,ti,o,n.results were communicated to the surgical team and were repeated back
+                           ~
+                       In at
+C1 FS:                 LYMPH NODE #7 (FROZEN SECTION): NEGATIVE FOR CARCINOMA.
+                       Frozen section results were communicated to the surgical team and were repeated back by
+ in
+                   at_
+ D1FS:                 LYMPH NODE #6 (FROZEN SECTION): NEGATIVE FOR CARCINOMA.
+                       Frozen section results were communicated to the surgical team and were repeated back
+ in
+
+ E1FS:
+                       at"-
+                       L~ #10L (FROZEN SECTION): NEGATIVE FOR CARCINOMA.
+                       Frozen section results were communicated to the surgical team and were repeated back by
+ in
+                       at_
+               pathol09ist_
+
+
+ Microscopic Description
+ Microscopic examination performed.
+
+
+
+
+ Printed by:                                                                                                                       Page 4 of 5
+ Printed on:                                                                                                                       (Continued)
+                                                         ~onfidential Document
+ This information is subject to all Federal and State laws~~ty and privacy and to the policies and procedures
+ patient information. Any unauthorized use, disclosure, or reproduction of this infonnation is strictly prohibited.
+
+
+
+ Anat Path Reports
+ * Final Report *
+
+
+
+
+Printed by:
+Printed on:                                                                                                               Page 5 of 5
+                                                                                                                      (End of Report)

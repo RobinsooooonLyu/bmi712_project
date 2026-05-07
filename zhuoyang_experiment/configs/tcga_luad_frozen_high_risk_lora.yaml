@@ -1,0 +1,51 @@
+patient_manifest_path: manifests/full_strict/tcga_luad_patient_manifest_trainready.tsv
+split_path: manifests/full_strict/tcga_luad_high_risk_grade_vpi_lvi_5fold_trainready.tsv
+wsi_root: /autofs/space/crater_001/datasets/private/nsclc_multimodal/frozen_ffpe_multimodal/data/wsi/tcga_luad/frozen
+coords_root: /autofs/space/crater_001/datasets/private/nsclc_multimodal/frozen_ffpe_multimodal/data/coords/tcga_luad/frozen_20x
+output_dir: output/tcga_luad_frozen_high_risk_lora/fold0
+modality: frozen
+train_folds: [1, 2, 3]
+val_folds: [4]
+test_folds: [0]
+batch_size: 1
+num_workers: 2
+# Default learning rate. Used as a fallback for either group below if it
+# is left unset. Matches the baseline (1e-4) so this run is directly
+# comparable when no per-group override is given.
+learning_rate: 0.0001
+weight_decay: 0.0001
+epochs: 10
+dropout: 0.25
+early_stopping_patience: 4
+scheduler_patience: 3
+scheduler_factor: 0.5
+grad_clip_norm: 1.0
+seed: 20260403
+tiles_per_slide: 1024
+max_slides_per_patient: 1
+slide_selection: largest
+encoder_batch_size: 64
+log_interval_batches: 10
+device: cuda
+# These two are ignored by the LoRA train script (which always sets
+# freeze_backbone=true and unfreeze_last_block=false internally and uses
+# LoRA instead) but are kept for parity with BinaryBaselineConfig.
+freeze_backbone: true
+unfreeze_last_block: false
+save_predictions: true
+# --- LoRA hyperparameters (conservative defaults) ---
+# rank=4 + alpha=8 -> effective scale of 2.0 on the low-rank update.
+# Adapting only the last 2 blocks' fused QKV projection keeps trainable
+# backbone params in the tens of thousands.
+lora_rank: 4
+lora_alpha: 8.0
+lora_dropout: 0.0
+lora_last_n_blocks: 2
+lora_target_modules: ["attn.qkv"]
+# Per-parameter-group LRs. Both default here to the baseline LR so this
+# run is directly comparable to the baseline. Tune them independently
+# when iterating: typically you want a smaller LR on the LoRA-adapted
+# backbone (e.g. 1e-5 - 5e-5) than on the freshly-initialised heads.
+# Set either to ~ to fall back to ``learning_rate`` above.
+lora_learning_rate: 0.0001
+head_learning_rate: 0.0001

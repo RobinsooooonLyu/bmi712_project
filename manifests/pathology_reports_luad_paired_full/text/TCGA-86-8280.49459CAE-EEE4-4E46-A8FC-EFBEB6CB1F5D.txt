@@ -1,0 +1,42 @@
+TCGA Pathology Reports
+     Gross Microsc Diagnos Comme Formatted Path            OpenCli
+     Descrip opic    is      nts Report                    nica ID
+     tion    Descrip Details
+  ID         tion
+                                 LUNG TISSUE
+                                 CHECKLIST
+
+                                 Specimen type:
+                                 Pneumonectomy
+                                 Tumor site: Lung
+                                 Tumor size: 6 x 5 x 2
+                                 cm
+                                 Histologic type:
+                                 Bronchiolo-alveolar
+                                 adenocarcinoma
+                                 Histologic grade:
+                                 Moderately
+                                 differentiated
+                                 Tumor extent: Not
+                                 specified
+                                 Other tumor nodules:
+                                 Not specified
+                                 Lymph nodes: Not
+                                 specified
+                                 Lymphatic invasion: Not
+                                 specified
+                                 Venous invasion: Not
+                                 specified
+                                 Margins: Not specified
+                                 Evidence of neo-
+                                 adjuvant treatment:
+                                 Not specified
+                                 Additional pathologic
+                                 findings: Not specified
+                                 Comments: None
+Excision   Laterali
+date       ty
+
+
+           Left-
+           lower

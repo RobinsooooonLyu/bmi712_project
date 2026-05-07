@@ -1,0 +1,141 @@
+TCGA- 73-4666
+
+
+
+
+                              SURGICAL PATHOLOGY REPORT
+
+
+  SPECIMEN(S):           A. 4R RIGHT DISTAL PARA TRACHEAL
+                         B. 4L LEFT DISTAL PARATRACHEAL
+                         C. LEVEL7
+                         D. 2R RIGHT PROXIMAL PARATRACHEAL
+                         E. RIGHT UPPER LOBE
+
+
+ CLINICAL HISTORY:
+ None given
+
+ PRE-OPERATIVE DIAGNOSIS:
+ Non-small cell cancer of right upper lobe lung
+
+INTRAOPERATIVE CONSULTATION DIAGNOSIS:
+FSA/FSB/FSC/FSD-lymph nodes negative for tumor called
+p.m.
+      !.  ,,.            ··=· ...  -Negative for Carcinoma. Diagnosis called to Dr.
+
+
+ GROSS DESCRIPTION:
+A. 4R RIGHT DISTAL PARATRACHEAL
+Received fresh are two anthracotic soft tissue fragments, 0.5 x 0.4 x 0.1 em and 0.6 x 0.4 x 0.1
+ern. Submitted entirely for frozen section diagnosis in cassette FSA.
+B. 4L LEFT DISTAL PARATRACHEAL
+Received fi·esh are 3 anthracotic soft tissue fragments, 0.5, 0.3, and 0.2 em in greatest dimension.
+Submitted entirely for fi·ozen section diagnosis in cassette FSB.
+C. LEVEL7
+Received fi·esh are 3 anthracotic soft tissue fragments, 0.3, 0.2, 0.2 em in greatest dimension.
+Submitted entirely for frozen section diagnosis in cassette FSC.
+D. 2R RIGHT PROXIMAL PARATRACHEAL
+                  ·-··
+                                             Page I of 4
+...
+  Received fi·esh are two anthracotic soft tissue fragment, 0.7 x 0.3 x 0.2 em and 0.3 x 0.1 by less
+  than 0.1-cm. Submitted entirely for frozen section diagnosis in cassette FSD .
+
+ E. RIGHT UPPER LOBE
+ Received fresh 16.0 x 14.0 x 3.0cm.The pleural surface is gray purple and remarkable for a
+ palpable nodule. This area is inked Black. A gray white discolored area is also noted on the
+ pleural surface 3.4 x 2.0 em. The bronchial margin is shaved and submitted in FSE. The
+specimen is serially sectioned to reveal a gray white well circumscribed mass 2.0 x 1.7 x 1.5 em,
+0.4 em from the pleural surface and 4.0 em from the bronchial margin. Five hilar lymph nodes
+are identified ranging from 0.3 x 0.2 x 0.2 em to 0.9 x 0.7 x 0.6 em. Multiple palpable nodular
+areas are identified abutting the pleural surface, 0.4cm in greatest dimension. The remainder of
+the lung parenchyma is umemarkable. Representative sections are submitted as follows:
+FSE: bronchial margin
+E2: 4 lymph nodes
+E3: I lymph node
+E4-E6: mass with pleural surface
+E7-E9: gray discolored area on pleural surface
+
+
+..
+EIO-EI4: nodular areas
+EIS: uninvolved parenchyma
+
+
+
+Material: Specimen E
+                    SUMMARY OF IMMUNOHISTOCHEMISTRY/SPECIAL STAINS
+
+
+Population: Tumor Cells
+
+        Stain/Marker:              Result:                Conunent:
+        MUCIN STAIN                Positive
+
+Material: Block E4
+Population: Tumor Cells
+
+       Stain/Marker:               Result:                Comment:
+       MUCIN STAIN                 Positive
+                             SURGICAL PATHOLOGY REPORT
+
+
+DIAGNOSIS:
+A. LYMPH NODE, 4R RIGHT DISTAL PARATRACHEAL, BIOPSY:
+     -ONE ANTRHACOTIC LYMPH NODE, NEGATIVE FOR TUMOR(0/1)
+
+B. LYMPH NODE, 4 L LEFT DISTAL PARATRACHEAL, BIOPSY:
+      -ONE ANTRHACOTIC LYMPH NODE, NEGATIVE FOR TUMOR(0/1)
+
+C. LYMPH NODE, LEVEL 7, BIOPSY:
+      -ONE ANTRHACOTIC LYMPH NODE, NEGATIVE FOR TUMOR( Oil)
+
+D. LYMPH NODE, 2R RIGHT PROXIMAL PARATRACHEAL, BIOPSY:
+      -ONE ANTRHACOTIC LYMPH NODE, NEGATIVE FOR TUMOR(0/1)
+
+E. LUNG, RIGHT UPPER LOBE, LOBECTOMY:
+      - ADENOCARCINOMA, POORLY DIFFERENTIATED
+      - MARGINS NEGATIVE
+      - FOUR HILAR LYMPH NODES, NEGATIVE FOR TUMOR (0/4)
+      - FOCAL PLEURAL FIBROSIS
+      -FOCAL ATYPICAL ALVEOLAR CELL HYPERPLASIA
+      - SEE SYNOPTIC REPORT
+
+                                SYNOPTIC REPORT- LUNG
+  Specimens Involved
+      Specimens:   A: 4R R1GHT DISTAL PARATRACHEAL
+      B: 4L LEFT DISTAL PARATRACHEAL
+      C: LEVEL 7
+      D: 2R RIGHT PROXIMAL PARATRACHEAL
+      E: R1GHT UPPER LOBE
+
+  Surgical Procedure:   Lobectomy
+
+                                       Poge 3 of 4
+Tumor Site:   Upper lobe
+Tumor Location:    mid lung field
+Tumor Size:    Greatest diameter:      2cm
+                Additional dimensions:     1.7cm x 1.5cm
+WHO CLASSIFICATION
+    AdenocarcinOma                                                                 '·
+Histologic Grade:   G3: Poorly differentiated
+Angiolymphatic Invasion:   Absent
+Bronchial Margins:     Bronchial margins uninvolved
+                            Tumoi Distance from margin:        4cm
+Visceral Pleural Involvement:    Absent
+Satellite Tumor(s):    Absent
+Lymph Node Involvement:        Nl: Ipsilateral Hilar and/or Peribronchial (levels 10-14)
+                                   Negative 0 I 4
+                              N2: Ipsilateral Mediastinal and/or Subcarinal (Levels 1-9)
+                                   Negative 0 I 3
+                              N3: Contralateral Mediastinal!Hilar, Scalene or Supraclavicular
+                                   Negative 0 I I
+Non-Neoplastic Lung:      Pneumonia
+Additional Pathologic Findings:     AAH
+Pathological Staging (pTNM):         pT I      NO MX
+
+
+
+
+                                             Page 4 of 4

@@ -1,0 +1,342 @@
+UUID:1C272E41 -4BE4 - 4ESA- BD33 -A5EC5C33149C
+        TCGA-N]-A4YF-01A-PR
+                                              Redacted
+1111111111111111111 I 1111111111111111 I 11111111 I I I 1111111111111
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIUIIIIIIIIIIIIII IIIII
+III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII IIII
+
+
+
+
+Procedure Location:
+
+
+
+                                                                             deb.-a-3
+
+                                                                        PA a.4L1 + C4tti1
+                                                                                             IV v    i'f 0
+
+                                                                                                        s    rr          ^35'l3
+                                                                        ^^      ,.4cuc   m , w/mr'
+                                                                                                     34.(
+
+                                                                                                                  , 01
+
+
+
+
+PATHOLOGY SURGICAL
+Entry Date
+
+
+
+
+Component Results
+
+
+
+
+ PATHOLOGY RESULT:
+
+
+
+
+ Department of Pathology
+
+
+
+
+ * Amended *
+
+ Clinical Data Repository* This report may not match the original report
+
+  format
+AMENDMENTS
+
+
+
+
+FINAL DIAGNOSIS
+
+A. (Pleura , biopsy): Skeletal muscle and fibrous tissue with chronic
+
+inflammation . No tumor seen.
+
+
+
+
+B. (Right upper lobe, lobectomy ): Poorly differentiated adenocarcinoma,
+
+measuring 2.5cm in the greatest dimension, focally extending into the visceral
+
+ pleura.
+
+
+
+
+Bronchial, vascular, and stapled surgical margins are free of tumor.
+
+
+
+
+Remaining lung with mild emphysema and chronic inflammation.
+
+
+
+pT2 NOMx
+
+
+
+
+C. (Level 11 lymph node , biopsy): Lymph nodes with anthracosis.
+
+
+
+
+D. (Level 7 lymph node, biopsy): Lymph nodes with anthracosis.
+E. (Level 4/ 2 lymph node, biopsy): Fibroadipose tissue and minute fragment of
+
+lymphoid tissue with anthracosis.
+
+
+
+F. (Level #8, biopsy): Fibrous tissue and blood.
+
+
+
+
+INTRAOPERATIVE CONSULTATION
+
+A. FROZEN : PLEURAL BIOPSY CANCER OR NO CANCER : Skeletal muscle and
+
+fibroconnective tissue with focal chronic inflammation . No tumor seen.
+
+ ( Frozen section and touch preps reviewed).
+
+
+
+
+ B. FROZEN : RIGHT UPPER LOBE FROZEN SECTION ON BRONCHIAL MARGINS:
+
+ Adenocarcinoma . Bronchial margin negative for tumor. (Frozen sections and
+
+ touch preps reviewed).
+GROSS DESCRIPTION
+
+A. The specimen, submitted for frozen section, is labeled pleural biopsy.
+
+Received fresh is a 0.3 x 0.3 x 0.2 cm aggregate of soft pink tissue. Touch
+
+preps are prepared. The entire specimen is submitted for frozen section with
+
+the remnants placed in cassette A91.
+
+
+
+B. The specimen, submitted for frozen section, is labeled right upper lobe.
+
+Received fresh is a 17.0 x 12.0 x 5.0 cm right upper lobe of lung. There is a
+
+ palpable peripheral mass with puckering of the overlying pleura. The pleura
+
+overlying the mass is inked blue and the lung is serially sectioned to show a
+
+2.5 x 1.5 x 1.5 cm irregular tan nodule. Touch preps of the mass are
+
+prepared. The bronchial margin and a section of the mass are submitted for
+
+frozen section with the remnants placed in cassettes B91 and B92 respectively.
+
+ No other masses or lesions are identified in the lung. Representative
+
+sections are submitted as follows: B1- vascular margin; B2 and B3 - stapled
+
+surgical margin; B4 through B6 - sections of the nodule; B7 - section of
+
+uninvolved lung.
+
+
+
+
+C. The specimen is labeled level 11 lymph node. Received fresh is a 2.0 x
+
+1.5 x 0. 8 cm aggregate of soft pink to black tissue . The entire specimen is
+serially sectioned and submitted in cassette C1.
+
+
+
+
+D. The specimen is labeled level 7 lymph node. Received fresh is a 1.5 x 1.0
+
+x 0.6 cm aggregate of soft tan to black tissue. The entire specimen is
+
+submitted in cassette D1.
+
+
+
+
+E. The specimen is labeled level 4/2 lymph node. Received fresh is a 1.0 x
+
+1.0 x 0.2 cm aggregate of soft pink tissue. The entire specimen is submitted
+
+in cassette El.
+
+
+
+
+ F. The specimen is labeled level 8. Received fresh is a 0.3 x 0.2 x 0.2 cm
+
+ fragment of soft pink tissue. The entire specimen is wrapped and submitted in
+
+ cassette Fl.
+
+
+
+
+ SPECIMEN (S) RECEIVED
+
+ A: FROZEN: PLEURAL BIOPSY CANCER OR NO CANCER
+
+ B: FROZEN : RIGHT UPPER LOBE FROZEN SECTION ON BRONCHIAL MARGINS
+
+ C: LEVEL 11 LYMPH NODE
+
+  D: LEVEL 7 LYMPH NODE
+
+  E: LEVEL 4/ 2 LYMPH NODE
+
+  F: LEVEL #8
+
+
+
+
+  * The above listed tests (if any ) were developed and the performance
+
+  characteristics determined by                                     These tests have
+not been cleared or approved for commercial use by the U .S. Food and Drug
+
+Administration . The FDA has determined that FDA review is not required for
+
+such in- house assays. ,
+
+
+
+
+OPERATIVE INFORMATION
+
+Diagnosis :     Right upper lobe mass
+
+
+
+
+   Procedure:      Thoracoscopy video assisted, thoracotomy wedge resection,
+
+ bronchoscopy flexible fiberoptic
+
+
+
+
+INTRADEPARTMENT CONSULTATION PATHOLOGIST : QA COMMITTEE
+
+ICD-9(s):
+
+
+
+
+The attending pathologist was physically present when this specimen was
+
+diagnosed, and actively participated in all key decisions.
+
+
+
+
+Lab and Collection
+PATHOLOGY SURGICAL    b and Collection Information
+
+
+
+
+Result History
+
+
+
+                     ')rder Result History Report
+
+
+
+
+Pathology
+Procedure Location:
+12
+
+
+
+
+                                                    TCGA Pathologic Diagnosis Discrepancy Form
+
+
+       n   >Ec      The         TCGA
+                               Pathologic Diagnosis Discrepancy Form should be completed
+                                                                                                   when the pathologic dl'cr^r^r^sis
+      documented on the initial pathologgy rep ort fa r o. crest, submitted
+                                                                            for' TCGA is inconsisten t with the dia rlns
+      Case Quality Control porrrcompleted for the sub mitted case.                                                 .3    Is pr ovrded on the
+
+     Tissue Source Site (TSS)
+                                                                     _.._TSS Identifier,
+                                                                                                                                                                                    1
+                                                                                                               TSS Unique Patient Identifier.
+     Completed By (Interviewer Name on OpenClinica);
+                                                                                                               -Completed Date. ___
+
+                      Data Element                             Ent     Alternatives                          VVai•k'to lx1st1uct10ns
+               Pathologic Diagnosis                                                                          Prcrvrde the diagnos:sl histologic subtype(s) docurrsen ed or
+               Provided o n initial             oor                   e-n      - '         t°4-6                it tint ( pathcrrogy rep r t for this case
+                                                                                                                                                           . if the histology for
+                                                                                                                  ase is mixed, provideail listed subtypes,
+               Pathology Report                ot." 1k/ X4emd                  r15Cc^r^t
+                                                                                     . tr 4C1.,
+               Histologic features of                                                                        Provide the histologic features selected on the
+                                                                                                                                                             TCGA Case
+          2    the sample provided
+               for TCGA, as reflected
+                                                                                                             Quality Control Form completed for this case.
+
+               on the CQCR
+
+                a
+     D sc ep ncy betty ; n 'P ath o logy llteport and :Cash
+     53       Provide the reason for
+              the discrepancy                      ^yl aptar+ dux ne*                s                   Provide a reason describ ing why the diagnosis on the initial
+                                                                                                 FE      pathology report for this case is not consistent with the
+              between the pathology                                                                      diagnosis selected or, the'rCGA We Quality Control Form.
+              report and the TCGA
+              Case Quality Control
+              Form.
+
+
+
+
+              Name of TSS Reviewing
+              Pathologist or                                                                            Provide the name of the pathologist who reviewed this case
+                                                                                                        for TCGA.
+              Biore ository Director
+
+                        I acknowledge that the above information
+                                                                   provided by my institution is true arid
+                                                                                                             correct and has been quality controlled.
+
+
+
+
+                    I'ss Reviewing Pathologist or Biorepositoiy Director                                                               7
+                                                                                                                                ate
+
+     I acknowledge that the above Inforrnatlorr provided by my institution is true and correct and has been quality controlled, The Attendinrq Puthoir gist or the
+                                   Department Chairman has been informed or is aware of tilt, above tiiscrctizancy in diagnoses.
+
+
+
+
+                                                                                                                             Da   te

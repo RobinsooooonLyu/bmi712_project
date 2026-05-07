@@ -1,0 +1,75 @@
+Case ID Gross Description
+
+        Lung of increased volume with free
+        lobar bronchus; the lower lobar
+        bronchus is free on the proximal
+        portion and obstructed in the distal
+        portion by a tumoral process which
+        occupies approximately 2 thirds of
+        the lower lobe; on section, a
+        tumoral structure of 12/10 cm; the
+        tumor is well-limited, white, with
+        small areas of necrosis and
+        hemorrhage, with mucous
+        secretions on surface.
+Microscopic Description                                       Diagnosis Details
+
+TUMOR FRAGMENT:
+Bronchopulmonary neoplasm of differentiated
+muciparous adenocarcinoma type, formed of tubular-
+papillary structures, covered by a layered cylindrical
+epithelium, with moderate cellular pleomorphism and
+rare mitoses. Some of the cells are vacuolated, with
+intracellular necrotic content and inside the glandular
+spaces. The tumoral stroma with fibrous structure and
+numerous vessels with stasis and moderate diffuse
+lymphocytic infiltrate.
+PULMONARY PARENCHYMA:
+Diffuse interstitial moderate fibrosis, stasis and
+accumulations of macrophages in the alveoli. Small
+hotbeds of emphysema with subpleural localization.
+LYMPH NODE STATION VI:
+Mediastinal tissue with lymph node with sinus
+histiocytosis and stasis. Without neoplastic infiltrates.
+LYMPH NODE STATION V:
+Stasis, follicular hyperplasia and sinus histiocytosis with
+numerous alveolar macrophages. Without neoplastic
+infiltrates.
+PHRENIC CHAIN LYMPH NODE:
+Fibrosis and sinus histiocytosis. Without neoplastic
+infiltrates.
+TRIANGULAR LIGAMENT LYMPH NODE:
+Reactive follicular hyperplasia and sinus histiocytosis,
+with numerous alveolar macrophages.
+PARAESOPHAGEAL LYMPH NODE:
+Lymph node with metastasis of the muciparous tubular-
+papillary adenocarcinoma.
+LYMPH NODE STATION X:
+Comments   Formatted Path Report
+
+           LUNG TISSUE CHECKLIST
+
+           Specimen type: Lobectomy
+           Tumor site: Lung
+           Tumor size: 12 x 10 cm
+           Histologic type: Adenocarcinoma
+           Histologic grade: Moderately
+           differentiated
+           Tumor extent: Not specified
+           Other tumor nodules: Not specified
+           Lymph nodes: 1/7 positive for
+           metastasis (St.5,6,10,7,6 0/6,
+           Paraesophageal 1/1)
+           Lymphatic invasion: Present
+           Venous invasion: Present
+           Margins: Uninvolved
+           Evidence of neo-adjuvant
+           treatment: Not specified
+           Additional pathologic findings: Not
+           specified
+           Comments: Left- lower with
+           obstruction of distal lobular
+           bronchus
+ID   Excision Date   Laterality
+
+                     Left-lower

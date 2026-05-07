@@ -1,0 +1,72 @@
+PATIENT HISTORY:    ...............
+ PRE"OPDIAGNOSIS:    ~s.
+ POST-OP DIAGNOSIS: Not given.
+ PROCEDURE: Not given.
+ FINAL DIAGNOSIS:
+                                                                 Summary Statement
+
+ The right upper lobe demonstrates a 1.7 em invasive poorly differentiated adenocarcinoma associated with visceral
+ pleural invasion. No angiolymphatic Invasion is identified. All sampled lymph nodes ara benign. Surgical resection
+ margins are free of tumor. The pathologic stage is T2NOMx.
+
+ PART 1: NASOPHARYNX, LEFT, BIOPSY -
+         RESPIRATORY MUCOSA WITH MILD CHRONIC INFLAMMATION.
+
+ PARTS 2
+ AND 6: LUNG, RIGHT UPPER LOBE. WEDGE RESECTION AND COMPLETION LOBECTOMY-
+         A. INVASIVE POORLY DIFFERENTIATED ADENOCARCINOMA (1.7 CM. IN DIAMETER) ARISING IN A SCAR AND
+            ASSOCIATED WITH VISCERAL PLEURAL INVASION. NO EVIDENCE OF ANGIOLYMPHATIC INVASION. MILD
+            LYMPHOCYTIC HOST RESPONSE. NINE (9) BENIGN Nl LYMPH NODES WITH ANTHRACOTIC PIGMENT.
+            PATHOLOGIC STAGE: T2NOMX.
+         B. SURGICAL MARGIN NEGATIVE FOR TUMOR.
+         C. BACKGROUND LUNG WITH EMPHYSEMATOUS CHANGE AND RESPIRATORY BRONCHIOLITIS.
+
+ PART 3: LYMPH NODE, POSTERIOR HILAR. BIOPSY-
+         ONE (1) BENIGN ANTHRACOTIC LYMPH NODE.
+
+ PART 4: LYMPH NODE, INTERLOBAR, BIOPSY,.
+        TWO (2) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.
+
+ PART 5: LYMPH NODE, RIGHT UPPER LOBE BRONCHUS, BIOPSY-
+           TWO (2) FRAGMENTS OF ANTHRACOTIC LYMI'H NULlI:.
+
+ PART 7: LYMPH NODE, SUBCARINAL, BIOPSY
+        TWO (2) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.
+
+ PART 8; LYMPH NODE, RIGHT TRACHEOBRONCHIAL ANGLE, BIOPSY-
+        THREE (3) FRAGMENTS OF ANTHRACOTIC LYMPH NODE.
+
+ PART 9: LYMPH NODE, RIGHT PARATRACHEAL, BIOPSY-
+         FOUR (41 FRAGMENTS OF ANTHRACOTIC LYMPH NODE.
+ MICROSCOPIC:
+    SYNOPTIC DATA - PRIMARY' LUNG TUMORS
+    TUMOR LOCATION:                Right Upper Lobe
+    PROCEDURE:                      Lobectomy
+    TUMOR SIZE:                    Maximum dimension: 1.7 cm
+                                                      Minor dimension: 1.3 em
+      GROSS SATELLITES:           Number of gross satellite lesions: 0
+      TUMOR TYPE:                 Invasive adenocarcinoma
+     HISTOLOGIC GRADE:            G3, Poorly differentiated
+     MICROSCOPIC SATELLITES;      Number of microscopic satellite leSions: 0
+     EXTRAPULMONARYPARENCHYMAL
+     EXTENSIONIINVASION OF TUMOR' Visceral pleura
+     ANGIOLYMPHATIC INVASION;   . No
+     TUMOR NECROSIS:              > 50%
+     SURGICAL MARGIN INVOLVEMENT: No
+     SURGICAL MARGIN SITE:        Distance of invasive tumor to closest margin' 6 mm
+     INFLAMMATORY(DESMOPLASTIC) REACTION:           Mild                      .
+     Nl LYMPH NODES:              Number of N1 lymph nodes positive:: 0
+                                  Number of N1 lymph nodes examined 14
+     N2 LYMPH NODES:              Number of N2 lymph nodes positive: 0
+
+                                                     Number of N2 lymph nodes examined: 9
+    UNDERLYING DISEASE(S):                           E h         P
+    T STAGE, PATHOLOGIC:                             p;'j' ysema, arenchymal scar, Smokers bronchiolitis
+    N STAGE, PATHOLOGIC:                                              pNO
+    M STAGE, PATHOLOGIC;                                              pMX
+    ANCILLARY STUDIES:                                                H'
+    ~~~ _______________ ~~ ____ ~ _____ .._____ ~_~~ _____ ~ __ ~ _____ ~lstochemjCal stains, Immunohistochemical stains, FISH studies, Molecular studies
+Microscopic examination substantiates the diagnosis indicated ab                         .               "'
+Elastic stain highlights lumor Invasion into visceral pie     T' hove, Muclcarmlne,.PAS and PAS With diastase are pOSItive.
+The tumor cells are positive for cytokeratin 7     d      u~~" rf,c rome an~ Grocott stalils are negative.
+                                               ,an nega Ive or cytokerattn 20, TTF. mammoglobln and GCDFP.

@@ -1,0 +1,234 @@
+FINAL DIAG NOSIS: Collection Date: S| po
+Summary Statement
+
+The right upper lobe contains a 3 cm adenocarcinoma with ange ee" Visceral pleural invasion is absent.
+All submitted lymph nodes are negative for carcinoma. [pTIbNO AJCC
+
+PART 1: LYMPH NODE, LEVEL 9, BIOPSY -—
+
+PROFILES OF LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+PART 2: LYMPH NODE, LEVEL 11, BIOPSY -
+
+PROFILES OF LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+
+PART 3: LYMPH NODE, LEVEL 10, BIOPSY -
+PROFILES OF LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+
+PART 4: LYMPH NODE, LEVEL 4, BIOPSY —
+PROFILES OF LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+
+PART 5: LYMPH NODE, LEVEL 5, BIOPSY —
+PROFILES OF LYMPH NODE, NEGATIVE FOR MALIGNANCY.
+
+PART 6: LUNG, RIGHT UPPER LOBE, LOBECTOMY —
+A. INVASIVE ADENOCARCINOMA, ACINAR PREDOMINANT (90% ACINAR, 10% PAPILLARY).
+SIZE OF TUMOR: 3.0 X 2.7 X 2.2 CM.
+SIZE OF INVASIVE COMPONENT: 3.0 X 2.7 X 2.2 CM.
+ANGIOLYMPHATIC INVASION PRESENT.
+VISCERAL PLEURAL INVASION NOT IDENTIFIED.
+SURGICAL MARGIN NEGATIVE FOR TUMOR (BY 2.5 CM).
+. PATHOLOGIC STAGE: T1bNO (AJCC
+
+COMM aT THREE INTRAPULMONARY PERIBRONCHIAL LYMPH NODES, NEGATIVE FOR MALIGNANCY (0/3).
+MMENT:
+
+*
+
+Pons
+
+ah
+
+Molecular testi s been requested and will be reported subsequently. The previous fine needle aspiration from
+emonstrated the tumor cells to be reactive with antibodies directed against TTF-1 and Napsin,
+supporting a tung origin of this tumor.
+CASE SYNOPSIS:
+
+SYNOPTIC DATA - PRIMARY LUNG TUMORS
+
+TUMOR LOCATION: Right Upper Lobe
+
+PROCEDURE: Lobectomy
+
+TUMOR SIZE: Maximum dimension: 3cm
+
+Minor dimension: 2.7 cm
+
+GROSS SATELLITES: ; Number of gross satellite lesions: 0
+
+TUMOR TYPE: Invasive adenocarcinoma, Dominant Pattern: Acinar
+
+HISTOLOGIC GRADE: G2, Moderately differentiated
+
+EXTRAPULMONARY EXTENSION/INVASION OF TUMOR: None identified (PLO)
+
+ANGIOLYMPHATIC INVASION: Yes
+
+TUMOR NECROSIS: < or = to 50%
+
+SURGICAL MARGIN INVOLVEMENT: No
+
+SURGICAL MARGIN SITE: _ Distance of invasive tumor to closest margin: 25 mm
+
+INFLAMMATORY(DESMOPLASTIC) REACTION: Mild
+
+N1 LYMPH NODES: Number of N1 lymph nodes positive: 0
+
+Number of N1 lymph nodes examined: 5
+N2 LYMPH NODES: Number of:N2 lymph nodes positive: 0
+. Number of N2 lymph nodes examined: 3
+
+UNDERLYING DISEASE(S): Emphysema, Smokers bronchiolitis
+
+T STAGE, PATHOLOGIC: pTib
+
+N STAGE, PATHOLOGIC: pNo
+
+M STAGE, PATHOLOGIC: Not applicable
+
+ANCILLARY STUDIES: Histochemical stains, FISH studies, Molecular studies
+
+COMPREHENSIVE THERANOSTIC SUMMARY
+
+IMMUNOHISTOCHEMISTRY
+IN SITU HYBRIDIZATION / FISH
+ALK rearrangement: NEGATIVE
+C-MET amplification: NEGATIVE
+MOLECULAR ANATOMIC PATHOLOGY
+EGFR exon 18 mutation: NEGATIVE
+EGFR exon 19 mutation: NEGATIVE
+EGFR exon 20 mutation: NEGATIVE
+EGFR exon 21 mutation: NEGATIVE
+BRAF exon 15 mutation (PCR): NEGATIVE
+KRAS exon 2 (codons 12, 13) mutation (PCR): POSITIVE (mutation type: G12A )
+
+UDAG avan @flendan 441) mutation (PCR): NEGATIVE
+In Situ Procedure
+
+interpretation
+
+PROBE: LS! ALK Dual-Color Break-apart Probe 2p23 B
+
+ALK FISH STUDIES PERFORMED ON THE ADENOCARCINOMA ARE NEGATIVE.
+
+Number of celis analyzed: 60
+
+% of cells positive for the ALK rearrangement: 1(1.7%)
+Only split O & G (single O and single G in the same nucleus: 0%
+Fusion + sptitO and G in the same nucleus: 0%
+Only single O: 0%
+Fusion + single O: = 1(1.7%)
+
+% of the cells with the normal pattem: 59(98.3%)
+
+ALK FISH analysis was manually performed and quantitatively assessed by analysis of a minimum of 60 cells using the ALK
+SpectrumOrange (telomeric) and the ALK SpectrumGreen (centromaric) probes.
+
+PROBE: c-MET*/CEP7
+Cytogenetic Location: 7431.2 / 7p11.1-q11.1
+
+C-MET FISK STUDIES PERFORMED ON THE CARCINOMA ARE NEGATIVE FOR AMPLIFICATION.
+
+Number of cells analyzed: 61
+Ratio c-METICEP7: 1.04
+
+SNR (signal to nucleus ratio): 1.9
+CNR (centromere to nucleus ratio): 1.9
+
+PROBE: FGFR1(Fibroblast Growth Factor Receptor 1)/8p11.14q11.1
+FGFR1 FISH STUDIES PERFORMED ON THE CARCINOMA ARE NEGATIVE FOR AMPLIFICATION.
+
+Number of cells analyzed: 61
+Ratio FGFR7/Centromeres: 0.99
+
+SNR (signal to nucleus ratio): 2.1
+CNR (centromere to nucleus ratio): 2.1
+
+\ |
+SPECIAL PROCEDURES:
+Molecular Anatomic Pathology Procedure
+Interpretation
+
+MOLECULAR ANATOMIC PATHOLOGY TESTING:
+
+Block 6D:
+
+- EGFR exon 18 mutation NOT identified.
+
+. EGFR exon 19 mutation NOT identified.
+
+» EGFR exon 20 mutation NOT identified.
+
+EGFR exon 21 mutation NOT identified.
+
+KRAS codon 12 IDENTIFIED (p.G12A, c.35G>C).
+KRAS codon 61 mutation NOT identified.
+
+. BRAF codon 600 mutation NOT identified.
+
+QO7MOOM>
+
+NOTE:
+The quantity and quality of isolated DNA was acceptable for testing.
+
+BACKGROUND:
+
+EGFR mutations are present in about 10-15% of non-Asian and up to 40% of the Asian patients with non-smali—cell lung
+cancer (NSCLC) (1,2). They are more frequent in non-smokers, femates, and in tumors with adenocarcinoma histology.
+Activating EGFR mutations including exon 19 deletions, exon 21 point mutations (L858R, L861Q), and exon 18 G719A/C/S
+point mutation are associated with the clinical response to treatment with EGFR tyrosine kinase inhibitors (TKI) (gefitinib
+erlotinib) (2-4), Advanced NSCLC patients with activating EGFR mutations show response rates of more than 70%, with
+progression-free survival up to 14 month (2,3). However, EGFR mutations in exon 20 (insertions and T790M point
+mutation) are associated with acquired resistance to TKIs (4). KRAS mutations and BRAF mutations are found in
+approximately 30% and 2% of lung adenocarcinomas respectively. The most common mutation types are KRAS codon
+12/13 and BRAF V600E. Patients with these mutations tend to be resistant to erlotinib and gefitinib (2,5,6). However,
+not ali tumors reveal such a correlation and, therefore, the results of molecular testing should be interpreted in
+conjunction with other laboratory and clinical findings.
+
+MUTATIONAL ANALYSIS: oo
+
+For cytology samples, extraction of DNA was performed from the fluid or sample provided. For surgical specimens, manual microdissection was
+performed. Specimens with the minimum of 50% of tumor cells in a microdissection target or more than 300 ceils for FNA Specimen were —
+accepted for the analysis. DNA was isolated using standard laboratory procedure. Optical density readings were obtained. For the detection of
+mutation, DNA was amplified with primers for the exons 2 and 3 of the KRAS gene _and exons 18-27 of the EGFR gene. Then, forward and
+reverse sequencing was performed using the BigDye Terminator Kit on ABI3130 he sequencing efectropherograms were
+analyzed for the presence of mutations. The method sensitivity is approximately 20% of mutant alleles in a background of normal DNA. Far
+detection of BRAF mutation, real-time PCR was performed on the LightCycler platform to amplify BRAF oc ty hall sequences. Post-PCR
+melting curve analysis was used to detect possible mutations. If required, the mutation type was confirmed by equencing of the PCR
+product on ABI3130. The limit of detection is approximately 10-20% of alleles with mutation present in the background of normal DNA.
+
+a
+GAD Ua
+ALK translocation is detected as follows:
+
+ALK negative:
+0-15% of cells positive for the ALK rearrangement.
+
+Normal celts without the ALK translocation show green and orange signals in juxtaposition.
+
+ALK positive:
+Greater than 15% of cells positive for the ALK rearrangement.
+
+Celts with the ALK translocation show one of the following patterns: One pair of signals (green and orange) fused or in juxtaposition
+
+and one green and one orange signal separated: Only split O & G (single O and single G in the same nucleus); Only single 0;
+Fusion + single O.
+
+c-MET amplification is detected as follows:
+
+c-MET FISH positive:
+Gene Amplification: Ratio gene/chromosome more than two
+
+c-MET FISH negative: ,
+Ratio gene/chromosome less than two
+
+FGFR1(Fibroblast Growth Factor Receptor 1) is a protein coding gene whose largest transcript features 18 exons, measures 5.6
+kb and is located on chromosome 8p11.2.The FGFR1 probe mix consists of a green 154kb probe telomeric to the FGFR1 gene
+spanning the LETM2-202 gene and D8S135 marker. The red probe is 52kb centromeric to the FGFR1 gene spanning a 108kb
+region including the D8S389 marker.
+
+FGFRT7 FISH positive:
+Gene Amplification: Ratio gene/chromosome more than two
+
+FGFR1 FISH negative:
+Ratio gene/chromosome fess than two
+

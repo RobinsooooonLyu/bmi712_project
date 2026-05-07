@@ -1,0 +1,194 @@
+TCGA-44-2655
+
+
+
+
+SPECIMEN
+    A.   Posterior segment right
+    B.   Node level 10
+    C.   Level 11
+    D.   Right upper lobe
+    E.   2R fat pad
+    F.   4R node
+    G.   Level 7
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:   Lung lesion
+
+FROZEN SECTION DIAGNOSIS
+    A- Adenocarcinoma.
+
+GROSS DESCRIPTION
+             A.  Received fresh for frozen section labeled "posterior
+             segment right" and consists of a peripheral wedge
+resection
+    of lung measuring 9.5 x 3 x 2.3 em.   There is a staple line which
+    runs longitudinally.  On the opposite surface there is a stitch
+    denoting the location of a lesion.   The total surface is smooth and
+    glistening.  On sectioning the area of the stitch, there is a
+    subpleural ill defined area of induration measuring 1.5 x 1 x 1 em.
+    A touch preparation and frozen section are performed. Samples of
+    this nodule as well as samples of normal lung tissue are taken for
+    tissue procurement.  The staple line is removed. The margin is
+    painted black. The remaining parenchyma is soft pink and spongy.
+    Additional sections are submitted in six blocks, following
+
+
+
+   -
+fixation.
+
+
+
+tissue
+             B.
+             11
+                   Received fresh, subsequently fixed in formalin labeled
+                DOde level 10" is a 0.5 em black-red irregular soft
+
+    fragment which is entirely submitted in one cassette.  AS-1. mkw:km
+             c. Received fresh, subsequently fixed in formalin labeled
+             "level 11" are two black red irregular soft tissue
+                                                        TCGA-44-2655
+
+
+
+
+SPECIMEN
+    A.   Posterior segment right
+    B.   Node level 10
+    c.   Level 11
+    D.   Right upper lobe
+    E.   2R fat pad
+    F.   4R node
+    G.   Level 7
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:   Lung lesion
+
+FROZEN SECTION DIAGNOSIS
+    A - Adenocarcinoma.
+
+GROSS DESCRIPTION
+             A.  Received fresh for frozen section labeled "posterior
+             segment right 11 and consists of a peripheral wedge
+resection
+    of lung measuring 9. 5 x 3 x 2. 3 em. There is a staple line v1hich
+    runs longitudinally. On the opposite surface there is a stitch
+    denoting the location of a lesion.    The total surface is smooth and
+    glistening.  On sectioning the area of the stitch, there is a
+    subpleural ill defined area of induration measuring 1.5 x 1 x 1 em.
+    A touch preparation and frozen section are performed.    Samples of
+    this nodule as well as samples of normal lung tissue are taken for
+    tissue procurement.   The staple line is removed. The margin is
+    painted black. The remaining parenchyma is soft pink and spongy.
+    Additional sections are submitted in six blocks, following
+
+
+             B.  Received fresh, subsequently fixed in formalin labeled
+             "node level 10" is a 0.5 em black-red irregular soft
+tissue
+    fragment \·Jhich is entirely submitted in one cassette. AS-1.
+             c. Received fresh, subsequently fixed in formalin labeled
+             "level 11" are two black red irregular soft tissue
+GROSS DESCRIPTION
+    fragments dhich are 0. 4 em and 0. 2 em in greatest dimension.
+              1
+
+
+    Specimens are entirely submitted in one cassette. AS-1.
+             D.  Received fresh subsequently fixed and inflated with
+             formalin labeled "right upper lobe" is an 11.5 x 9. 8 x 5. 3
+    em portion of lung which shoHs two staple lines measuring 11.5 and
+    8.5 em.  Both staple lines are located near the hilar surface. The
+    hilum of the specimen sho.-rs few possible lymph nodes present.
+    Multiple staples are grossly identified. The staples are removed
+    and staple lines are inked blue. The pleura of the specimen is
+    violaceous smooth glistening and shows no umbilication or puckering
+    present.  The cut surface of the specimen is red-brown and spongy.
+    No discrete gross lesions are identified or are palpated.
+    Representative sections of the specimen are submitted as follm·TS:
+    Block 1 - possible hilar nodes; block 2 - bronchial and vascular
+    margins; block 3-8 - representative sections of the specimen.   RS-8.
+
+              E.   Received in formalin labeled "2R fat pad" are two
+              yellm.; black irregular soft tissue fragments \-lhich average
+    2.0 x 1.2 x 0.3 em.    The specimens are entirely submitted in one
+    cassette.    AS-1.
+              F.   Received fresh subsequently fixed in formalin labeled
+              "4R node" is a 1.5 x 0.7 x 0.5 em pink-red irregular
+    rubbery tissue fragment which is bisected and entirely submitted in
+    one cassette.    AS-1.      m
+              G.   Received fresh, subsequently fixed in formalin labeled
+              "level 7" is a 1.5 x 0.7 x 0.5 em black irregular soft
+    rubbery tissue fragment Hhich is bisected and entirely submitted in
+    one cassette. AS-1.
+
+
+
+MICROSCOPIC DESCRIPTION
+             A. This wedge resection contains a subpleural tumor mass.
+             The touch preparation discloses moderately differentiated
+    adenocarcinoma. Histologic sections disclose and infiltrating
+    moderately differentiated adenocarcinoma vd th a peripheral
+    bronchoalveolar type growth pattern. The tumor is strongly positive
+    for TTFl, supporting a lung primary.  The tumor measures 1.5 em in
+    gross maximum dimension.  Please see the template below.
+
+   Histologic type:  Infiltrating adenocarcinoma
+   Histologic grade: Moderately differentiated
+   Primary tumor (pT):  The tumor measures 1.5 em,
+   Margins of resection: Negative
+   Direct extension of tumor:  Negative
+   venous (large vessel) invasion~  Negative
+   Arterial (large vessel) invasion: Negative
+   Lymphatic (small vessel) invasion:   Negative
+   Regional lymph nodes (pN}: As per part B through G, at least 11
+   lymph nodes are present, all negative for metastatic disease, pNO
+Distant metastasis (pM) : Cannot be assessed
+    Other findings: Mild emphysematous change is noted.
+
+             B&C. Microscopic examination performed.
+
+             D. This right upper lobe is status post prior wedge
+             resection. The remaining lobe is negative for tumor.
+    Bronchial and vascular margins of resection are negative for tumor.
+    A single subpleural focus of nonspecific scarring (block #7) is
+    noted, measuring 2 em in maximum dimension. The lung parenchyma
+    discloses mild to moderate emphysematous change. Five hilar lymph
+    nodes are found with anthracosis, all negative for metastatic
+    disease.
+
+             E-G. Microscopic examination performed.
+
+MICROSCOPIC DESCRIPTION
+
+    [A few of the antibodies used in our laboratory may be classified as
+    analyte specific reagents. These antibodies are monitored and
+    controlled in our laboratory and their performance for in vitro
+    diagnosis is well described in the medical literature. They have
+    not been cleared or approved by the FDA.)
+
+    14, 65, 5, 4x3, 3x3, 20
+
+DIAGNOSIS
+   A. Posterior segment of right lung, wedge resection -- Peripheral
+   portion of lung with infiltrating moderately differentiated
+      adenocarcinoma of lung. The pleura and margin of resection are
+      negative for tumor. No vascular invasion is found.
+   B. Level 10 lymph node, biopsy -- Single lymph node with
+   anthracosis, negative for metastatic disease, 0/1.
+   c. Level 11 lymph node, biopsy -- Crushed fibrous and lymphoid
+   tissue negative for tumor.
+   D. Right upper lobe, right upper lobectomy -- Right upper lobe,
+   status post prior wedge resection, negative for residual tumor. All
+      five regional lymph nodes are negative for metastatic disease,
+      0/5.
+        Nonspecific focus of subpleural scar present and emphysematous
+        change is noted.
+   E. 2R fat pad, excision -- Single lymph node negative for metastatic
+   disease, 0/1.
+   F. 4R node, dissection -- Two lymph nodes negative for metastatic
+   disease, 0/2.
+   G. Level 7 lymph nodes, dissection -- Two lymph nodes negative for
+   metastatic disease, 0/2.

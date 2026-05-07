@@ -1,0 +1,350 @@
+QUID:4FE4DC74-AF70-4F6C. 8290.561808DD7FAE
+            TCGA--49-AAQV-0IA-PR
+
+     III II II I III I II I IIIIIIIIIIIIII I II I II IIII IIIIIIIIIII I IIIIIIIReII IIIIIII ed OEM"
+     III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+     111111111111113111111111111131111111111111111111 11111
+
+                                                                                                      Spec. Taken
+
+                                                                         10
+
+
+
+
+INTERPRETATION AND DIAGNOSIS:
+
+1.  LYMPH NODE, L8 (EXCISION): ONE (1) LYMPH NODE AND ASSOCIATED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+2.      LUNG (RESECTION):
+                                                                                          /rum.                ^c))ft uG    ^^LtLt
+SPECIMEN TYPE:                                                                                                  $01 r's/3
+Lobectomy, left lower lobe
+
+TUMOR SITE:
+Left Lower lobe
+                                                                                                            dad/ y
+HISTOLOGIC TYPE:
+Adenocarcinoma (70% Acinar, 30% solid)
+
+TUMOR SIZE:
+ 2.3 cm
+
+HISTOLOGIC GRADE:
+G3: Poorly Differentiated
+
+LYMPH NODES:
+Metastatic carcinoma in 1 of 11 lymph nodes
+
+EXTENT OF INVASION (7th Edition, AJCC): PRIMARY TUMOR:
+pTlb: Tumor >2 cm, but 3 cm of less
+
+REGIONAL LYMPH NODES:
+pNl: Metastasis in ipsilateral peribronchial, hilar,
+      or intrapulmonary nodes, including those
+      involved by direct extension
+
+DISTANT METASTASIS:
+pMx: Cannot be assessed
+
+MARGINS:
+Margins uninvolved by invasive carcinoma
+
+VENOUS/ARTERIAL (LARGE VESSEL) INVASION:
+
+ (Continued on next page.)
+                                                        Page 2
+
+
+
+
+Absent
+
+LYMPHATIC (SMALL VESSEL) INVASION:
+Indeterminate
+
+3.  LYMPH NODE , STATION 6 (EXCISION ) : TWO (2 ) LYMPH NODES AND
+ASSOCIATED FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+4.  LYMPH NODE, STATION 7 (EXCISION): ONE (1) LYMPH NODE AND
+ASSOCIATED FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+5.  LYMPH NODE, L10 (EXCISION): ONE (1) LYMPH NODE AND ASSOCIATED
+FIBROADIPOSE TISSUE, NEGATIVE FOR TUMOR.
+
+Note : A movat stain was reviewed . This case was shown at the
+                             .  KRAS, EGFR and ALK molecular analysis
+have been ordered and will be reported in an addendum.
+
+
+
+*Electronic signature
+
+ADDENDUM:
+
+RESULTS OF ALK FISH ANALYSIS: NEGATIVE
+
+THIS RESULT SHOWED NO EVIDENCE OF REARRANGEMENT OF THE ALK GENE.
+
+A COPY OF THE COMPLETE REPORT IS AVAILABLE IN        AND IS ON FILE IN
+
+
+
+
+*Electronic signature
+
+
+
+ (Continued on next page.)
+                                                        Page 3
+
+
+
+
+ADDENDUM:
+
+
+                                              F
+                                              F
+
+
+                                                    SOURCE:
+
+
+
+
+          TEST: EGFR MUTATION ANALYSIS
+EGFR MUTATION ANALYS
+            Specimen Number:
+
+
+      Received Date:
+      Referring #:
+      ICD9 Code:
+
+      Tissue                    Probe     Result              spat
+2SD
+
+      Slides                   EGFR      POSITIVE
+
+      Consultant Date:
+      Consultant's Findings:
+
+      A c.2235 2249de1 (p.E746 A750del) mutation was
+      detected in Exon 19 of the EGFR gene. This mutation is
+      reported to correlate with RESPONSIVENESS to EGFR
+      tyrosine kinase inhibitor therapies in patients with non-small-
+      cell lung cancer.
+
+      Mutations in the tyrosine kinase domain of the epidermal
+
+ (Continued on next page.)
+                                                     Page 4
+
+
+
+
+   growth factor receptor (EGFR) gene are reported to be
+   associated with differential responsiveness/resistance to
+   targeted therapeutics for non-small-cell lung cancer
+   (NSCLC).
+
+   Most data published pertain to Gefitinib             similar
+   data have been seen in studies using Erlotinib
+
+   This test is validated for non-small cell lung carcinoma.
+   The clinical significance and utility of this test in other
+   tumor types is unknown.
+
+   Method: This assay analyzes exons 18-21 of the EGFR
+   tyrosine kinase domain.  Based on current literature, the vast
+    majority of mutations are expected to occur in these exons.
+    Tissue sections are reviewed by a pathologist and relevant
+   tumor is selected for analysis. DNA is extracted from the
+   tissue and subject to PCR amplification using primers to
+   exons 18-21 of the EGFR gene. The amplification products
+    are analyzed by bi-directional direct DNA _
+   sequencing using capillary gel electrophoresis and
+   fluorescence detection. The analytical sensitivity of the
+   assay is 20% mutant alleles, or 40% tumor cells with a
+   heterozygous mutation; mutations present in a low
+   percentage of cells may not be detected.
+
+    References:
+    Pao W and Miller VA. J Clin Oncol. 2005; 23:2556-2568.
+    Lynch TJ, et al. N Eng J Med. 2004; 350:2129-2139.
+    Paez JG, et al. Science. 2004; 304:1497-1500.
+    Sharma SV, et al. Nat Rev Cancer. 2007; 7:169-180.
+
+    This test was developed and its performance characteristics
+    determined by                                     It has
+    not been cleared or approved by the U.S. Food and Drug
+    Administration. The FDA has determined that such
+    clearance or approval is not necessary. This test is used for
+    clinical purposes. It should not be regarded as
+    investigational or for research.
+
+    COMMENT:
+    Interpretation and recommendation provided by:
+
+(Continued on next page.)
+                                                       Page 5
+
+
+
+
+      Assistant Professor , Department of Pathology
+    Test performed by
+
+
+
+
+*Electronic signature
+
+
+Clinical History:
+     HISTORY OF PET POSITIVE LEFT LOWER LOBE LESION.
+
+GROSS DESCRIPTION
+
+PART #1: L 8 LYMPH NODE
+Resident Pathologist:
+
+Dictated by:
+The specimen for Part i is received in formalin, labeled with the
+patient' s name,               and designated 'L-8 Lymph Node.' The
+specimen consists of one (1) piece of red-tan-gray soft tissue
+measuring 1 x 0.8 x 0.5 cm. The specimen is submitted in its entirety.
+
+SUMMARY OF SECTIONS:
+1 - A      -- 1    (ENTIRETY OF SPECIMEN)
+1 - TOTAL - 1
+
+
+(Continued on next page.)
+                                                             Page 6
+
+
+
+
+PART #2: LEFT LOWER LOBE
+Resident Pathologist:
+
+Dictated by:
+
+The specimen for Part 2 is received in formalin, labeled with the
+patient's name,                 and designated 'Left Lower Lobe.' The
+specimen consists of a 15.0 x 15.0 x 2.5 cm grossly recognizable lung
+lobe weighing 167.5 gm. The pleural surface is red-purple, wrinkled
+and glistening. A surgical incision is present over a grossly
+apparent mass which measures 2.3 x 2.0 x 1.5 cm. The pleural surface
+overlying this mass appears puckered. The pleural surface overlying
+the tumor mass is inked black. This tumor is located in the superior
+aspect of the lobe, approximately 1.8 cm from the bronchial margin.
+Three (3) staple lines are present on the lung measuring 6 cm, 4 cm
+and 2 cm. The first two (2) staple lines are removed to reveal
+underlying grossly unremarkable lung parenchyma which is inked
+orange. The third staple line contains vessels which are sectioned
+and submitted. A shave section of the bronchial margin is also taken.
+No grossly identifiable hilar lymph nodes are present. The tumor
+nodule is thoroughly serially sectioned to reveal that it abuts the
+pleura and is 0.4 cm from the surgical resection margin. The tumor
+mass appears to surround large vessels in the lung parenchyma.
+Representative sections of tumor relative to pleura, vessels, and
+surgical resection margin are submitted. Serially sectioning through
+the remaining lung tissue identified two (2) subpleural nodules which
+were suspicious for tumor involvement. Representative sections are
+ submitted. No other masses or lesions are identified within the lung,
+The uninvolved lung parenchyma appears tan-red and grossly
+unremarkable.   Representative sections of the uninvolved lung are
+ submitted.
+
+SUMMARY OF SECTIONS:
+1 - A          -   1      (BRONCHIAL MARGIN)
+1 -   B        -   1    (VASCULAR MARGINS)
+2 -   C&D      -   1 EA (TUMOR IN RELATION TO PLEURA AND VESSELS)
+2 -   E&F      -   1 EA (TUMOR IN RELATION TO SURGICAL RESECTION MARGIN)
+2 -   G&H      -   1 EA (SUBPLEURAL NODULES)
+2 -   I&J      -   1 EA   (REPRESENTATIVE SECTIONS OF UNINVOLVED LUNG)
+12 - TOTAL - 12
+
+
+ (Continued on next page.)
+                                                        Page 7
+
+
+
+
+PART #3: STATION 6 LYMPH NODE
+Resident Pathologist:
+
+Dictated by:
+
+The specimen for Part 3 is received in formalin, labeled with the
+patient's name ,   NNN   0^ and designated ' Station 6 Lymph Node.
+The specimen consists of multiple pieces of red-tan - yellow soft
+tissue measuring 1.8 x 1.1 x 0.3 cm in aggregate. The specimen is
+submitted in its entirety.
+
+SUMMARY OF SECTIONS:
+1 - A      - M     (ENTIRETY OF SPECIMEN)
+1 - TOTAL - MULTIPLE
+
+
+PART #4: STATION 7 LYMPH NODE
+Resident Pathologist:
+
+Dictated by:
+
+The specimen for Part 4 is received in formalin , labeled with the
+patient ' s name ,              and designated ' Station 7 Lymph Node. I
+The specimen consists of one ( 1) piece of red-tan - brown soft tissue
+measuring 1.4 x 0.7 x 0.3 cm. The specimen is submitted in its
+entirety.
+
+S UMMARY OF SECTIONS:
+1 - A       - 1     (ENTIRETY OF SPECIMEN)
+1 - TOTAL - 1
+
+
+(Continued on next page.)
+                                                         Page 8
+
+
+
+
+PART #5: L 10 LYMPH NODE
+Resident Pathologist:
+
+Dictated by:
+
+The specimen for Part 5 is received in formalin, labeled with the
+patient' s name ,              and designated 'L-10 Lymph Node.' The
+specimen consists o one 1) piece of red-tan-brown soft tissue
+measuring 1.4 x 1.2 x 0.4 cm.
+One hundred percent (100%) of the specimen is submitted.
+
+SUMMARY OF SECTIONS :
+1 - A       - 1    (ENTIRETY OF SPECIMEN)
+1 -- TOTAL - 1
+
+
+Other Surgical Pathology Specimens known to the computer:
+
+
+
+(End of Report)                                printed
+
+
+
+
+                                                     eats 10, ufM 3`IJ soti'A
+                                                     Criteria                                           Yes   No
+                                                     Diagnosis Discrepancy
+                                                     Primary Tumor Site Discrepancy
+                                                     HIPAA Discrepancy
+                                                     Prior Malignancy History
+                                                     Dual/Synchronous Primary Noted
+                                                     Case is (circle):           UAUFI       / DISQUALIFIED
+                                                     Reviewer Initials              ate Reviewed:

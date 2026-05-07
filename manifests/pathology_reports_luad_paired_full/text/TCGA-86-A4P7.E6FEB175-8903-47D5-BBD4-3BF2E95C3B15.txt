@@ -1,0 +1,112 @@
+UUID :E6FEB175 - 8983 -47D5- BBD4-3BF2E95C3B15
+            TCGA-86-A4P7-01A-PR                  Redacted
+III   I I I III I I I I IIIII I IIIIIII I II IIIIIIII IIIIIIIIII I IIIIIII IIII II III
+III I II IIII I II II1II II IIIIII IIIIIIIIIIIII IIII IIIIIIIIIII II IIIII III
+III IIIIIIIIIIIIIIIIII1II1IIIIII1IIIIIIIIIIIIIIIIIIIIIIIIII IIIIII
+                   Gross Description:
+
+                   Microscopic Description:
+
+                    Diagnosis Details:
+
+                   Comments:
+
+                   Formatted Path Reports: LUNG TISSUE CHECKLIST                           1L^'C_ 3
+                   Specimen type : Lobectomy                                             o(.^rc+non,h)OS $^ 4-0
+
+                   Tumor site: Lung
+                                                                                                       ^                              BassJ 3
+                   Tumor size: 4 x 3 x 2 cm                                                IVe               o
+                                                                                                    , (n w lout,                   C-34-3
+
+
+                    Histologic type: Adenocarcinoma , mixed subtype
+
+                   Histologic grade : Moderately differentiated
+
+                   Tumor extent: Not specified
+
+                   Other tumor nodules : Not specified
+
+                    Lymph nodes : Not specified
+
+                    Lymphatic invasion : Not specified
+
+                   Venous invasion : Not specified
+
+                   Margins : Not specified
+
+                    Evidence of neo -adjuvant treatment : Not specified
+
+                   Additional pathologic findings : Not specified
+
+                   Lnmmants. I eft- lower
+
+
+
+
+                                                                                                 Diagnosis D,creprcy
+                                                                                                 Primr ry rumor Site D- crPpan y
+                                                                                                 HIPM ois.repancy
+                                                                                                 Pries Nil naiey History
+                                                                                                 Dual/Synchronnus Prkni
+                                                                                                 case to 4ldlel:
+                                                                                                 Reviewe
+                                                                                                                                                          V4.Oo
+                                              TCGA Pathologic Diagnosis Discrepancy Form
+
+
+  Instructions: The TOGA Pathologic Diagnosis Discrepancy Foram should be completed when the pathologic diagnosis
+documented on the initial pathology reportfor a case submittedfor TCGA is inconsistent with the diagnosis provided on the
+Case Quality Control Form completed for the submitted case.
+
+Tissue Source Site (TSS):                                        _TSS Identifier:.                  TSS Unique Patient Identifier:
+Completed By (InterviewerName                                                                         _Completed Date:
+Diagnosis Information
+  #        Data Element                                    Ent   ry Alternatives                             g
+                                                                                                   Workin Instructions
+                                                                                                   Provide the diagnosis/ histologic subtype (s) documented on
+        Pathologic Diagnosis                                                          1M( ,_,      the initial pathologyreport for this case : if the histology for
+                                                       (&1t4 C LtJL(J_ '                           this case is mixed, provide all listed. subtypes.
+   1    Provided on Initial                       J
+        Pathology Report                      t       PA
+                                                                                                   Provide the histologic features selected on the TCGA Case
+        Histologic features of                                                                     Quality Control form. completed for this case.
+        the sample provided
+   2
+        for TCGA, as reflected                    ILLA
+        on the CQCF
+
+FMscrepancy between Pathology Report and Case Quality Control Form
+  3     Provide the reason for            i                                                        Provide a reason describing why the diagnosis on the initial
+                                              1 i c&e                                              pathology report for this case is not consistent. with the
+        the discrepancy                                                                            diagnosis selected an the TCGA Case Quality Control Form.
+        between the pathology
+        report and the TCGA
+        Case Quality Control
+        Form.
+
+
+
+
+        Name of TSS Reviewing                                                                      Provide the name of the pathologist who reviewed this case
+                                                                                                   for TCGA.
+   4    Pathologist or
+        Biore .osito      Director
+
+                    I acknowledge (fiat the above Information provided by my Institution is true and correct and has been . quality controlled.
+
+
+
+
+              TSS Reviewing Pathologist or Biorepository Director                                                       Date
+
+
+   I acknowledge that the above information provided by my Institution is trite and correct and has been quality controlled. The Attending Pathologist or the
+                                  Department Chairman has been Informed or Is aware of the above discrepancy in diagnoses.
+
+
+
+
+                                                                    - -- -------- -
+                            Principal Investigator Signature                                                            Date

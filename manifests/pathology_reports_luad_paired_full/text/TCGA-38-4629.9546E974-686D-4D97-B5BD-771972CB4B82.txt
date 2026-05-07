@@ -1,0 +1,117 @@
+TGGA-38-4629
+
+ liagnosis:
+ : Lung, right upper lobe and contiguous ribs 3 and 4, lobectomy and chest wall resection.
+- Adenocarcinoma, poorly differentiated, 5.5 em diameter, Nith extension through pleura at site of pleural
+adhesions; bronchial and final chest wall surgical margins no"t involved.
+- Lymph nodes, peribronchial - No metastatic carcinoma identified (0/1).
+- Patchy acute bronchopneumonia with subpleural fibrous plaque in uninvolved lung,
+
+B: Station 7 lymph node, removal.
+-No metastatic carcinoma identified (0/3 fragments).
+
+c: Nodule, right middle lobe, wedge biopsy.
+- No metastatic carcinoma identified (0/1) ,
+
+D: R4 lymph nodes, removal.
+~ No metastatic carcinoma identified (0/9 fragments).
+
+
+
+Conunent:
+None.
+
+Clinical History:
+right upper lobe mass, undergoes right thoracosectomy.
+
+Gross Description:
+Received are four appropriately containers.
+
+Container A:
+Specimen fixation: formalin
+
+Type of specimen/parts of lung received: right lung upper lobe with attached right rib #3 and #4
+
+Size of specimen: 15 x 12 x 4 em and attached rib and soft tissue measures 11 x 5 x 3.5 em
+
+Weight of specimen: 530 g
+
+ ;her attached structures: right #3 and ll4 ribs and chest wall soft tissue
+
+Tumor location: tumor is located peripherally of upper portion of the right upper lobe
+
+Tumor size: 5.5 x 3.5 x 3.0 em, tumor is grossly white/gray and infiltrative involving the pleura and extending
+to the chest wall
+
+Relationship of tumor to bronchus: tumor is at least 5 em away from bronchus
+
+Distance of tumor to bronchial margin: at least 5 em
+Relationship/distance of tumor to pleura: tumor grossly invades through the pleura
+into adjacent chest wall
+
+Distance of tumor to other surgical margins: 2.8 em from posterior rib resection margin, at least 5 em away from
+anterior rib resection margin. The closest to lung resection margin is 3.5 em.
+
+Presence/absence of satellite tumor nodules: present, one satellite nodule is
+identified measuring 2.5 x 0.8 x 2.2 em, grossly it is 2.2 em away from main tumor mass
+
+Involvement of attached structures by tumor: bronchus, pulmonary resection margin and attached chest wall margin
+is grossly not involved by tumor
+
+Description of nontumorous lung: post obstructive changes
+
+
+Block Summary:
+Al ~ bronchial and pulmonary vessel margin
+A2 1 A3 - pulmonary resection margin after removal of surgical staples
+A4-A5 - tumor with involved pleura
+A6-A8 ~ representative section of the main tumor mass
+A9-Al0 - tumor with attached chest wall
+All - representative section from satellite nodule
+A12 - anterior chest wall soft tissue resection margin
+ 1
+   3 ~posterior chest wall soft tissue margin
+   4 - two lymph node candidates from hilar region
+AlS - anterior tip margin
+A16 - posterior rip margin
+A17~A18 ~ tumor with chest wall
+Al9 - non-tumoral lung section
+Container B is additionally labeled "station 7". It consists of a brmm/black, triangular shaped soft tissue
+specimen. Bisected and submitted in Bl,    .
+
+Container cis additionally labeled "right middle nodule". It consists of a black/brown, 0.8 x 0.4 x 0.4 em
+ r>dule. Bisected and submitted in Cl,
+
+.... ontainer Dis additionally labeled "R4". It holds a 3.4 x 1.5 em, yellow/black soft tissue fragment. There are
+nine lymph node candidates identified ranging from 0.3 to 1.1 em in greatest dimension. All lymph node
+candidates rase submitted in Dl-D3.
+
+Dl - four lymph node candidates
+D2 - two lymph node candidates
+D3 - three lymph node candidates
+
+Light Microscopy:
+Light microscopic examination is performed by Dr.
+
+Tumor histologic type (WHO classification): Adenocarcinoma (mucin {+), TTFl (+), calretinin (-))
+
+'l'umor histologic grade {WHO classification} : poorly differentiated
+
+Tumor size (greatest dimension): 5.5 em diameter
+
+Histologic assessment of surgical margins: Bronchial and pulmonary vascular 1nargins not involved, chest wall
+bone and soft tissue margins not involved.
+
+Pleural involvement: Pleural adhesions are present overlying carcinoma, and pleural involvement is present.
+In situ carcinoma: not identified
+
+Invasion:
+angiolymphatic - not identified
+perineural - not identified
+
+Lymph nodes (by node group) : 0/14 total (see diagnoses for locations}
+
+Extracapsular extension of tumor in lymph nodes: n/a
+
+Findings in nontumorous lung:
+~~tchy acute bronchopneumonia (A8), subpleural fibrous scar with smoking associated changes (All).

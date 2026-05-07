@@ -1,0 +1,147 @@
+TCGA-64-1680
+
+
+
+
+Source of Specimen(s):
+I: Cytology -no fee code
+2: Cytology -no fee code
+3: Cytology -no fee code
+4: Cytology -no fee code
+5: Cytology -no fee code
+6: portion or 6th rib
+7: level 91ymph node
+8: level 7 lymph nodes
+9: lOR lymph nodes
+I 0: level II lymph nodes
+11: right middle and lower lobes oflung
+12: 4R lymph nodes
+
+Gross Description:
+Received in twelve pmis.
+Source of Tissue: 1. Cytology Specimen
+**************************************************************************
+Source of Tissue: 2. Cytology Specimen
+**************************************************************************
+Source of Tissue: 3. Cytology Specimen
+**************************************************************************
+Source of Tissue: 4. Cytology Specimen
+**************************************************************************
+Source of Tissue: 5. Cytology Specimen
+**************************************************************************
+
+Source of Tissue: 6. Labeled# 6, "portion of 6th rib"
+
+Gross Description: Received fresh in a container labeled "patient name and medical number,
+portion of 6th rib". It consists of a fi"agment of rib
+measuring 2.0 x 1.9 x 1.5 em. There are no suspicious lesions or masses
+and the specimen contains attached associated skeletal muscle.
+Representative sections are submitted in 6A following decalcification.
+**************************************************************************
+
+Source ofTissue: 7. Labeled# 7, "level9lymph node"
+ Gross Description: Received fi·esh in a container labeled "patient name and medical number,
+ level 9 lymph node". It consists of a single grayish
+ black lymph node measuring 0.7 x 0.6 x 0.6 em. It is unremarkable and
+ entirely submitted in 7A.
+ **************************************************************************
+ Source of Tissue: 8. Labeled# 8, "level ?lymph nodes"
+
+Gross Description: Received fi·esh in a container labeled " patient name and medical number,
+level 7 lymph nodes". It consists of multiple gray-black
+lymph nodes and attached associated fat measuring from 0.6 up to 1.5 em.
+Entirely submitted in 8A and 8B.
+**************************************************************************
+ Source of Tissue: 9. Labeled# 9, "lOR lymph nodes"
+
+Gross Desc1iption: Received fresh in a container labeled " patient name and medical number,
+lOR lymph nodes". It consists of three film grayish
+black lymph nodes measuring respectively 0.8, 0.9 and 1.5 em. The larger
+node is bisected disclosing a fatty cut SU!;f/!c,e. The two smaller nodes
+are submitted in toto in 9A and the larger node is bisected and submitted
+in 9B. Entirely submitted in 9A and 9Ii. ·
+**************************************************************************
+Source of Tissue: I 0. Labeled# 10, "level II lymph nodes"
+
+Gross Description: Received fresh in a container labeled "patient name and medical number,
+level lllymph nodes". It consists of a few grayish
+black fragments of lymph nodes and tissue measuring from 0.4 up to 1.2 em.
+The tissue is unremarkable. Submitted in toto in 1OA.
+**************************************************************************
+Source of Tissue: 11. Labeled # 11, "right middle and lower lobe of lung"
+
+Frozen Section Diagnosis: llFS- NEGATIVE MARGINS.
+
+Gross Description: Received fresh fi·om O.R. for fi·ozen section
+consultation in a container labeled " patient name and medical number, right
+middle and lower lobe oflung". It consists of a 440-gram right middle and
+lower lobe oflung measming respectively'l2.0 x 7.0 x 6.0 and 16.0 x 16.0
+X 7.0 em. The bronchial margin was procured for frozen section and the
+residue is in 11 FS. The bronchial tree is opened and is unremarkable.
+The vascular margins are likewise unremarkable. Sections tln·ough the
+lower lobe disclose a few ill-defined tiny areas of fullness measuring no
+more than 0.3 em. Elsewhere the parenchyma is pink and spongy. The
+ middle lobe is finn. Sections disclose an 8.0 x 6.0 x 4.0 em light brown
+ bosselated cut surface comprising 70% of the middle lobe. The middle and
+ lower lobes are well-delineated and the sulcus is intact with no gross
+ evidence of tumor extension however the aforementioned small lesions in
+ the lower lobe are suspicious for tumor. Lesional tissue comes within 0.7
+ em of the resection margin. Representative sections are submitted in
+ II A-G.
+
+ Designation of Sections: IIFS- bronchidl margin, II A- vascular margins,
+ II B- lower lobe hilar node, II C- middle lobe hilar node, 11 D-11 E- middle
+ lobe lesional tissue, IIF-110-lower lobe lung tissue with possible
+ lesions
+ **************************************************************************
+ Source of Tissue: 12. Labeled# 12, "4R lymph nodes"
+
+Gross Description: Received fi'esh in a container labeled "patient name and medical number,
+4R lymph nodes". It consists offibroadipose tissue
+measuring in aggregate 5.0 x 3.0 x 2.0 em. Bisection through the tissue
+discloses a few fatty yellow to soft gray-black lymph nodes measuring fi'om
+1.0 up to 1.5 em. No suspicious areas are grossly identified. Entirely
+submitted in 12A-D.
+
+Designation of Sections: 12A-12C- single large fatty lymph node, 12D-
+single lymph nodes
+*********************************~****************************************
+Final Diagnosis:
+I. Cytology Specimen
+
+2. Cytology Specimen
+
+3. Cytology Specimen
+
+4. Cytology Specimen
+
+5. Cytology Specimen
+
+6. Pmiion of 6th rib:
+No tumor seen.
+
+7. Level 9lymph node:
+No tumor seen in one lymph node (0/1 ).
+
+8. Level 7 lymph node:
+Metastatic carcinoma in five of fifteen lymph nodes (5/15).
+9. 1OR lymph node:
+Metastatic carcinoma in two of three lymph nodes (2/3).
+
+I 0. Level 11 lymph node:
+Metastatic carcinoma in one of eight lymph nodes (1/8).
+
+11. Right middle and lower lobe oflung:
+Adenocarcinoma, WHO mixed subtype.
+-The 8.0 em moderately differentiated middle lobe carcinoma features
+acinar, papillary and lepidic growth patterns while lower lobe
+subcentimeter satellite lesions are similar.
+-The middle lobe carcinoma invades into visceral pleura.
+- Lymphovascular invasion is identified.
+- Surgical resection margins are fTee of cm:cinoma.
+No tumor seen in ten lymph nodes (0/1 0).
+
+12. 4R lymph nodes:
+Metastatic carcinoma in one of nine lymph nodes (1/9).
+
+pTNM: T2 N2 Ml

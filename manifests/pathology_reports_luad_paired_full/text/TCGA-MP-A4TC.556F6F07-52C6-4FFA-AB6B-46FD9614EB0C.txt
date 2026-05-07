@@ -1,0 +1,58 @@
+Criteria
+                                                  i
+  Diagnosis Discrepancy
+ _Primurv Tumor Site Discrepancv
+ _H!PAA Di «repeocy
+                                                                 UUID : 556F6F 0 7 - 5206 - 4FFA - AB6B - 46FD9614EBe C
+                                                                       TCGA - MP-A4TC - 01A-PR
+  Prior Malignancy history                                                                                         Redacted
+  Dual/Synchronous Pri
+  Case is (circln): +                                         III I N I 1 11 I I 1111111111 1 1
+                                                                       II   1                 111                I I II IIII
+                                                                                                      1 II I II I I III   III III III
+  Reviewcr Ii-ti-11   -ki    __ t_
+                                                              III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                                                              III IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                             surgical Pathology
+
+Requested By:
+
+TISSUE DESCRIPTION:
+          Al A2 A3 A4 AS J1 Ki K2 81 C1 C2 C3 C4 CS C6 D1 D2 El F1
+F2 G1 H1 H2 H3 H4 HSH6I1
+Right middle / lower lobes lung (295 . 0 grams ), tissue from right lung
+fissure (0.4 x 0.4 x 0 . 3 cm), station 2R lymph nodes , station 4R
+lymph nodes ( 2 sets ), station 7 lymph nodes ( 2 sets ), station 9R
+lymph nodes , station 10R lymph nodes, bronchus intermedius lymph
+nodes, right upper lobe lung superior pulmonary vein lymph node.
+
+ DIAGNOSIS:
+Lung, right middle and lower lobes, bilobectomy : Invasive grade 4
+(of 4) adenocarcinoma , forming a well-circumscribed 1.6 x 1.5 x 1.5
+cm cm subpleural mass. visceral pleural invasion is absent.
+Angiolymphatic invasion is present . The bronchial margin is
+negative for tumor ( by 8.2 cm). with available surgical material,
+AJCCpT1pN2.
+
+Lung , right fissure , biopsy: Grade 4 (of 4 ) adenocarcinoma.
+Lymph nodes, intrapulmonary/hilar , excision:
+            Metastatic adenocarcinoma is identified in multiple (3 of
+4) intrapulmonary peribronchial lymph nodes . Extranodal extension
+is identified and extends through the major fissure.
+            No tumor is identified in a single ( 1) right hilar
+( station 10R) lymph node.
+Lymph nodes, mediastinal , excision:
+            Metastatic adenocarcinoma is identified in a single (1 of
+21) right lower paratracheal ( station 4R) lymph node.
+            Metastatic adenocarcinoma is identified in a single (1 of
+18) subcarinal ( station 7) lymph node.
+            No tumor is identified in multiple ( 5) right upper
+paratracheal ( station 2R) lymph nodes.
+            NO tumor is identified in multiple ( 2) right pulmonary
+ligament ( station 9R ) lymph nodes.
+Lymph nodes, bronchus intermedius , excision : Metastatic
+adenocarcinoma is identified in a single ( 1 of 3 ) bronchus
+intermedius lymph nodes.
+Lymph nodes, right up er lobe lung superior pulmonary vein,
+excision : A Single (1) right upper lobe lung superior pulmonary vein
+lymph node is negative for tumor.

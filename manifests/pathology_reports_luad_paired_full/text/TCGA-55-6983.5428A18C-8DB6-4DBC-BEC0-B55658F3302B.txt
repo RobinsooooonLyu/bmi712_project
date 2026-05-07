@@ -1,0 +1,84 @@
+Not for Permanent Storage in Medical Records I Not Valid for Signing
+
+Pati ent
+MRN
+Date of Servi ce
+Performing Facilit
+Ordering Provider
+Result Provider
+Report Name        :Surgical Report
+---- MICROSCOPIC DESCRIPTION: --------=-----
+A/APC. One slide is examined. Seen are sections of one benign lymph node.
+There is no evidence of metastatic carcinoma.
+B/BPC. One slide is examined. Seen are sections of two benign lymph nodes.
+There is no evidence of metastatic carcinoma.
+C/CPC. Two slides are examined. Seen are sections of a lymph node. A focus
+of metastatic carcinoma is seen in slide C/CPC-1.
+D. One slide is examined. Seen are sections of six lymph nodes. Metastatic
+carcinoma is seen in two nodes.
+E/EPC. Fourteen slides. including two EPC slides. are examined. Seen are
+sections of lung demonstrating an infiltrating mucinous carcinoma. Abundant
+extravasated mucin is present. Carcinoma extends to the visceral pleura. but·
+does not penetrate through it. Small vessel (lymphatic space) invasion is
+present. Large vessel (venous) invasion is not evident. Also seen within the
+non-neoplastic lung tissue are multi focal nodular areas of inflammation and
+fibroblastic proliferation centered around bronchioles. These foci are
+associated with prominent bronchiolar destruction. The bronchioles and
+vascular resection margins are negative for tumor.
+ADDENDUM             The actual slides examined at the time of frozen section
+are reviewed. Slides A/APC. B/BPC and C/CPC. which represent smears of lymph
+nodes examined at the time of frozen section. show no evidence of metastatic
+tumor. Slides ElEPC show mucinous carcinoma of the lung with negative
+bronchial resection margin.
+
+                  NS: =======================
+A panel of immunostains including CK7. CK20. and TTF-1 were performed on
+paraffin block E3. The neoplastiC cells show positive staining for CK7 and
+TTF-I. CK20 stain is negative. This staining profile is compatible with
+   mary lung carcinoma.
+              ides are reviewed and found to stain appropriately.
+
+             mu"vvIS: ======================
+A/APC.  INFERIOR PULMONARY LIGAMENT. LYMPH NODE. EXCISION: ONE BENIGN LYMPH
+        NODE WITH NO EVIDENCE OF METASTATIC CARCINOMA (Oil)
+B/BPC. SUBCARINAL LYMPH NODE. EXCISION: TWO BENIGN LYMPH NODES WITH NO
+        EVIDENCE OF METASTATIC CARCINOMA (0/2)
+  CPC-o HILAR LYMPH NODE. EXCISION: NEGATIVE FOR CARCINOMA ON SMEAR - ....-.---~"
+   ~ ~i;~~; L~t~~S~O~~E g~~~~~:_ME~~~~~~_I~C~RCI!OMA _~~:~N~• ~ Y~~N~DE ...     _-<
+ C PROXlMALB~ONCHr~nYMPH NODE.EXC_ISI~N:
+    D.
+     __ OULOESIX LYMPH NODES (2/6)
+E/EPC. LEFT LOWER LOBE OF LUNG';-bOBECT0MY:
+                                                  METASTATIC CARCINOMA INTYJO
+                                                ______._.___ .. _.'
+                                                                                )
+       Not for Permanent Storage in Medical Records I Not Valid for Signing
+
+Pati ent
+MRN
+Date of Servi ce
+Performing Facili
+Ordering Provider
+Result Provider
+Report Name
+         1. HISTOLOGIC TYPE: MUCINOUS ADENOCARCINOMA
+         2. HISTOLOGIC GRADE: WELL TO MODERATELY DIFFERENTIATED
+         3. PATHOLOGIC STAGING: pT2 (TUMOR MEASURES 8.5 CM IN MAXIMAL
+                                DIMENSION)
+         4. REGIONAL LYMPH NODE: METASTATIC CARCINOMA PRESENT IN ONE OUT OF
+                                  THREE HILAR LYMPH NODES; PLEASE ALSO REF~
+                                  TO SPECIMENS A/APC. BIBPC &CICPC &0 y~
+         5. DISTANT METASTASIS: NOT ASSESSED
+         6. MARGINS: BRONCHIAL AND VASCULAR RESECTION MARGINS ARE NEGATIVE      \
+         // -,- - ---- -   - -FOR-TUMOR '''--,--,-, ---,,~-,,-   ~_~
+
+        IL.DIRECT EXTENSION OF TUMOR: NOT ASSESSE!L~)
+         lCYffiOUS( LARGE)VES)[[lNVASTO~-NOrIDENTI FI ED
+         9. ARTERIOLE (LARGE) VESSEL INVASION: NOT IDENTIFIED
+        10. LYMPHATIC (SMALL) VESSEL INVASION: PRESENT
+        11. ADDITIONAL PATHOLOGIC FINDINGS:
+              - MULTI FOCAL NODULAR AREAS OF BRONCHIOLAR PNEUMONITIS WITH A
+                 BooP LIKE PATTERN
+COMMENT: The permanent section slides on specimen C show metastatic carcinoma
+within one lymph node. The corresponding smear examined at the time of frozen
+sections shows no evidence of tumor.

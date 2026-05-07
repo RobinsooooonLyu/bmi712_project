@@ -1,0 +1,127 @@
+TCGA-44-3919
+
+
+
+
+SPECIMEN
+    A.   Right   upper lobe of the lung
+    B.   Level   10 lymph node
+    C.   Right   lymph node
+    D.   Right   lobe of lung
+    E.   Level   7
+
+CLINICAL NOTES
+    PRE-OP DIAGNOSIS:     Lung lesion.
+
+FROZEN SECTION DIAGNOSIS
+    AFS: Lung, right upper lobe, wedge biopsy - Adenocarcinoma.
+
+
+GROSS DESCRIPTION
+             A.   Received is a container labeled with the patient's
+             name, medical record number and "wedge resection right
+    upper lobe of the lung".    The specimen consists of a wedge-shaped
+    fragment of tissue, measuring 6.5 x 4 x 3.5 em.    Green ink is
+    applied to the pleural surface.    The specimen is sectioned and is
+    found to contain a 2.5 em spongy tan nodule which extends to the
+    stapled margin of resection.    A portion of the specimen is
+submitted
+    for tissue procurement. Additionally, frozen section is performed.
+    All tissue minus the staple line is submitted in blocks AFS, Al,
+    A2.
+             B.   Received fresh, subsequently fixed in formalin,
+labeled
+             "level 10 lymph node" are multiple black-red irregular
+    rubbery tissue fragments \'Ihich have an aggregate measurement of 2 x
+    1 x 0.7 em.   Specimens are entirely submitted in one cassette.
+    AS-1.
+             C.   Received fresh, subsequently fixed in formalin,
+labeled
+             "R4 lymph node 11 is a 3.2 x 2.2 x 1.5 em pink-red irregular
+    soft friable tissue fragment.    The specimen is friable.  Also
+     received in the same container is a 1.2 em pink-black irregular
+GROSS DESCRIPTION
+    soft tissue fragment.   The specimen is entirely submitted as
+    follows.  Blocks 1-3 - largest tissue fragment sectioned; block 4 -
+    smaller tissue fragment.   AS-4.
+             D.   Received fresh, subsequently fixed and inflated with
+             formalin, labeled "right lobe of lung." The specimen
+    consists of a 14 x 10.5 x 5 em lobe of lung.   The specimen shovlS
+    multiple staple lines throughout. Possible black softened hilar
+    lymph nodes are grossly identified. The specimen shows a
+violaceous
+       smooth glistening pleura. There are multiple staple lines present
+       located near the hilum and antihilar. Staple antihilar is removed
+       to show a 3.5 x 2 ern scabrous irregular focus.   This focus is inked
+       blue and comes within 4 em from the hilum.    Cut surface of this
+area
+    shows possible tumor present measuring 1.2 x 0.6 x 0.3 em.  This
+    grossly involves the staple line.  No other discrete gross lesions
+    are identified throughout the remainder of the specimen which shows
+    a red spongy cut surface.  Representative sections of the specimen
+    are submitted as follows:  Block 1 - bronchial and vascular
+margins;
+       block 2 - possible hilar lymphoid tissue; block 3 - representative
+       section of possible tumor at staple line (RS-5).
+                E.   Received fresh, subsequently fixed in formalin,
+labeled
+                ''E. Level 7'' is a 1.7 x 1.2 x 0.6 em black-pink irregular
+       soft friable tissue fragment.    The specimen is bisected and
+entirely
+       submitted in one cassette.    AS-1.
+
+
+
+
+MICROSCOPIC DESCRIPTION
+             A.  The following template applies to the wedge resection
+                of lung:
+       Histologic type:    Adenocarcinoma
+       Histologic grade: Moderately differentiated
+       Primary tumor (pT) : 2. 5 em. (pTl)
+MICROSCOPIC DESCRIPTION
+    Margins of resection:         Negative on the lobectomy specimen, specimen
+      D.
+      Venous (large vessel) invasion:   Not identified.
+      Arterial {large vessel) invasion: Not identified.
+      Lymphatic (small vessel) invasion: Not identified.
+      Regional lymph nodes (pN):   Negative as described below (pNO)
+      Distant metastasis (pM):   Could not be evaluated by the specimen.
+      Other findings:  None.
+
+                  B.    The level 10 lymph nodes demonstrate no evidence of
+                  metastasis in six lymph nodes.
+
+                  C. The R-4 lymph nodes demonstrate no evidence of
+                  metastasis in 12 lymph nodes.
+
+                  D.  The right lobe of the lung demonstrates residual
+                  adenocarcinoma, 1.5 em. located at the staple line.  Due
+to
+      the orientation of the carcinoma adjacent to the staple line in the
+      wedge resection, this likely represents one edge of the tumor and
+      thus should not be added to the main tumor size.   The margins of
+      resection are uninvolved.   There is no evidence of metastasis in
+six
+      lymph nodes.
+               E.  There is no metastasis in three level 7 lymph nodes.
+
+      3x3,    4x2, 14
+
+
+DIAGNOSIS
+      A.     Lung, right upper lobe, \'ledge resection:
+               Adenocarcinoma, moderately differentiated, 2.5 cm. 1 extending
+               to the staple line.
+      B.     Level 10 lymph nodes, resection:
+               No evidence of metastasis in six lymph nodes (0/6).
+
+DIAGNOSIS
+      C.     Level R-4 lymph nodes, resection:
+               No evidence of metastasis in tNelve lymph nodes (0/12).
+      D.     Lung, right lobe, lobectomy:
+               Adenocarcinoma, moderately differentiated, 1.5 em. at staple
+               line.
+               No evidence of metastasis in 6 lymph nodes (0/6).
+      E.     Level 7 lymph node, resection:
+               No evidence of metastasis in three lymph nodes (0/3).
